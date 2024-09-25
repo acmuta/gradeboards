@@ -14,7 +14,7 @@ def csv_to_combined_json(directory):
   unique_subjectIds = set()
   unique_courseNumbers = set()
   unique_sectionNumbers = set()
-  min_gpa = None
+  unique_gpas = set()
     
   for filename in os.listdir(directory):
     if filename.endswith(".csv"):
@@ -169,6 +169,7 @@ def csv_to_combined_json(directory):
           unique_subjectIds.add(row["subject_id"])
           unique_courseNumbers.add(row["course_number"])
           unique_sectionNumbers.add(row["section_number"])
+          unique_gpas.add(row["course_gpa"])
 
           for i in range(1, 6):
               instructor = row.get(f"instructor{i}", "").strip()
@@ -193,10 +194,11 @@ def csv_to_combined_json(directory):
       "year": sorted(unique_years),
       "semester": sorted(unique_semesters),
       "career": sorted(unique_careers),
-      "instructor": [sorted(unique_instructors)[0], sorted(unique_instructors)[-1]] if unique_instructors else [],
+      "instructor": sorted(unique_instructors),
       "subjectId": sorted(unique_subjectIds),
-      "courseNumber": [min(unique_courseNumbers), max(unique_courseNumbers)] if unique_courseNumbers else [],
-      "sectionNumber": [min(unique_sectionNumbers), max(unique_sectionNumbers)] if unique_sectionNumbers else [],
+      "courseNumber": sorted(unique_courseNumbers),
+      "sectionNumber": sorted(unique_sectionNumbers),
+      "gpa": sorted(unique_gpas)
     }
 
     with open(f"{current_directory}/public/data/config.js", "w", encoding="utf-8") as f:

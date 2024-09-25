@@ -114,17 +114,17 @@ export async function GET(request: Request) {
       status: "OK", 
       message: {
         "_description": "List of valid parameters", 
+        limit: "-1 to 1000",
+        sort: ["asc", "desc"],
+        direction: ['year', 'semester', 'career', 'instructor1', 'subjectId', 'courseNumber', 'sectionNumber', 'course_gpa'],
+        minGpa: "0.0 to 4.0",
+        subjectId: config_data.subjectId,
         year: config_data.year,
         semester: config_data.semester,
         career: config_data.career,
-        instructor: `${config_data.instructor[0]} to ${config_data.instructor[1]}`,
-        subjectId: config_data.subjectId,
-        courseNumber: `${config_data.courseNumber[0]} to ${config_data.courseNumber[1]}`,
-        sectionNumber: `${config_data.sectionNumber[0]} to ${config_data.sectionNumber[1]}`,
-        minGpa: "0.0 to 4.0",
-        limit: "-1 to 1000",
-        sort: ["asc", "desc"],
-        direction: ['year', 'semester', 'career', 'instructor1', 'subjectId', 'courseNumber', 'sectionNumber', 'course_gpa']
+        instructor: config_data.instructor,
+        courseNumber: config_data.courseNumber,
+        sectionNumber: config_data.sectionNumber,
       }, 
       data: []
     });
