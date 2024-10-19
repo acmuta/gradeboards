@@ -5,6 +5,18 @@ import json
 # Copyright (c) 2024 Ryan Lahlou
 # This script reads all CSV files in the current directory and cleans + combines them into a single JSON file.
 
+def get_current_directory():
+  with open(f"{current_directory}/university_configs.json", "r") as file:
+    data = json.load(file)
+    enabled_university = data["__ENABLED_UNIVERSITY"][0]
+    if enabled_university in data:
+      return data[enabled_university].get("university_id", None)
+    else:
+      raise ValueError(f"Enabled university '{enabled_university}' not found in university_configs.json")
+      
+  return None
+
+
 def csv_to_combined_json(directory):
   total_data = []
   unique_years = set()
@@ -100,10 +112,8 @@ def csv_to_combined_json(directory):
           except KeyError:
             print("Warning: Non Primary Instructor(s) not found")
             
-          # If instructor 1 is empty, move all values down one, if instructor 2 is empty, move all values down one, etc.
           for i in range(1, 5):
             instructor_row = row[f"instructor{i}"].lower().strip()
-            # row1 == " ", row1 == "NO INSTRUCTOR"
             if instructor_row == "" or instructor_row == " " or (instructor_row.count("no") and instructor_row.count("instructor")):
               for j in range(i, 4):
                 row[f"instructor{j}"] = row[f"instructor{j+1}"]
@@ -114,7 +124,6 @@ def csv_to_combined_json(directory):
           except KeyError:
             print("Warning: Academic Year not removed")
             
-          # Compute course_gpa and drop_percent
           try:
             grades_counts = {}
             for grade in ["A", "B", "C", "D", "F", "I", "P", "Q", "W", "Z", "R"]:
@@ -138,22 +147,22 @@ def csv_to_combined_json(directory):
             total_grade_points = A_count*4 + P_count*4 + R_count*4 + B_count*3 + C_count*2 + D_count*1 + F_count*0
 
             if total_students > 0:
-              course_gpa = total_grade_points / total_students
+              gpa = total_grade_points / total_students
             else:
-              course_gpa = None
+              gpa = None
 
             if total_attempted > 0:
               drop_percent = (W_count + Q_count) / total_attempted * 100
             else:
               drop_percent = None
                 
-            if course_gpa is None and I_count > 0:
-              course_gpa = 0
+            if gpa is None and I_count > 0:
+              gpa = 0
 
-            row["course_gpa"] = round(course_gpa, 2) if course_gpa is not None else None
+            row["gpa"] = round(gpa, 2) if gpa is not None else None
             row["drop_percent"] = round(drop_percent, 2) if drop_percent is not None else None
             
-            if course_gpa is None:
+            if gpa is None:
               print(f"Warning: no course_gpa for {row['subject_id']} {row['course_number']} {row['section_number']}")
               print(row)
             
@@ -162,14 +171,13 @@ def csv_to_combined_json(directory):
           except Exception as e:
             print(f"Error computing course_gpa and drop_percent: {e}")
               
-          # Update unique values sets
           unique_years.add(row["year"])
           unique_semesters.add(row["semester"])
           unique_careers.add(row["career"])
           unique_subjectIds.add(row["subject_id"])
           unique_courseNumbers.add(row["course_number"])
           unique_sectionNumbers.add(row["section_number"])
-          unique_gpas.add(row["course_gpa"])
+          unique_gpas.add(row["gpa"])
 
           for i in range(1, 6):
               instructor = row.get(f"instructor{i}", "").strip()
@@ -181,15 +189,12 @@ def csv_to_combined_json(directory):
       print(f"Processed {filename}")
       total_data.append(combined_data)
       
-      # write to individual files by sem-year pair
-      with open(f"public/data/{str(filename).split(".")[0]}.json", "w", encoding="utf-8") as json_file:
+      with open(f"public/data/{get_current_directory()}/{str(filename).split(".")[0]}.json", "w", encoding="utf-8") as json_file:
         json.dump(combined_data, json_file, indent=2)
     
-    # write to a single file
-    with open(current_directory+"/public/data/allgradedata.json", "w", encoding="utf-8") as json_file:
+    with open(f"{current_directory}/public/data/{get_current_directory()}/allgradedata.json", "w", encoding="utf-8") as json_file:
         json.dump(total_data, json_file, indent=2)
     
-    # get config values
     unique_values = {
       "year": sorted(unique_years),
       "semester": sorted(unique_semesters),
@@ -201,11 +206,12 @@ def csv_to_combined_json(directory):
       "gpa": sorted(unique_gpas)
     }
 
-    with open(f"{current_directory}/public/data/config.js", "w", encoding="utf-8") as f:
+    with open(f"{current_directory}/public/data/{get_current_directory()}/grade_config.js", "w", encoding="utf-8") as f:
       f.write("export const config_data = ")
       json.dump(unique_values, f, indent=2)
 
 
 if __name__ == "__main__":
   current_directory = os.getcwd()
-  csv_to_combined_json(current_directory+"/public/data/raw")
+  currdirr = get_current_directory()
+  csv_to_combined_json(f"{current_directory}/public/data/{currdirr}/raw")
