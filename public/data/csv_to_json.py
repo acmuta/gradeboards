@@ -8,7 +8,7 @@ import json
 def get_current_directory():
   with open(f"{current_directory}/university_configs.json", "r") as file:
     data = json.load(file)
-    enabled_university = data["__ENABLED_UNIVERSITY"][0]
+    enabled_university = data["__ENABLED_UNIVERSITY"]
     if enabled_university in data:
       return data[enabled_university].get("university_id", None)
     else:
