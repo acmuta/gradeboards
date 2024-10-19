@@ -10,3 +10,7 @@ export function cn(...inputs: ClassValue[]) {
 export function universityConfig() {
   return universityConfigs[universityConfigs["__ENABLED_UNIVERSITY"] as keyof typeof universityConfigs] as UniversityConfig;
 }
+
+export function titlecase(str: string) {
+  return str.charAt(0).toUpperCase() + str.slice(1);
+}

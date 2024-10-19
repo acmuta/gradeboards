@@ -1,10 +1,10 @@
-import Image from "next/image";
+import Searchbar from "@/components/search/searchbar";
 
 export default function Home() {
   return (
-    <div className="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
-      <div className="px-4 py-6 sm:px-0">
-        <div>{"hi"}</div>
+    <div className="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8 w-1/2">
+      <div className="px-32 py-6 sm:px-0">
+        <Searchbar />
       </div>
     </div>
   );
