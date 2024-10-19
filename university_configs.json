@@ -1,13 +1,15 @@
 {
-	"__ENABLED_UNIVERSITY": ["UTA"],
+	"__ENABLED_UNIVERSITY": "UTA",
 	"UTA": {
 		"university_id": "UTA",
 		"university_name": "The University of Texas at Arlington",
 		"university_short_name": "UTA",
-		"university_logo": "./public/uta/logo.png",
+		"university_logo": ["/assets/UTA/gradeboards-uta.png", "/assets/UTA/gradeboards-uta.svg"],
 		"university_address": "701 S Nedderman Dr, Arlington, TX 76019",
 		"university_phone": "(817) 272-2011",
 		"university_website": "https://www.uta.edu/",
-		"student_email_domain": "mavs.uta.edu"
+		"student_email_domain": "mavs.uta.edu",
+		"primary_color": "#0064B1",
+		"secondary_color": "#F58025"
 	}
 }
