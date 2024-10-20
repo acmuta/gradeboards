@@ -25,13 +25,12 @@ function flattenData(item) {
 }
 
 const allGradeDataFile = 'allgradedata.json';
-console.log(getActiveUniObj())
 const files = fs.readdirSync(`./public/data/${getActiveUniObj().university_id}`).filter(file => file.endsWith('.json'));
 const jsonFiles = files.filter(file => file !== allGradeDataFile);
 
 const allData = [];
 
-const db = new sqlite3.Database(`./public/data/${getActiveUniObj().university_id}/grades.sqlite`, (err) => {
+const db = new sqlite3.Database(`./public/data/grades.sqlite`, (err) => {
   if (err) {
     console.error(err.message);
   } else {

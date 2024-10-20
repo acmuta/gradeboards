@@ -53,12 +53,12 @@ function getMatchingTables(
 		matchingTables = tables.filter((tableName) => {
 			if (tableName === "allgrades") return false;
 			const [tableYear, tableSemester] = tableName.split("-");
-			if (year && tableYear !== year) return false;
+			if (year && tableYear.toLowerCase() !== year.toLowerCase()) return false;
 			if (semester && tableSemester.toLowerCase() !== semester.toLowerCase()) return false;
 			return true;
 		});
 	} else {
-		matchingTables.push("allgrades");
+		matchingTables = tables.filter((tableName) => tableName !== "allgrades");
 	}
 
 	return matchingTables;
@@ -76,7 +76,7 @@ export async function GET(request: Request) {
 	const sectionNumber = searchParams.get("sectionNumber");
 	const minGpa = searchParams.get("gpa");
 	const limit = parseInt(searchParams.get("limit") ?? "50");
-	const sort = searchParams.get("sort");
+	const sort = searchParams.get("sort") === "instructor" ? "instructor" : searchParams.get("sort");
 	const direction = searchParams.get("direction") ?? "asc";
 
 	if (
@@ -117,7 +117,7 @@ export async function GET(request: Request) {
 
 	if (cache.has(cacheKey)) {
 		const cachedResponse = cache.get(cacheKey);
-		return NextResponse.json(cachedResponse);
+		return NextResponse.json({ status: "OK", data: cachedResponse });
 	}
 
 	const conditions: string[] = [];
@@ -138,27 +138,27 @@ export async function GET(request: Request) {
 		];
 		const instructorConditions = instructorColumns.map((col) => `LOWER(${col}) LIKE LOWER(?)`);
 		conditions.push(`(${instructorConditions.join(" OR ")})`);
-		const instructorParam = `%${instructor}%`;
+		const instructorParam = `%${instructor.toLowerCase()}%`;
 		params.push(...Array(instructorColumns.length).fill(instructorParam));
 	}
 
 	if (subjectId) {
 		conditions.push("LOWER(subjectId) = LOWER(?)");
-		params.push(subjectId);
+		params.push(subjectId.toLowerCase());
 	}
 
 	if (courseNumber) {
-		conditions.push("courseNumber = ?");
-		params.push(courseNumber);
+		conditions.push("LOWER(courseNumber) LIKE LOWER(?)");
+		params.push(`%${courseNumber.toLowerCase()}%`);
 	}
 
 	if (sectionNumber) {
-		conditions.push("sectionNumber = ?");
-		params.push(sectionNumber);
+		conditions.push("LOWER(sectionNumber) = LOWER(?)");
+		params.push(sectionNumber.toLowerCase());
 	}
 
 	if (minGpa) {
-		conditions.push("course_gpa >= ?");
+		conditions.push("gpa >= ?");
 		params.push(parseFloat(minGpa));
 	}
 
@@ -169,20 +169,50 @@ export async function GET(request: Request) {
 		const matchingTables = getMatchingTables(tables, year, semester);
 
 		if (matchingTables.length === 0) {
-			return NextResponse.json([]);
+			return NextResponse.json({ status: "OK", data: [] });
 		}
 
-		const queryParts: string[] = [];
+		let query: string;
 
-		for (const tableName of matchingTables) {
-			let subQuery = `SELECT * FROM "${tableName}"`;
+		if (!year && !semester) {
+			query = `
+				SELECT 
+					subjectId, 
+					courseNumber, 
+					MIN(sectionNumber) as sectionNumber,
+					career,
+					COALESCE(instructor1, instructor2, instructor3, instructor4, instructor5, 'multiple instructors') as instructor,
+					MAX(year) as year,
+					MAX(semester) as semester,
+					AVG(gpa) as gpa,
+					SUM(grades_A) as grades_A,
+					SUM(grades_B) as grades_B,
+					SUM(grades_C) as grades_C,
+					SUM(grades_D) as grades_D,
+					SUM(grades_F) as grades_F,
+					SUM(grades_I) as grades_I,
+					SUM(grades_P) as grades_P,
+					SUM(grades_Q) as grades_Q,
+					SUM(grades_W) as grades_W,
+					SUM(grades_Z) as grades_Z,
+					SUM(grades_R) as grades_R,
+					AVG(dropPercent) as dropPercent
+				FROM (
+					${matchingTables.map(tableName => `SELECT * FROM "${tableName}"`).join(" UNION ALL ")}
+				)
+				${conditions.length > 0 ? `WHERE ${conditions.join(" AND ")}` : ''}
+				GROUP BY subjectId, courseNumber, career, instructor
+			`;
+		} else {
+			query = matchingTables.map(tableName => `
+				SELECT *, 
+				COALESCE(instructor1, instructor2, instructor3, instructor4, instructor5) as instructor 
+				FROM "${tableName}"
+			`).join(" UNION ALL ");
 			if (conditions.length > 0) {
-				subQuery += " WHERE " + conditions.join(" AND ");
+				query = `SELECT * FROM (${query}) WHERE ${conditions.join(" AND ")}`;
 			}
-			queryParts.push(subQuery);
 		}
-
-		let query = queryParts.join(" UNION ALL ");
 
 		const allowedSortColumns = [
 			"year",
@@ -192,11 +222,11 @@ export async function GET(request: Request) {
 			"subjectId",
 			"courseNumber",
 			"sectionNumber",
-			"course_gpa",
+			"gpa",
 		];
 		if (sort && allowedSortColumns.includes(sort)) {
-			const dir = direction.toLowerCase() === "desc" ? "DESC" : "ASC";
-			query += ` ORDER BY ${sort} ${dir}`;
+			const dir = direction.toLowerCase() === "asc" ? "ASC" : "DESC";
+			query += ` ORDER BY LOWER(${sort}) ${dir}`;
 		}
 
 		if (limit !== -1) {

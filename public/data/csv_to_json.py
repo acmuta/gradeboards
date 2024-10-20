@@ -14,8 +14,6 @@ def get_current_directory():
     else:
       raise ValueError(f"Enabled university '{enabled_university}' not found in university_configs.json")
       
-  return None
-
 
 def csv_to_combined_json(directory):
   total_data = []
@@ -27,6 +25,9 @@ def csv_to_combined_json(directory):
   unique_courseNumbers = set()
   unique_sectionNumbers = set()
   unique_gpas = set()
+  unique_courses = set()
+  unique_terms = set()
+  course_prof_mapping = {}
     
   for filename in os.listdir(directory):
     if filename.endswith(".csv"):
@@ -38,17 +39,17 @@ def csv_to_combined_json(directory):
 
         for row in reader:
           try:
-            row["subject_id"] = row.pop("Subject")
+            row["subjectId"] = row.pop("Subject").lower()
           except KeyError:
             print("Warning: Subject not found")
           
           try: 
-            row["course_number"] = row.pop("Catalog Number")
+            row["courseNumber"] = row.pop("Catalog Number").lower()
           except KeyError:
             print("Warning: Catalog Number not found")
             
           try:
-            row["section_number"] = row.pop("Section Number")
+            row["sectionNumber"] = row.pop("Section Number").lower()
           except KeyError:
             print("Warning: Section Number not found")
           
@@ -76,7 +77,7 @@ def csv_to_combined_json(directory):
             print("Warning: Grades not found")
             
           try: 
-            row["grades_count"] = row.pop("Total Grades")
+            row["gradesCount"] = row.pop("Total Grades")
           except KeyError:
             print("Warning: Total Grades not found")
             
@@ -86,19 +87,19 @@ def csv_to_combined_json(directory):
             print("Warning: Year not found")
             
           try: 
-            row["semester"] = row["Term"].split(" ")[1]
+            row["semester"] = row["Term"].split(" ")[1].lower()
             row.pop("Term")
           except KeyError:
             print("Warning: Semester or Term not found")
             
           try: 
-            row["career"] = row.pop("Course Career")
+            row["career"] = row.pop("Course Career").lower()
             row.pop("Academic Career")
           except KeyError:
             print("Warning: Course Career or Academic Career not found")
           
           try: 
-            row["instructor1"] = "".join(row.pop("Primary Instructor First Name") + " " + row.pop("Primary Instructor Last Name"))
+            row["instructor1"] = "".join(row.pop("Primary Instructor First Name") + " " + row.pop("Primary Instructor Last Name")).lower()
           except KeyError:
             print("Warning: Primary Instructor not found")
           
@@ -106,7 +107,7 @@ def csv_to_combined_json(directory):
             instructors = row.pop("Non Primary Instructors").split(", ")
             for i in range(1, 5):
               if i <= len(instructors):
-                row[f"instructor{i+1}"] = instructors[i-1]
+                row[f"instructor{i+1}"] = instructors[i-1].lower()
               else:
                 row[f"instructor{i+1}"] = ""
           except KeyError:
@@ -116,7 +117,7 @@ def csv_to_combined_json(directory):
             instructor_row = row[f"instructor{i}"].lower().strip()
             if instructor_row == "" or instructor_row == " " or (instructor_row.count("no") and instructor_row.count("instructor")):
               for j in range(i, 4):
-                row[f"instructor{j}"] = row[f"instructor{j+1}"]
+                row[f"instructor{j}"] = row[f"instructor{j+1}"].lower()
               row[f"instructor{6-i}"] = ""
             
           try:
@@ -160,24 +161,31 @@ def csv_to_combined_json(directory):
               gpa = 0
 
             row["gpa"] = round(gpa, 2) if gpa is not None else None
-            row["drop_percent"] = round(drop_percent, 2) if drop_percent is not None else None
+            row["dropPercent"] = round(drop_percent, 2) if drop_percent is not None else None
             
             if gpa is None:
-              print(f"Warning: no course_gpa for {row['subject_id']} {row['course_number']} {row['section_number']}")
+              print(f"Warning: no course_gpa for {row['subjectId']} {row['courseNumber']} {row['sectionNumber']}")
               print(row)
             
             if drop_percent is None:
-              print(f"Warning: no drop_percent for {row['subject_id']} {row['course_number']} {row['section_number']}")
+              print(f"Warning: no drop_percent for {row['subjectId']} {row['courseNumber']} {row['sectionNumber']}")
           except Exception as e:
             print(f"Error computing course_gpa and drop_percent: {e}")
               
           unique_years.add(row["year"])
           unique_semesters.add(row["semester"])
           unique_careers.add(row["career"])
-          unique_subjectIds.add(row["subject_id"])
-          unique_courseNumbers.add(row["course_number"])
-          unique_sectionNumbers.add(row["section_number"])
+          unique_subjectIds.add(row["subjectId"])
+          unique_courseNumbers.add(row["courseNumber"])
+          unique_sectionNumbers.add(row["sectionNumber"])
           unique_gpas.add(row["gpa"])
+          unique_courses.add(f"{row['subjectId']} {row['courseNumber']}")
+          unique_terms.add(f"{row['year']} {row['semester']}")
+
+          course_key = f"{row['subjectId']} {row['courseNumber']}"
+          if course_key not in course_prof_mapping:
+            course_prof_mapping[course_key] = set()
+          course_prof_mapping[course_key].add(row["instructor1"])
 
           for i in range(1, 6):
               instructor = row.get(f"instructor{i}", "").strip()
@@ -206,9 +214,15 @@ def csv_to_combined_json(directory):
       "gpa": sorted(unique_gpas)
     }
 
-    with open(f"{current_directory}/public/data/{get_current_directory()}/grade_config.js", "w", encoding="utf-8") as f:
+    with open(f"{current_directory}/public/data/grade_config.js", "w", encoding="utf-8") as f:
       f.write("export const config_data = ")
       json.dump(unique_values, f, indent=2)
+      f.write("\n\nexport const data_course = ")
+      json.dump(sorted(list(unique_courses)), f, indent=2)
+      f.write("\n\nexport const data_term = ")
+      json.dump(sorted(list(unique_terms)), f, indent=2)
+      f.write("\n\nexport const data_course_prof = ")
+      json.dump({k: list(v) for k, v in course_prof_mapping.items()}, f, indent=2)
 
 
 if __name__ == "__main__":

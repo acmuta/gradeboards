@@ -1,9 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { Inter as FontSans } from "next/font/google";
-
-import { cn } from "@/lib/utils";
-import Link from "next/link";
+import { Toaster } from "@/components/ui/toaster"
 import Navbar from "@/components/navigation/navbar";
 import Footer from "@/components/navigation/footer";
 
@@ -29,8 +27,9 @@ export default function RootLayout({
             <Navbar />
           </header>
 
-          <main className="flex min-h-[calc(100vh-4rem)] flex-col items-center justify-between p-24">
+          <main className="flex min-h-[calc(100vh-9.35rem)] flex-col items-center justify-between md:p-24">
             {children}
+			<Toaster />
           </main>
 
           <footer className="w-full bottom-0 bg-white dark:bg-gray-800 shadow mt-8">
