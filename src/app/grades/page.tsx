@@ -109,7 +109,7 @@ function GradeTable({ data }: { data: GradeData[] }) {
   );
 }
 
-export default function GradesPage() {
+function GradesContent() {
   const [gradeData, setGradeData] = useState<GradeData[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
@@ -135,8 +135,7 @@ export default function GradesPage() {
   }
 
   return (
-    <div className="container mx-auto py-8">
-      <h1 className="text-3xl font-bold mb-6">Grade Distribution</h1>
+    <>
       <Card>
         <CardHeader>
           <CardTitle>Grade Details</CardTitle>
@@ -154,6 +153,17 @@ export default function GradesPage() {
             <GradeChart data={gradeData} />
           </CardContent>
         </Card>
+      </Suspense>
+    </>
+  );
+}
+
+export default function GradesPage() {
+  return (
+    <div className="container mx-auto py-8">
+      <h1 className="text-3xl font-bold mb-6">Grade Distribution</h1>
+      <Suspense fallback={<div>Loading...</div>}>
+        <GradesContent />
       </Suspense>
     </div>
   );
