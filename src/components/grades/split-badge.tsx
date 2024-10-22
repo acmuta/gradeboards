@@ -29,7 +29,7 @@ export default function SplitBadge({ leftContent, icon, children, size = "sm", c
 
   const badge = (
     <div className={cn(
-      "border border-border font-medium inline-flex justify-center items-center rounded text-foreground leading-none h-full",
+      "border border-border font-medium inline-flex justify-center items-center rounded text-muted-foreground leading-none h-full",
       size === "lg" ? "gap-1 pr-2" : "gap-0.5 pr-1",
       className
     )}>

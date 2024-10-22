@@ -204,10 +204,7 @@ export async function GET(request: Request) {
 			query = `
 				SELECT 
 					subjectId, 
-					CASE 
-						WHEN COUNT(DISTINCT courseNumber) = 1 THEN MAX(courseNumber)
-						ELSE '-1'
-					END as courseNumber,
+					courseNumber,
 					'-1' as sectionNumber,
 					career,
 					CASE 
@@ -318,10 +315,11 @@ export async function GET(request: Request) {
 			query = `
 				SELECT 
 					subjectId, 
+					courseNumber,
 					CASE 
-						WHEN COUNT(DISTINCT semester) = 1 AND COUNT(DISTINCT year) = 1 AND COUNT(DISTINCT instructor) = 1 THEN courseNumber
+						WHEN COUNT(DISTINCT semester) = 1 AND COUNT(DISTINCT year) = 1 AND COUNT(DISTINCT instructor) = 1 THEN sectionNumber
 						ELSE '-1'
-					END as courseNumber,
+					END as sectionNumber,
 					sectionNumber,
 					career,
 					instructor,

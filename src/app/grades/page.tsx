@@ -319,10 +319,10 @@ function GradeDistributionContent() {
                   id="percentages"
                   checked={showPercentages}
                   onCheckedChange={(checked) => setShowPercentages(!!checked)}
-                  className="fill-secondary-foreground"
+                  className="border-muted-foreground data-[state=checked]:bg-muted-foreground m-1 my-1.5"
                 />
               }
-              className="text-secondary-foreground"
+              className="text-muted-foreground leading-5"
             >
               Percentages
             </SplitBadge>
