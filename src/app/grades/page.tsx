@@ -28,6 +28,8 @@ import Searchbar from "@/components/search/searchbar";
 import { titlecase } from "@/lib/utils";
 import StarCard from "@/components/grades/star-card";
 import StudentCard from "@/components/grades/student-card";
+import { Checkbox } from "@/components/ui/checkbox";
+import SplitBadge from "@/components/grades/split-badge";
 
 async function fetchGrades(
   searchParams: URLSearchParams
@@ -40,11 +42,31 @@ async function fetchGrades(
 export default function GradeDistribution() {
   const [gradeData, setGradeData] = useState<GradeData[]>([]);
   const [isLoading, setIsLoading] = useState(true);
-  const [utagradeScore] = useState(2.5);
-  const [studentCount] = useState(65);
+  const [utagradeScore, setUtagradeScore] = useState<number>(0);
+  const [studentCount, setStudentCount] = useState<number>(0);
+
+  useEffect(() => {
+    if (gradeData.length > 0) {
+      const totalGpa = gradeData.reduce((sum, item) => sum + Number(item.gpa), 0);
+      const averageGpa = totalGpa / gradeData.length;
+      setUtagradeScore(averageGpa);
+
+      const totalStudents = gradeData.reduce((sum, item) => {
+        const gradeKeys = ['A', 'B', 'C', 'D', 'F', 'I', 'P', 'Q', 'R', 'W', 'Z'];
+        const itemTotal = gradeKeys.reduce((gradeSum, grade) => 
+          gradeSum + (Number(item[`grades_${grade}` as keyof GradeData]) || 0), 0);
+        return sum + itemTotal;
+      }, 0);
+      const averageStudents = gradeData.length > 0 ? Math.round(totalStudents / gradeData.length) : 0;
+      setStudentCount(averageStudents);
+    }
+  }, [gradeData]);
+
   const [courseOpen, setCourseOpen] = useState(false);
   const [professorOpen, setProfessorOpen] = useState(false);
   const [semesterOpen, setSemesterOpen] = useState(false);
+  const [searchbarKey, setSearchbarKey] = useState(Math.random());
+  const [showPercentages, setShowPercentages] = useState(false);
 
   const { toast } = useToast();
   const searchParams = useSearchParams();
@@ -69,7 +91,9 @@ export default function GradeDistribution() {
   ];
 
   const [selectedCourse, setSelectedCourse] = useState(courses[0] || null);
-  const [selectedProfessor, setSelectedProfessor] = useState(professors[0] || null);
+  const [selectedProfessor, setSelectedProfessor] = useState(
+    professors[0] || null
+  );
   const [selectedSemester, setSelectedSemester] = useState(semesters[0]);
 
   useEffect(() => {
@@ -84,10 +108,11 @@ export default function GradeDistribution() {
         console.error("Error fetching grade data:", error);
         toast({
           title: "Error",
-          description: "Failed to fetch grade data. Please try again later, or contact acm.uta@gmail.com if the issue persists.",
+          description:
+            "Failed to fetch grade data. Please try again later, or contact acm.uta@gmail.com if the issue persists.",
           variant: "destructive",
         });
-        
+
         setGradeData([
           {
             subjectId: "Error",
@@ -119,13 +144,30 @@ export default function GradeDistribution() {
     };
 
     fetchData();
+    setSearchbarKey(Math.random());
   }, [searchParams, toast]);
 
   if (isLoading) {
     return <GradeResultsSkeleton />;
   }
 
-  const prepopulatedSearch = `${searchParams.get("semester") ? titlecase(String(searchParams.get("semester"))) || "" : ""} ${searchParams.get("year") || ""} ${searchParams.get("subjectId") ? searchParams.get("subjectId")?.toUpperCase() || "" : ""} ${searchParams.get("courseNumber") || ""}${searchParams.get("sectionNumber") ? `-${searchParams.get("sectionNumber")?.toUpperCase()}` : ""} ${searchParams.get("instructor") ? titlecase(String(searchParams.get("instructor"))) || "" : ""}`.trim();
+  const prepopulatedSearch = `${
+    searchParams.get("semester")
+      ? titlecase(String(searchParams.get("semester"))) || ""
+      : ""
+  } ${searchParams.get("year") || ""} ${
+    searchParams.get("subjectId")
+      ? searchParams.get("subjectId")?.toUpperCase() || ""
+      : ""
+  } ${searchParams.get("courseNumber") || ""}${
+    searchParams.get("sectionNumber")
+      ? `-${searchParams.get("sectionNumber")?.toUpperCase()}`
+      : ""
+  } ${
+    searchParams.get("instructor")
+      ? titlecase(String(searchParams.get("instructor"))) || ""
+      : ""
+  }`.trim();
 
   return (
     <Card className="w-full ">
@@ -133,10 +175,19 @@ export default function GradeDistribution() {
         <div className="flex items-center justify-between mb-4">
           <Popover open={courseOpen} onOpenChange={setCourseOpen}>
             <PopoverTrigger asChild>
-              <Button variant="outline" role="combobox" aria-expanded={courseOpen} className="w-[300px] justify-between">
+              <Button
+                variant="outline"
+                role="combobox"
+                aria-expanded={courseOpen}
+                className="w-[300px] justify-between"
+              >
                 <div>
-                  <div className="font-bold">{selectedCourse?.name || "Select a course"}</div>
-                  <div className="text-sm text-muted-foreground">{selectedCourse?.code || ""}</div>
+                  <div className="font-bold">
+                    {selectedCourse?.name || "Select a course"}
+                  </div>
+                  <div className="text-sm text-muted-foreground">
+                    {selectedCourse?.code || ""}
+                  </div>
                 </div>
                 <ChevronDown className="ml-2 h-4 w-4 shrink-0 opacity-50" />
               </Button>
@@ -163,11 +214,12 @@ export default function GradeDistribution() {
               </Command>
             </PopoverContent>
           </Popover>
-          <Searchbar 
-            productToggle={false} 
-            placeholder={prepopulatedSearch} 
-            popover={true} 
-            searchButton={false} 
+          <Searchbar
+            key={searchbarKey}
+            productToggle={false}
+            placeholder={prepopulatedSearch}
+            popover={true}
+            searchButton={false}
             defaultValue={prepopulatedSearch}
           />
         </div>
@@ -175,23 +227,52 @@ export default function GradeDistribution() {
         <div className="flex items-center justify-between">
           <Popover open={professorOpen} onOpenChange={setProfessorOpen}>
             <PopoverTrigger asChild>
-              <Button variant="outline" role="combobox" aria-expanded={professorOpen} className="w-[300px] justify-start">
+              <Button
+                variant="outline"
+                role="combobox"
+                aria-expanded={professorOpen}
+                className="w-[300px] justify-start"
+              >
                 <Avatar className="h-8 w-8 mr-2">
-                  <AvatarImage src={selectedProfessor?.avatar || "/placeholder.svg?height=32&width=32"} alt={selectedProfessor?.name || "Professor"} />
-                  <AvatarFallback>{selectedProfessor?.name?.split(" ").map(n => n[0]).join("") || "P"}</AvatarFallback>
+                  <AvatarImage
+                    src={
+                      selectedProfessor?.avatar ||
+                      "/placeholder.svg?height=32&width=32"
+                    }
+                    alt={selectedProfessor?.name || "Professor"}
+                  />
+                  <AvatarFallback>
+                    {selectedProfessor?.name
+                      ?.split(" ")
+                      .map((n) => n[0])
+                      .join("") || "P"}
+                  </AvatarFallback>
                 </Avatar>
                 <div className="flex flex-col items-start">
-                  <span className="font-semibold">{selectedProfessor?.name || "Select a professor"}</span>
-                  <span className="text-xs text-muted-foreground">{selectedProfessor?.title || ""}</span>
+                  <span className="font-semibold">
+                    {selectedProfessor?.name || "Select a professor"}
+                  </span>
+                  <span className="text-xs text-muted-foreground">
+                    {selectedProfessor?.title || ""}
+                  </span>
                 </div>
                 <div className="ml-auto flex space-x-1">
-                  <Badge variant="secondary" className="h-5 w-5 rounded-full p-0">
+                  <Badge
+                    variant="secondary"
+                    className="h-5 w-5 rounded-full p-0"
+                  >
                     <Pencil className="h-3 w-3" />
                   </Badge>
-                  <Badge variant="secondary" className="h-5 w-5 rounded-full p-0">
+                  <Badge
+                    variant="secondary"
+                    className="h-5 w-5 rounded-full p-0"
+                  >
                     <Briefcase className="h-3 w-3" />
                   </Badge>
-                  <Badge variant="secondary" className="h-5 w-5 rounded-full p-0">
+                  <Badge
+                    variant="secondary"
+                    className="h-5 w-5 rounded-full p-0"
+                  >
                     <ChevronDown className="h-3 w-3" />
                   </Badge>
                 </div>
@@ -199,7 +280,10 @@ export default function GradeDistribution() {
             </PopoverTrigger>
             <PopoverContent className="w-[300px] p-0">
               <Command>
-                <CommandInput placeholder="Search professors..." className="h-9" />
+                <CommandInput
+                  placeholder="Search professors..."
+                  className="h-9"
+                />
                 <CommandList>
                   <CommandEmpty>No professor found.</CommandEmpty>
                   <CommandGroup>
@@ -221,11 +305,29 @@ export default function GradeDistribution() {
           </Popover>
 
           <div className="flex items-center space-x-4">
+            <SplitBadge
+              leftContent={
+                <Checkbox
+                  id="percentages"
+                  checked={showPercentages}
+                  onCheckedChange={(checked) => setShowPercentages(!!checked)}
+                  className="fill-secondary-foreground"
+                />
+              }
+              className="text-secondary-foreground"
+            >
+              Percentages
+            </SplitBadge>
             <StarCard gpa={utagradeScore} size="lg" />
             <StudentCard studentCount={studentCount} />
             <Popover open={semesterOpen} onOpenChange={setSemesterOpen}>
               <PopoverTrigger asChild>
-                <Button variant="outline" role="combobox" aria-expanded={semesterOpen} className="w-[150px] justify-between">
+                <Button
+                  variant="outline"
+                  role="combobox"
+                  aria-expanded={semesterOpen}
+                  className="w-[150px] justify-between"
+                >
                   <Sun className="h-4 w-4 mr-2" />
                   {selectedSemester.name}
                   <ChevronDown className="h-4 w-4 opacity-50" />
@@ -233,7 +335,10 @@ export default function GradeDistribution() {
               </PopoverTrigger>
               <PopoverContent className="w-[150px] p-0">
                 <Command>
-                  <CommandInput placeholder="Select semester..." className="h-9" />
+                  <CommandInput
+                    placeholder="Select semester..."
+                    className="h-9"
+                  />
                   <CommandList>
                     <CommandEmpty>No semester found.</CommandEmpty>
                     <CommandGroup>
@@ -257,7 +362,7 @@ export default function GradeDistribution() {
         </div>
 
         <div className="mt-6 h-[400px] bg-muted rounded-lg flex items-center justify-center text-muted-foreground">
-          <GradeResults gradeData={gradeData} />
+          <GradeResults gradeData={gradeData} percentages={showPercentages} />
         </div>
       </CardContent>
     </Card>

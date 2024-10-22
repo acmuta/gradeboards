@@ -1,6 +1,6 @@
 import React from "react";
-import Link from "next/link"
-import { Asterisk, ChevronRight, Flower2, Leaf, Sparkles, Star, StarHalf, Sun } from "lucide-react";
+import { useRouter } from "next/navigation";
+import { Asterisk, ChevronRight, Flower2, Leaf, Sun } from "lucide-react";
 import { Avatar, AvatarFallback } from "@/components/ui/avatar";
 import { titlecase, nameToInitials } from "@/lib/utils";
 import { SearchParams } from "@/types/grades";
@@ -12,6 +12,8 @@ interface CourseSearchCardProps {
 }
 
 export default function CourseSearchCard({ result }: CourseSearchCardProps) {
+  const router = useRouter();
+  
   const queryParams = new URLSearchParams();
 
   if (result.year && result.semester?.toLowerCase() !== "multiple terms") queryParams.append("year", result.year.toString());
@@ -25,9 +27,19 @@ export default function CourseSearchCard({ result }: CourseSearchCardProps) {
 
   const href = `/grades?${queryParams.toString().replace(/\+/g, " ")}`;
 
+  const handleClick = (e: React.MouseEvent<HTMLDivElement>) => {
+    e.preventDefault();
+    router.push(href);
+  };
+
   return (
-    <Link
-      href={href}
+    <div
+      role="button"
+      tabIndex={0}
+      onClick={handleClick}
+      onKeyDown={(e) => {
+        if (e.key === "Enter") handleClick(e as unknown as React.MouseEvent<HTMLDivElement>);
+      }}
       className="flex justify-center items-center w-full gap-1 bg-background border rounded-md shadow-sm hover:shadow-md transition-shadow duration-200 cursor-pointer"
     >
       <div className="w-full p-2 flex flex-col justify-center items-between">
@@ -92,6 +104,6 @@ export default function CourseSearchCard({ result }: CourseSearchCardProps) {
       <span className="h-full w-8 flex justify-center items-center bg-muted">
         <ChevronRight size={24} className="text-muted-foreground" />
       </span>
-    </Link>
+    </div>
   );
 }

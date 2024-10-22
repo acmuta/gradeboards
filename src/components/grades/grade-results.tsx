@@ -1,21 +1,16 @@
 import React, { useEffect } from "react";
-import {
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableHeader,
-  TableRow,
-} from "@/components/ui/table";
 import GradeResultsSkeleton from "./grade-results-skeleton";
 import { useToast } from "@/hooks/use-toast";
 import { GradeData } from "@/types/grades";
+import { Bar, BarChart, CartesianGrid, Legend, Tooltip, XAxis, YAxis } from "recharts";
+import { gradeYearAbbreviation, titlecase } from "@/lib/utils";
 
 interface GradeResultsProps {
   gradeData: GradeData[];
+  percentages?: boolean;
 }
 
-export default function GradeResults({ gradeData }: GradeResultsProps) {
+export default function GradeResults({ gradeData, percentages = false }: GradeResultsProps) {
   const { toast } = useToast();
 
   useEffect(() => {
@@ -23,8 +18,8 @@ export default function GradeResults({ gradeData }: GradeResultsProps) {
 
     const sections = new Set();
     const hasDuplicates = gradeData.some((row) => {
-      if (row.sectionNumber === '-1') return false;
-      const key = `${row.subjectId}-${row.courseNumber}-${row.sectionNumber}`;
+      if (row.sectionNumber === "-1") return false;
+      const key = `${row.subjectId}-${row.courseNumber}-${row.sectionNumber} ${row.semester} ${row.year}`;
       if (sections.has(key)) return true;
       sections.add(key);
       return false;
@@ -38,48 +33,59 @@ export default function GradeResults({ gradeData }: GradeResultsProps) {
         duration: 60000,
       });
     }
-  }, []);
+  }, [gradeData, toast]);
 
   if (!gradeData || gradeData.length === 0) {
     return <GradeResultsSkeleton />;
   }
 
+  const CourseKey = (row: GradeData) => {
+    if (row.sectionNumber === "-1") return `${titlecase(row.instructor)}`;
+    return `${gradeYearAbbreviation(row.semester, Number(row.year))} ${String(row.subjectId).toUpperCase()} ${String(row.courseNumber).toUpperCase()}-${String(row.sectionNumber).toUpperCase()}`;
+  }
+
+  const calculateTotal = (row: GradeData) => {
+    return ["A", "B", "C", "D", "F", "W", "Q", "I", "P", "R", "Z"].reduce((total, grade) => 
+      total + Number(row[`grades_${grade}` as keyof GradeData] || 0), 0
+    );
+  };
+
+  const data = ["A", "B", "C", "D", "F", "Dropped", "Other"].map((grade) => ({
+    name: grade,
+    ...gradeData.reduce<Record<string, number>>((acc, row) => {
+      const key = CourseKey(row);
+      let value: number;
+      const total = calculateTotal(row);
+
+      if (grade === "Dropped") {
+        value = Number(row.grades_W) + Number(row.grades_Q);
+      } else if (grade === "Other") {
+        value = Number(row.grades_I) + Number(row.grades_P) + Number(row.grades_R) + Number(row.grades_Z);
+      } else {
+        value = Number(row[`grades_${grade}` as keyof GradeData]) || 0;
+      }
+
+      acc[key] = percentages ? (value / total) * 100 : value;
+      return acc;
+    }, {}),
+  }));
 
   return (
     <div>
-      <h2 className="text-2xl font-semibold mb-4">Grade Distribution</h2>
-      <Table>
-        <TableHeader>
-          <TableRow>
-            <TableHead>Subject</TableHead>
-            <TableHead>Course</TableHead>
-            <TableHead>Section</TableHead>
-            <TableHead>Instructor</TableHead>
-            <TableHead>GPA</TableHead>
-            <TableHead>A</TableHead>
-            <TableHead>B</TableHead>
-            <TableHead>C</TableHead>
-            <TableHead>D</TableHead>
-            <TableHead>F</TableHead>
-          </TableRow>
-        </TableHeader>
-        <TableBody>
-          {gradeData.map((row, index) => (
-            <TableRow key={index}>
-              <TableCell>{row.subjectId}</TableCell>
-              <TableCell>{row.courseNumber}</TableCell>
-              <TableCell>{row.sectionNumber}</TableCell>
-              <TableCell>{row.instructor}</TableCell>
-              <TableCell>{parseFloat(row.gpa).toFixed(2)}</TableCell>
-              <TableCell>{row.grades_A}</TableCell>
-              <TableCell>{row.grades_B}</TableCell>
-              <TableCell>{row.grades_C}</TableCell>
-              <TableCell>{row.grades_D}</TableCell>
-              <TableCell>{row.grades_F}</TableCell>
-            </TableRow>
-          ))}
-        </TableBody>
-      </Table>
+      <BarChart width={730} height={250} data={data}>
+        <CartesianGrid strokeDasharray="3 3" />
+        <XAxis dataKey="name" />
+        <YAxis />
+        <Tooltip formatter={(value) => percentages ? `${Math.round(Number(value))}%` : value} />
+        <Legend />
+        {gradeData.map((row, index) => (
+          <Bar 
+            key={CourseKey(row)}
+            dataKey={CourseKey(row)} 
+            fill={`hsl(${index * 360 / gradeData.length}, 70%, 70%)`} 
+          />
+        ))}
+      </BarChart>
     </div>
   );
 }

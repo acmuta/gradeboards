@@ -20,7 +20,7 @@ export default function StudentCard({ studentCount }: Props) {
       icon={<Users className="h-4 w-4" />}
       tooltip={
         <div className="flex flex-col items-start gap-2">
-          <span className="leading-none inline-flex justify-start items-center gap-1 text-base">
+          <span className="leading-none inline-flex justify-start items-center gap-1 text-sm">
             <span className="text-muted-foreground">{`${
               typeof studentCount === "number"
                 ? "Class Size"

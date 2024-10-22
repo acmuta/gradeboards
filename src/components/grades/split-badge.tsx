@@ -29,16 +29,16 @@ export default function SplitBadge({ leftContent, icon, children, size = "sm", c
 
   const badge = (
     <div className={cn(
-      "border border-border font-medium inline-flex justify-center items-center rounded text-foreground leading-none",
+      "border border-border font-medium inline-flex justify-center items-center rounded text-foreground leading-none h-full",
       size === "lg" ? "gap-1 pr-2" : "gap-0.5 pr-1",
       className
     )}>
       <span className={cn(
-        "leading-none bg-muted text-muted-foreground flex items-center",
+        "leading-none bg-muted text-muted-foreground flex items-center h-full",
         size === "lg" ? "text-base px-2 py-1 mr-1" : "text-xs px-1 py-0.5 mr-0.5"
       )}>
         {icon && React.cloneElement(icon, {
-          className: cn("mr-1", size === "lg" ? "h-5 w-5" : "h-3 w-3"),
+          className: cn("mr-1 h-full", size === "lg" ? "h-5 w-5" : "h-3 w-3"),
           size: size === "lg" ? 20 : 12,
           "aria-hidden": "true"
         } as React.SVGProps<SVGSVGElement>)}

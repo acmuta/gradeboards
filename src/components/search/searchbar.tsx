@@ -454,7 +454,11 @@ export default function Searchbar({ productToggle = true, placeholder, popover =
               debouncedSetSearchInput(e.target.value);
             }}
             onFocus={() => setIsFocused(true)}
-            onBlur={() => setIsFocused(false)}
+            onBlur={() => {
+              setTimeout(() => {
+                  setIsFocused(false);
+              }, 150);
+            }}
             disabled={isInitialSearch && isLoading}
           />
           {/* TODO old code to auto highlight text as you type :D worked well, but was too laggy on weak devices. Might revisit later */}
@@ -552,7 +556,7 @@ export default function Searchbar({ productToggle = true, placeholder, popover =
           className={`w-full max-w-[40rem] bg-secondary gap-1.5 p-1.5 border rounded-lg flex justify-center items-stretch max-h-[60vh] md:max-h-96 overflow-y-auto ${
             showDropdown ? "rounded-t-none border-t-0" : ""
           } ${
-            popover ? "absolute top-full left-0 z-50 shadow-lg" : ""
+            popover ? "absolute top-full left-0 z-10 shadow-lg" : ""
           } ${
             !popover ? "h-full" : ""
           }`}

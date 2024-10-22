@@ -10,14 +10,13 @@ interface StarCardProps {
 }
 
 export default function StarCard({ gpa, size = "sm" }: StarCardProps) {
-
   return (
     <SplitBadge
       leftContent="Score"
       size={size}
       tooltip={
         <div className="flex flex-col items-start gap-2">
-          <span className="leading-none inline-flex justify-start items-center gap-1 text-base">
+          <span className="leading-none inline-flex justify-start items-center gap-1 text-sm">
             <span className="text-muted-foreground">Average GPA: </span>
             <span className="">{Number(gpa).toFixed(2)}</span>
           </span>
@@ -31,36 +30,52 @@ export default function StarCard({ gpa, size = "sm" }: StarCardProps) {
             </thead>
             <tbody>
               <tr>
-                <td className="pr-4"><GPAStars gpa={2.00} size="sm" /></td>
+                <td className="pr-4">
+                  <GPAStars gpa={2.0} size="sm" />
+                </td>
                 <td className="text-center">2.10 - 2.35</td>
               </tr>
               <tr>
-                <td className="pr-4"><GPAStars gpa={2.25} size="sm" /></td>
+                <td className="pr-4">
+                  <GPAStars gpa={2.25} size="sm" />
+                </td>
                 <td className="text-center">2.35 - 2.60</td>
               </tr>
               <tr>
-                <td className="pr-4"><GPAStars gpa={2.50} size="sm" /></td>
+                <td className="pr-4">
+                  <GPAStars gpa={2.5} size="sm" />
+                </td>
                 <td className="text-center">2.60 - 2.85</td>
               </tr>
               <tr>
-                <td className="pr-4"><GPAStars gpa={2.75} size="sm" /></td>
+                <td className="pr-4">
+                  <GPAStars gpa={2.75} size="sm" />
+                </td>
                 <td className="text-center">2.85 - 3.10</td>
               </tr>
               <tr>
-                <td className="pr-4"><GPAStars gpa={3.00} size="sm" /></td>
+                <td className="pr-4">
+                  <GPAStars gpa={3.0} size="sm" />
+                </td>
                 <td className="text-center">3.10 - 3.35</td>
               </tr>
               <tr>
-                <td className="pr-4"><GPAStars gpa={3.25} size="sm" /></td>
+                <td className="pr-4">
+                  <GPAStars gpa={3.25} size="sm" />
+                </td>
                 <td className="text-center">3.35 - 3.60</td>
               </tr>
               <tr>
-                <td className="pr-4"><GPAStars gpa={3.50} size="sm" /></td>
-                <td className="text-center">3.60 - 3.99</td>
+                <td className="pr-4">
+                  <GPAStars gpa={3.5} size="sm" />
+                </td>
+                <td className="text-center">3.60 - 4.00</td>
               </tr>
-              {Number(gpa) === 4.00 && (
+              {Number(gpa) === 4 && (
                 <tr>
-                  <td className="pr-4"><GPAStars gpa={4.00} size="sm" /></td>
+                  <td className="pr-4">
+                    <GPAStars gpa={4.0} size="sm" />
+                  </td>
                   <td className="text-center">4.00</td>
                 </tr>
               )}
@@ -69,7 +84,11 @@ export default function StarCard({ gpa, size = "sm" }: StarCardProps) {
         </div>
       }
     >
-      <GPAStars gpa={gpa} size={size === "lg" ? "lg" : "sm"} className="gap-1" />
+      <GPAStars
+        gpa={gpa}
+        size={size === "lg" ? "lg" : "sm"}
+        className="gap-1"
+      />
     </SplitBadge>
   );
 }

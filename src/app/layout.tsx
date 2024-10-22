@@ -23,7 +23,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${fontSans.className} antialiased`}>
         <div className="bg-gray-100 dark:bg-gray-900 min-h-screen relative">
-          <header className="w-full sticky top-0 bg-white dark:bg-gray-800 shadow">
+          <header className="w-full sticky top-0 bg-white dark:bg-gray-800 shadow z-50">
             <Navbar />
           </header>
 
