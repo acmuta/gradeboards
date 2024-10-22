@@ -1,8 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const sqlite3 = require('sqlite3').verbose();
-const uni_config = require("../../university_configs.json")
-
+const uni_config = require("../../university_configs.json");
 
 function getActiveUniObj() {
   const activeUni = uni_config[uni_config["__ENABLED_UNIVERSITY"]];
@@ -39,6 +38,25 @@ const db = new sqlite3.Database(`./public/data/grades.sqlite`, (err) => {
 });
 
 db.serialize(() => {
+  // Drop all existing tables
+  db.all("SELECT name FROM sqlite_master WHERE type='table'", (err, rows) => {
+    if (err) {
+      console.error('Error fetching tables:', err.message);
+    } else if (rows && rows.length) {
+      rows.forEach(row => {
+        db.run(`DROP TABLE IF EXISTS "${row.name}"`, (err) => {
+          if (err) {
+            console.error(`Error dropping table ${row.name}:`, err.message);
+          } else {
+            console.log(`Dropped table: ${row.name}`);
+          }
+        });
+      });
+    } else {
+      console.log('No existing tables found.');
+    }
+  });
+
   jsonFiles.forEach(file => {
     const fileName = path.basename(`./public/data/${getActiveUniObj().university_id}/${file}`, '.json');
     const data = JSON.parse(fs.readFileSync(`./public/data/${getActiveUniObj().university_id}/${file}`, 'utf-8'));

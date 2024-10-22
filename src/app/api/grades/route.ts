@@ -129,17 +129,8 @@ export async function GET(request: Request) {
 	}
 
 	if (instructor) {
-		const instructorColumns = [
-			"instructor1",
-			"instructor2",
-			"instructor3",
-			"instructor4",
-			"instructor5",
-		];
-		const instructorConditions = instructorColumns.map((col) => `LOWER(${col}) LIKE LOWER(?)`);
-		conditions.push(`(${instructorConditions.join(" OR ")})`);
-		const instructorParam = `%${instructor.toLowerCase()}%`;
-		params.push(...Array(instructorColumns.length).fill(instructorParam));
+		conditions.push("LOWER(instructor) LIKE LOWER(?)");
+		params.push(`%${instructor.toLowerCase()}%`);
 	}
 
 	if (subjectId) {
@@ -174,16 +165,136 @@ export async function GET(request: Request) {
 
 		let query: string;
 
-		if (!year && !semester) {
+		if (instructor && !year && !semester && !courseNumber && !sectionNumber) {
 			query = `
 				SELECT 
 					subjectId, 
 					courseNumber, 
-					MIN(sectionNumber) as sectionNumber,
+					'-1' as sectionNumber,
 					career,
-					COALESCE(instructor1, instructor2, instructor3, instructor4, instructor5, 'multiple instructors') as instructor,
-					MAX(year) as year,
-					MAX(semester) as semester,
+					instructor,
+					CASE 
+						WHEN COUNT(DISTINCT semester || year) > 1 THEN 'Multiple Terms'
+						ELSE MAX(semester)
+					END as semester,
+					CASE
+						WHEN COUNT(DISTINCT semester || year) > 1 THEN ''
+						ELSE MAX(year)
+					END as year,
+					AVG(gpa) as gpa,
+					SUM(grades_A) as grades_A,
+					SUM(grades_B) as grades_B,
+					SUM(grades_C) as grades_C,
+					SUM(grades_D) as grades_D,
+					SUM(grades_F) as grades_F,
+					SUM(grades_I) as grades_I,
+					SUM(grades_P) as grades_P,
+					SUM(grades_Q) as grades_Q,
+					SUM(grades_W) as grades_W,
+					SUM(grades_Z) as grades_Z,
+					SUM(grades_R) as grades_R,
+					AVG(dropPercent) as dropPercent
+				FROM (
+					${matchingTables.map(tableName => `SELECT * FROM "${tableName}"`).join(" UNION ALL ")}
+				)
+				WHERE ${conditions.join(" AND ")}
+				GROUP BY subjectId, courseNumber, career, instructor
+			`;
+		} else if ((year || semester) && !instructor && !courseNumber && !sectionNumber) {
+			query = `
+				SELECT 
+					subjectId, 
+					CASE 
+						WHEN COUNT(DISTINCT courseNumber) = 1 THEN MAX(courseNumber)
+						ELSE '-1'
+					END as courseNumber,
+					'-1' as sectionNumber,
+					career,
+					CASE 
+						WHEN COUNT(DISTINCT instructor) > 1 THEN 'Multiple Instructors'
+						ELSE MAX(instructor)
+					END as instructor,
+					CASE 
+						WHEN COUNT(DISTINCT semester || year) > 1 THEN 'Multiple Terms'
+						ELSE MAX(semester)
+					END as semester,
+					CASE
+						WHEN COUNT(DISTINCT semester || year) > 1 THEN ''
+						ELSE MAX(year)
+					END as year,
+					AVG(gpa) as gpa,
+					SUM(grades_A) as grades_A,
+					SUM(grades_B) as grades_B,
+					SUM(grades_C) as grades_C,
+					SUM(grades_D) as grades_D,
+					SUM(grades_F) as grades_F,
+					SUM(grades_I) as grades_I,
+					SUM(grades_P) as grades_P,
+					SUM(grades_Q) as grades_Q,
+					SUM(grades_W) as grades_W,
+					SUM(grades_Z) as grades_Z,
+					SUM(grades_R) as grades_R,
+					AVG(dropPercent) as dropPercent
+				FROM (
+					${matchingTables.map(tableName => `SELECT * FROM "${tableName}"`).join(" UNION ALL ")}
+				)
+				${conditions.length > 0 ? `WHERE ${conditions.join(" AND ")}` : ''}
+				GROUP BY subjectId, career
+			`;
+		} else if (subjectId && !year && !semester && !instructor && !courseNumber && !sectionNumber) {
+			query = `
+				SELECT 
+					subjectId, 
+					courseNumber, 
+					'-1' as sectionNumber,
+					career,
+					CASE 
+						WHEN COUNT(DISTINCT instructor) > 1 THEN 'Multiple Instructors'
+						ELSE MAX(instructor)
+					END as instructor,
+					CASE 
+						WHEN COUNT(DISTINCT semester || year) > 1 THEN 'Multiple Terms'
+						ELSE MAX(semester)
+					END as semester,
+					CASE
+						WHEN COUNT(DISTINCT semester || year) > 1 THEN ''
+						ELSE MAX(year)
+					END as year,
+					AVG(gpa) as gpa,
+					SUM(grades_A) as grades_A,
+					SUM(grades_B) as grades_B,
+					SUM(grades_C) as grades_C,
+					SUM(grades_D) as grades_D,
+					SUM(grades_F) as grades_F,
+					SUM(grades_I) as grades_I,
+					SUM(grades_P) as grades_P,
+					SUM(grades_Q) as grades_Q,
+					SUM(grades_W) as grades_W,
+					SUM(grades_Z) as grades_Z,
+					SUM(grades_R) as grades_R,
+					AVG(dropPercent) as dropPercent
+				FROM (
+					${matchingTables.map(tableName => `SELECT * FROM "${tableName}"`).join(" UNION ALL ")}
+				)
+				${conditions.length > 0 ? `WHERE ${conditions.join(" AND ")}` : ''}
+				GROUP BY subjectId, courseNumber, career
+			`;
+		} else if ((courseNumber) && !year && !semester && !instructor && !sectionNumber) {
+			query = `
+				SELECT 
+					subjectId, 
+					courseNumber, 
+					'-1' as sectionNumber,
+					career,
+					instructor,
+					CASE 
+						WHEN COUNT(DISTINCT semester || year) > 1 THEN 'Multiple Terms'
+						ELSE MAX(semester)
+					END as semester,
+					CASE
+						WHEN COUNT(DISTINCT semester || year) > 1 THEN ''
+						ELSE MAX(year)
+					END as year,
 					AVG(gpa) as gpa,
 					SUM(grades_A) as grades_A,
 					SUM(grades_B) as grades_B,
@@ -204,14 +315,37 @@ export async function GET(request: Request) {
 				GROUP BY subjectId, courseNumber, career, instructor
 			`;
 		} else {
-			query = matchingTables.map(tableName => `
-				SELECT *, 
-				COALESCE(instructor1, instructor2, instructor3, instructor4, instructor5) as instructor 
-				FROM "${tableName}"
-			`).join(" UNION ALL ");
-			if (conditions.length > 0) {
-				query = `SELECT * FROM (${query}) WHERE ${conditions.join(" AND ")}`;
-			}
+			query = `
+				SELECT 
+					subjectId, 
+					CASE 
+						WHEN COUNT(DISTINCT semester) = 1 AND COUNT(DISTINCT year) = 1 AND COUNT(DISTINCT instructor) = 1 THEN courseNumber
+						ELSE '-1'
+					END as courseNumber,
+					sectionNumber,
+					career,
+					instructor,
+					semester,
+					year,
+					gpa,
+					grades_A,
+					grades_B,
+					grades_C,
+					grades_D,
+					grades_F,
+					grades_I,
+					grades_P,
+					grades_Q,
+					grades_W,
+					grades_Z,
+					grades_R,
+					dropPercent
+				FROM (
+					${matchingTables.map(tableName => `SELECT * FROM "${tableName}"`).join(" UNION ALL ")}
+				)
+				${conditions.length > 0 ? `WHERE ${conditions.join(" AND ")}` : ''}
+				GROUP BY subjectId, career, instructor, semester, year
+			`;
 		}
 
 		const allowedSortColumns = [

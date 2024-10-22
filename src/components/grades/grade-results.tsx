@@ -1,12 +1,49 @@
-import React from 'react';
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
+import React, { useEffect } from "react";
+import {
+  Table,
+  TableBody,
+  TableCell,
+  TableHead,
+  TableHeader,
+  TableRow,
+} from "@/components/ui/table";
+import GradeResultsSkeleton from "./grade-results-skeleton";
+import { useToast } from "@/hooks/use-toast";
+import { GradeData } from "@/types/grades";
 
 interface GradeResultsProps {
-  fetchGrades: () => Promise<{ data: any[] }>;
+  gradeData: GradeData[];
 }
 
-export default async function GradeResults({ fetchGrades }: GradeResultsProps) {
-  const { data } = await fetchGrades();
+export default function GradeResults({ gradeData }: GradeResultsProps) {
+  const { toast } = useToast();
+
+  useEffect(() => {
+    if (!gradeData) return;
+
+    const sections = new Set();
+    const hasDuplicates = gradeData.some((row) => {
+      if (row.sectionNumber === '-1') return false;
+      const key = `${row.subjectId}-${row.courseNumber}-${row.sectionNumber}`;
+      if (sections.has(key)) return true;
+      sections.add(key);
+      return false;
+    });
+
+    if (hasDuplicates) {
+      toast({
+        title: "Seeing Duplicate Data?",
+        description:
+          "Duplicate section numbers are likely intentionally assigned by the university.",
+        duration: 60000,
+      });
+    }
+  }, []);
+
+  if (!gradeData || gradeData.length === 0) {
+    return <GradeResultsSkeleton />;
+  }
+
 
   return (
     <div>
@@ -27,13 +64,13 @@ export default async function GradeResults({ fetchGrades }: GradeResultsProps) {
           </TableRow>
         </TableHeader>
         <TableBody>
-          {data.map((row, index) => (
+          {gradeData.map((row, index) => (
             <TableRow key={index}>
               <TableCell>{row.subjectId}</TableCell>
               <TableCell>{row.courseNumber}</TableCell>
               <TableCell>{row.sectionNumber}</TableCell>
               <TableCell>{row.instructor}</TableCell>
-              <TableCell>{row.gpa.toFixed(2)}</TableCell>
+              <TableCell>{parseFloat(row.gpa).toFixed(2)}</TableCell>
               <TableCell>{row.grades_A}</TableCell>
               <TableCell>{row.grades_B}</TableCell>
               <TableCell>{row.grades_C}</TableCell>

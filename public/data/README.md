@@ -49,7 +49,7 @@ The specific data we are looking for are as follows. Note that the data should f
 An example row of the csv data we are looking for is as follows:
 - 2020 - 2021,2020 Fall,GRAD,GRAD,Choong-Un,Kim,"Anthony Martinez, Kimaya Vyavhare, Pushkar Kiran Gothe, Yao Ren, Yi Ram Kim",MSE,5304,001,8,7,0,0,0,0,0,0,0,0,15
 
-Every semester requested should be in its own independent csv file. For more examples of previous data requested, please see here: https://github.com/acmuta/utagrades/tree/main/public/data.
+Every semester requested should be in its own independent csv file. For more examples of previous data requested, please see here: https://github.com/acmuta/gradeboards/tree/main/public/data.
 
 Thanks,
 **INSERT YOUR NAME HERE**

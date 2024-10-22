@@ -13,6 +13,10 @@ export interface UniversityConfig {
   secondary_color: string;
 }
 
+export interface UniversityConfigs {
+  [key: string]: UniversityConfig[];
+}
+
 export interface SearchParams {
   year: (typeof config_data.year)[string];
   semester: (typeof config_data.semester)[string];
@@ -27,6 +31,26 @@ export interface SearchParams {
   gpa: number;
 }
 
-export interface UniversityConfigs {
-  [key: string]: UniversityConfig[];
+export interface GradeData {
+  subjectId: string;
+  courseNumber: string;
+  sectionNumber: string;
+  gradesCount: string;
+  year: string;
+  semester: string;
+  career: string;
+  instructor: string;
+  gpa: string;
+  dropPercent: string;
+  grades_A: string;
+  grades_B: string;
+  grades_C: string;
+  grades_D: string;
+  grades_F: string;
+  grades_I: string;
+  grades_P: string;
+  grades_Q: string;
+  grades_W: string;
+  grades_Z: string;
+  grades_R: string;
 }

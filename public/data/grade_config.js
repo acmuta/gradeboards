@@ -16,32 +16,24 @@ export const config_data = {
     "ugrd"
   ],
   "instructor": [
+    " ",
     "a elliott",
-    "aadee mitee",
     "aaron hagedorn",
     "aaron johnson",
     "aaron langford",
     "aaron smallwood",
-    "aastha bhandari",
     "abdolhossein haji-sheikh",
     "abdraouf abusoua",
-    "abdul hafiz abdul rahaman",
     "abdul rasheed",
-    "abdulla sakallah",
     "abeer almughrabi",
-    "abhijit kanaksinh mahida",
     "abhilash vimal",
     "abhishek santra",
     "abigail dase",
     "abigail heller",
     "abigail torres rico",
-    "abiud portillo",
-    "abraham mookhoek",
-    "abu sajid israr",
     "abu yilla",
     "adam annaccone",
     "adam castillo",
-    "adam thompson",
     "addison silva",
     "adejoke ogidan",
     "adelaine cunningham",
@@ -51,29 +43,16 @@ export const config_data = {
     "adrienne johnson",
     "adwait khare",
     "aera leboulluec",
-    "afia anjum",
-    "afsana tasnim",
     "afshan boodhwani",
-    "agnes deleawe",
     "agustin villafana",
-    "ahaan rajesh",
     "ahmad hamdan",
     "ahmad kamal bani hani",
     "ahmad mahmoud ahmad jibreen",
-    "ahmar hasan",
     "ahmed ali",
-    "ahmed harun",
     "ahmet koru",
     "aida allen",
     "aimee dunnam",
     "aimee israel-pelletier",
-    "aisha stone-corr",
-    "aishwarya pothula",
-    "aisosa omere",
-    "akash ketkale",
-    "akshatha mruthyunjaya",
-    "akshay jhawar",
-    "akshay parchure",
     "akshit singhal",
     "alan bowling",
     "alan cannon",
@@ -94,7 +73,6 @@ export const config_data = {
     "alexandra rains",
     "alexandra stefan",
     "aleyna brown",
-    "alfredo gutierrez garcia",
     "ali davoudi",
     "ali farzbod",
     "ali jozaghi",
@@ -107,8 +85,6 @@ export const config_data = {
     "alicia rueda-acedo",
     "alicia soueid",
     "alireza fallahi",
-    "alireza shamshiri",
-    "alisher talgatov",
     "alison birch",
     "alison ravenscraft",
     "alison starr",
@@ -121,10 +97,8 @@ export const config_data = {
     "allison sullivan",
     "allison tomlinson",
     "allison tuppeny",
-    "ally auger",
     "alma garza",
     "alper nakkas",
-    "alysha varley",
     "alyssa best",
     "alyssa compton",
     "alyssa peterson",
@@ -145,11 +119,9 @@ export const config_data = {
     "amanda ryan",
     "amandeep dhaliwal",
     "amar sherma",
-    "amara holobaugh",
     "amber arnold",
     "amber bailey perez",
     "amber carrington gouge",
-    "amber morgan",
     "amber owens",
     "amber raley",
     "amber schroeder",
@@ -163,9 +135,7 @@ export const config_data = {
     "amir naderpour",
     "amir shahmoradi",
     "amirhesam amerinatanzi",
-    "amit phalak",
     "amit pokharel",
-    "amnah abdelrahman",
     "amrita thomas",
     "amruta sakalker",
     "amy anderson",
@@ -183,16 +153,12 @@ export const config_data = {
     "amy stephens",
     "amy tigner",
     "amy ware",
-    "amy wilkins",
     "amy winslow",
     "ana herrera",
     "ana mendez",
     "anam sahoo",
     "anamarina jarecke",
-    "ananthkumar jayamani",
-    "ananya fnu",
     "anastasiya chybireva-fender",
-    "anasuya ghorai",
     "andi li",
     "andrea jameson",
     "andreika lockett",
@@ -229,7 +195,6 @@ export const config_data = {
     "ankit kapur",
     "ankita damani",
     "ankur jain",
-    "ankush paul",
     "ann birka",
     "ann coleman",
     "ann davis",
@@ -245,45 +210,32 @@ export const config_data = {
     "anne prevou",
     "anneshia redic",
     "annette scolaro",
-    "ansh sharma",
     "antay parker",
-    "anthony martinez",
     "anthony mastriania",
     "anthony scanio",
     "anthony thomas",
     "anthony zahn",
     "antoinette sol",
     "antonia gkergki",
-    "antonio benavides",
     "antwan williams",
-    "anurag noonikara poyil",
-    "anushka devasthale",
     "april blount",
     "april walker",
     "arash saleh",
     "arati kale",
-    "arbaz baig",
     "arden stephenson",
     "ardeshir anjomani",
     "ariadna reyes-sanchez",
     "ariane froidevaux",
-    "ariel o'brien",
-    "ariella amanuel",
     "arne winguth",
     "arpita bhatt",
     "arthur gonzalez",
-    "arun narasimhan",
     "aseem athavale",
     "ashfaq adnan",
-    "ashish jaiswal",
     "ashish sedai",
-    "ashlee hansen-bell",
     "ashlee loewen",
     "ashleigh christian",
     "ashley bryce",
-    "ashley foster",
     "ashley guy",
-    "ashley haghighi",
     "ashley hall",
     "ashley harris",
     "ashley johnson",
@@ -297,7 +249,6 @@ export const config_data = {
     "ashok nayak",
     "ashraf aboulnaga",
     "ashraf daradkeh",
-    "ashwin ramesh babu",
     "astrid morales torres",
     "atefe makhmalbaf",
     "atieno amadi",
@@ -308,7 +259,6 @@ export const config_data = {
     "aundraea brown",
     "austin allen",
     "austin loignon",
-    "autumn morris",
     "avery mcguinness",
     "avisankar chini",
     "ayesha ramos",
@@ -321,7 +271,6 @@ export const config_data = {
     "balmiki pokhrel",
     "baneen manekia",
     "bang dang",
-    "bangde liu",
     "baohong yuan",
     "barbara berthold",
     "barbara chiarello",
@@ -335,8 +284,6 @@ export const config_data = {
     "barton weiss",
     "bastiaan van der vossen",
     "baxter mullins",
-    "beatriz meadows",
-    "beatriz renner",
     "belen butragueno diaz-guerra",
     "belinda anderson",
     "belinda rudinger",
@@ -369,19 +316,14 @@ export const config_data = {
     "beverly black",
     "beverly george",
     "bhanu jain",
-    "bhanu priya karuturi",
-    "bich tuyen lemai",
     "bijan shapoorian",
     "bijan youssefzadeh",
-    "bilal taha",
     "bill boswell",
     "bill carroll",
-    "bill palmer",
     "billi london-gray",
     "billy moore",
     "bin jiang",
     "bin srinidhi",
-    "bivash yadav",
     "blair coppola",
     "blake carpenter",
     "blake norman",
@@ -394,14 +336,12 @@ export const config_data = {
     "bonnie belobrajdic",
     "bonnie boardman",
     "bonnie laster",
-    "borzou alipourfard",
     "bosen lian",
     "brad heddins",
     "brad loper",
     "brad mccorkle",
     "bradley bell",
     "bradly masters",
-    "brady drennan",
     "brandi andrade",
     "brandi pitcox",
     "brandi simpson",
@@ -435,7 +375,6 @@ export const config_data = {
     "brittany shupe",
     "brittany wall",
     "britten larue",
-    "brock rozich",
     "brook rollins",
     "brooke cunningham-koss",
     "bryan davis",
@@ -494,7 +433,6 @@ export const config_data = {
     "catherine robert",
     "cathryn brown",
     "cathy forbes",
-    "cathy lisabeth johnson",
     "ce bian",
     "cecile villarreal",
     "cecilia flores",
@@ -503,17 +441,14 @@ export const config_data = {
     "cesar torres",
     "chadwick fuchs",
     "chaitanya sambhara",
-    "chaminda unantenne",
     "chance eary",
     "chandra thompson-donahue",
     "chandrani chatterjee",
-    "chandrashekar dasari",
     "chane rascoe",
     "chang seo",
     "chang-hsien tsai",
     "changhee chun",
     "chaoqun liu",
-    "chaowei wang",
     "charla markham shaw",
     "charles chiasson",
     "charles grand",
@@ -530,31 +465,25 @@ export const config_data = {
     "chava rousch-carlisle",
     "che-chun lin",
     "chen kan",
-    "chen zhong",
     "cheng luo",
     "cheng sheng",
     "cheng-jen chuong",
-    "chengchen mao",
     "chengkai li",
     "chenyun pan",
     "cheryl donaldson",
     "cheryl gordon",
     "cheryl mitchell",
     "cheryl prachyl",
-    "chhabindra gautam",
     "chi-young choi",
     "chien le",
     "chien-hung lai",
     "chien-hung liu",
     "chinyere emeh",
-    "chiranjeevi chepuri",
     "choong-un kim",
     "chris boyer",
     "chris deeter",
-    "chris narkotey hervie",
     "christi gullion",
     "christi morgan",
-    "christi nguyen",
     "christian crowder",
     "christian madu",
     "christian valdes",
@@ -579,10 +508,8 @@ export const config_data = {
     "christopher conly",
     "christopher conway",
     "christopher curcuruto",
-    "christopher dewitt",
     "christopher elliott",
     "christopher evans",
-    "christopher hale",
     "christopher kribs",
     "christopher land",
     "christopher mcguire",
@@ -596,22 +523,17 @@ export const config_data = {
     "chuan-ming liu",
     "chueh-lung hwang",
     "chunke su",
-    "chuzhong zhang",
     "chyng-yang jang",
     "cindy bassey",
     "cindy joffrion moss",
     "cindy malone",
-    "citlalli bailon",
-    "claire bergmann",
     "claire kennedy",
     "claudia pacheco orcasitas",
     "clayton dillard",
     "clayton rogers",
     "cleondria marable",
     "clifton evans",
-    "clinton coelho",
     "clynita grafenreed",
-    "cole tschritter",
     "colette jacquot",
     "colin hogan",
     "colleen risk",
@@ -620,7 +542,6 @@ export const config_data = {
     "connie karvas",
     "connie lowry",
     "connor lidell",
-    "corey chachere",
     "corey roelke",
     "corliss bunkley",
     "cornelia winguth",
@@ -637,7 +558,6 @@ export const config_data = {
     "courtney werner",
     "courtney weston",
     "craig leffer",
-    "cristian garces",
     "cristina salinas",
     "cristina winters",
     "cruz lane",
@@ -650,7 +570,6 @@ export const config_data = {
     "cynthia brenchley",
     "cynthia casey",
     "cynthia garrett",
-    "cynthia griffin",
     "cynthia griffith",
     "cynthia kilpatrick",
     "cynthia koomey",
@@ -663,7 +582,6 @@ export const config_data = {
     "cynthia woody",
     "da'joya barnes",
     "daejong kim",
-    "dafnik saril kumar david",
     "daisha cipher",
     "daisy jones",
     "daisy williams",
@@ -681,7 +599,6 @@ export const config_data = {
     "daniel degges",
     "daniel garcia",
     "daniel giberman",
-    "daniel green",
     "daniel kasper",
     "daniel levine",
     "daniel o'neill",
@@ -697,11 +614,8 @@ export const config_data = {
     "danielle harrell",
     "danielle klein",
     "danielle willis",
-    "dannasri srinivasan",
-    "danny jose",
     "danny rodriguez",
     "danyelle ackall",
-    "daphne allen",
     "dara mccluskey",
     "darcey browning",
     "darin brezeale",
@@ -738,7 +652,6 @@ export const config_data = {
     "david lafevor",
     "david levine",
     "david messersmith",
-    "david miller",
     "david narrett",
     "david nepveux",
     "david nygren",
@@ -773,8 +686,6 @@ export const config_data = {
     "debra mezo",
     "debra phillips",
     "debra woody",
-    "deepika sai chowdary rajaneni",
-    "deepika virendra karade",
     "deidre allison",
     "delaina price",
     "delcenia collins",
@@ -789,9 +700,7 @@ export const config_data = {
     "dennis finley",
     "dennis frailey",
     "dennis maher",
-    "dennisha robinson",
     "deok gun park",
-    "deondela love-blaylock",
     "dereje agonafer",
     "derek mangino sirvent",
     "derelle walker",
@@ -799,12 +708,10 @@ export const config_data = {
     "derinda stewart",
     "derrelynn perryman",
     "desiree burns",
-    "desiree czapski",
     "desiree henderson",
     "destiney kinsey",
     "destiny davis",
     "detra payne",
-    "devadersh girish",
     "deysi delgado",
     "dhruba banjade",
     "di fan",
@@ -821,12 +728,10 @@ export const config_data = {
     "dianne pearman",
     "dianne ross",
     "dianqi han",
-    "diego calderon",
     "diem vuong",
     "digant dave",
     "dimitar grantcharov",
     "dinah houston",
-    "divija surepally",
     "dolores aguilar",
     "don beck",
     "don kelly",
@@ -847,7 +752,6 @@ export const config_data = {
     "donna hamby",
     "donna martinez",
     "donna pirkle",
-    "donna safaddin",
     "donna schuman",
     "donnie reece",
     "donovan lord",
@@ -862,17 +766,12 @@ export const config_data = {
     "douglas klahr",
     "douglas stotter",
     "dragos dancila",
-    "duaa makhoul",
     "dudley smith",
     "dukhyun kim",
-    "durga pramodh kumar jajala",
     "durna alakbarova",
     "dustin harp",
-    "dustin hightower",
     "dustin wheat",
-    "duy thuc nguyen",
     "dylan parks",
-    "easton bryan",
     "edith pineda",
     "edmund prater",
     "eduardo castaneda",
@@ -888,11 +787,9 @@ export const config_data = {
     "edwin mitchell",
     "efrain diaz",
     "efstathios meletis",
-    "egan lobo",
     "eknauth persaud",
     "elanda douglas",
     "elida monteverde",
-    "elisa stehling",
     "elisha tones",
     "elishia featherston",
     "elizabeth deifell",
@@ -915,13 +812,11 @@ export const config_data = {
     "elten briggs",
     "elyse kahler",
     "emarely rosa davila",
-    "emelia hebert",
     "emilio rios-jimenez",
     "emily brooks",
     "emily brown",
     "emily evans",
     "emily fox",
-    "emily jestes",
     "emily jones",
     "emily nwakpuda",
     "emily spaulding",
@@ -929,16 +824,13 @@ export const config_data = {
     "emily warren",
     "emily williams",
     "emma breslauer",
-    "emmanuel emakhue oseghale",
     "emmanuel morales-camargo",
     "emran dorrazehi",
     "en xie",
-    "enamul karim",
     "endel iarve",
     "engin arslan",
     "erhard van deventer",
     "eric bolsterli",
-    "eric cyganowski",
     "eric smith",
     "eric spenk",
     "eric wood",
@@ -983,10 +875,7 @@ export const config_data = {
     "evan mistur",
     "evelyn montgomery",
     "fadiah qudah",
-    "fadul sikder",
     "faezeh soleimani",
-    "fagun thakkar",
-    "fahad danladi",
     "faheem ohri",
     "faith dickerson",
     "fajer jaafari",
@@ -997,33 +886,25 @@ export const config_data = {
     "farhad hassani",
     "farhad kamangar",
     "faria fahim badhon",
-    "fariba kenarangi",
     "farid derisavifard",
     "farnaz farahanipad",
-    "farnood sobhbidari",
     "farnoosh sharbafi",
     "farzaneh eftekhari",
     "fatemeh bagheri",
-    "fatemeh mahmoodimeymand",
     "fatma arslan",
     "fatoumata jallow",
     "faye cocchiara",
     "faysal hossain shezan",
     "federico garza",
-    "federico venturi",
     "feinuo sun",
     "feirong yuan",
     "felicia bertch",
-    "felix lopez chaparro",
-    "feng jiang",
     "fengchun zhao",
-    "fenilkumar prajapati",
     "feraydune kashefi",
     "fernando johnson",
     "fernando melero-garcia",
     "fillia makedon",
     "fletcher coleman",
-    "fnu mohammed abrar ahmed",
     "fnu pratima",
     "francis basebang",
     "franck tchafa",
@@ -1054,12 +935,9 @@ export const config_data = {
     "ganapathiraman raman",
     "gang lei",
     "garret storms",
-    "garrett jensen",
-    "gaurav chajjed mahaveer",
     "gautam das",
     "gautam eapi",
     "genevieve graaf",
-    "geng ni",
     "geoffrey campbell",
     "george agoki",
     "george benson",
@@ -1084,15 +962,11 @@ export const config_data = {
     "gina joaquin",
     "ginny wheeler",
     "giridhar amaravadi",
-    "girish ravi kumar",
     "giselle escalona",
     "glady chow",
     "gladys maryol",
     "glenn wood",
-    "gloria menard",
     "godfred boateng",
-    "gopikrishna pavuluri",
-    "gowtham somaroutu",
     "grace brannon",
     "grace esimai",
     "graham hunt",
@@ -1121,8 +995,6 @@ export const config_data = {
     "haleh hadavand",
     "halen watkins",
     "hallee turner",
-    "hammed mohammadpanah",
-    "hamza reza pavel",
     "hanan boukhaima",
     "hanbo shim",
     "hanh hong thi phan",
@@ -1131,22 +1003,12 @@ export const config_data = {
     "hannah chiasson",
     "hannah lebovits",
     "hannah murphy",
-    "hannah sternadel",
     "hao che",
     "hao xu",
-    "haotian zhang",
     "hari adluru",
-    "harinkumar patel",
-    "harish nambiappan",
-    "haritha asokan sheeja",
     "harold fitzgerald",
-    "harold murphy",
     "harry ho",
-    "harsh chaludia",
-    "hassan alsaud",
     "haydee hall",
-    "hayden atchison",
-    "hayden dubois",
     "he dong",
     "heath macdonald",
     "heather arterburn",
@@ -1173,7 +1035,6 @@ export const config_data = {
     "hildegard lombardo",
     "hildelisa diaz",
     "himan hojat jalali",
-    "himanshu khatri",
     "holli slater",
     "hollie dyer",
     "holly behl",
@@ -1183,20 +1044,16 @@ export const config_data = {
     "holly williams",
     "homa parsaiyan",
     "hongguang xi",
-    "honghui wu",
     "hongwei wang",
-    "hope johnson",
     "hope mccarthy",
     "hori pada sarker",
     "hossein badri",
-    "houda chamseddine",
     "howard russell",
     "howard vo",
     "hrishabh khakurel",
     "hristo kojouharov",
     "hsin-yi liao",
     "hsiu-i ting",
-    "huadi zhu",
     "hugh kellam",
     "hui cao",
     "hui huang",
@@ -1214,17 +1071,13 @@ export const config_data = {
     "ian gillis",
     "ian lim",
     "ian maynard",
-    "ian raybon",
-    "ian shortt",
     "ida klang",
     "ifeyimika ogunyomi",
     "ignacio ruiz-perez",
     "ijaz haq",
-    "ikechukwuka ofili",
     "ikram eloualid",
     "immaculate okeyo",
     "imre demhardt",
-    "ingrid guerrero-rodriguez",
     "insung kang",
     "ioannis schizas",
     "iran mejia",
@@ -1232,30 +1085,20 @@ export const config_data = {
     "irma mireles",
     "isabel montemayor",
     "isabel zaera",
-    "isaiah sigala",
-    "ishaan yogesh dharashivkar",
     "ishfaq ahmad",
-    "ishraq sarid mohammed",
-    "ishrat borno",
-    "israel elujide",
     "ivonne audirac-zazueta",
     "ivy hauser",
     "iya price",
-    "izabella russell",
     "jaci mester",
     "jack henderson",
     "jack philips",
     "jack poe",
     "jack unzicker",
-    "jack wehmeier",
     "jackline opollo",
     "jackquelyn williams",
-    "jackson liller",
     "jaclyn kirsch",
     "jaclyn mejia",
-    "jacob devasier",
     "jacob farr",
-    "jacob gerber",
     "jacob lamotte-dawaghreh",
     "jacob lowe",
     "jacob luber",
@@ -1266,16 +1109,12 @@ export const config_data = {
     "jacqueline michael",
     "jacqueline smith",
     "jacquelyn cato",
-    "jade chacon",
-    "jade pierce",
     "jaehoon kim",
     "jaehoon yu",
     "jagruti hobart",
-    "jahnavi reddy alchala",
     "jaime cantu",
     "jamar jones",
     "james alvarez",
-    "james breen",
     "james davis",
     "james doty",
     "james fagan",
@@ -1313,7 +1152,6 @@ export const config_data = {
     "janet davidson",
     "janet finch",
     "janet kassabian",
-    "janet makori",
     "janet mclean",
     "janet sewell",
     "janeth peterson",
@@ -1327,19 +1165,15 @@ export const config_data = {
     "jason cantrell",
     "jason halbert",
     "jason hogue",
-    "jason jennings",
     "jason losh",
     "jason shelton",
     "jason wheeler",
-    "javier blanco",
     "jawel lemons",
     "jay duffer",
-    "jay ransom",
     "jay rosenberger",
     "jay tillerson",
     "jaya davis",
     "jayarajan samuel",
-    "jayson small",
     "jazmin chinea",
     "jazmyn barajas-trujillo",
     "jean fernandes",
@@ -1385,10 +1219,8 @@ export const config_data = {
     "jennifer sterling",
     "jennifer strand",
     "jennifer sutton",
-    "jennifer taylor",
     "jennifer watters",
     "jennifer wellman",
-    "jenny rashall",
     "jeong ki",
     "jeotikanta mohapatra",
     "jerald kunkel",
@@ -1419,7 +1251,6 @@ export const config_data = {
     "jessica sanchez",
     "jessica sennett",
     "jessica smith",
-    "jessica stephens",
     "jessica williams",
     "jesus carrasco",
     "jesus gonzalez",
@@ -1467,12 +1298,10 @@ export const config_data = {
     "joan reinhardt",
     "joann grimes",
     "joanna johnson",
-    "joanne mathew",
     "joanne rinker-dozier",
     "jocelyn hansen",
     "jodi tommerdahl",
     "jodi treszoks",
-    "jodiann phillips",
     "jodie moore",
     "jody greaney",
     "joe chapa",
@@ -1511,7 +1340,6 @@ export const config_data = {
     "jonathan broyles",
     "jonathan eyer",
     "jonathan leer",
-    "jonathan moebius",
     "jonathan sanford",
     "jonathan steplyk",
     "jongyun heo",
@@ -1523,14 +1351,12 @@ export const config_data = {
     "jordan dugger",
     "jordan kirby",
     "jordan moore",
-    "jordan woods",
     "jordan zaidi",
     "jorge garza",
     "jorge martinez garcia",
     "jose antunez",
     "jose ayala-rodriguez",
     "jose lozano",
-    "jose medina",
     "jose mendez monge",
     "joseph boll",
     "joseph buonomo",
@@ -1538,7 +1364,6 @@ export const config_data = {
     "joseph guillory",
     "joseph hanson",
     "joseph landy",
-    "joseph mruzek",
     "joseph ngai",
     "joseph portugal",
     "joseph sabbagh",
@@ -1547,7 +1372,6 @@ export const config_data = {
     "joseph wolfer",
     "josephine ryan",
     "joshua canipe",
-    "joshua chi",
     "joshua crowell",
     "joshua dombrowsky",
     "joshua hallett",
@@ -1570,12 +1394,10 @@ export const config_data = {
     "juan balderrama",
     "juan carlos higuera",
     "juan carlos olivar gomez",
-    "juan peirce",
     "juan silva",
     "juana perez",
     "juanita flint",
     "juanita nickols",
-    "judith flanagan",
     "judy leflore",
     "judy wilson",
     "juhyun lee",
@@ -1614,7 +1436,6 @@ export const config_data = {
     "kacey slone",
     "kaci o'donnell",
     "kaelie mcknight",
-    "kaitlin killian",
     "kaitlin mathew",
     "kaitlyn pederson",
     "kaiyue liu",
@@ -1627,14 +1448,12 @@ export const config_data = {
     "kara bragg",
     "kara dueweke",
     "karabi bezboruah",
-    "karan rajpal",
     "karan staggers",
     "karen allmond",
     "karen beasley",
     "karen bravo",
     "karen draves",
     "karen kenaston-french",
-    "karen liddy",
     "karen magruder",
     "karen martin",
     "karen matsler",
@@ -1644,22 +1463,15 @@ export const config_data = {
     "karen scott",
     "karis bishop",
     "karishma chatterjee",
-    "karissa cordero",
     "karl backs",
     "karla arenas-itotia",
     "karla smith-lucas",
     "karley adrion",
     "karthik ayodhiramanujan",
-    "karthik senthilkumar",
-    "karthikah tharmakulasingham",
     "karthikeyan loganathan",
-    "kartikey sharan",
     "kary johnson",
-    "kashif asim mohammed",
     "kashiris perryman",
-    "kasra naseri",
     "kassandra buck",
-    "kate nguyen",
     "katerina verguelis",
     "katharine adams",
     "katherine abelanet",
@@ -1687,7 +1499,6 @@ export const config_data = {
     "kathryn sams",
     "kathryn warren",
     "kathy aslin",
-    "kathy drescher",
     "kathy goad",
     "kathy hays-stang",
     "kathy siepker",
@@ -1695,13 +1506,11 @@ export const config_data = {
     "katie roth",
     "katrina nuncio",
     "kaushik de",
-    "kaustubh adsul",
     "kawalpreet kaur",
     "kay yut chen",
     "kayla canelo sandoval",
     "kayla kassakatis",
     "kayunta johnson-winters",
-    "kazi shahid",
     "keaton hamm",
     "keiana crain",
     "keith anderson",
@@ -1722,14 +1531,12 @@ export const config_data = {
     "kelly french",
     "kelly gebhart",
     "kelly huffman",
-    "kelly johnson",
     "kelly lee",
     "kelly meier",
     "kelly o'keefe",
     "kelly patterson",
     "kelly stowell",
     "kelly welch",
-    "kelsey beavers",
     "kendra eggleston",
     "kendra slatton",
     "kendra tevis",
@@ -1742,13 +1549,10 @@ export const config_data = {
     "kenshara cravens",
     "kent kerley",
     "kent lawrence",
-    "kentesha high",
     "kenton rambsy",
     "kenya freeny",
     "kenyatta dawson",
     "kenyon zimmer",
-    "kepler antony john pinto",
-    "keren bonzele",
     "keri draganic",
     "ketevan karukhnishvili",
     "kevin barlow",
@@ -1761,20 +1565,13 @@ export const config_data = {
     "kevin sloan",
     "kevin smant",
     "kexin ding",
-    "key tse",
-    "khaled ahmed",
-    "khaled saleh khaled abuhishmeh",
     "khan md haque",
     "khandakar mahmud",
-    "khang pham",
-    "khanh le",
-    "khiem tran do",
     "khoa nguyen",
     "khosrow behbehani",
     "kim amyett",
     "kim jones",
     "kim moss-linnear",
-    "kimaya vyavhare",
     "kimberly barnett",
     "kimberly bates",
     "kimberly bowles",
@@ -1787,20 +1584,16 @@ export const config_data = {
     "kimberly hilmer",
     "kimberly mortus",
     "kimberly newcomer-fitzpatrick",
-    "kimberly saulters",
     "kimberly sava",
     "kimberly thompson",
     "kimberly watson",
     "kimshi hickman",
     "kindra mcwilliam-ross",
-    "kiran bolaj",
     "kirsten drake",
     "kirsti landels",
     "kiva harper",
     "klaudia cop-akin",
-    "koladele balogun",
     "koshy vaidyan joseph",
-    "krishna kodur",
     "krishnan mistry",
     "krishnan rajeshwar",
     "krista rettig",
@@ -1823,10 +1616,8 @@ export const config_data = {
     "krystal beamon",
     "krystle garrett",
     "kuan-ting lai",
-    "kunal mahesh misal",
     "kwan kyun joo",
     "kwangho nam",
-    "kyden pham",
     "kyeong rok ryu",
     "kyle turner",
     "kyrah brown",
@@ -1884,10 +1675,8 @@ export const config_data = {
     "lauri jensen-campbell",
     "laurie land",
     "laurie taylor",
-    "laveeza ahmad",
     "lavell johnson",
     "lawrence chonko",
-    "leah bouas",
     "leah mazur",
     "leah mccurdy",
     "leah wilson",
@@ -1895,7 +1684,6 @@ export const config_data = {
     "lee schwemer",
     "lee sulkin",
     "leeann burke",
-    "lei di",
     "lei hua",
     "leigh griffis",
     "leigh griffis-cogan",
@@ -1914,23 +1702,19 @@ export const config_data = {
     "lewis wasserman",
     "li sun",
     "li wang",
-    "li zhang",
     "li-chin ho",
     "li-ya mar",
     "liang-chih liu",
-    "lijing cui",
     "lijing ye",
     "lilian chavez",
     "liliana morales",
     "liliana nordtvedt",
-    "lin sun",
     "linda anderson",
     "linda barasch",
     "linda bishop",
     "linda grande",
     "linda oni",
     "linda perrotti",
-    "linda trowbridge",
     "linda wilson",
     "lindsay adkins",
     "lindsay hermsdorfer",
@@ -1945,16 +1729,12 @@ export const config_data = {
     "lisa graham",
     "lisa jeon",
     "lisa lunsford",
-    "lisa nummi",
     "lisa sheppard-goodlett",
     "lisa skultety",
     "lisalee egbert",
     "liwei zhang",
     "liwei zhou",
     "logan watts",
-    "lohitha kurapati",
-    "long ngoc vu",
-    "long nguyen",
     "long thai bui",
     "lonny harrison",
     "loree elliott",
@@ -1974,17 +1754,14 @@ export const config_data = {
     "lourdes bueno",
     "lowell davis",
     "lowell waite",
-    "lu zhang",
     "lu zhu",
     "luanne frank",
     "luca maddalena",
     "lucas farris",
     "lucy bartholomee",
     "luis aguirre",
-    "luis andres nieves casique",
     "luis macias barrientos",
     "luis perez cortes",
-    "luis perez mijares",
     "luis plascencia",
     "luis romero",
     "luis rosado",
@@ -1992,7 +1769,6 @@ export const config_data = {
     "luke flattery",
     "luke frishkoff",
     "luke roelofs",
-    "luqman arshad charolia",
     "ly-huong barrett",
     "lydia harris",
     "lydia towns",
@@ -2003,42 +1779,29 @@ export const config_data = {
     "madan mehta",
     "madeleine miller",
     "madhab pokhrel",
-    "madhura manjunath hegde",
     "madhuri arjun",
-    "madison gage",
-    "mahal kita hurst",
-    "mahima majethia",
     "mahmoud bayat",
     "mahmoud jawad",
     "mahmud rahman",
     "mahmut yasar",
     "mahnaz paydarzarnaghi",
     "mahsa samadi darafshani",
-    "mahshid haque",
     "mahyar sharif vaghefi",
     "majed al-ghafry",
     "majie fan",
-    "maksim larionov",
-    "malcolm branch",
     "malgosia wilk-blaszczak",
-    "malu deav devadasan",
-    "manas paul",
     "manfred cuntz",
     "manfred huber",
     "manhui jin",
-    "manish munikar",
     "manjarik mrinal",
     "manjeri raja",
-    "manoochehr rabiei",
     "mansi patel",
     "mansoureh sheikhi",
-    "manu sai kamarapu",
     "maoran zhu",
     "marc mccollom",
     "marcel rodriguez",
     "marcela nava",
     "marcela reyes",
-    "marcia monghate",
     "marcus crawford",
     "marcus hendershot",
     "maresia davis",
@@ -2058,7 +1821,6 @@ export const config_data = {
     "maria martinez-cosio",
     "maria scannapieco",
     "maria trache",
-    "marian awadalla",
     "marianne doan",
     "maricela helm",
     "marie hartono",
@@ -2068,7 +1830,6 @@ export const config_data = {
     "marilin jakubowske",
     "marilyn roberts",
     "marilyn soto",
-    "marion kopulos",
     "marisa gomez",
     "marius pfeiffer",
     "marjan moradi",
@@ -2084,7 +1845,6 @@ export const config_data = {
     "mark pellegrino",
     "mark reeder",
     "mark ricard",
-    "mark sosebee",
     "mark tremayne",
     "marla white",
     "marlon sanders",
@@ -2129,7 +1889,6 @@ export const config_data = {
     "matthew fujita",
     "matthew herring",
     "matthew hirst",
-    "matthew meloche",
     "matthew nicolette",
     "matthew robison",
     "matthew sargent",
@@ -2144,22 +1903,15 @@ export const config_data = {
     "maxine geltmeier",
     "maysaa hamdan",
     "maziar mahdavi",
-    "md abdullah",
-    "md arifur rahman",
-    "md ashaduzzaman rubel mondol",
-    "md ashraful imran",
     "md azijul islam",
     "md hasanuzzaman noor",
     "md helal",
     "md hossain",
-    "md humaun kobir",
     "md mahmudur rahman",
     "md nazmus sakib",
     "md rassel raihan",
-    "md sabid ahamed",
     "md salik parwez",
     "md shams razi shopnil",
-    "md tareque hassan mukut",
     "meagan rogers",
     "medhat saleh",
     "meesha jones",
@@ -2173,8 +1925,6 @@ export const config_data = {
     "meghna tare",
     "mehdi farahbakhsh",
     "mehran azizian",
-    "mehul ganjude",
-    "mehulkumar chauhan",
     "mei yang",
     "melanie akon",
     "melanie mason",
@@ -2185,7 +1935,6 @@ export const config_data = {
     "melinda long",
     "melinda mcvay",
     "melissa bosma",
-    "melissa farrell",
     "melissa flores",
     "melissa franklin",
     "melissa glenn",
@@ -2198,12 +1947,9 @@ export const config_data = {
     "melissa walsh",
     "melynda hutchings",
     "meng yang",
-    "mengfei ren",
     "mengqi zhan",
-    "mengxiao wang",
     "meredith billings",
     "meredith decker",
-    "meredith fisher",
     "meredith knight treminio",
     "merlynd nestell",
     "merry jett",
@@ -2237,7 +1983,6 @@ export const config_data = {
     "michael prachyl",
     "michael quaglieri",
     "michael raines",
-    "michael read",
     "michael richarme",
     "michael roner",
     "michael scogin",
@@ -2274,45 +2019,25 @@ export const config_data = {
     "miriam byrd",
     "misty lawrence",
     "misty stasney",
-    "mitali gautam",
     "mitali mandlekar",
-    "mitchell falgoust",
     "mitchell meltzer",
     "mithila chakraborty",
-    "mitra fereidoonfar",
-    "mohamed sarfaras jafarulla khan",
-    "mohammad abu nasir rakib",
     "mohammad adnan rajib bhuiyan",
-    "mohammad ahnaf shahriar",
-    "mohammad aman ullah al amin",
     "mohammad ganjizadeh",
-    "mohammad hasnain mehdvi",
     "mohammad islam",
-    "mohammad jaberizadeh",
     "mohammad jahanbakht",
     "mohammad karimi sani",
     "mohammad murad",
     "mohammad najafi",
-    "mohammad rashidi",
-    "mohammad rezaei",
-    "mohammad sadegh nasr",
-    "mohammad samiul arshad",
-    "mohammad shaito",
-    "mohammad zakizadehghariehali",
-    "mohammed farhan",
     "mohammed nour",
-    "mohammed saad mohiuddin",
     "mohd mezanur rahman",
     "mohit singhal",
     "mohsen gheibi",
-    "mohsen talebsafa",
     "molly cummins",
-    "momen qasaimeh",
     "mona lincoln",
     "monica brown",
     "monica de la fuente iglesias",
     "monica marchi",
-    "monica massey",
     "monique huntley",
     "monty mcmahen",
     "morgan chivers",
@@ -2322,17 +2047,12 @@ export const config_data = {
     "mortaza pirouz",
     "mory eddy coulibaly",
     "mostafa ghandehari",
-    "mudra vithalbhai patel",
     "muhammad huda",
-    "muhammad intesarul haque",
-    "muhammed jawaad zulqernine",
-    "muhammed shameem kakkattuparambil",
     "murray miller",
     "mushuang liu",
     "myrna reyna",
     "myrsini maglogianni",
     "myrtle bell",
-    "na nguyen",
     "na-li kim",
     "nabil raad",
     "nabin chapagain",
@@ -2340,7 +2060,6 @@ export const config_data = {
     "nadra guizani",
     "nagham alatrash",
     "nahum torres",
-    "naje huff",
     "najia alameddin",
     "nancy england",
     "nancy greene",
@@ -2359,7 +2078,6 @@ export const config_data = {
     "narjes abbasabadi",
     "narjes sadeghiamirshahidi",
     "nasiha muna",
-    "nasim shirvani mahdavi",
     "natalia eunice trigo acuna",
     "natalie gaupp",
     "natalie johnson",
@@ -2368,13 +2086,9 @@ export const config_data = {
     "natalliette richards",
     "natasha shelley",
     "nathan brown",
-    "nathan fusselman",
     "nathanael oreilly",
     "nathaniel goodwin",
-    "natnael asfaw",
-    "nazal naeem mohammed",
     "nazanin ghaffari",
-    "nazmee parveen",
     "nazmun akter pia",
     "neda ghazipour",
     "negin fraidouni",
@@ -2384,34 +2098,23 @@ export const config_data = {
     "nethali fernando",
     "nevin weinberg",
     "nibedita shrestha",
-    "nice kaneza",
     "nicholas gans",
     "nicholas mitchell",
     "nicholas nicklin",
     "nicholas pollock",
     "nicholas smith",
-    "nicholas tyler",
     "nicholas wood",
     "nichole horn",
-    "nicke wilson",
-    "nicolaus jennings",
     "nicole bernard",
     "nicole garner",
-    "nicole hawkins",
     "nicole moler",
     "nicole nguyen",
     "nicolette hass",
     "nicolina taylor",
-    "nihar gharat",
     "nijal munankarmi",
-    "nikhil dumbre",
     "nikhil singh yaduvanshi",
-    "nikhitha adepu",
-    "nikil nandha selvaraj",
     "nil pandey",
-    "nilakshi dey",
     "nilakshi veerabathina",
-    "nilambari bansode",
     "niles haich",
     "nilo tsung",
     "niloofar ghorbani",
@@ -2419,12 +2122,7 @@ export const config_data = {
     "niloy gupta",
     "nima vafai",
     "nimet anwar",
-    "nimisha budhwani",
-    "niraj keshav bhoir",
-    "nizar najmeddine",
-    "no instructor attached to section no instructor attached to section",
     "noami cavett",
-    "noel johnson",
     "noelle fields",
     "nomaan mufti",
     "nora ameri",
@@ -2434,8 +2132,6 @@ export const config_data = {
     "nur yazdani",
     "nusrat chowdhury",
     "nyoka florius",
-    "nyssa jaine villacorta",
-    "obed gonzalez hurtado",
     "obiageli lawrentia ngwu",
     "odunze oguguo",
     "olamide temitope olajuwon ige",
@@ -2446,11 +2142,8 @@ export const config_data = {
     "oluwatosin adebiyi",
     "omar valdez rocha",
     "omid habibzadeh bigdarvish",
-    "omkar shrikant gawade",
     "omobolanle fenny",
-    "oscar valdez loya",
     "oswald jenewein",
-    "otto wilkinson",
     "owen parker",
     "oyinkansola oreoluwa sodiya",
     "ozge inal",
@@ -2458,7 +2151,6 @@ export const config_data = {
     "pamala hull",
     "pamela duffey",
     "pamela fox",
-    "pamela gonzalez caraballo",
     "pamela hill",
     "pamela johnson",
     "pamela malone",
@@ -2468,15 +2160,11 @@ export const config_data = {
     "panagiotis danoglidis",
     "panayiotis shiakolas",
     "parimal patel",
-    "parisa beigvand",
-    "parth lahane",
-    "parth vasant",
     "patrice green",
     "patricia allard",
     "patricia brooks",
     "patricia eddings",
     "patricia ellington",
-    "patricia guerrero hernandez",
     "patricia jones",
     "patricia mann",
     "patricia martin",
@@ -2496,7 +2184,6 @@ export const config_data = {
     "patsy gordon",
     "patti finch",
     "patti parker",
-    "paul agbaje",
     "paul chippindale",
     "paul componation",
     "paul conrad",
@@ -2514,10 +2201,8 @@ export const config_data = {
     "paula wyman",
     "paulette brody",
     "pauline hudel smith",
-    "pavan tejaa dharmisetty",
     "pawarat bootpakdeetam",
     "peace ossom",
-    "pearl iyayi",
     "pedro maia",
     "peggy kulesz",
     "peggy semingson",
@@ -2538,32 +2223,16 @@ export const config_data = {
     "ping han",
     "ping liu",
     "piya ghose",
-    "po en su",
     "poco kernsmith",
-    "pooja kakde",
-    "pooja patel",
-    "poojitha thota",
-    "poorvi pandey",
     "pradip som",
-    "prajwal srinivas murthy",
     "prakash menon",
-    "pranavkumar raviya",
     "praneetha addada",
-    "pranjol sen gupta",
-    "prarthana guha",
-    "pratik raghu poojari",
-    "pravin rijal",
-    "prerana bangera",
     "presley gore",
     "priscila tamplain",
-    "prithiviraj eswaramoorthy",
     "priyanjali chakraborty",
-    "priyanka emani",
-    "priyanka shiveshwarkar",
     "puloma chakrabarty",
     "purnendu dasgupta",
     "purvi patel",
-    "pushkar kiran gothe",
     "pushpa shrestha",
     "puspa mahapatra",
     "pyayt oo",
@@ -2578,15 +2247,10 @@ export const config_data = {
     "qing lin",
     "qinhong hu",
     "qisheng pan",
-    "qiyuan an",
     "quainshonda suber",
-    "quynh nguyen",
     "r mcwilliams",
     "raad azzawi",
-    "rabin bhandari",
-    "rabina acharya",
     "rachael mariboho",
-    "rachana ramireddy",
     "rachel baldridge",
     "rachel franz",
     "rachel haber",
@@ -2602,14 +2266,6 @@ export const config_data = {
     "raeonne elliott",
     "rafal czajkowski",
     "rafiul shihab",
-    "raghavendra lakkam",
-    "rahil ahmed qureshi",
-    "rahul garg",
-    "rainah adkins",
-    "raj jatinkumar modi",
-    "rajat mahadeo katekar",
-    "rajnandini patil",
-    "rajvardhan dhananjay desai",
     "ralph gibbs",
     "ramakrishna koganti",
     "ramez elmasri",
@@ -2624,28 +2280,19 @@ export const config_data = {
     "randall goode",
     "randall napier",
     "ranjan dash",
-    "ranjith rajagopalan",
-    "rao waqas ali",
     "raquel castillo fernandez",
     "raquita weeks-lee",
     "rashaan deshay",
     "rashidat ayinla olagunju",
-    "rashmitha gaddam",
     "rashunda johnson",
     "rasika dias",
     "rasool kenarangui",
     "ratan kumar",
     "raul fernandez",
     "ravi badrachalam",
-    "ravi chand batchu",
-    "ravi gyawali",
-    "rawad saab",
     "ray mcgaughey",
     "ray-e chang",
-    "razieh nourmohammadi",
     "razieh tavakoli",
-    "raziye aghapour",
-    "reagan miller",
     "rebecca boles",
     "rebecca bryant",
     "rebecca chance",
@@ -2663,7 +2310,6 @@ export const config_data = {
     "rebekah aduddell",
     "rebekah chojnacki",
     "rechelle christie",
-    "reeha desai",
     "reem shishakly",
     "regina praetorius",
     "regina urban",
@@ -2673,19 +2319,12 @@ export const config_data = {
     "ren-cang li",
     "rene mccormick",
     "renee miphouvieng",
-    "reshma chandrasekharan",
-    "retty george",
-    "revathy ramamoorthy",
     "revenor baker",
-    "reyad madee ibrahim al khazalah",
     "reyhan rzayeva",
-    "reza massah",
-    "rhitu thapa",
     "rhonda hudson",
     "rhonda prisby",
     "rhonda shaw",
     "rhonda winegar",
-    "rhugdhrivya rane",
     "ricardo gonzalez",
     "ricardo leon",
     "ricardo munoz",
@@ -2703,7 +2342,6 @@ export const config_data = {
     "ricka mammah",
     "rickey bogard",
     "rickey mays",
-    "rishil nareshkumar patel",
     "ritesh saini",
     "ritu khanduri",
     "riyaz sikora",
@@ -2741,12 +2379,7 @@ export const config_data = {
     "roger gans",
     "roger meiners",
     "roger wehr",
-    "rohan pramod mandrekar",
-    "rohan s bhandikeri",
     "rohit agarwal",
-    "rohit kumar suthar",
-    "rohit pulimidi",
-    "rojasadat sharifian",
     "ronald cross",
     "ronald liggett",
     "ronald montgomery",
@@ -2761,66 +2394,32 @@ export const config_data = {
     "rose julian",
     "rosemary bell",
     "rosie kallie",
-    "rowena yates",
-    "rowshon ara mannan munny",
     "roxanna latifi-santos",
     "roxanne zascavage",
     "roy rudewick",
     "roya etminanighasrodashti",
-    "roz javadi zadeh",
     "rozsa zaruba",
     "rufel ramos",
     "ruochen liao",
-    "rupasri lankapothu",
     "russell bartholomee",
     "russell sanders",
     "ruth gornet",
     "ruth roberts",
-    "ruthya chikkaputte gowda",
-    "rutuja dukhande",
     "ryan brading",
-    "ryan burk",
     "ryan callahan",
     "ryan haines",
-    "ryan hart",
-    "ryan holden",
-    "ryan madigan",
     "ryan sims",
     "ryan tehrani",
-    "rylee linhardt",
-    "s m ashik al aziz",
-    "saahithi manda",
-    "saba ruhee jagirdar",
     "saber ahmed",
     "sabine harvey",
-    "sachan johny",
-    "sachin muddam",
     "sadia rattani",
-    "saeed asadi",
     "saeed niyati",
     "saeed reza ramezanpour nargesi",
     "safiyah abdullah",
-    "sagar pawar",
-    "sagar roka",
-    "sagar surendran",
-    "sahana balakrishna",
-    "sahana umesh patil",
     "sahar sattarzadeh",
-    "sai bharadwaj reddy chandupatla",
-    "sai charan goud vanga",
-    "sai chetan karnam",
-    "sai kiran uradi",
     "sai krishna pinnamaneni",
-    "sai sashank audipudi",
-    "sai sneha channamallu",
-    "sai surya sasank nekkanti",
-    "sai vinay nekkalapu",
-    "sai vyshnavi telikepalli",
     "saibun tjuatja",
-    "saif sayed",
     "saiful chowdhury",
-    "saifullah khalid",
-    "sainath indupuri",
     "sajib barman",
     "sajib datta",
     "sakinat izuagbe",
@@ -2836,22 +2435,12 @@ export const config_data = {
     "samantha cornelius",
     "samantha oliphint",
     "samantha sabatino",
-    "sambhav jain",
-    "sambriddhi adhikary",
-    "samira hamzehei",
     "sampoorna nandi",
-    "samrat chaulagain",
-    "samson adejokun",
     "samuel blackwell",
     "samuel fatzinger",
-    "samuel fuentes",
     "samuel garner",
     "samuel lauman",
     "samuel smith",
-    "samyam santosh",
-    "sandeep james",
-    "sandeep satyanarayan yadav",
-    "sandesh amgai",
     "sandra adams",
     "sandra balderas",
     "sandra espinoza",
@@ -2862,20 +2451,13 @@ export const config_data = {
     "sandra westmoreland",
     "sandy harris",
     "sangwook park",
-    "sanika acharekar",
-    "sanika doolani",
-    "sanjgna karthick",
     "sanjiv sabherwal",
-    "sanjivni rana",
-    "sankarshana harish rao",
-    "santosh giri",
     "santoso budiman",
     "sara duvall",
     "sara frick",
     "sara jaquay",
     "sara martin",
     "sara moore",
-    "sara reh",
     "sara skiles-dutoit",
     "sara washington",
     "sarah booker",
@@ -2885,24 +2467,17 @@ export const config_data = {
     "sarah hawkins",
     "sarah herrera",
     "sarah kunce",
-    "sarah lee",
     "sarah nigliazzo",
     "sarah rose",
     "sarah shelton",
     "sarah su lin lee",
     "sarah teubner",
     "sarah-marie horning",
-    "sarker nadir afridi azmi",
     "sasha jones",
-    "satyam shukla",
     "saul covarrubias",
     "saurabh ambulkar",
-    "saurabh gulab marne",
-    "saurabh kumar",
     "sayda major",
-    "sayyam papalkar",
     "schuyler beecher",
-    "scott booth",
     "scott coleman",
     "scott hilton",
     "scott johnson",
@@ -2911,7 +2486,6 @@ export const config_data = {
     "scott palmer",
     "scott yarbrough",
     "sean hooks",
-    "sean menezes",
     "sean morrison",
     "sean woodard",
     "sedrick huckaby",
@@ -2925,12 +2499,9 @@ export const config_data = {
     "sergio de leon",
     "sergio espinosa",
     "seungmug lee",
-    "sevda jannatdoust",
     "seyed missagh shamshiri guilvayi",
     "seyed mohsen shahandashti",
     "seyedali abolmaali",
-    "seyedmohsen vaziri",
-    "seyyed mohammad sadegh moosavi khorzooghi",
     "shaban al-refai",
     "shadi nazarian",
     "shadiah jawad",
@@ -2938,16 +2509,12 @@ export const config_data = {
     "shafaq moten",
     "shah md imran kabir",
     "shaher rababeh",
-    "shaher yaar khan",
     "shahriar shahabuddin",
-    "shahriyar al mamun",
     "shakerra brown",
-    "shalabh bajaj",
     "shamika brooks",
     "shamila sivakumaran",
     "shamsuddin bharwani",
     "shamsun nahar",
-    "shan hazoor",
     "shan sun-mitchell",
     "shana martin",
     "shane dubay",
@@ -2957,22 +2524,17 @@ export const config_data = {
     "shannon carey",
     "shannon dougrey",
     "shanru tian",
-    "sharan allen",
     "sharareh kermanshachi",
-    "sharel cornelius",
-    "sharela stafford",
     "shari khorsandi",
     "sharleen flowers",
     "sharolyn dihigo",
     "sharon blackerby",
     "sharon brown",
     "sharon jones",
-    "sharon macharla",
     "sharon martin",
     "sharon odum",
     "sharon strock",
     "sharon wilson",
-    "shashank gandhi",
     "shashi minchael",
     "shaun hamill",
     "shaun house",
@@ -2980,16 +2542,12 @@ export const config_data = {
     "shawn christensen",
     "shawn gieser",
     "shawn marie herring",
-    "shawn scoggin",
     "shawn tindell",
-    "shayan sharifzad",
     "shayla buckler",
     "shayla green",
     "sheik imrhan",
-    "sheikh nazib ahmed",
     "sheila ford",
     "sheila gold",
-    "shekhar madhav khairnar",
     "shelley barclay",
     "shelley smith",
     "shelley wigley",
@@ -3005,51 +2563,29 @@ export const config_data = {
     "shicobie adams",
     "shih-chang lin",
     "shih-ho chao",
-    "shilpa more",
     "shingchern you",
     "shiny raju",
     "shira love",
     "shirin hosseini shirvani",
     "shirin nilizadeh",
-    "shirisha velineni",
     "shirley aycock",
-    "shiva bhaskar maram",
     "shiyao lin",
     "shona smith",
     "shouming chen",
     "shouyi wang",
     "shreebha kafle",
     "shreshtha chaturvedi",
-    "shreyas varma pusapati",
-    "shreyosi endow",
-    "shruti singh",
-    "shrutika ravindra chaudhari",
-    "shu kang",
     "shu-kai fan",
     "shu-ming tseng",
-    "shuaihua zhao",
     "shuang gou",
-    "shubham arun malankar",
-    "shubham dilip patil",
-    "shubham raosaheb gunjal",
-    "shubham suresh wankhede",
-    "shubham yuvraj fulzele",
     "shuchisnigdha deb",
     "shujie kang",
     "shuo wang",
-    "shweta dipak shah",
-    "siddhi anil shrotri",
     "siddhi ramanand nair",
     "sima jannati",
     "simeen ishaque",
     "sina famili",
-    "sindoora ravikumar murthy",
     "sindy gonzalez",
-    "siyu zhou",
-    "sm mazharul islam",
-    "smita suresh jadhav",
-    "snehitha kodali",
-    "soham umbrajkar",
     "sok ju kim",
     "solange boma",
     "solymar torres-garcia",
@@ -3068,27 +2604,16 @@ export const config_data = {
     "sophie spruce",
     "soumaya gharsallaoui",
     "soumik mohian",
-    "soumya sangireddy",
-    "sourabh patil",
     "southern ellis",
     "souvik roy",
     "sowmya rao",
-    "sowmya srinivasa",
     "spencer fraseur",
     "srabastee de bhaumik",
-    "sravani lankipalli",
     "srecko joksimovic",
     "sreehas gopinathan",
     "sridhar nerur",
-    "srinath thirugnanasambandamurthy",
-    "srinija katakam",
-    "srinivas madhurabaratula",
     "srinivas prabakar",
-    "srinivasan murali",
     "sriram villupuram",
-    "srividya ramachandra",
-    "sriya mishra",
-    "sruthy shah",
     "stacey almond",
     "stacey jackson",
     "staci swiney",
@@ -3096,7 +2621,6 @@ export const config_data = {
     "stanley seat",
     "stefan romanoschi",
     "stefanie tanner",
-    "stelly tomy",
     "stephanie bonilla",
     "stephanie books",
     "stephanie cole",
@@ -3104,13 +2628,11 @@ export const config_data = {
     "stephanie escudero",
     "stephanie henry",
     "stephanie mitchell",
-    "stephanie ramirez",
     "stephanie rasmussen",
     "stephanie rush",
     "stephanie sealy",
     "stephanie spohr",
     "stephen berg",
-    "stephen campbell",
     "stephen doerfler",
     "stephen holland",
     "stephen knowles",
@@ -3120,7 +2642,6 @@ export const config_data = {
     "stephen van noy",
     "stephen wilkes",
     "steve isbell",
-    "steve manoj varghese",
     "steven alferink",
     "steven eldridge",
     "steven gellman",
@@ -3132,31 +2653,21 @@ export const config_data = {
     "stockton helbing",
     "stoddard rosenkrantz",
     "subharag sarkar",
-    "subhash chand",
     "subhash singhal",
     "subhra patra",
     "subhrangsu mandal",
     "sudip hazra",
-    "sudip thapa",
     "sueanne baddour",
     "suhad sadik",
     "suji john",
-    "sujit maharjan",
     "sumaia alamoudi",
-    "suman das adhikary",
-    "suman gudikandula",
     "suman satyal",
-    "sumathi rani manukonda",
     "sumit trivedi",
-    "sunaini talanki",
     "sunakshi hada",
     "sunand santhanagopalan",
     "sung shun weng",
     "sungyong jung",
     "sunil sahi",
-    "suraj dhananjay jagdhane",
-    "surya venkatraman",
-    "suryam sharma",
     "susan clark",
     "susan dancer",
     "susan eddlemon villalobos",
@@ -3165,29 +2676,21 @@ export const config_data = {
     "susan justice",
     "susan midwood",
     "susan norman",
-    "susan wells",
     "susanna khavul",
     "susanny beltran",
-    "susav shrestha",
-    "sushmitha cherukuri",
-    "sushrut kinhekar",
-    "suvek prakash pawar",
     "suvra pal",
     "suwon yoon",
     "suye wang",
     "suyun ham",
     "suzanne smith",
     "suzanne stephens",
-    "swayanka das",
     "sydney gillentine",
     "syed ali",
-    "syed zaki uddin",
     "sylvia kirgis",
     "sylvia opusunju",
     "szu-yen liang",
     "tahani altaji",
     "tahirah samuels",
-    "tahmina afroz",
     "tahsina islam",
     "talaun hammond",
     "talon johnson",
@@ -3205,32 +2708,19 @@ export const config_data = {
     "tania madah tarighat pasand",
     "taniedra wooten young",
     "tanisha o'connor",
-    "tanmay sunil jadhav",
-    "tanmayee rajeev chikate",
-    "tanusree debi",
-    "tanvir ahmed shanto",
     "tanvir imtiaz",
-    "tanvir khan",
-    "tanzima sultana",
     "tao ma",
     "tara brown",
     "tara harris",
-    "tara karbassi",
     "tara martin",
-    "tarakesh pachaiyappan bhaskar",
     "taren allen",
     "tariq mahadin",
-    "taryn dilorenzo",
-    "tasnim azad abir",
     "tatheer ajani",
     "tatia jacobson jordan",
     "taylor bernstein",
-    "taylor henson",
     "taylor kessner",
     "te'a riley",
     "teddi martin",
-    "tejaswi ravipati",
-    "teng long",
     "teresa sanchez",
     "terra mcghee",
     "terrance skantz",
@@ -3240,11 +2730,9 @@ export const config_data = {
     "thanayi lambert",
     "thelma cabrera",
     "theodora koromila",
-    "theodore hintz",
     "theresa davis",
     "theresa jorgensen",
     "thilini nagasinghe kulawardhana",
-    "thinh nguyen",
     "thomas allsup",
     "thomas brill",
     "thomas burchill",
@@ -3254,20 +2742,17 @@ export const config_data = {
     "thomas hall",
     "thomas hart",
     "thomas jones",
-    "thomas ledford",
     "thomas little",
     "thomas lumpkin",
     "thomas marshall",
     "thomas read",
     "thomas rusher",
     "thomas thompson",
-    "thomas thomsen",
     "thornchaya wejrungsikul",
     "throy campbell",
     "thuey causey",
     "tianzi zheng",
     "tiara okoruwa",
-    "tierra gibbons",
     "tiffany aguirre",
     "tiffany egan",
     "tiffany hobbs",
@@ -3284,7 +2769,6 @@ export const config_data = {
     "timothy richardson",
     "timothy wunder",
     "tina theriaque",
-    "tipnis rohan",
     "todd castoe",
     "todd gabel",
     "tom ingram",
@@ -3316,33 +2800,22 @@ export const config_data = {
     "trevor richards",
     "tricia clayton",
     "triza nganga",
-    "trupti pandurang gosavi",
     "tsung hsuan yang",
-    "tuan dang",
     "tuba koymen",
-    "tulasi nakka",
     "tun-wen pai",
     "tuncay aktosun",
-    "tushar rohidas wagh",
     "tyanthony stimpson",
     "tyler anway",
     "tyler garner",
     "tyler shafer",
     "tyson bailey",
     "tzu-wen lin",
-    "uday kumar bagam",
     "udaya sree dakarapu",
     "ukesh chawal",
-    "uma naidu",
-    "umang dhaubhadel",
-    "umme hafsa billah",
     "un-jung kim",
     "upendranatha chakravarthy",
     "ursula emery-mcclure",
     "usama khalid",
-    "utsav mudgal",
-    "uttaran tribedi",
-    "vaibhavi nagar",
     "valarie yurkunas",
     "valerie stevenson",
     "valerie van over",
@@ -3352,14 +2825,9 @@ export const config_data = {
     "varaidzo nyamandi",
     "varghese anto chirayath",
     "vassilis athitsos",
-    "vasuki divya ponduri",
     "vatsal asitkumar joshi",
-    "vedant shukla",
     "venkat devarajan",
-    "venkata dasari",
     "venkata dechiraju",
-    "venkata naga prajwal challa",
-    "venkata nagendar shantiswaroop adibhatla",
     "venkata sai manisha varahagiri",
     "veronica cedillo",
     "veronica garcia",
@@ -3373,32 +2841,17 @@ export const config_data = {
     "victoria chen",
     "victoria nooe",
     "vidya ganji",
-    "vignesh dhasarathan arisiperiyankuppam",
     "vijay gopal",
-    "vijay kumar padavala",
     "vijayan pillai",
-    "vikalpa pandere",
     "vikram bhadauria",
-    "vimalan adaikalanathan",
-    "vinaya balusu",
-    "vinayak ashok konapure",
     "vinayak kaushal",
     "vincent sosko",
-    "vindhya thalacheeru",
     "vinicio sinta morales",
-    "vishnu ganesan",
-    "vishva variya",
     "vishwa shah",
-    "vishwanth reddy muchantula",
     "vistasp karbhari",
     "vivian beltran",
     "vivian miller",
-    "vo quang huy phan",
-    "vrashabh rambhau jain",
-    "vrushabh lalwani",
-    "vy tran",
     "wai ian tam",
-    "walter dermid",
     "walter schargel",
     "walter smolinski",
     "wanda bolton-davis",
@@ -3410,13 +2863,11 @@ export const config_data = {
     "wei-jen lee",
     "wei-tsen lu",
     "weidong zhou",
-    "weizhi an",
     "wendell davis",
     "wendell hunnicutt",
     "wendelyn risher",
     "wendy casper",
     "wendy garza",
-    "wenliang zhong",
     "wenzhao li",
     "wesley salazar",
     "whitney talbot",
@@ -3451,13 +2902,10 @@ export const config_data = {
     "xianghua wu",
     "xiangli gu",
     "xiaodong nie",
-    "xiaofeng wu",
     "xiaohui hou",
     "xiaojing li",
     "xiaojun shang",
-    "xiaolei ren",
     "xiaoming yang",
-    "xiaowei yu",
     "xiaozhe gu",
     "xiaqing he",
     "xin liu",
@@ -3466,42 +2914,27 @@ export const config_data = {
     "xinglong ju",
     "xinlei wang",
     "xinlong wang",
-    "xinqi wei",
-    "xinwen zhang",
     "xinyu sun",
-    "xinyue hu",
     "xiujuan chen",
     "xiuwu liao",
-    "xuan wang",
     "xuan zhang",
     "xue xu",
     "xuedong gao",
     "yaewon seo",
-    "yagnik savaliya",
-    "yan lang",
     "yan wan",
     "yan xiao",
     "yana farbrook",
     "yang liu",
     "yangjin park",
     "yanina blanco morales",
-    "yanjun lyu",
-    "yao ren",
     "yaowu hao",
-    "yaranagula sree jhansi mounika",
     "yaroslav malyuta",
     "yasaman ghasemi",
     "yasaman shahbazi",
     "yash bajpai",
-    "yash dani",
-    "yash manoj pithadia",
-    "yash waghmare",
-    "yashvanth muthegowda",
-    "yashwanth patel",
     "yasmin lakhani",
     "yawen wang",
     "ye cao",
-    "yen duyen le",
     "yeon mi choi",
     "yeonwoo kim",
     "yi hong",
@@ -3523,9 +2956,6 @@ export const config_data = {
     "yiyi li",
     "yizeng li",
     "yo-ping huang",
-    "yoganandha reddy gali",
-    "yogesh gautam",
-    "yogesh gurjar",
     "yolanda parker",
     "yolanda ramirez",
     "yolonda dubose",
@@ -3533,19 +2963,15 @@ export const config_data = {
     "yosef khan",
     "you kyoung temchenko",
     "young-tae kim",
-    "youngtak cho",
-    "youssef elmergawy",
     "yu lei",
     "yu zhang",
     "yu-cheng lin",
     "yu-chi sung",
-    "yu-sheng sung",
     "yu-wen liu",
     "yuan ji",
     "yuan mei",
     "yuan peng",
     "yuan zhou",
-    "yuan zhuang",
     "yubraj aryal",
     "yue deng",
     "yue liao",
@@ -3553,39 +2979,28 @@ export const config_data = {
     "yuewen liu",
     "yuh-shyan hwang",
     "yujie chi",
-    "yujing yang",
-    "yumiao han",
     "yungfei kao",
     "yunsik lee",
-    "yuwei miao",
     "yuze sun",
     "zachariah cousineau",
-    "zachary bailey",
     "zachary chairez",
     "zachary tarbet",
     "zachery viray",
-    "zahidur rahim talukder",
-    "zahra borhani",
     "zahra kohankar kouchesfehani",
     "zaid alfayez",
     "zaid momani",
     "zane grubaugh",
     "zdzislaw musielak",
-    "zehao ye",
     "zenas ikeda",
     "zerita hall",
     "zeynep celik",
-    "zeyu zhang",
-    "zhangfan huang",
     "zhaoli liu",
     "zhe yin",
     "zhen cong",
-    "zhen wang",
     "zhen xue han",
     "zheng fang",
     "zheng han",
     "zhenjia gao",
-    "zhenlin pei",
     "zhijun wang",
     "zhirui chen",
     "zhiyong yang",
@@ -3593,7 +3008,6 @@ export const config_data = {
     "zhuojun gu",
     "zihan wang",
     "ziyad ben taleb",
-    "zongyao lyu",
     "zui pan",
     "zulma mojica monroy"
   ],
@@ -8853,53 +8267,54 @@ export const data_term = [
 
 export const data_course_prof = {
   "nurs 5120": [
-    "ethan stanley",
-    "tranise goodlow",
-    "anneshia redic",
-    "margaretta sapon amoah",
     "cortlyn elshire",
-    "misty lawrence",
-    "elizabeth fuentes",
-    "diane st pierre runnels",
-    "antay parker",
-    "ashley walters",
-    "lee sulkin",
-    "elizabeth welch",
-    "crystal cisneros",
-    "sumit trivedi",
-    "cheryl mitchell",
-    "karen riehm",
     "lynn berger",
-    "rose goehring",
-    "shicobie adams",
-    "mary davis",
-    "amy lunsford",
-    "patti parker",
-    "jennifer robb",
-    "kelly meier",
-    "jhasmun crutcher",
-    "catherine gichema",
-    "shira love",
-    "chinyere emeh",
-    "cheryl gordon",
-    "janet sewell",
-    "gigi thomas",
-    "debra phillips",
-    "sueanne baddour",
-    "kathleen garza",
-    "michelle lewis",
-    "ashley moore",
-    "shannon carey",
-    "bethany mcclean",
-    "ana herrera",
-    "katherine afshar",
-    "daisy williams",
-    "kimberly hilmer",
     "ellen munsterman",
-    "kindra mcwilliam-ross",
+    "shannon carey",
+    "daisy williams",
+    "mary davis",
+    "janet sewell",
+    " ",
+    "diane st pierre runnels",
+    "jhasmun crutcher",
+    "kimberly hilmer",
+    "misty lawrence",
+    "ethan stanley",
+    "margaretta sapon amoah",
+    "bethany mcclean",
+    "shicobie adams",
+    "gigi thomas",
+    "elizabeth fuentes",
     "patricia meadows",
+    "crystal cisneros",
+    "michelle lewis",
+    "lee sulkin",
+    "anneshia redic",
+    "antay parker",
+    "amy lunsford",
+    "kelly meier",
+    "cheryl gordon",
+    "cheryl mitchell",
+    "elizabeth welch",
+    "jennifer robb",
+    "sueanne baddour",
+    "katherine afshar",
     "jacqueline smith",
-    "jodie moore"
+    "debra phillips",
+    "ashley moore",
+    "ashley walters",
+    "patti parker",
+    "sumit trivedi",
+    "rose goehring",
+    "tranise goodlow",
+    "shira love",
+    "ana herrera",
+    "chinyere emeh",
+    "jodie moore",
+    "catherine gichema",
+    "kindra mcwilliam-ross",
+    "karen riehm",
+    "kathleen garza"
   ],
   "me 5317": [
     "abdolhossein haji-sheikh"
@@ -8907,35 +8322,35 @@ export const data_course_prof = {
   "mana 5336": [
     "shouming chen",
     "abdul rasheed",
+    "michael mcdaniel",
+    "martin monroe",
+    "margaret mcfadyen",
     "owen parker",
     "liliana nordtvedt",
     "jeffrey mcgee",
     "lee brown",
-    "margaret mcfadyen",
-    "martin monroe",
-    "sali li",
-    "michael mcdaniel"
+    "sali li"
   ],
   "mana 5331": [
-    "li sun",
     "ryan brading",
+    "li sun",
     "abdul rasheed"
   ],
   "cse 5331": [
-    "ashraf aboulnaga",
-    "bhanu jain",
     "abhishek santra",
     "ramez elmasri",
-    "upendranatha chakravarthy"
+    "ashraf aboulnaga",
+    "upendranatha chakravarthy",
+    "bhanu jain"
   ],
   "cse 5330": [
-    "bahra khalili najafabadi",
-    "bhanu jain",
-    "nadra guizani",
     "abhishek santra",
-    "yonghe liu",
     "ranjan dash",
-    "ramez elmasri"
+    "ramez elmasri",
+    "yonghe liu",
+    "bhanu jain",
+    "bahra khalili najafabadi",
+    "nadra guizani"
   ],
   "kine 5228": [
     "adam annaccone"
@@ -8944,97 +8359,97 @@ export const data_course_prof = {
     "adam annaccone"
   ],
   "kine 5354": [
-    "meredith decker",
-    "adam annaccone"
+    "adam annaccone",
+    "meredith decker"
   ],
   "socw 5306": [
-    "donna davis",
-    "sherry cabaniss",
-    "gretchen ward",
-    "derrelynn perryman",
+    "desiree burns",
     "aditi prabhakar",
-    "dianna jones",
-    "joyce white",
-    "mia kirby",
-    "andreika lockett",
+    "donna davis",
+    "dorothea ivey",
+    "kelli rogers",
+    "marilin jakubowske",
+    "marie salimbeni",
     "derinda stewart",
+    "gretchen ward",
+    "talaun hammond",
+    "kenshara cravens",
+    "mia kirby",
+    "sherry cabaniss",
+    "andreika lockett",
+    "michelle dionne jones",
+    "rachel swope",
+    "bethany wood",
+    "dianna jones",
+    "theresa davis",
     "irma mireles",
     "pamela fox",
-    "desiree burns",
-    "bethany wood",
-    "theresa davis",
-    "traneika turner-wentt",
     "mary highfill",
-    "rachel swope",
-    "marilin jakubowske",
-    "michelle dionne jones",
-    "talaun hammond",
-    "dorothea ivey",
-    "marie salimbeni",
-    "kenshara cravens",
-    "kelli rogers"
+    "derrelynn perryman",
+    "traneika turner-wentt",
+    "joyce white"
   ],
   "socw 5318": [
+    "jordan dugger",
+    "sophia fantus",
     "steven moore",
+    "pamela malone",
+    "wanda bolton-davis",
+    "aditi prabhakar",
     "kelle white",
     "albert white",
     "olivia cruse",
     "chava rousch-carlisle",
-    "suzanne stephens",
-    "wanda bolton-davis",
-    "sophia fantus",
-    "pamela malone",
-    "jordan dugger",
-    "aditi prabhakar"
+    "suzanne stephens"
   ],
   "socw 5353": [
-    "dianna jones",
-    "mia kirby",
-    "steven moore",
     "tahirah samuels",
-    "mary highfill",
-    "michelle dionne jones",
     "gilda ebanks",
     "talaun hammond",
-    "amanda ryan",
-    "mansi patel",
-    "kenshara cravens",
+    "dianna jones",
     "rebecca cole",
-    "genevieve graaf",
-    "michael bennett",
+    "kenshara cravens",
+    "mia kirby",
     "ricka mammah",
+    "steven moore",
+    "genevieve graaf",
+    "amanda ryan",
     "aditi prabhakar",
+    "mary highfill",
+    "mansi patel",
+    "michael bennett",
+    "michelle dionne jones",
     "brittany baker"
   ],
   "socw 5365": [
-    "taren allen",
-    "stephanie bonilla",
-    "suzanne stephens",
+    "adrienne johnson",
+    "lashaunn bold",
+    "janeth peterson",
     "erica stanley",
     "talaun hammond",
-    "tracy orwig",
-    "janeth peterson",
-    "hui huang",
+    "taren allen",
     "catherine labrenz",
+    "hui huang",
     "theresa davis",
-    "lashaunn bold",
-    "adrienne johnson"
+    "tracy orwig",
+    "stephanie bonilla",
+    "suzanne stephens"
   ],
   "mark 5331": [
-    "narayanan janakiraman",
-    "xiaoming yang",
     "zhiyong yang",
+    "adwait khare",
     "zheng han",
     "jun lan",
-    "adwait khare"
+    "xiaoming yang",
+    "narayanan janakiraman"
   ],
   "ce 5327": [
-    "agustin villafana",
-    "bahram abediniangerabi"
+    "bahram abediniangerabi",
+    "agustin villafana"
   ],
   "nurs 5213": [
-    "aaron langford",
     "aimee dunnam",
+    "aaron langford",
     "cristina winters",
     "jacqueline michael"
   ],
@@ -9042,219 +8457,219 @@ export const data_course_prof = {
     "albert tong"
   ],
   "me 5332": [
-    "albert tong",
+    "seiichi nomura",
     "dora musielak",
-    "seiichi nomura"
+    "albert tong"
   ],
   "papp 5326": [
     "alejandro rodriguez"
   ],
   "papp 5358": [
     "emily nwakpuda",
-    "hannah lebovits",
+    "joseph portugal",
     "alejandro rodriguez",
-    "joseph portugal"
+    "hannah lebovits"
   ],
   "cse 6363": [
-    "farnaz farahanipad",
     "won hwa kim",
-    "manfred huber",
-    "bhanu jain",
     "jesus gonzalez",
-    "yingying zhu",
+    "manfred huber",
+    "farnaz farahanipad",
+    "bhanu jain",
     "alex dillhoff",
-    "dajiang zhu"
+    "dajiang zhu",
+    "yingying zhu"
   ],
   "ee 5370": [
     "ali davoudi"
   ],
   "ce 5308": [
-    "ali reza sayah",
+    "juan balderrama",
     "tamer eljufout",
-    "juan balderrama"
+    "ali reza sayah"
   ],
   "ie 5301": [
-    "erick jones",
-    "alireza fallahi",
-    "jay rosenberger",
-    "herbert corley",
     "xinglong ju",
-    "amin gharehyakheh"
+    "amin gharehyakheh",
+    "alireza fallahi",
+    "herbert corley",
+    "erick jones",
+    "jay rosenberger"
   ],
   "cse 5320": [
     "elizabeth diaz",
     "allison sullivan"
   ],
   "cse 6392": [
-    "cesar torres",
-    "junzhou huang",
     "phuc vp nguyen",
-    "miao yin",
-    "allison sullivan"
+    "cesar torres",
+    "allison sullivan",
+    "junzhou huang",
+    "miao yin"
   ],
   "nurs 5315": [
-    "sayda major",
-    "mary schira",
-    "john gonzalez",
-    "jonne wilmore",
     "allison tuppeny",
-    "kellie kahveci",
-    "kristin gigli",
-    "keri draganic",
-    "sarah nigliazzo",
     "jordan dudley",
     "zui pan",
+    "kellie kahveci",
+    "mary schira",
+    "mark meyer",
+    "jonne wilmore",
+    "keri draganic",
+    "john gonzalez",
+    "kristin gigli",
+    "sayda major",
     "emily fox",
-    "mark meyer"
+    "sarah nigliazzo"
   ],
   "socw 5313": [
-    "latoya smith-jones",
-    "steven moore",
-    "pamela randolph",
-    "holli slater",
-    "kathy siepker",
-    "amanda aykanian",
-    "dianna jones",
-    "mia kirby",
-    "kristin mapson",
-    "robert hawley",
-    "bethany wood",
-    "sherece shavel",
-    "dorothy kalanzi",
-    "faheem ohri",
-    "shamsun nahar",
     "amy blakeney",
-    "zhen cong",
-    "jennifer murphy",
-    "talaun hammond",
     "dorothea ivey",
+    "sherece shavel",
     "philip baiden",
-    "rebecca mauldin",
-    "kenshara cravens",
     "maxine davis",
+    "latoya smith-jones",
+    "kristin mapson",
+    "steven moore",
+    "holli slater",
     "dawnetta smith",
-    "christian vazquez"
+    "faheem ohri",
+    "zhen cong",
+    "christian vazquez",
+    "talaun hammond",
+    "rebecca mauldin",
+    "robert hawley",
+    "kenshara cravens",
+    "mia kirby",
+    "dorothy kalanzi",
+    "jennifer murphy",
+    "kathy siepker",
+    "bethany wood",
+    "dianna jones",
+    "shamsun nahar",
+    "pamela randolph",
+    "amanda aykanian"
   ],
   "nurs 5660": [
-    "cindy joffrion moss",
-    "clayton rogers",
+    "stephanie collins",
     "purvi patel",
-    "rose julian",
-    "shari khorsandi",
-    "barbara taylor",
-    "connie karvas",
-    "melanie schneidmiller",
-    "stephanie sealy",
-    "shelley barclay",
     "audrey collins",
-    "betty brown-trask",
-    "kashiris perryman",
+    "kelly ellison",
+    "phyllis wood",
+    "veronica garcia",
+    "emily evans",
+    "connie karvas",
+    "heather gerarde",
+    "margaret ernster",
+    "gigi thomas",
+    "melanie schneidmiller",
     "ashley bryce",
+    "betty brown-trask",
+    "ashley harris",
     "julie brinzo",
     "joy keeton",
-    "phyllis wood",
-    "amanda mendez",
-    "kelly ellison",
-    "susan dancer",
-    "gigi thomas",
-    "veronica garcia",
-    "heather gerarde",
-    "kristina crews",
-    "stephanie collins",
     "debra phillips",
-    "loree elliott",
-    "kathleen garza",
-    "ashley harris",
-    "darla porter",
     "tamara washington",
-    "jeffrey yarbrough",
+    "shari khorsandi",
+    "amanda mendez",
     "heather sheppard",
-    "emily evans",
+    "kashiris perryman",
     "dawn berger",
-    "margaret ernster"
+    "shelley barclay",
+    "loree elliott",
+    "stephanie sealy",
+    "darla porter",
+    "cindy joffrion moss",
+    "rose julian",
+    "susan dancer",
+    "jeffrey yarbrough",
+    "barbara taylor",
+    "kathleen garza",
+    "kristina crews",
+    "clayton rogers"
   ],
   "educ 5394": [
-    "amanda olsen",
+    "daniel robinson",
     "joyce myers",
-    "candace lafferty",
     "rebecca chance",
-    "daniel robinson"
+    "candace lafferty",
+    "amanda olsen"
   ],
   "educ 5397": [
-    "mary curtis",
-    "sonja ezell",
-    "jodi tommerdahl",
-    "amanda olsen",
-    "candace lafferty",
-    "robin anderson",
+    "joo hi lee",
     "shenequa miller",
+    "robin anderson",
+    "sonja ezell",
+    "mary curtis",
     "rebecca chance",
-    "joo hi lee"
+    "jodi tommerdahl",
+    "candace lafferty",
+    "amanda olsen"
   ],
   "socw 5316": [
-    "steven moore",
-    "elisha tones",
-    "olivia cruse",
-    "suzanne stephens",
-    "jessica glenn",
-    "gilda ebanks",
-    "sandra balderas",
-    "pamela randolph",
-    "derrelynn perryman",
-    "mansi patel",
+    "derelle walker",
+    "pamela malone",
+    "jessica sanchez",
+    "donna schuman",
+    "kiva harper",
     "aditi prabhakar",
-    "james keaton",
+    "olivia cruse",
     "kelle white",
-    "shauntel adams",
+    "james keaton",
+    "elisha tones",
+    "lauren o'leary",
+    "sandra balderas",
+    "steven moore",
+    "allison tomlinson",
+    "robyn smith-bull",
+    "michael bennett",
+    "tahirah samuels",
+    "gilda ebanks",
+    "jordan dugger",
+    "kenshara cravens",
+    "nicole bernard",
+    "christine spadola",
     "rachel franz",
+    "melissa flores",
+    "anne prevou",
+    "mansi patel",
+    "noelle fields",
+    "destiney kinsey",
+    "jessica glenn",
+    "shauntel adams",
+    "pamela randolph",
+    "theresa davis",
     "irma mireles",
     "amanda ryan",
     "pamela fox",
-    "nicole bernard",
-    "destiney kinsey",
-    "pamela malone",
-    "jordan dugger",
-    "jessica sanchez",
-    "theresa davis",
-    "derelle walker",
-    "lauren o'leary",
-    "allison tomlinson",
+    "derrelynn perryman",
     "zerita hall",
-    "michael bennett",
-    "robyn smith-bull",
-    "tahirah samuels",
-    "donna schuman",
-    "noelle fields",
-    "anne prevou",
-    "kiva harper",
-    "kenshara cravens",
-    "ling xu",
     "randall basham",
-    "melissa flores",
-    "christine spadola"
+    "ling xu",
+    "suzanne stephens"
   ],
   "nurs 6320": [
-    "cynthia casey",
-    "jan phillips",
     "amber arnold",
     "michelle hampton",
-    "deborah behan",
+    "jan phillips",
     "kimberly hatchel",
-    "candida constantine"
+    "candida constantine",
+    "cynthia casey",
+    "deborah behan"
   ],
   "sped 5302": [
     "ambra green"
   ],
   "edad 5305": [
-    "michelle leverette",
     "carrie ausbrooks",
-    "terry-ann rodriguez",
-    "amy anderson"
+    "michelle leverette",
+    "amy anderson",
+    "terry-ann rodriguez"
   ],
   "edad 5389": [
-    "diane patrick",
+    "joel leader",
     "amy anderson",
-    "joel leader"
+    "diane patrick"
   ],
   "larc 5380": [
     "amy archambeau",
@@ -9264,100 +8679,100 @@ export const data_course_prof = {
     "amy austin"
   ],
   "list 5373": [
+    "amy hinz horn",
     "deborah williams",
-    "doreen plony",
     "peggy semingson",
-    "amy hinz horn"
+    "doreen plony"
   ],
   "engl 5331": [
     "amy hodges"
   ],
   "engl 6389": [
+    "estee beck",
     "erin murrah-mandril",
     "amy hodges",
-    "joanna johnson",
-    "estee beck"
+    "joanna johnson"
   ],
   "engl 5308": [
     "amy tigner"
   ],
   "nurs 5130": [
-    "melissa franklin",
-    "dawn mcelvain",
-    "sara moore",
-    "jessica putnam",
-    "brennan lewis",
-    "tonya brooks",
-    "christina sanchez",
+    "amy winslow",
     "angela miller",
-    "nancy wyrick",
     "stephanie mitchell",
-    "anamarina jarecke",
-    "lindsay hermsdorfer",
-    "catherine lux",
-    "giselle escalona",
-    "kimberly capps",
-    "sarah nigliazzo",
-    "kelly meier",
-    "toshia mckeon",
-    "kelly huffman",
+    "ruth roberts",
+    "tonya brooks",
+    "leslie wilson",
+    "rachel mark",
+    "jessica putnam",
+    "elishia featherston",
+    "janet sewell",
     "jerithea tidwell",
     "maureen edwards",
-    "krista rettig",
-    "leslie wilson",
-    "lisa lunsford",
-    "katherine leslie",
-    "erica vance",
-    "robbi nichols",
-    "jessica leblanc",
-    "leticia cole",
-    "michele hickman",
-    "gigi thomas",
-    "janet sewell",
-    "courtney werner",
-    "tandy mellard",
-    "ruth roberts",
-    "brittany wall",
-    "jillian waterbury",
-    "shannon dougrey",
-    "bethany mcclean",
-    "lauren harper",
-    "amy winslow",
-    "rebecca sullivan",
-    "brandi pitcox",
-    "elishia featherston",
     "suji john",
-    "rachel mark"
+    "bethany mcclean",
+    "krista rettig",
+    "gigi thomas",
+    "lauren harper",
+    "sara moore",
+    "lisa lunsford",
+    "kelly meier",
+    "brittany wall",
+    "sarah nigliazzo",
+    "brennan lewis",
+    "anamarina jarecke",
+    "leticia cole",
+    "kimberly capps",
+    "lindsay hermsdorfer",
+    "nancy wyrick",
+    "tandy mellard",
+    "dawn mcelvain",
+    "erica vance",
+    "courtney werner",
+    "jessica leblanc",
+    "rebecca sullivan",
+    "catherine lux",
+    "kelly huffman",
+    "robbi nichols",
+    "shannon dougrey",
+    "toshia mckeon",
+    "brandi pitcox",
+    "giselle escalona",
+    "christina sanchez",
+    "michele hickman",
+    "katherine leslie",
+    "jillian waterbury",
+    "melissa franklin"
   ],
   "insy 5337": [
-    "radha mahapatra",
     "shingchern you",
+    "yuh-shyan hwang",
     "anam sahoo",
     "chien-hung lai",
-    "yuh-shyan hwang",
+    "radha mahapatra",
     "sajib datta"
   ],
   "insy 5339": [
-    "riyaz sikora",
-    "chuan-ming liu",
-    "yo-ping huang",
-    "jayarajan samuel",
     "chien-hung liu",
-    "anam sahoo"
+    "chuan-ming liu",
+    "anam sahoo",
+    "riyaz sikora",
+    "jayarajan samuel",
+    "yo-ping huang"
   ],
   "comm 5306": [
     "andrew clark"
   ],
   "nurs 5680": [
+    "sara moore",
     "angela denton",
-    "mary gardner",
     "jessica putnam",
-    "sara moore"
+    "mary gardner"
   ],
   "nurs 5462": [
-    "kellie kahveci",
+    "angelisse martinez",
     "patti parker",
-    "angelisse martinez"
+    "kellie kahveci"
   ],
   "ae 5362": [
     "animesh chakravarthy",
@@ -9370,41 +8785,41 @@ export const data_course_prof = {
     "ankur jain"
   ],
   "nurs 5355": [
-    "sheila ford",
-    "karen merriman",
-    "buffy powell",
-    "kaitlin mathew",
-    "ashley moore",
-    "tiffany trent",
-    "jennifer dailey",
-    "essence carter-griffin",
-    "tonya hooper",
-    "mary mckean",
     "rodel aguirre",
-    "melanie akon",
-    "janeatrius foy",
+    "karen merriman",
+    "jennifer dailey",
     "thuey causey",
+    "kaitlin mathew",
+    "tonya hooper",
+    "tiffany trent",
+    "buffy powell",
+    "essence carter-griffin",
+    "janeatrius foy",
+    "sheila ford",
+    "jodie moore",
     "diane st pierre runnels",
+    "ashley moore",
+    "mary mckean",
     "ann birka",
-    "jodie moore"
+    "melanie akon"
   ],
   "arch 5324": [
+    "mahmoud bayat",
     "arash saleh",
-    "maziar mahdavi",
-    "mahmoud bayat"
+    "maziar mahdavi"
   ],
   "arch 5328": [
-    "arash saleh",
+    "mahmoud bayat",
     "william carlton",
-    "mahmoud bayat"
+    "arash saleh"
   ],
   "cm 5379": [
-    "ramtin serajiantehrani",
-    "ahmad mahmoud ahmad jibreen",
     "nilo tsung",
+    "ahmad mahmoud ahmad jibreen",
     "arash saleh",
     "karthikeyan loganathan",
-    "seyed missagh shamshiri guilvayi"
+    "seyed missagh shamshiri guilvayi",
+    "ramtin serajiantehrani"
   ],
   "plan 6311": [
     "ardeshir anjomani"
@@ -9424,72 +8839,72 @@ export const data_course_prof = {
   ],
   "ce 5340": [
     "ahmad mahmoud ahmad jibreen",
-    "saeed reza ramezanpour nargesi",
     "arpita bhatt",
+    "saeed reza ramezanpour nargesi",
     "nilo tsung"
   ],
   "cm 5340": [
     "ahmad mahmoud ahmad jibreen",
-    "saeed reza ramezanpour nargesi",
     "arpita bhatt",
+    "saeed reza ramezanpour nargesi",
     "nilo tsung"
   ],
   "hcad 5301": [
     "arthur gonzalez"
   ],
   "nurs 5337": [
-    "sylvia opusunju",
-    "kelly lee",
-    "cindy joffrion moss",
-    "john caldwell",
-    "misty stasney",
-    "hedrine nana",
-    "daniel squyres",
-    "deanna cason",
-    "elizabeth fuentes",
     "sharon brown",
-    "stacey jackson",
-    "elanda douglas",
-    "dalena dekowski",
-    "jackquelyn williams",
-    "karen riehm",
-    "taylor bernstein",
-    "karla smith-lucas",
-    "kashiris perryman",
-    "mary parrotta",
-    "julie brinzo",
-    "sarah nigliazzo",
-    "tommora jackson",
-    "blessing chimenga",
-    "phyllis wood",
-    "francis basebang",
-    "deborah lewis",
-    "jhasmun crutcher",
     "yasmin lakhani",
-    "shira love",
-    "kelly stowell",
-    "lauren runyon",
-    "mindy gallegos",
+    "deanna cason",
+    "deborah lewis",
+    "phyllis wood",
     "veronica garcia",
-    "deborah dumphy",
-    "bethany mcclean",
-    "ashlee loewen",
-    "nancy opperman",
+    "kelly lee",
     "kimberly hilmer",
-    "tanisha o'connor",
-    "sharolyn dihigo",
-    "kathryn sams",
+    "jhasmun crutcher",
+    "misty stasney",
+    "kelly stowell",
+    "bethany mcclean",
+    "tommora jackson",
+    "deborah dumphy",
+    "elizabeth fuentes",
+    "dalena dekowski",
     "patricia meadows",
-    "ashley pichon"
+    "elanda douglas",
+    "daniel squyres",
+    "blessing chimenga",
+    "mindy gallegos",
+    "francis basebang",
+    "taylor bernstein",
+    "nancy opperman",
+    "hedrine nana",
+    "stacey jackson",
+    "jackquelyn williams",
+    "sarah nigliazzo",
+    "julie brinzo",
+    "sylvia opusunju",
+    "tanisha o'connor",
+    "kashiris perryman",
+    "john caldwell",
+    "ashlee loewen",
+    "shira love",
+    "karla smith-lucas",
+    "mary parrotta",
+    "kathryn sams",
+    "lauren runyon",
+    "cindy joffrion moss",
+    "ashley pichon",
+    "sharolyn dihigo",
+    "karen riehm"
   ],
   "nursc 5355": [
-    "buffy powell",
-    "ashley moore",
-    "tiffany trent",
     "jennifer dailey",
+    "tiffany trent",
+    "buffy powell",
     "essence carter-griffin",
-    "melanie akon",
-    "diane st pierre runnels"
+    "diane st pierre runnels",
+    "ashley moore",
+    "melanie akon"
   ],
   "nursg 5337": [
     "sharolyn dihigo",
@@ -9497,79 +8912,79 @@ export const data_course_prof = {
     "ashley pichon"
   ],
   "nurs 5338": [
-    "tammie williams",
-    "clayton rogers",
-    "john caldwell",
-    "pamala hull",
-    "purvi patel",
-    "rose julian",
-    "deanna cason",
-    "shamika brooks",
-    "maryann ugoh",
-    "stephanie sealy",
-    "mark meyer",
-    "elanda douglas",
-    "audrey collins",
-    "kashiris perryman",
-    "ashley bryce",
-    "renee miphouvieng",
-    "jennifer allen",
-    "julie brinzo",
-    "deborah stewart",
-    "ashley pree",
-    "monique huntley",
-    "jaquetta reeves",
-    "phyllis wood",
-    "kelly ellison",
-    "janelle traylor",
-    "kimberly barnett",
-    "lauren runyon",
     "kara bragg",
-    "stacy tomberlin",
-    "veronica garcia",
-    "kristina crews",
-    "debra phillips",
-    "karan staggers",
-    "ashley harris",
-    "kimberly sava",
-    "juanita flint",
-    "tamara washington",
     "cristina winters",
-    "kimberly hilmer",
-    "lori karl",
+    "purvi patel",
+    "jennifer allen",
+    "audrey collins",
+    "deanna cason",
+    "kelly ellison",
+    "kimberly barnett",
+    "phyllis wood",
+    "veronica garcia",
     "emily evans",
+    "tammie williams",
+    "stacy tomberlin",
+    "kimberly hilmer",
+    "margaret ernster",
+    "ashley pree",
+    "mark meyer",
+    "kimberly sava",
+    "elanda douglas",
+    "ashley bryce",
+    "pamala hull",
+    "janelle traylor",
+    "shamika brooks",
+    "monique huntley",
+    "ashley harris",
+    "julie brinzo",
+    "maryann ugoh",
+    "debra phillips",
+    "lori karl",
+    "tamara washington",
     "heather sheppard",
+    "renee miphouvieng",
+    "kashiris perryman",
+    "deborah stewart",
+    "juanita flint",
+    "john caldwell",
+    "karan staggers",
+    "stephanie sealy",
+    "jaquetta reeves",
     "kathryn sams",
-    "margaret ernster"
+    "lauren runyon",
+    "rose julian",
+    "kristina crews",
+    "clayton rogers"
   ],
   "arch 5395": [
     "sandra espinoza",
-    "donald gatzke",
     "thomas read",
+    "dennis chiessa",
     "julia lindgren",
     "atefe makhmalbaf",
     "bradley bell",
-    "dennis chiessa",
-    "mehdi farahbakhsh"
+    "mehdi farahbakhsh",
+    "donald gatzke"
   ],
   "arch 5364": [
     "dennis chiessa",
     "austin allen"
   ],
   "cse 5325": [
-    "farnaz farahanipad",
-    "bahra khalili najafabadi",
-    "ramakrishna koganti",
-    "anam sahoo",
     "giridhar amaravadi",
-    "akshit singhal"
+    "ramakrishna koganti",
+    "akshit singhal",
+    "farnaz farahanipad",
+    "anam sahoo",
+    "bahra khalili najafabadi"
   ],
   "cse 6324": [
-    "farnaz farahanipad",
-    "bahra khalili najafabadi",
     "christoph csallner",
+    "farnaz farahanipad",
+    "anam sahoo",
     "yu lei",
-    "anam sahoo"
+    "bahra khalili najafabadi"
   ],
   "me 5303": [
     "animesh chakravarthy",
@@ -9582,14 +8997,14 @@ export const data_course_prof = {
     "ronald wommack"
   ],
   "edad 6318": [
-    "barbara tobolowsky",
     "ericka roland",
-    "sahar sattarzadeh"
+    "sahar sattarzadeh",
+    "barbara tobolowsky"
   ],
   "phys 5307": [
+    "benjamin jones",
     "jonathan asaadi",
-    "raquel castillo fernandez",
-    "benjamin jones"
+    "raquel castillo fernandez"
   ],
   "soci 5311": [
     "beth shelton"
@@ -9602,42 +9017,42 @@ export const data_course_prof = {
     "bethane hall"
   ],
   "socw 5301": [
-    "elisha tones",
-    "kelli rogers",
-    "sherry cabaniss",
-    "latoya hogg",
-    "karen magruder",
-    "nibedita shrestha",
-    "yangjin park",
-    "joyce white",
-    "mia kirby",
-    "maryam rafieifar",
-    "kristin mapson",
-    "tiara okoruwa",
-    "bethany brown",
-    "allison etchison",
-    "traneika turner-wentt",
-    "rachel voth schrag",
-    "vijayan pillai",
-    "rachel swope",
-    "marilin jakubowske",
-    "michelle dionne jones",
-    "chandra thompson-donahue",
-    "talaun hammond",
-    "saltanat childress",
-    "diana pryor",
-    "beverly black",
-    "tahirah samuels",
-    "patrice green",
     "pamela hill",
     "destiny davis",
+    "tiara okoruwa",
     "kristin mycke",
-    "kiva harper",
-    "maxine davis",
-    "ling xu",
-    "faheem ohri",
     "norman cobb",
+    "kiva harper",
+    "kelli rogers",
+    "elisha tones",
+    "patrice green",
+    "maxine davis",
+    "kristin mapson",
+    "marilin jakubowske",
+    "faheem ohri",
+    "karen magruder",
+    "diana pryor",
+    "beverly black",
+    "bethany brown",
+    "talaun hammond",
+    "tahirah samuels",
+    "allison etchison",
+    "mia kirby",
+    "maryam rafieifar",
+    "sherry cabaniss",
+    "yangjin park",
     "melissa flores",
+    "chandra thompson-donahue",
+    "michelle dionne jones",
+    "rachel swope",
+    "saltanat childress",
+    "nibedita shrestha",
+    "latoya hogg",
+    "vijayan pillai",
+    "rachel voth schrag",
+    "traneika turner-wentt",
+    "joyce white",
+    "ling xu",
     "daniel cummings"
   ],
   "socw 6396": [
@@ -9645,53 +9060,53 @@ export const data_course_prof = {
     "poco kernsmith"
   ],
   "cse 5311": [
-    "junzhou huang",
-    "bhanu jain",
-    "brian dalio",
-    "bob weems",
-    "ramez elmasri",
-    "alex dillhoff",
     "song jiang",
-    "allison sullivan",
-    "negin fraidouni",
     "md hasanuzzaman noor",
+    "nomaan mufti",
+    "ramez elmasri",
     "larz white",
-    "nomaan mufti"
+    "negin fraidouni",
+    "bhanu jain",
+    "allison sullivan",
+    "junzhou huang",
+    "alex dillhoff",
+    "brian dalio",
+    "bob weems"
   ],
   "arch 5672": [
-    "bijan youssefzadeh",
-    "charles macbride",
-    "justin dowhower",
-    "ricardo munoz",
-    "bang dang",
     "heath macdonald",
-    "michel borg",
     "ursula emery-mcclure",
+    "michel borg",
+    "bang dang",
+    "bijan youssefzadeh",
+    "ricardo munoz",
+    "justin dowhower",
+    "charles macbride",
     "stephen knowles"
   ],
   "acct 5307": [
-    "cheryl prachyl",
     "fangjun wang",
-    "ramgopal venkataraman",
-    "tao ma",
-    "bin srinidhi",
-    "wil martens",
+    "cheryl prachyl",
     "stephanie rasmussen",
-    "sandra henderson",
     "li-chin ho",
-    "jivas chakravarthy"
+    "tao ma",
+    "jivas chakravarthy",
+    "ramgopal venkataraman",
+    "sandra henderson",
+    "wil martens",
+    "bin srinidhi"
   ],
   "me 5311": [
     "bo wang",
     "kent lawrence"
   ],
   "ae 5310": [
-    "bo wang",
-    "endel iarve"
+    "endel iarve",
+    "bo wang"
   ],
   "me 5310": [
-    "bo wang",
-    "endel iarve"
+    "endel iarve",
+    "bo wang"
   ],
   "cse 5319": [
     "bob weems"
@@ -9700,32 +9115,32 @@ export const data_course_prof = {
     "bob weems"
   ],
   "socw 5369": [
-    "catheleen jordan",
-    "taren allen",
-    "allison tomlinson",
+    "lashaunn bold",
     "destiny davis",
-    "bonita dockery",
-    "michelle dionne jones",
     "jolynne batchelor",
-    "marie salimbeni",
     "jordan dugger",
+    "taren allen",
+    "bonita dockery",
     "ericka freeman",
+    "allison tomlinson",
     "da'joya barnes",
-    "lashaunn bold"
+    "catheleen jordan",
+    "marie salimbeni",
+    "michelle dionne jones"
   ],
   "ee 5325": [
-    "yijing xie",
-    "bosen lian"
+    "bosen lian",
+    "yijing xie"
   ],
   "arch 5381": [
     "bradley bell"
   ],
   "opma 5361": [
+    "bin jiang",
     "randall napier",
     "bradly masters",
     "edmund prater",
     "alper nakkas",
-    "bin jiang",
     "shu-kai fan"
   ],
   "cse 5317": [
@@ -9738,58 +9153,58 @@ export const data_course_prof = {
     "brian huff"
   ],
   "mana 5337": [
-    "brian martinson",
-    "margaret mcfadyen",
     "mark clark",
+    "margaret mcfadyen",
+    "brian martinson",
     "thomas graca"
   ],
   "nurs 6323": [
-    "cynthia casey",
-    "buffy powell",
-    "katherine hitchcock",
-    "shirley aycock",
-    "jaci mester",
-    "sandra laird",
-    "tiffany trent",
-    "essence carter-griffin",
     "amber arnold",
-    "sharolyn dihigo",
-    "julie brinzo",
+    "margaret ernster",
     "michelle hampton",
-    "deborah behan",
+    "jaci mester",
+    "tiffany trent",
+    "cynthia casey",
     "adelaine cunningham",
-    "margaret ernster"
+    "julie brinzo",
+    "essence carter-griffin",
+    "deborah behan",
+    "sandra laird",
+    "shirley aycock",
+    "katherine hitchcock",
+    "buffy powell",
+    "sharolyn dihigo"
   ],
   "nurs 6326": [
-    "buffy powell",
-    "cynthia plonien",
+    "margaret ernster",
     "jaci mester",
     "tiffany trent",
-    "essence carter-griffin",
-    "julie brinzo",
     "kirsten drake",
-    "margaret ernster"
+    "julie brinzo",
+    "essence carter-griffin",
+    "cynthia plonien",
+    "buffy powell"
   ],
   "chem 5334": [
     "byung ran so"
   ],
   "chem 5382": [
-    "byung ran so",
-    "robin macaluso",
     "purnendu dasgupta",
-    "saiful chowdhury"
+    "saiful chowdhury",
+    "byung ran so",
+    "robin macaluso"
   ],
   "educ 5305": [
-    "mary curtis",
-    "jiyoon yoon",
-    "candace lafferty",
-    "taylor kessner",
     "robin anderson",
-    "suhad sadik"
+    "jiyoon yoon",
+    "mary curtis",
+    "taylor kessner",
+    "suhad sadik",
+    "candace lafferty"
   ],
   "nurs 5342": [
-    "candida constantine",
-    "kendra slatton"
+    "kendra slatton",
+    "candida constantine"
   ],
   "nurs 5343": [
     "candida constantine"
@@ -9804,69 +9219,69 @@ export const data_course_prof = {
     "carl lovely"
   ],
   "socw 5320": [
-    "joyce white",
-    "carla storey",
     "christie eckler",
     "dawnetta smith",
-    "richard hoefer"
+    "richard hoefer",
+    "carla storey",
+    "joyce white"
   ],
   "ie 5329": [
-    "caroline krejci",
-    "ukesh chawal"
+    "ukesh chawal",
+    "caroline krejci"
   ],
   "edad 5381": [
-    "mona lincoln",
     "carrie ausbrooks",
-    "joel leader"
+    "joel leader",
+    "mona lincoln"
   ],
   "edad 6330": [
-    "catherine robert",
-    "meredith billings"
+    "meredith billings",
+    "catherine robert"
   ],
   "nurs 6327": [
+    "cathryn brown",
     "cynthia casey",
     "kristine cope",
-    "sandra laird",
-    "donna hamby",
     "jacqueline michael",
-    "cathryn brown",
-    "aimee dunnam"
+    "sandra laird",
+    "aimee dunnam",
+    "donna hamby"
   ],
   "insy 5346": [
     "chaitanya sambhara"
   ],
   "insy 5375": [
-    "chaitanya sambhara",
-    "xiuwu liao",
-    "sung shun weng",
-    "jinhu jiang",
+    "manjeri raja",
     "yuewen liu",
-    "xuedong gao",
+    "chaitanya sambhara",
     "koshy vaidyan joseph",
     "jingguo wang",
     "atieno amadi",
-    "ashok nayak",
-    "manjeri raja"
+    "xuedong gao",
+    "jinhu jiang",
+    "xiuwu liao",
+    "sung shun weng",
+    "ashok nayak"
   ],
   "mana 5392": [
-    "chang-hsien tsai",
     "jiann-haw liou",
     "en xie",
+    "chang-hsien tsai",
     "maoran zhu"
   ],
   "math 5339": [
     "chaoqun liu"
   ],
   "arch 5671": [
-    "charles macbride",
-    "michael malone",
     "heath macdonald",
-    "bang dang"
+    "bang dang",
+    "charles macbride",
+    "michael malone"
   ],
   "blaw 5332": [
+    "lee schwemer",
     "charles miller",
-    "stanley seat",
-    "lee schwemer"
+    "stanley seat"
   ],
   "mana 5334": [
     "charles newson"
@@ -9877,19 +9292,19 @@ export const data_course_prof = {
     "lars johnson"
   ],
   "ie 5318": [
-    "chen kan",
+    "victoria chen",
     "aera leboulluec",
-    "victoria chen"
+    "chen kan"
   ],
   "be 6102": [
+    "georgios alexandrakis",
     "hanli liu",
-    "cheng-jen chuong",
-    "georgios alexandrakis"
+    "cheng-jen chuong"
   ],
   "dasc 5301": [
-    "chengkai li",
-    "soumaya gharsallaoui",
     "subharag sarkar",
+    "soumaya gharsallaoui",
+    "chengkai li",
     "rozsa zaruba"
   ],
   "ee 5319": [
@@ -9902,54 +9317,54 @@ export const data_course_prof = {
     "chi-young choi"
   ],
   "econ 5337": [
-    "aaron smallwood",
     "christopher candreva",
+    "aaron smallwood",
     "chi-young choi"
   ],
   "nursg 5120": [
     "crystal cisneros",
-    "katherine afshar",
-    "lynn berger",
-    "kindra mcwilliam-ross",
+    "lee sulkin",
     "chinyere emeh",
+    "katherine afshar",
+    "kindra mcwilliam-ross",
     "misty lawrence",
-    "lee sulkin"
+    "lynn berger"
   ],
   "mse 5339": [
     "choong-un kim"
   ],
   "maed 5354": [
     "robin anderson",
-    "candace lafferty",
+    "yolanda parker",
     "chris deeter",
-    "yolanda parker"
+    "candace lafferty"
   ],
   "edad 5330": [
     "michelle leverette",
     "amy anderson",
-    "terry-ann rodriguez",
-    "christi morgan"
+    "christi morgan",
+    "terry-ann rodriguez"
   ],
   "edad 5399": [
-    "joel leader",
-    "christi morgan",
-    "amy anderson",
     "diane patrick",
+    "ericka roland",
+    "amy anderson",
+    "christi morgan",
     "kimshi hickman",
-    "ericka roland"
+    "joel leader"
   ],
   "socw 5312": [
+    "stephanie books",
+    "christie eckler",
     "dianna jones",
     "derinda stewart",
-    "amanda hassan",
-    "christie eckler",
     "ann hunt",
-    "stephanie books",
-    "richard hoefer"
+    "richard hoefer",
+    "amanda hassan"
   ],
   "socw 5321": [
-    "christie eckler",
-    "joyce white"
+    "joyce white",
+    "christie eckler"
   ],
   "nurs 5372": [
     "vicky van buren",
@@ -9957,17 +9372,17 @@ export const data_course_prof = {
     "katherine sandlin"
   ],
   "hist 5365": [
+    "stephanie cole",
     "kenton rambsy",
-    "christopher morris",
-    "stephanie cole"
+    "christopher morris"
   ],
   "econ 5333": [
     "christy spivey"
   ],
   "econ 5336": [
-    "mahmut yasar",
-    "christopher candreva",
     "christy spivey",
+    "christopher candreva",
+    "mahmut yasar",
     "ashish sedai"
   ],
   "hcad 5333": [
@@ -9980,8 +9395,8 @@ export const data_course_prof = {
     "chunke su"
   ],
   "sped 5307": [
-    "clynita grafenreed",
     "schuyler beecher",
+    "clynita grafenreed",
     "belinda rudinger",
     "erica carswell"
   ],
@@ -9990,70 +9405,70 @@ export const data_course_prof = {
   ],
   "nurs 5220": [
     "toshia mckeon",
-    "collin naugher",
-    "lindsay hermsdorfer",
-    "jacqueline michael",
-    "sara moore",
-    "vicky van buren",
     "gigi thomas",
-    "courtney werner"
+    "jacqueline michael",
+    "lindsay hermsdorfer",
+    "sara moore",
+    "courtney werner",
+    "vicky van buren",
+    "collin naugher"
   ],
   "nursg 5220": [
-    "collin naugher",
+    "toshia mckeon",
     "lindsay hermsdorfer",
     "sara moore",
-    "toshia mckeon",
-    "courtney werner"
+    "courtney werner",
+    "collin naugher"
   ],
   "nurs 5650": [
+    "cristina winters",
+    "maria camacho",
     "juan carlos higuera",
+    "kimberly thompson",
+    "maryann ugoh",
+    "aimee dunnam",
     "heather skrivanek",
     "aaron langford",
     "sara jaquay",
-    "cristina winters",
-    "maria camacho",
-    "deborah stewart",
-    "maryann ugoh",
-    "kimberly thompson",
-    "aimee dunnam"
+    "deborah stewart"
   ],
   "nurs 6382": [
-    "cynthia casey",
-    "sandra laird",
-    "tamara eades",
     "shannon carey",
-    "donna hamby",
+    "cynthia casey",
     "keri draganic",
     "kristin gigli",
+    "sandra laird",
     "aimee dunnam",
+    "donna hamby",
+    "tamara eades",
     "emily fox",
     "tina theriaque"
   ],
   "nurs 5312": [
+    "cynthia garrett",
     "kathy goad",
     "dolores aguilar",
-    "patricia thomas",
-    "cynthia garrett"
+    "patricia thomas"
   ],
   "hcad 5337": [
     "terrance wilensky",
     "cynthia st john"
   ],
   "mana 5360": [
-    "faye cocchiara",
-    "haifeng zhao",
-    "cynthia st john",
-    "jeanne michalski",
-    "alison birch",
     "jian liang",
-    "james lavelle"
+    "alison birch",
+    "haifeng zhao",
+    "faye cocchiara",
+    "cynthia st john",
+    "james lavelle",
+    "jeanne michalski"
   ],
   "kine 5233": [
     "cynthia trowbridge"
   ],
   "kine 5344": [
-    "cynthia trowbridge",
-    "laura kunkel"
+    "laura kunkel",
+    "cynthia trowbridge"
   ],
   "nurs 5388": [
     "daisha cipher"
@@ -10068,73 +9483,73 @@ export const data_course_prof = {
     "daniel sledge"
   ],
   "socw 5308": [
-    "latoya smith-jones",
-    "steven moore",
-    "latoya hogg",
-    "vivian miller",
-    "nibedita shrestha",
+    "priyanjali chakraborty",
     "aditi prabhakar",
-    "dianna jones",
-    "amanda aykanian",
-    "angela hall",
-    "kristin mapson",
-    "ann hunt",
-    "sherece shavel",
-    "faheem ohri",
-    "shamsun nahar",
-    "danielle harrell",
-    "marcela nava",
-    "mary highfill",
     "dorothea ivey",
-    "rebecca mauldin",
-    "toni gallegos",
-    "christian vazquez",
     "kelli rogers",
-    "priyanjali chakraborty"
+    "sherece shavel",
+    "latoya smith-jones",
+    "kristin mapson",
+    "steven moore",
+    "faheem ohri",
+    "christian vazquez",
+    "rebecca mauldin",
+    "marcela nava",
+    "vivian miller",
+    "danielle harrell",
+    "angela hall",
+    "dianna jones",
+    "nibedita shrestha",
+    "shamsun nahar",
+    "amanda aykanian",
+    "latoya hogg",
+    "mary highfill",
+    "ann hunt",
+    "toni gallegos"
   ],
   "socw 5307": [
-    "taren allen",
-    "elisha tones",
-    "diane mitschke",
-    "olivia cruse",
-    "janet finch",
-    "sandra balderas",
-    "erica stanley",
-    "ericka freeman",
+    "derelle walker",
+    "kristin mycke",
+    "amy blakeney",
     "aditi prabhakar",
-    "mia kirby",
+    "olivia cruse",
+    "ericka freeman",
+    "kelli rogers",
+    "elisha tones",
+    "patrice green",
+    "taren allen",
+    "sandra balderas",
+    "michael bennett",
+    "shamila sivakumaran",
     "stephanie bonilla",
+    "zerita hall",
+    "tahirah samuels",
+    "mia kirby",
+    "tiffany egan",
+    "diane mitschke",
+    "chandra thompson-donahue",
     "darlene hunter",
     "brittanie atteberry ash",
-    "haydee hall",
-    "derelle walker",
-    "amy blakeney",
-    "traneika turner-wentt",
-    "vijayan pillai",
-    "chandra thompson-donahue",
+    "erica stanley",
+    "jandel crutchfield",
     "sophia fantus",
-    "zerita hall",
+    "haydee hall",
+    "vijayan pillai",
+    "traneika turner-wentt",
     "tracy orwig",
-    "michael bennett",
-    "tahirah samuels",
-    "patrice green",
-    "kristin mycke",
-    "shamila sivakumaran",
-    "tiffany egan",
-    "kelli rogers",
-    "jandel crutchfield"
+    "janet finch"
   ],
   "econ 5313": [
-    "xiaohui hou",
-    "yibin li",
-    "roger meiners",
-    "tara brown",
-    "mahmut yasar",
     "jingyu yang",
-    "hui cao",
+    "michael ward",
     "david andersson",
+    "mahmut yasar",
+    "hui cao",
+    "roger meiners",
+    "xiaohui hou",
+    "tara brown",
     "william seeger",
-    "michael ward"
+    "yibin li"
   ],
   "soci 5318": [
     "david arditi"
@@ -10150,63 +9565,63 @@ export const data_course_prof = {
   ],
   "cse 5321": [
     "subharag sarkar",
+    "giridhar amaravadi",
+    "nomaan mufti",
     "john robb",
     "david kung",
-    "brian dalio",
-    "nomaan mufti",
-    "giridhar amaravadi"
+    "brian dalio"
   ],
   "cse 5381": [
     "david levine"
   ],
   "cse 5334": [
+    "marnim galib",
+    "deok gun park",
+    "david levine",
     "fatma arslan",
     "soumaya gharsallaoui",
-    "elizabeth diaz",
-    "david levine",
-    "deok gun park",
+    "manfred huber",
     "upendranatha chakravarthy",
-    "marnim galib",
-    "manfred huber"
+    "elizabeth diaz"
   ],
   "cse 6331": [
-    "bahra khalili najafabadi",
-    "leonidas fegaras",
-    "ashraf aboulnaga",
     "david levine",
     "ramez elmasri",
-    "upendranatha chakravarthy"
+    "leonidas fegaras",
+    "upendranatha chakravarthy",
+    "ashraf aboulnaga",
+    "bahra khalili najafabadi"
   ],
   "arch 5331": [
     "david messersmith"
   ],
   "hcad 5316": [
-    "david rakowski",
     "martin deatherage",
+    "david rakowski",
     "jonathan leer"
   ],
   "emba 5309": [
-    "qing hao",
     "david rakowski",
+    "qing hao",
     "sriram villupuram"
   ],
   "socw 5354": [
-    "de'an roper",
-    "derelle walker",
-    "rachel swope",
-    "marilin jakubowske",
-    "sherry cabaniss",
-    "sheila gold",
     "donald schuman",
-    "pamela fox",
+    "derelle walker",
+    "marilin jakubowske",
     "pamela malone",
+    "sherry cabaniss",
     "melissa flores",
-    "robyn smith-bull"
+    "sheila gold",
+    "de'an roper",
+    "pamela fox",
+    "robyn smith-bull",
+    "rachel swope"
   ],
   "nurs 5367": [
-    "joy baker",
     "donna bacchus",
     "deborah behan",
+    "joy baker",
     "sharon wilson",
     "judy leflore"
   ],
@@ -10214,64 +9629,64 @@ export const data_course_prof = {
     "deborah behan"
   ],
   "nurs 5335": [
-    "deborah lewis",
-    "lynda jarrell"
+    "lynda jarrell",
+    "deborah lewis"
   ],
   "nurs 5433": [
     "kashiris perryman",
-    "deborah lewis",
     "lynda jarrell",
-    "rhonda winegar"
+    "rhonda winegar",
+    "deborah lewis"
   ],
   "nursc 5335": [
     "deborah lewis"
   ],
   "nursg 5433": [
-    "deborah lewis",
-    "lynda jarrell"
+    "lynda jarrell",
+    "deborah lewis"
   ],
   "list 5316": [
     "deborah williams",
     "kathryn pole"
   ],
   "nurs 5339": [
-    "pamela duffey",
+    "kimberly hatchel",
     "debra phillips",
-    "kimberly hatchel"
+    "pamela duffey"
   ],
   "nursg 5339": [
-    "pamela duffey",
+    "kimberly hatchel",
     "debra phillips",
-    "kimberly hatchel"
+    "pamela duffey"
   ],
   "hist 5363": [
     "andrew milson",
-    "sam haynes",
     "delaina price",
+    "sam haynes",
     "james sandy"
   ],
   "nurs 5366": [
-    "jaquetta reeves",
-    "denise cauble",
+    "donna bacchus",
     "michelle hampton",
-    "barbara schneider",
-    "thomas dombrowsky",
     "donelle barnes",
-    "donna bacchus"
+    "jaquetta reeves",
+    "barbara schneider",
+    "denise cauble",
+    "thomas dombrowsky"
   ],
   "kine 5375": [
-    "erin carlson",
     "kim moss-linnear",
-    "denise hernandez"
+    "denise hernandez",
+    "erin carlson"
   ],
   "kine 5377": [
-    "erin carlson",
-    "denise hernandez"
+    "denise hernandez",
+    "erin carlson"
   ],
   "arch 5343": [
     "ricardo munoz",
-    "dennis chiessa",
-    "amanda aman"
+    "amanda aman",
+    "dennis chiessa"
   ],
   "arch 5592": [
     "dennis chiessa"
@@ -10281,110 +9696,110 @@ export const data_course_prof = {
   ],
   "socw 5326": [
     "dianna jones",
-    "joyce white",
     "derinda stewart",
     "poco kernsmith",
     "amanda hassan",
+    "joyce white",
     "gretchen ward"
   ],
   "socw 5311": [
-    "catheleen jordan",
-    "jaclyn kirsch",
-    "carla storey",
-    "janet finch",
-    "jolynne batchelor",
-    "emarely rosa davila",
-    "karla arenas-itotia",
-    "karen magruder",
-    "derrelynn perryman",
-    "mansi patel",
-    "de'an roper",
-    "amanda hassan",
-    "toni wyatt",
-    "sherece shavel",
-    "danielle harrell",
-    "traneika turner-wentt",
-    "marilin jakubowske",
-    "jennifer murphy",
-    "latisha archie-thomas",
-    "leah wilson",
-    "donald schuman",
-    "michael bennett",
-    "rebecca cole",
-    "robyn smith-bull",
-    "diana pryor",
-    "tahirah samuels",
     "bonita dockery",
-    "marie salimbeni",
-    "kenshara cravens",
-    "randall basham",
+    "amanda hassan",
     "kelli rogers",
-    "sarah herrera"
+    "sherece shavel",
+    "jolynne batchelor",
+    "rebecca cole",
+    "marilin jakubowske",
+    "marie salimbeni",
+    "karen magruder",
+    "robyn smith-bull",
+    "michael bennett",
+    "diana pryor",
+    "emarely rosa davila",
+    "leah wilson",
+    "karla arenas-itotia",
+    "donald schuman",
+    "tahirah samuels",
+    "kenshara cravens",
+    "danielle harrell",
+    "mansi patel",
+    "jaclyn kirsch",
+    "jennifer murphy",
+    "toni wyatt",
+    "sarah herrera",
+    "latisha archie-thomas",
+    "de'an roper",
+    "catheleen jordan",
+    "derrelynn perryman",
+    "traneika turner-wentt",
+    "carla storey",
+    "randall basham",
+    "janet finch"
   ],
   "mana 5340": [
-    "heyi song",
     "di fan",
     "ping han",
-    "david gray",
-    "matthew hirst",
+    "heyi song",
     "james lavelle",
+    "matthew hirst",
+    "david gray",
     "george benson"
   ],
   "socw 5315": [
-    "diana pryor",
-    "steven moore",
-    "tahirah samuels",
-    "donna schuman",
     "susan clark",
-    "rachel franz",
-    "sandra balderas",
-    "pamela fox",
-    "zerita hall",
-    "brittany baker",
+    "tahirah samuels",
     "ly-huong barrett",
+    "sandra balderas",
+    "steven moore",
+    "rachel franz",
+    "donna schuman",
+    "brittany baker",
+    "pamela fox",
     "robyn smith-bull",
+    "zerita hall",
+    "diana pryor",
     "don kelly"
   ],
   "edad 6325": [
-    "diane patrick",
-    "jennifer watters",
+    "meredith billings",
     "carrie ausbrooks",
-    "meredith billings"
+    "jennifer watters",
+    "diane patrick"
   ],
   "nurs 6324": [
-    "shirley aycock",
     "dianne ross",
-    "kristine cope",
-    "sharon blackerby"
+    "sharon blackerby",
+    "shirley aycock",
+    "kristine cope"
   ],
   "math 5392": [
-    "dimitar grantcharov",
-    "suvra pal",
-    "david jorgensen",
     "james alvarez",
     "souvik roy",
-    "michaela vancliff"
+    "michaela vancliff",
+    "dimitar grantcharov",
+    "david jorgensen",
+    "suvra pal"
   ],
   "socw 5395": [
-    "latoya smith-jones",
-    "marcus crawford",
-    "janet finch",
-    "jolynne batchelor",
-    "gilda ebanks",
-    "emarely rosa davila",
-    "don kelly",
+    "norman cobb",
+    "dorothea ivey",
     "amanda hassan",
-    "kristin mapson",
+    "marcus crawford",
     "sherece shavel",
+    "jolynne batchelor",
+    "latoya smith-jones",
+    "kristin mapson",
+    "emarely rosa davila",
+    "talaun hammond",
+    "gilda ebanks",
+    "maria scannapieco",
+    "don kelly",
     "rachel swope",
     "regina praetorius",
     "sheila gold",
-    "talaun hammond",
-    "dorothea ivey",
-    "maria scannapieco",
-    "susanny beltran",
     "marie salimbeni",
-    "norman cobb"
+    "susanny beltran",
+    "janet finch"
   ],
   "acct 5133": [
     "nicholas mitchell",
@@ -10395,103 +9810,103 @@ export const data_course_prof = {
     "roberto gonzales"
   ],
   "socw 5357": [
-    "steven moore",
-    "diane mitschke",
-    "amanda arizola",
-    "ann hunt",
-    "bonita dockery",
-    "sheila gold",
-    "marie salimbeni",
-    "talaun hammond",
-    "donald schuman",
-    "kiva harper",
     "bethany brown",
+    "donald schuman",
+    "amanda arizola",
+    "talaun hammond",
     "kenshara cravens",
-    "kelli rogers",
+    "bonita dockery",
+    "steven moore",
+    "sheila gold",
     "gilbert guerrero",
-    "erin findley"
+    "kiva harper",
+    "ann hunt",
+    "diane mitschke",
+    "erin findley",
+    "marie salimbeni",
+    "kelli rogers"
   ],
   "socw 5392": [
-    "mary highfill",
+    "sherece shavel",
     "debra woody",
-    "rachel swope",
+    "donald schuman",
     "regina praetorius",
     "kiva harper",
-    "donald schuman",
-    "tracy orwig",
-    "sherece shavel",
+    "mary highfill",
     "michael bennett",
+    "tracy orwig",
+    "rachel swope",
     "jennifer sterling"
   ],
   "ae 5326": [
-    "donald wilson",
-    "dennis finley"
+    "dennis finley",
+    "donald wilson"
   ],
   "nurs 5310": [
-    "ahmad hamdan",
-    "maura bernasconi",
     "donna bacchus",
-    "dolores aguilar"
+    "maura bernasconi",
+    "dolores aguilar",
+    "ahmad hamdan"
   ],
   "nurs 5327": [
-    "yaewon seo",
+    "donna bacchus",
     "leigh griffis",
     "leigh griffis-cogan",
-    "maxine adegbola",
-    "donna bacchus"
+    "yaewon seo",
+    "maxine adegbola"
   ],
   "nurs 6620": [
-    "tamara eades",
     "kirsten drake",
-    "donna hamby"
+    "donna hamby",
+    "tamara eades"
   ],
   "nurs 6621": [
     "angela miller",
-    "debra hurd",
-    "sandra laird",
-    "shirley aycock",
-    "tamara eades",
-    "jan phillips",
-    "tiffany trent",
-    "donna hamby",
-    "sara moore",
     "michelle hampton",
-    "adelaine cunningham",
-    "deborah behan",
-    "jeannie randall",
+    "debra hurd",
+    "jan phillips",
     "cathryn brown",
-    "kirsten drake"
+    "jeannie randall",
+    "tiffany trent",
+    "kirsten drake",
+    "adelaine cunningham",
+    "sandra laird",
+    "deborah behan",
+    "sara moore",
+    "donna hamby",
+    "shirley aycock",
+    "tamara eades"
   ],
   "nurs 5645": [
-    "natalie roye",
-    "erika diniz-borkar",
     "kellie kahveci",
+    "donna martinez",
+    "erika diniz-borkar",
     "mary davis",
     "shreebha kafle",
-    "donna martinez"
+    "natalie roye"
   ],
   "ae 5332": [
-    "albert tong",
-    "dora musielak"
+    "dora musielak",
+    "albert tong"
   ],
   "list 5350": [
     "teddi martin",
-    "doreen plony",
+    "amy hinz horn",
     "deborah williams",
-    "amy hinz horn"
+    "doreen plony"
   ],
   "socw 5363": [
-    "allison tomlinson",
-    "amanda arizola",
-    "aundraea brown",
-    "dorothea ivey",
-    "olivia cruse",
     "michelle washburn",
-    "kristin mycke",
     "erica stanley",
     "stephanie books",
-    "theresa davis",
+    "amanda arizola",
     "jordan dugger",
+    "aundraea brown",
+    "kristin mycke",
+    "allison tomlinson",
+    "theresa davis",
+    "olivia cruse",
+    "dorothea ivey",
     "kelli rogers"
   ],
   "mark 5343": [
@@ -10511,88 +9926,88 @@ export const data_course_prof = {
   ],
   "cse 5335": [
     "soumaya gharsallaoui",
+    "yonghe liu",
     "leonidas fegaras",
     "elizabeth diaz",
-    "yonghe liu",
     "brian dalio"
   ],
   "edad 5351": [
+    "maria delgado",
     "elsa camargo",
-    "stephen berg",
-    "maria delgado"
+    "stephen berg"
   ],
   "nurs 5204": [
-    "patricia thomas",
-    "emily fox"
+    "emily fox",
+    "patricia thomas"
   ],
   "nurs 5110": [
-    "patricia thomas",
-    "emily fox"
+    "emily fox",
+    "patricia thomas"
   ],
   "papp 5355": [
     "emily nwakpuda",
-    "karabi bezboruah",
-    "jiwon suh"
+    "jiwon suh",
+    "karabi bezboruah"
   ],
   "socw 5362": [
-    "jeremeka mcbride",
-    "leslie cantu",
-    "tahirah samuels",
-    "mary elizabeth kopsovich",
-    "pamela johnson",
-    "allison tomlinson",
-    "ann hunt",
-    "suzanne stephens",
-    "chava rousch-carlisle",
-    "bonita dockery",
-    "wanda bolton-davis",
-    "allison etchison",
-    "erica stanley",
     "leah wilson",
+    "erin findley",
+    "erica stanley",
+    "tahirah samuels",
+    "leslie cantu",
+    "allison etchison",
     "tracy orwig",
-    "ericka freeman",
+    "mary elizabeth kopsovich",
+    "jeremeka mcbride",
+    "bonita dockery",
+    "allison tomlinson",
+    "wanda bolton-davis",
     "da'joya barnes",
-    "erin findley"
+    "pamela johnson",
+    "ann hunt",
+    "chava rousch-carlisle",
+    "ericka freeman",
+    "suzanne stephens"
   ],
   "edad 5350": [
-    "elsa camargo",
     "ericka roland",
+    "elsa camargo",
     "yi zhang"
   ],
   "arch 5670": [
-    "cesar lopez",
-    "oswald jenewein",
-    "bijan youssefzadeh",
-    "michael shaw",
-    "michael porter",
-    "narjes abbasabadi",
-    "hyesun jeong",
-    "amanda aman",
-    "brad mccorkle",
-    "dennis chiessa",
-    "erik broberg",
-    "lorena toffer",
-    "charles macbride",
-    "bradley bell",
-    "ursula emery-mcclure",
-    "david celento",
-    "shadi nazarian",
     "heath macdonald",
-    "stephen knowles",
-    "southern ellis",
-    "syed ali",
-    "steven quevedo",
+    "brad mccorkle",
+    "shadi nazarian",
     "patrick craine",
-    "joshua nason"
+    "cesar lopez",
+    "amanda aman",
+    "michael shaw",
+    "syed ali",
+    "bradley bell",
+    "bijan youssefzadeh",
+    "lorena toffer",
+    "hyesun jeong",
+    "david celento",
+    "oswald jenewein",
+    "erik broberg",
+    "stephen knowles",
+    "dennis chiessa",
+    "southern ellis",
+    "joshua nason",
+    "charles macbride",
+    "ursula emery-mcclure",
+    "steven quevedo",
+    "narjes abbasabadi",
+    "michael porter"
   ],
   "mse 5390": [
-    "jiechao jiang",
-    "erika la plante"
+    "erika la plante",
+    "jiechao jiang"
   ],
   "mse 5300": [
     "ye cao",
-    "yaowu hao",
-    "erika la plante"
+    "erika la plante",
+    "yaowu hao"
   ],
   "comm 5307": [
     "erika pribanic-smith"
@@ -10609,57 +10024,57 @@ export const data_course_prof = {
     "erin murrah-mandril"
   ],
   "socw 5303": [
-    "latoya smith-jones",
-    "mark frazier",
-    "olivia cruse",
-    "suzanne stephens",
-    "srabastee de bhaumik",
+    "katherine afflerbach",
+    "derelle walker",
     "morgan pettyjohn",
+    "srabastee de bhaumik",
+    "eusebius small",
+    "aditi prabhakar",
+    "olivia cruse",
+    "dorothea ivey",
+    "sherece shavel",
+    "latoya smith-jones",
+    "kristin mapson",
+    "allison tomlinson",
     "karen magruder",
     "richard hoefer",
-    "mansi patel",
-    "aditi prabhakar",
-    "dianna jones",
-    "kristin mapson",
+    "shamila sivakumaran",
     "stephanie bonilla",
-    "brittanie atteberry ash",
-    "rachel franz",
-    "ricka mammah",
-    "sherece shavel",
-    "jordan dugger",
-    "derelle walker",
-    "katherine afflerbach",
-    "mary highfill",
-    "allison tomlinson",
-    "chandra thompson-donahue",
-    "dorothea ivey",
-    "eusebius small",
     "tahirah samuels",
+    "jordan dugger",
+    "mark frazier",
+    "rachel franz",
+    "mansi patel",
+    "chandra thompson-donahue",
     "chang seo",
-    "shamila sivakumaran"
+    "brittanie atteberry ash",
+    "dianna jones",
+    "ricka mammah",
+    "mary highfill",
+    "suzanne stephens"
   ],
   "papp 5350": [
-    "alejandro rodriguez",
     "joseph portugal",
-    "evan mistur"
+    "evan mistur",
+    "alejandro rodriguez"
   ],
   "cse 5369": [
     "fillia makedon"
   ],
   "cse 6369": [
-    "deok gun park",
     "manfred huber",
+    "deok gun park",
     "fillia makedon"
   ],
   "chem 5011": [
-    "daniel armstrong",
-    "frank foss",
-    "peter kroll",
+    "frederick macdonnell",
     "kayunta johnson-winters",
-    "joseph buonomo",
-    "byung ran so",
+    "frank foss",
     "sherri mcfarland",
-    "frederick macdonnell"
+    "byung ran so",
+    "daniel armstrong",
+    "joseph buonomo",
+    "peter kroll"
   ],
   "ee 5322": [
     "ahmet koru",
@@ -10671,12 +10086,12 @@ export const data_course_prof = {
     "frederick wilder"
   ],
   "mana 5339": [
-    "fuli li",
-    "jeffrey mcgee"
+    "jeffrey mcgee",
+    "fuli li"
   ],
   "emba 5111": [
-    "faye cocchiara",
     "tatia jacobson jordan",
+    "faye cocchiara",
     "george benson"
   ],
   "laps 5330": [
@@ -10689,180 +10104,180 @@ export const data_course_prof = {
     "graham hunt"
   ],
   "nurs 5354": [
-    "tiffany trent",
-    "jennifer dailey",
-    "deidre allison",
-    "shiny raju",
     "lydia harris",
-    "kristi vaughn",
-    "kaitlin mathew",
-    "ha nguyen",
-    "kristin stanley",
-    "sylvia kirgis",
-    "gabriell grayson",
-    "sheila ford",
     "cynthia brenchley",
+    "kaitlin mathew",
+    "tiffany trent",
+    "shannon carey",
     "keri draganic",
+    "kristin stanley",
+    "gabriell grayson",
+    "ha nguyen",
     "kelly stowell",
-    "lisa broome",
+    "deidre allison",
+    "sylvia kirgis",
     "krystle garrett",
+    "sheila ford",
+    "jennifer dailey",
+    "kristi vaughn",
+    "shiny raju",
     "karen merriman",
-    "shannon carey"
+    "lisa broome"
   ],
   "cse 5388": [
-    "shirin nilizadeh",
-    "habeeb olufowobi"
+    "habeeb olufowobi",
+    "shirin nilizadeh"
   ],
   "cse 6388": [
-    "shirin nilizadeh",
-    "habeeb olufowobi"
+    "habeeb olufowobi",
+    "shirin nilizadeh"
   ],
   "be 5343": [
     "hanli liu"
   ],
   "papp 5309": [
     "david coursey",
-    "hannah lebovits",
+    "joseph portugal",
     "alejandro rodriguez",
-    "joseph portugal"
+    "hannah lebovits"
   ],
   "papp 5395": [
-    "hannah lebovits",
+    "david coursey",
     "alejandro rodriguez",
-    "david coursey"
+    "hannah lebovits"
   ],
   "cse 5349": [
     "phuc vp nguyen",
-    "md salik parwez",
-    "hao che"
+    "hao che",
+    "md salik parwez"
   ],
   "cse 6349": [
-    "ming li",
-    "hao che"
+    "hao che",
+    "ming li"
   ],
   "be 5309": [
     "hao xu"
   ],
   "nurs 5325": [
-    "immaculate okeyo",
-    "heather skrivanek",
-    "patricia brooks",
     "cristina winters",
-    "jacqueline michael",
-    "deborah stewart",
-    "julie durand",
-    "brandon respress",
-    "solange boma",
     "kimberly thompson",
-    "aimee dunnam"
+    "immaculate okeyo",
+    "solange boma",
+    "jacqueline michael",
+    "brandon respress",
+    "aimee dunnam",
+    "patricia brooks",
+    "julie durand",
+    "heather skrivanek",
+    "deborah stewart"
   ],
   "nurs 5222": [
-    "oluwatosin adebiyi",
+    "patricia brooks",
     "heather skrivanek",
-    "patricia brooks"
+    "oluwatosin adebiyi"
   ],
   "nurs 5640": [
-    "mary roberts",
-    "baneen manekia",
-    "sayda major",
-    "nancy nagel",
-    "paige golden",
-    "kristina parsons",
-    "carlton rojas",
-    "esteban aguirre",
+    "jordan dudley",
+    "april walker",
     "nicole moler",
     "rickey mays",
-    "jordan dudley",
-    "jennifer hoeft",
+    "carlton rojas",
+    "nancy nagel",
+    "baneen manekia",
     "jennifer chavez",
-    "heather wyatt",
     "jodie moore",
-    "april walker"
+    "jennifer hoeft",
+    "sayda major",
+    "kristina parsons",
+    "esteban aguirre",
+    "paige golden",
+    "heather wyatt",
+    "mary roberts"
   ],
   "socw 5482": [
     "maresia davis",
-    "donna davis",
-    "tara harris",
-    "keiana crain",
-    "latoya hogg",
-    "stephanie books",
-    "shelly mota",
-    "cindy bassey",
-    "hector ramos de leon",
-    "monica brown",
-    "haydee hall",
-    "daisy jones",
-    "toykesha howard",
-    "natalie mangham",
-    "kendra tevis",
-    "lorie white",
     "meverlyn maisonave",
-    "christie eckler",
+    "donna davis",
+    "toykesha howard",
+    "kendra tevis",
+    "keiana crain",
+    "natalie mangham",
+    "hector ramos de leon",
     "patrice green",
-    "kenshara cravens",
+    "daisy jones",
+    "stephanie books",
+    "monica brown",
     "dawnetta smith",
-    "da'joya barnes",
+    "cindy bassey",
+    "kenshara cravens",
     "melissa flores",
-    "traecia nichols"
+    "christie eckler",
+    "haydee hall",
+    "traecia nichols",
+    "da'joya barnes",
+    "latoya hogg",
+    "lorie white",
+    "shelly mota",
+    "tara harris"
   ],
   "socw 5485": [
-    "jeremeka mcbride",
-    "kelle white",
-    "hector ramos de leon",
     "natalie mangham",
-    "haydee hall",
-    "michelle young",
     "stephanie books",
-    "da'joya barnes"
+    "hector ramos de leon",
+    "haydee hall",
+    "da'joya barnes",
+    "michelle young",
+    "kelle white",
+    "jeremeka mcbride"
   ],
   "socw 5486": [
-    "jeremeka mcbride",
-    "kelle white",
-    "hector ramos de leon",
     "natalie mangham",
-    "haydee hall",
-    "michelle young",
     "stephanie books",
-    "da'joya barnes"
+    "hector ramos de leon",
+    "haydee hall",
+    "da'joya barnes",
+    "michelle young",
+    "kelle white",
+    "jeremeka mcbride"
   ],
   "ce 5315": [
     "tamer eljufout",
     "himan hojat jalali"
   ],
   "socw 5358": [
-    "sonya carson",
-    "carla storey",
-    "suzanne stephens",
-    "jolynne batchelor",
-    "pamela randolph",
-    "holli slater",
-    "mansi patel",
-    "lashaunn bold",
-    "dianna jones",
-    "mia kirby",
-    "rachel franz",
-    "bethany brown",
-    "pamela malone",
-    "sherece shavel",
-    "allison etchison",
-    "rachel swope",
-    "sheila gold",
-    "bonita dockery",
     "kristin mycke",
-    "diana padilla",
+    "bonita dockery",
+    "pamela malone",
+    "lashaunn bold",
+    "sherece shavel",
+    "jolynne batchelor",
+    "sonya carson",
+    "holli slater",
+    "bethany brown",
+    "allison etchison",
+    "mia kirby",
     "kenshara cravens",
+    "rachel franz",
+    "mansi patel",
+    "rachel swope",
+    "dianna jones",
+    "suzanne stephens",
+    "pamela randolph",
+    "sheila gold",
+    "diana padilla",
+    "carla storey",
     "daniel cummings"
   ],
   "list 5326": [
-    "doreen plony",
     "holly hungerford-kresser",
-    "amy hinz horn"
+    "amy hinz horn",
+    "doreen plony"
   ],
   "hcad 5315": [
     "yi liu",
     "billy moore",
-    "patricia swafford",
-    "hossein badri"
+    "hossein badri",
+    "patricia swafford"
   ],
   "math 5300": [
     "hristo kojouharov"
@@ -10883,30 +10298,30 @@ export const data_course_prof = {
     "ishfaq ahmad"
   ],
   "plan 5303": [
-    "ivonne audirac-zazueta",
-    "julene paul"
+    "julene paul",
+    "ivonne audirac-zazueta"
   ],
   "cse 5370": [
     "jacob luber"
   ],
   "ie 5304": [
-    "susan ferreira",
-    "maysaa hamdan",
-    "subhash singhal",
+    "mohammad jahanbakht",
     "jaime cantu",
-    "mohammad jahanbakht"
+    "maysaa hamdan",
+    "susan ferreira",
+    "subhash singhal"
   ],
   "reae 5350": [
     "james hansz"
   ],
   "crcj 5393": [
-    "james kelsay",
-    "roxanne zascavage",
-    "michael teneyck",
     "kent kerley",
-    "sarah el sayed",
+    "patricia eddings",
     "seungmug lee",
-    "patricia eddings"
+    "james kelsay",
+    "michael teneyck",
+    "roxanne zascavage",
+    "sarah el sayed"
   ],
   "emba 5123": [
     "james lavelle"
@@ -10918,46 +10333,46 @@ export const data_course_prof = {
     "james lummus"
   ],
   "nurs 5353": [
-    "ronnie tobias",
     "jane champion",
-    "shreebha kafle",
+    "ronnie tobias",
     "saeed niyati",
-    "lee sulkin"
+    "lee sulkin",
+    "shreebha kafle"
   ],
   "psyc 6300": [
-    "amandeep dhaliwal",
-    "jared kenworthy"
+    "jared kenworthy",
+    "amandeep dhaliwal"
   ],
   "ee 6314": [
+    "jon mitchell",
     "shahriar shahabuddin",
-    "jason losh",
-    "jon mitchell"
+    "jason losh"
   ],
   "cse 5400": [
     "jason losh"
   ],
   "ee 5313": [
-    "jason losh",
-    "shahriar shahabuddin"
+    "shahriar shahabuddin",
+    "jason losh"
   ],
   "ie 6303": [
     "jay rosenberger"
   ],
   "crcj 5381": [
-    "seokjin jeong",
     "jaya davis",
-    "christi gullion"
+    "christi gullion",
+    "seokjin jeong"
   ],
   "insy 5336": [
+    "neshat beheshti",
+    "subhra patra",
+    "mohammad murad",
+    "koshy vaidyan joseph",
     "zhuojun gu",
+    "anam sahoo",
     "jayarajan samuel",
     "mahyar sharif vaghefi",
-    "koshy vaidyan joseph",
-    "mohammad murad",
-    "ruochen liao",
-    "anam sahoo",
-    "neshat beheshti",
-    "subhra patra"
+    "ruochen liao"
   ],
   "nurs 5360": [
     "jeanette blankenship"
@@ -10969,65 +10384,65 @@ export const data_course_prof = {
     "jeffery demuth"
   ],
   "mark 5311": [
-    "ritesh saini",
+    "adwait khare",
+    "lawrence chonko",
     "jeffrey wallman",
     "elten briggs",
     "william qualls",
-    "lawrence chonko",
-    "adwait khare"
+    "ritesh saini"
   ],
   "mark 5340": [
     "jeffrey wallman",
     "ling hu"
   ],
   "nurs 5463": [
-    "sayda major",
-    "nancy nagel",
     "mary schira",
+    "keri draganic",
+    "john gonzalez",
+    "nancy nagel",
+    "sayda major",
+    "jennifer chavez"
+  ],
+  "nursc 5463": [
+    "nancy nagel",
     "john gonzalez",
     "keri draganic",
     "jennifer chavez"
   ],
-  "nursc 5463": [
-    "jennifer chavez",
-    "john gonzalez",
-    "nancy nagel",
-    "keri draganic"
-  ],
   "nurs 5362": [
     "julie jung",
-    "bethany hultquist",
     "cynthia rodriguez wewerka",
     "melissa salmons",
+    "bethany hultquist",
     "jennifer may"
   ],
   "papp 5351": [
-    "jiwon suh",
-    "jennifer sloan"
+    "jennifer sloan",
+    "jiwon suh"
   ],
   "edad 5360": [
-    "cynite ola",
-    "michelle leverette",
-    "carrie ausbrooks",
-    "terry-ann rodriguez",
     "diane patrick",
-    "stephen berg",
-    "jennifer watters",
+    "lowell davis",
     "ericka roland",
-    "lowell davis"
+    "jennifer watters",
+    "carrie ausbrooks",
+    "michelle leverette",
+    "stephen berg",
+    "terry-ann rodriguez",
+    "cynite ola"
   ],
   "fina 5340": [
-    "hsiu-i ting",
     "jiachu song",
+    "hsiu-i ting",
+    "yibing du",
     "che-chun lin",
     "salil sarkar",
-    "liang-chih liu",
-    "yibing du"
+    "liang-chih liu"
   ],
   "cse 5380": [
     "jiang ming",
-    "shirin nilizadeh",
-    "trevor bakker"
+    "trevor bakker",
+    "shirin nilizadeh"
   ],
   "plan 5330": [
     "tongbin qu",
@@ -11048,96 +10463,96 @@ export const data_course_prof = {
     "shu-ming tseng"
   ],
   "span 5330": [
-    "monica de la fuente iglesias",
-    "jinny choi"
+    "jinny choi",
+    "monica de la fuente iglesias"
   ],
   "acct 5324": [
     "jivas chakravarthy"
   ],
   "sced 5353": [
+    "betty george",
     "jiyoon yoon",
-    "melissa hulings",
-    "betty george"
+    "melissa hulings"
   ],
   "sced 5354": [
     "jiyoon yoon",
-    "chris deeter",
-    "carol waters"
+    "carol waters",
+    "chris deeter"
   ],
   "nurs 5610": [
+    "emily fox",
     "joan heilskov",
-    "patricia thomas",
-    "emily fox"
+    "patricia thomas"
   ],
   "educ 5310": [
     "mary curtis",
-    "joyce myers",
-    "jodi tommerdahl"
+    "jodi tommerdahl",
+    "joyce myers"
   ],
   "educ 5362": [
     "jodi tommerdahl"
   ],
   "fina 5323": [
-    "salil sarkar",
-    "john adams"
+    "john adams",
+    "salil sarkar"
   ],
   "fina 5330": [
     "john diltz",
     "richard berard"
   ],
   "fina 5376": [
+    "john diltz",
     "sima jannati",
-    "trang thai",
-    "john diltz"
+    "trang thai"
   ],
   "plan 5308": [
-    "julene paul",
-    "john dugan"
+    "john dugan",
+    "julene paul"
   ],
   "hist 5341": [
-    "kenyon zimmer",
-    "john garrigus"
+    "john garrigus",
+    "kenyon zimmer"
   ],
   "nursc 5315": [
-    "sayda major",
-    "john gonzalez",
-    "keri draganic",
-    "kellie kahveci",
     "allison tuppeny",
-    "emily fox",
-    "mark meyer"
+    "kellie kahveci",
+    "mark meyer",
+    "keri draganic",
+    "john gonzalez",
+    "sayda major",
+    "emily fox"
   ],
   "nursg 5315": [
-    "sayda major",
-    "john gonzalez",
     "allison tuppeny",
     "kellie kahveci",
+    "mark meyer",
     "keri draganic",
-    "emily fox",
-    "mark meyer"
+    "john gonzalez",
+    "sayda major",
+    "emily fox"
   ],
   "acct 5341": [
     "loretta dollar",
     "john repsis"
   ],
   "phys 5325": [
-    "jonathan asaadi",
-    "benjamin jones"
+    "benjamin jones",
+    "jonathan asaadi"
   ],
   "sped 5301": [
-    "jonathan broyles",
-    "ambra green"
+    "ambra green",
+    "jonathan broyles"
   ],
   "larc 5664": [
-    "joowon im",
-    "letora anderson"
+    "letora anderson",
+    "joowon im"
   ],
   "socw 5343": [
-    "suzanne stephens",
-    "chava rousch-carlisle",
     "jordan dugger",
+    "marcela nava",
+    "chava rousch-carlisle",
     "brittany baker",
-    "marcela nava"
+    "suzanne stephens"
   ],
   "mark 5338": [
     "joseph hanson"
@@ -11156,9 +10571,9 @@ export const data_course_prof = {
     "juan balderrama"
   ],
   "ce 5303": [
+    "juan balderrama",
     "arash saleh",
-    "himan hojat jalali",
-    "juan balderrama"
+    "himan hojat jalali"
   ],
   "nursg 5367": [
     "judy leflore"
@@ -11174,17 +10589,17 @@ export const data_course_prof = {
   ],
   "opma 5364": [
     "randall napier",
-    "qian shi",
-    "bradly masters",
-    "edmund prater",
     "ramakrishna koganti",
+    "bradly masters",
+    "yu-cheng lin",
+    "edmund prater",
     "junguang zhang",
-    "yu-cheng lin"
+    "qian shi"
   ],
   "hcad 5377": [
     "shawn marie herring",
-    "cynthia st john",
-    "justin aten"
+    "justin aten",
+    "cynthia st john"
   ],
   "arch 5326": [
     "justin dowhower",
@@ -11193,87 +10608,87 @@ export const data_course_prof = {
   "papp 5345": [
     "emily nwakpuda",
     "jennifer sloan",
-    "karabi bezboruah",
-    "evan mistur"
+    "evan mistur",
+    "karabi bezboruah"
   ],
   "socw 5335": [
+    "karen magruder",
     "diana pryor",
-    "kathy siepker",
-    "karen magruder"
+    "kathy siepker"
   ],
   "socw 5304": [
-    "elisha tones",
-    "pamela johnson",
-    "suzanne stephens",
-    "janet finch",
-    "gilda ebanks",
-    "jolynne batchelor",
-    "karla arenas-itotia",
-    "james langford",
-    "derrelynn perryman",
-    "aditi prabhakar",
-    "brittany baker",
-    "irma mireles",
-    "sherece shavel",
-    "marilin jakubowske",
-    "chandra thompson-donahue",
-    "rebecca cole",
-    "jeremeka mcbride",
     "erica robinson",
     "kiva harper",
-    "tiffany egan"
+    "aditi prabhakar",
+    "brittany baker",
+    "sherece shavel",
+    "elisha tones",
+    "jolynne batchelor",
+    "rebecca cole",
+    "marilin jakubowske",
+    "jeremeka mcbride",
+    "karla arenas-itotia",
+    "gilda ebanks",
+    "tiffany egan",
+    "james langford",
+    "pamela johnson",
+    "chandra thompson-donahue",
+    "suzanne stephens",
+    "irma mireles",
+    "derrelynn perryman",
+    "janet finch"
   ],
   "socw 5314": [
-    "rachel voth schrag",
-    "lauren o'leary",
-    "mary elizabeth kopsovich",
-    "taren allen",
-    "mary highfill",
-    "tiara okoruwa",
     "leah wilson",
-    "karla arenas-itotia",
     "saltanat childress",
-    "jessica sanchez"
+    "karla arenas-itotia",
+    "mary elizabeth kopsovich",
+    "lauren o'leary",
+    "taren allen",
+    "tiara okoruwa",
+    "jessica sanchez",
+    "rachel voth schrag",
+    "mary highfill"
   ],
   "nurs 5333": [
-    "kashiris perryman",
-    "bethany mcclean"
+    "bethany mcclean",
+    "kashiris perryman"
   ],
   "nurs 5432": [
-    "kashiris perryman",
     "lynda jarrell",
-    "daniel o'neill"
+    "daniel o'neill",
+    "kashiris perryman"
   ],
   "nursc 5333": [
     "kashiris perryman"
   ],
   "nursg 5432": [
-    "kashiris perryman",
     "lynda jarrell",
-    "daniel o'neill"
+    "daniel o'neill",
+    "kashiris perryman"
   ],
   "nurs 6305": [
     "donelle barnes",
     "kathryn daniel"
   ],
   "arch 5304": [
-    "kathryn holliday",
-    "douglas klahr"
+    "douglas klahr",
+    "kathryn holliday"
   ],
   "list 5325": [
-    "anne daly",
+    "amy hinz horn",
     "melissa glenn",
     "kathryn pole",
-    "amy hinz horn"
+    "anne daly"
   ],
   "bsad 6322": [
     "kay yut chen"
   ],
   "socw 5333": [
-    "keith anderson",
-    "kathy siepker",
     "tahirah samuels",
-    "derelle walker"
+    "keith anderson",
+    "derelle walker",
+    "kathy siepker"
   ],
   "nurs 5395": [
     "kellie kahveci"
@@ -11290,19 +10705,19 @@ export const data_course_prof = {
     "jaya davis"
   ],
   "hist 6364": [
-    "kenyon zimmer",
-    "patryk babiracki",
+    "john garrigus",
     "david baillargeon",
-    "john garrigus"
+    "patryk babiracki",
+    "kenyon zimmer"
   ],
   "bcom 5375": [
-    "tatia jacobson jordan",
     "kevin carr",
-    "daniel usera"
+    "daniel usera",
+    "tatia jacobson jordan"
   ],
   "nurs 5382": [
-    "jackline opollo",
     "tamara eades",
+    "jackline opollo",
     "kimberly hatchel"
   ],
   "nurs 5223": [
@@ -11318,25 +10733,25 @@ export const data_course_prof = {
     "kirsten drake"
   ],
   "socw 5352": [
-    "steven moore",
-    "elisha tones",
-    "mansi patel",
+    "derelle walker",
+    "norman cobb",
+    "kiva harper",
     "brittany baker",
     "adrienne johnson",
-    "de'an roper",
-    "mia kirby",
-    "irma mireles",
-    "pamela fox",
-    "destiney kinsey",
-    "derelle walker",
-    "rachel swope",
+    "elisha tones",
     "rebecca cole",
+    "steven moore",
     "robyn smith-bull",
     "tahirah samuels",
-    "kiva harper",
     "kenshara cravens",
-    "norman cobb",
-    "melissa flores"
+    "mia kirby",
+    "melissa flores",
+    "mansi patel",
+    "rachel swope",
+    "destiney kinsey",
+    "de'an roper",
+    "irma mireles",
+    "pamela fox"
   ],
   "socw 5355": [
     "steven moore",
@@ -11346,32 +10761,32 @@ export const data_course_prof = {
     "krishnan rajeshwar"
   ],
   "socw 5323": [
-    "amanda aykanian",
     "dianna jones",
-    "amanda hassan",
     "kristin mapson",
+    "amanda aykanian",
     "holli slater",
     "mansi patel",
+    "amanda hassan",
     "don kelly"
   ],
   "socw 5371": [
-    "de'an roper",
-    "diane mitschke",
-    "ann hunt",
-    "mansi patel",
-    "kristin mycke",
     "destiney kinsey",
+    "kristin mycke",
+    "de'an roper",
+    "ann hunt",
+    "diane mitschke",
+    "mansi patel",
     "anne bain"
   ],
   "insy 5392": [
-    "kuan-ting lai",
     "jung-fa tsai",
+    "kuan-ting lai",
     "santoso budiman"
   ],
   "chem 5383": [
-    "subhrangsu mandal",
-    "daniel armstrong",
     "kwangho nam",
+    "daniel armstrong",
+    "subhrangsu mandal",
     "he dong"
   ],
   "kine 5371": [
@@ -11413,8 +10828,8 @@ export const data_course_prof = {
     "marianne doan"
   ],
   "nurs 5465": [
-    "linda grande",
-    "courtney werner"
+    "courtney werner",
+    "linda grande"
   ],
   "nursg 5318": [
     "linda grande"
@@ -11424,8 +10839,8 @@ export const data_course_prof = {
   ],
   "socw 6341": [
     "christian vazquez",
-    "danielle harrell",
-    "ling xu"
+    "ling xu",
+    "danielle harrell"
   ],
   "be 5365": [
     "liping tang"
@@ -11435,10 +10850,10 @@ export const data_course_prof = {
     "logan watts"
   ],
   "nurs 5334": [
-    "tammy mangual",
-    "mary davis",
     "lynda jarrell",
-    "patti parker"
+    "tammy mangual",
+    "patti parker",
+    "mary davis"
   ],
   "nursc 5334": [
     "lynda jarrell"
@@ -11456,13 +10871,13 @@ export const data_course_prof = {
     "mahmut yasar"
   ],
   "insy 5378": [
-    "chuan-ming liu",
-    "tun-wen pai",
-    "jayarajan samuel",
     "neshat beheshti",
-    "mahyar sharif vaghefi",
     "sridhar nerur",
-    "yuh-shyan hwang"
+    "yuh-shyan hwang",
+    "tun-wen pai",
+    "chuan-ming liu",
+    "jayarajan samuel",
+    "mahyar sharif vaghefi"
   ],
   "me 5329": [
     "manjarik mrinal",
@@ -11470,9 +10885,9 @@ export const data_course_prof = {
   ],
   "socw 5328": [
     "christie eckler",
-    "mansi patel",
     "richard hoefer",
-    "jordan dugger"
+    "jordan dugger",
+    "mansi patel"
   ],
   "nurs 5302": [
     "margarita trevino"
@@ -11490,49 +10905,49 @@ export const data_course_prof = {
     "mark ricard"
   ],
   "nurs 5466": [
+    "martha yee",
     "brandi pitcox",
-    "mary gardner",
-    "martha yee"
+    "mary gardner"
   ],
   "nursc 5466": [
     "martha yee"
   ],
   "bstat 5325": [
+    "nabil raad",
+    "md helal",
     "yi liu",
     "pradip som",
-    "md helal",
-    "mary whiteside",
-    "jayarajan samuel",
+    "patricia swafford",
     "alan cannon",
     "mark eakin",
+    "mary whiteside",
+    "jayarajan samuel",
     "jiaxiu he",
-    "patricia swafford",
-    "kay yut chen",
     "qiang ruan",
-    "nabil raad"
+    "kay yut chen"
   ],
   "biol 5335": [
-    "jeffery demuth",
-    "matthew fujita"
+    "matthew fujita",
+    "jeffery demuth"
   ],
   "mana 5348": [
     "matthew hirst"
   ],
   "psyc 5407": [
-    "lauri jensen-campbell",
-    "matthew robison"
+    "matthew robison",
+    "lauri jensen-campbell"
   ],
   "nurs 5329": [
-    "maura bernasconi",
-    "margarita trevino"
+    "margarita trevino",
+    "maura bernasconi"
   ],
   "nurs 5350": [
     "maureen courtney",
-    "leticia cole",
-    "sara moore",
     "kellie kahveci",
     "oluwatosin adebiyi",
-    "gigi thomas"
+    "gigi thomas",
+    "leticia cole",
+    "sara moore"
   ],
   "ie 5334": [
     "maysaa hamdan"
@@ -11544,32 +10959,32 @@ export const data_course_prof = {
     "md azijul islam"
   ],
   "cse 5306": [
+    "jia rao",
     "md hasanuzzaman noor",
     "chance eary",
-    "jiayi meng",
-    "jia rao"
+    "jiayi meng"
   ],
   "cse 5315": [
-    "md salik parwez",
-    "nicholas gans"
+    "nicholas gans",
+    "md salik parwez"
   ],
   "cse 5344": [
-    "sajib datta",
+    "chance eary",
+    "habeeb olufowobi",
     "yonghe liu",
     "hao che",
-    "habeeb olufowobi",
     "md salik parwez",
-    "chance eary"
+    "sajib datta"
   ],
   "musi 5308": [
-    "megan sarno",
+    "sean morrison",
     "brian mulholland",
-    "sean morrison"
+    "megan sarno"
   ],
   "art 5320": [
-    "beth wright",
     "fletcher coleman",
     "darryl lauster",
+    "beth wright",
     "trenton barnes",
     "melinda mcvay"
   ],
@@ -11577,39 +10992,39 @@ export const data_course_prof = {
     "melissa glenn"
   ],
   "educ 5309": [
-    "candace lafferty",
-    "taylor kessner",
-    "lisa skultety",
     "robin anderson",
     "melissa hulings",
-    "suhad sadik"
+    "taylor kessner",
+    "suhad sadik",
+    "lisa skultety",
+    "candace lafferty"
   ],
   "biol 5101": [
-    "woo-suk chang",
-    "heather arterburn",
     "melissa walsh",
+    "heather arterburn",
     "joseph landy",
+    "woo-suk chang",
     "eric smith"
   ],
   "kine 5225": [
     "meredith decker"
   ],
   "larc 5340": [
-    "michael averitt",
-    "monty mcmahen"
+    "monty mcmahen",
+    "michael averitt"
   ],
   "be 6103": [
     "michael cho"
   ],
   "ce 5378": [
-    "michael fairchild",
-    "zhe yin"
+    "zhe yin",
+    "michael fairchild"
   ],
   "cm 5378": [
     "ahmad kamal bani hani",
+    "michael fairchild",
     "tamer eljufout",
     "vinayak kaushal",
-    "michael fairchild",
     "zhe yin"
   ],
   "kine 6103": [
@@ -11619,25 +11034,25 @@ export const data_course_prof = {
     "michael niestroy"
   ],
   "hcad 5305": [
+    "martin deatherage",
     "david hall",
-    "michael quaglieri",
     "jonathan leer",
-    "martin deatherage"
+    "michael quaglieri"
   ],
   "biol 5304": [
     "michael roner"
   ],
   "math 5331": [
     "dimitar grantcharov",
-    "david jorgensen",
-    "michaela vancliff"
+    "michaela vancliff",
+    "david jorgensen"
   ],
   "cse 5324": [
-    "john robb",
-    "nadra guizani",
     "mike siok",
+    "akshit singhal",
+    "john robb",
     "anam sahoo",
-    "akshit singhal"
+    "nadra guizani"
   ],
   "opma 5321": [
     "min-cheng tu"
@@ -11646,98 +11061,98 @@ export const data_course_prof = {
     "mohammad jahanbakht"
   ],
   "ce 5191": [
-    "shih-ho chao",
+    "mohammad najafi",
     "seyedali abolmaali",
-    "mohammad najafi"
+    "shih-ho chao"
   ],
   "ce 5344": [
-    "vinayak kaushal",
-    "mohammad najafi"
+    "mohammad najafi",
+    "vinayak kaushal"
   ],
   "cm 5344": [
-    "vinayak kaushal",
-    "mohammad najafi"
+    "mohammad najafi",
+    "vinayak kaushal"
   ],
   "socw 5281": [
-    "da'joya barnes",
-    "natalie mangham",
     "monica brown",
-    "patrice green"
+    "natalie mangham",
+    "patrice green",
+    "da'joya barnes"
   ],
   "socw 5483": [
     "maresia davis",
-    "keiana crain",
-    "latoya hogg",
-    "stephanie books",
-    "cindy bassey",
-    "hector ramos de leon",
-    "monica brown",
-    "haydee hall",
     "michelle young",
     "toykesha howard",
-    "natalie mangham",
     "kendra tevis",
-    "zerita hall",
-    "lorie white",
+    "keiana crain",
+    "natalie mangham",
+    "hector ramos de leon",
+    "stephanie books",
     "patrice green",
+    "monica brown",
     "dawnetta smith",
-    "da'joya barnes",
+    "cindy bassey",
     "melissa flores",
-    "traecia nichols"
+    "haydee hall",
+    "latoya hogg",
+    "traecia nichols",
+    "lorie white",
+    "da'joya barnes",
+    "zerita hall"
   ],
   "cm 5339": [
+    "nelson gomez-torres",
     "mostafa ghandehari",
-    "saeed reza ramezanpour nargesi",
     "shannon abolmaali",
-    "nelson gomez-torres"
+    "saeed reza ramezanpour nargesi"
   ],
   "ce 5339": [
     "mostafa ghandehari",
     "shannon abolmaali"
   ],
   "emba 5303": [
-    "ramgopal venkataraman",
-    "nandu nagarajan"
+    "nandu nagarajan",
+    "ramgopal venkataraman"
   ],
   "ling 6300": [
-    "naoko witzel",
     "joseph sabbagh",
+    "naoko witzel",
     "laurel stvan"
   ],
   "mark 5328": [
     "narayanan janakiraman"
   ],
   "socw 5681": [
-    "natalie mangham",
-    "monica brown"
+    "monica brown",
+    "natalie mangham"
   ],
   "socw 5285": [
-    "dianna jones",
-    "melissa pollock",
     "natalie mangham",
+    "dianna jones",
     "latoya hogg",
-    "dawnetta smith"
+    "dawnetta smith",
+    "melissa pollock"
   ],
   "socw 5685": [
-    "dianna jones",
-    "melissa pollock",
     "natalie mangham",
+    "dianna jones",
     "latoya hogg",
-    "dawnetta smith"
+    "dawnetta smith",
+    "melissa pollock"
   ],
   "engl 6375": [
     "nathanael oreilly"
   ],
   "geol 5323": [
-    "elsa pirouz",
     "neda ghazipour",
+    "elsa pirouz",
     "joshua pulcinella"
   ],
   "cse 5301": [
-    "ramakrishna koganti",
     "shirin hosseini shirvani",
+    "negin fraidouni",
     "vamsikrishna gopikrishna",
-    "negin fraidouni"
+    "ramakrishna koganti"
   ],
   "ce 5332": [
     "nelson gomez-torres"
@@ -11747,21 +11162,21 @@ export const data_course_prof = {
     "rachel baldridge"
   ],
   "cm 5343": [
-    "ahmad mahmoud ahmad jibreen",
     "nilo tsung",
-    "md nazmus sakib",
+    "ahmad mahmoud ahmad jibreen",
+    "atefe makhmalbaf",
     "karthikeyan loganathan",
-    "atefe makhmalbaf"
+    "md nazmus sakib"
   ],
   "cm 5342": [
     "ahmad mahmoud ahmad jibreen",
     "nilo tsung"
   ],
   "cm 5386": [
-    "ahmad mahmoud ahmad jibreen",
     "seyed missagh shamshiri guilvayi",
-    "nilo tsung",
-    "daniel atambo"
+    "ahmad mahmoud ahmad jibreen",
+    "daniel atambo",
+    "nilo tsung"
   ],
   "cm 5313": [
     "nilo tsung"
@@ -11781,8 +11196,8 @@ export const data_course_prof = {
     "niloofar parsaeifard"
   ],
   "socw 5334": [
-    "talaun hammond",
     "noelle fields",
+    "talaun hammond",
     "steven moore",
     "chava rousch-carlisle"
   ],
@@ -11792,20 +11207,20 @@ export const data_course_prof = {
     "yingying zhu"
   ],
   "nurs 5340": [
-    "pamela duffey",
-    "cynthia plonien"
+    "cynthia plonien",
+    "pamela duffey"
   ],
   "nursg 5340": [
-    "pamela duffey",
-    "cynthia plonien"
+    "cynthia plonien",
+    "pamela duffey"
   ],
   "socw 5370": [
+    "destiney kinsey",
     "tahirah samuels",
-    "pamela johnson",
+    "jandel crutchfield",
     "shauntel adams",
     "sheila gold",
-    "destiney kinsey",
-    "jandel crutchfield"
+    "pamela johnson"
   ],
   "nurs 5461": [
     "patti parker"
@@ -11814,16 +11229,16 @@ export const data_course_prof = {
     "patti parker"
   ],
   "hist 5340": [
+    "stephanie cole",
     "cristina salinas",
-    "paul conrad",
-    "stephanie cole"
+    "paul conrad"
   ],
   "kine 6100": [
     "paul fadel"
   ],
   "ae 5347": [
-    "paul hagseth",
-    "brian van lear"
+    "brian van lear",
+    "paul hagseth"
   ],
   "mana 5327": [
     "paul hash",
@@ -11833,11 +11248,11 @@ export const data_course_prof = {
     "pengfei li"
   ],
   "nursg 5660": [
+    "barbara taylor",
     "phyllis wood",
-    "amanda mendez",
     "rose julian",
     "jeffrey yarbrough",
-    "barbara taylor"
+    "amanda mendez"
   ],
   "kine 5323": [
     "priscila tamplain",
@@ -11847,33 +11262,33 @@ export const data_course_prof = {
     "qilian liang"
   ],
   "ee 5360": [
-    "qilian liang",
-    "dukhyun kim"
+    "dukhyun kim",
+    "qilian liang"
   ],
   "phys 5312": [
-    "zdzislaw musielak",
-    "qiming zhang"
+    "qiming zhang",
+    "zdzislaw musielak"
   ],
   "fina 5311": [
-    "qing hao",
-    "ankita damani",
     "salil sarkar",
+    "ankita damani",
+    "qing hao",
     "yibing du"
   ],
   "plan 5309": [
     "qisheng pan"
   ],
   "ce 5307": [
-    "raad azzawi",
-    "juan balderrama"
+    "juan balderrama",
+    "raad azzawi"
   ],
   "ce 5311": [
     "raad azzawi"
   ],
   "ce 5312": [
     "tamer eljufout",
-    "raad azzawi",
-    "nur yazdani"
+    "nur yazdani",
+    "raad azzawi"
   ],
   "psyc 5227": [
     "rachel baldridge"
@@ -11887,13 +11302,13 @@ export const data_course_prof = {
     "david levine"
   ],
   "acct 6312": [
-    "ramgopal venkataraman",
-    "bin srinidhi"
+    "bin srinidhi",
+    "ramgopal venkataraman"
   ],
   "hcad 5306": [
+    "david hall",
     "ramgopal venkataraman",
-    "jonathan leer",
-    "david hall"
+    "jonathan leer"
   ],
   "insy 5357": [
     "randall napier",
@@ -11905,16 +11320,16 @@ export const data_course_prof = {
     "saurabh ambulkar"
   ],
   "maed 5353": [
-    "candace lafferty",
-    "rebecca chance"
+    "rebecca chance",
+    "candace lafferty"
   ],
   "math 5344": [
-    "richard chandler",
-    "theresa jorgensen"
+    "theresa jorgensen",
+    "richard chandler"
   ],
   "plan 5363": [
-    "richard greene",
-    "jiwon suh"
+    "jiwon suh",
+    "richard greene"
   ],
   "acct 5380": [
     "richard mark"
@@ -11934,10 +11349,10 @@ export const data_course_prof = {
   ],
   "list 5345": [
     "anne daly",
-    "deborah williams",
     "doreen plony",
     "holly hungerford-kresser",
     "teddi martin",
+    "deborah williams",
     "robin jocius"
   ],
   "papp 6326": [
@@ -11951,33 +11366,33 @@ export const data_course_prof = {
     "roger meiners"
   ],
   "dasc 5302": [
-    "yiran yang",
+    "rosie kallie",
+    "kendra wallis",
+    "rozsa zaruba",
     "md mahmudur rahman",
     "victoria chen",
-    "rosie kallie",
-    "upendranatha chakravarthy",
     "obiageli lawrentia ngwu",
-    "rozsa zaruba",
-    "kendra wallis"
+    "upendranatha chakravarthy",
+    "yiran yang"
   ],
   "list 5361": [
     "sandra adams"
   ],
   "acct 5392": [
-    "sandra henderson",
-    "matthew sargent",
+    "stephanie rasmussen",
     "william seeger",
-    "stephanie rasmussen"
+    "matthew sargent",
+    "sandra henderson"
   ],
   "fina 5351": [
     "sanjiv sabherwal"
   ],
   "insy 5341": [
-    "riyaz sikora",
+    "manjeri raja",
     "santoso budiman",
     "anil singh",
     "atieno amadi",
-    "manjeri raja"
+    "riyaz sikora"
   ],
   "insy 5399": [
     "santoso budiman"
@@ -11986,8 +11401,8 @@ export const data_course_prof = {
     "maureen courtney",
     "elizabeth welch",
     "cynthia casey",
-    "sara moore",
     "deborah behan",
+    "sara moore",
     "tandy mellard"
   ],
   "nursc 5350": [
@@ -11997,8 +11412,8 @@ export const data_course_prof = {
     "sara moore"
   ],
   "crcj 5310": [
-    "seokjin jeong",
-    "sarah el sayed"
+    "sarah el sayed",
+    "seokjin jeong"
   ],
   "mse 5305": [
     "seong koh"
@@ -12013,14 +11428,14 @@ export const data_course_prof = {
     "seyed mohsen shahandashti"
   ],
   "ce 5350": [
-    "ramtin serajiantehrani",
     "ahmad mahmoud ahmad jibreen",
-    "sharareh kermanshachi"
+    "sharareh kermanshachi",
+    "ramtin serajiantehrani"
   ],
   "cm 5350": [
-    "ramtin serajiantehrani",
     "ahmad mahmoud ahmad jibreen",
-    "sharareh kermanshachi"
+    "sharareh kermanshachi",
+    "ramtin serajiantehrani"
   ],
   "nurs 5308": [
     "sharon blackerby"
@@ -12035,16 +11450,16 @@ export const data_course_prof = {
     "shernette kydd"
   ],
   "chem 5300": [
+    "charles shelor",
     "daniel armstrong",
-    "sherri mcfarland",
-    "charles shelor"
+    "sherri mcfarland"
   ],
   "chem 5381": [
-    "peter kroll",
     "krishnan rajeshwar",
-    "byung ran so",
+    "kwangho nam",
     "sherri mcfarland",
-    "kwangho nam"
+    "byung ran so",
+    "peter kroll"
   ],
   "ce 5309": [
     "shih-ho chao"
@@ -12068,15 +11483,15 @@ export const data_course_prof = {
     "sophia fantus"
   ],
   "biol 6303": [
-    "matthew walsh",
-    "sophia passy"
+    "sophia passy",
+    "matthew walsh"
   ],
   "laps 5360": [
     "srecko joksimovic"
   ],
   "insy 5379": [
-    "jayarajan samuel",
-    "sridhar nerur"
+    "sridhar nerur",
+    "jayarajan samuel"
   ],
   "ce 5325": [
     "xiujuan chen",
@@ -12086,20 +11501,20 @@ export const data_course_prof = {
     "sriram villupuram"
   ],
   "acct 5320": [
-    "stanley seat",
-    "yuan ji"
+    "yuan ji",
+    "stanley seat"
   ],
   "ce 5361": [
     "stefan romanoschi"
   ],
   "nurs 6307": [
+    "catherine lux",
+    "jeannie randall",
+    "tiffany trent",
+    "jaci mester",
     "kristine cope",
     "stephanie spohr",
-    "rebecca garner",
-    "jaci mester",
-    "catherine lux",
-    "tiffany trent",
-    "jeannie randall"
+    "rebecca garner"
   ],
   "be 5388": [
     "stephen van noy"
@@ -12108,15 +11523,15 @@ export const data_course_prof = {
     "steve isbell"
   ],
   "ie 5191": [
-    "subhash singhal",
-    "jaime cantu"
+    "jaime cantu",
+    "subhash singhal"
   ],
   "ie 5317": [
-    "subhash singhal",
-    "khan md haque",
-    "ukesh chawal",
     "xinglong ju",
-    "amin gharehyakheh"
+    "amin gharehyakheh",
+    "ukesh chawal",
+    "subhash singhal",
+    "khan md haque"
   ],
   "me 5382": [
     "sunand santhanagopalan"
@@ -12128,10 +11543,10 @@ export const data_course_prof = {
     "sungyong jung"
   ],
   "dasc 5303": [
-    "james lummus",
-    "mohammad jahanbakht",
     "obiageli lawrentia ngwu",
-    "susan ferreira"
+    "james lummus",
+    "susan ferreira",
+    "mohammad jahanbakht"
   ],
   "nurs 5336": [
     "maureen courtney",
@@ -12153,43 +11568,43 @@ export const data_course_prof = {
     "tatia jacobson jordan"
   ],
   "educ 5314": [
-    "taylor kessner",
     "dora salazar",
-    "carol waters"
+    "carol waters",
+    "taylor kessner"
   ],
   "educ 5390": [
     "taylor kessner"
   ],
   "list 5346": [
-    "jodi tommerdahl",
     "kathleen tice",
-    "amy hinz horn",
-    "melissa glenn",
     "wideline seraphin",
-    "teddi martin"
+    "melissa glenn",
+    "amy hinz horn",
+    "teddi martin",
+    "jodi tommerdahl"
   ],
   "list 5354": [
-    "anne daly",
-    "sonja ezell",
-    "joshua hamilton",
-    "doreen plony",
-    "holly hungerford-kresser",
     "kathryn pole",
-    "teddi martin"
+    "anne daly",
+    "doreen plony",
+    "sonja ezell",
+    "teddi martin",
+    "holly hungerford-kresser",
+    "joshua hamilton"
   ],
   "acct 5399": [
     "terra mcghee"
   ],
   "acct 5319": [
-    "hila fogel-yaari",
-    "terrance skantz"
+    "terrance skantz",
+    "hila fogel-yaari"
   ],
   "math 5341": [
     "theresa jorgensen"
   ],
   "mana 5323": [
-    "thomas graca",
-    "ariane froidevaux"
+    "ariane froidevaux",
+    "thomas graca"
   ],
   "cse 5382": [
     "thomas jones",
@@ -12200,23 +11615,23 @@ export const data_course_prof = {
     "thomas marshall"
   ],
   "kine 5386": [
-    "erin carlson",
-    "tiffany kindratt"
+    "tiffany kindratt",
+    "erin carlson"
   ],
   "biol 6301": [
     "todd castoe"
   ],
   "nursc 5220": [
-    "toshia mckeon",
+    "lindsay hermsdorfer",
     "courtney werner",
-    "lindsay hermsdorfer"
+    "toshia mckeon"
   ],
   "nurs 5352": [
+    "jane champion",
     "doretta spates",
-    "sumit trivedi",
-    "veronica cedillo",
     "toyin aliu",
-    "jane champion"
+    "sumit trivedi",
+    "veronica cedillo"
   ],
   "mark 6390": [
     "ritesh saini",
@@ -12226,24 +11641,24 @@ export const data_course_prof = {
     "traci freling"
   ],
   "socw 5345": [
-    "marcela nava",
-    "tracy orwig"
+    "tracy orwig",
+    "marcela nava"
   ],
   "math 5322": [
     "tuncay aktosun"
   ],
   "dasc 5300": [
-    "soumaya gharsallaoui",
     "alex dillhoff",
-    "upendranatha chakravarthy"
+    "upendranatha chakravarthy",
+    "soumaya gharsallaoui"
   ],
   "arch 5311": [
-    "julia lindgren",
-    "dennis chiessa",
-    "oswald jenewein",
     "ursula emery-mcclure",
+    "dennis chiessa",
     "mark lamster",
-    "joshua nason"
+    "julia lindgren",
+    "joshua nason",
+    "oswald jenewein"
   ],
   "me 5339": [
     "vamsee vadlamudi",
@@ -12254,10 +11669,10 @@ export const data_course_prof = {
     "vamsee vadlamudi"
   ],
   "cse 5360": [
-    "miao yin",
-    "william beksi",
     "manfred huber",
-    "vamsikrishna gopikrishna"
+    "vamsikrishna gopikrishna",
+    "miao yin",
+    "william beksi"
   ],
   "nurs 5371": [
     "vicky van buren",
@@ -12278,15 +11693,15 @@ export const data_course_prof = {
     "wendy casper"
   ],
   "cse 6367": [
-    "william beksi",
-    "marnim galib"
+    "marnim galib",
+    "william beksi"
   ],
   "hcad 5330": [
     "william venable"
   ],
   "acct 5301": [
-    "richard mark",
-    "xiaojing li"
+    "xiaojing li",
+    "richard mark"
   ],
   "ce 5364": [
     "xinbao yu",
@@ -12295,8 +11710,8 @@ export const data_course_prof = {
     "md azijul islam"
   ],
   "be 5344": [
-    "baohong yuan",
-    "yang liu"
+    "yang liu",
+    "baohong yuan"
   ],
   "mse 5320": [
     "yaowu hao"
@@ -12334,68 +11749,68 @@ export const data_course_prof = {
     "yu-wen liu"
   ],
   "math 5317": [
-    "andrzej korzeniowski",
-    "yue liu"
+    "yue liu",
+    "andrzej korzeniowski"
   ],
   "phys 5391": [
-    "david nygren",
-    "frederick wilder",
-    "jonathan asaadi",
-    "ramon lopez",
-    "daniel welling",
     "zdzislaw musielak",
-    "mingwu jin",
+    "daniel welling",
+    "ramon lopez",
     "benjamin jones",
-    "yujie chi"
+    "david nygren",
+    "jonathan asaadi",
+    "mingwu jin",
+    "yujie chi",
+    "frederick wilder"
   ],
   "ee 5344": [
     "zeynep celik"
   ],
   "insy 5335": [
-    "radha mahapatra",
+    "subhra patra",
     "zhuojun gu",
     "jingguo wang",
-    "subhra patra",
+    "radha mahapatra",
     "sajib datta"
   ],
   "cse 2315": [
-    "janice tiernan",
-    "jean gao",
-    "ronald cross",
     "abhishek santra",
+    "shirin hosseini shirvani",
     "mary koone",
     "kyungseo park",
-    "shirin hosseini shirvani",
     "darin brezeale",
     "anam sahoo",
-    "md salik parwez"
+    "md salik parwez",
+    "ronald cross",
+    "janice tiernan",
+    "jean gao"
   ],
   "cse 3318": [
+    "engin arslan",
+    "phuc vp nguyen",
     "alexandra stefan",
     "donna french",
-    "phuc vp nguyen",
-    "bob weems",
-    "engin arslan"
+    "bob weems"
   ],
   "cse 3320": [
-    "hui lu",
+    "song jiang",
     "david levine",
     "trevor bakker",
-    "song jiang",
+    "nomaan mufti",
     "jia rao",
-    "nomaan mufti"
+    "hui lu"
   ],
   "cse 3315": [
     "mary koone",
     "linda barasch"
   ],
   "nursg 5366": [
-    "michelle hampton",
-    "denise cauble"
+    "denise cauble",
+    "michelle hampton"
   ],
   "nursg 5327": [
-    "leigh griffis-cogan",
-    "leigh griffis"
+    "leigh griffis",
+    "leigh griffis-cogan"
   ],
   "socw 2325": [
     "dorothy kalanzi",
@@ -12403,150 +11818,150 @@ export const data_course_prof = {
     "aaron hagedorn"
   ],
   "hist 1302": [
-    "paul ruiz-requena",
-    "michael stout",
-    "austin loignon",
-    "merry jett",
+    "nathaniel goodwin",
+    "wendell hunnicutt",
     "aaron johnson",
     "jonathan steplyk",
-    "david lafevor",
-    "jennifer hudson",
-    "erhard van deventer",
-    "cristina salinas",
-    "karen beasley",
+    "merry jett",
     "kevin moskowitz",
+    "james sandy",
+    "jennifer hudson",
+    "david lafevor",
+    "kevin smant",
+    "erhard van deventer",
+    "karen beasley",
+    "brandon blakeslee",
+    "joseph guillory",
+    "daniel degges",
+    "william hansard",
+    "michael stout",
+    "halen watkins",
     "charles grand",
     "william kingren",
-    "daniel degges",
-    "corye beene",
-    "halen watkins",
+    "austin loignon",
     "kenyon zimmer",
-    "joseph guillory",
-    "wendell hunnicutt",
-    "brandon blakeslee",
-    "james sandy",
-    "kevin smant",
-    "nathaniel goodwin",
-    "william hansard"
+    "cristina salinas",
+    "paul ruiz-requena",
+    "corye beene"
   ],
   "mae 1312": [
     "thomas allsup",
-    "paul hagseth",
-    "paul davidson",
-    "baxter mullins",
-    "bastiaan van der vossen",
-    "franck tchafa",
-    "bo wang",
-    "md rassel raihan",
     "haiying huang",
     "xin liu",
-    "nancy michael",
-    "abdraouf abusoua",
+    "md rassel raihan",
+    "paul davidson",
+    "franck tchafa",
     "dennis finley",
-    "pawarat bootpakdeetam"
+    "bo wang",
+    "pawarat bootpakdeetam",
+    "bastiaan van der vossen",
+    "baxter mullins",
+    "abdraouf abusoua",
+    "paul hagseth",
+    "nancy michael"
   ],
   "mana 4321": [
+    "marvin brittingham",
     "abdul rasheed",
     "reinhard janson",
-    "mansoureh sheikhi",
     "anthony scanio",
-    "marvin brittingham"
+    "mansoureh sheikhi"
   ],
   "cm 3337": [
-    "abeer almughrabi",
-    "zaid alfayez"
+    "zaid alfayez",
+    "abeer almughrabi"
   ],
   "cm 4337": [
     "abeer almughrabi"
   ],
   "cm 4353": [
-    "abeer almughrabi",
-    "zaid alfayez"
+    "zaid alfayez",
+    "abeer almughrabi"
   ],
   "cm 3315": [
-    "abeer almughrabi",
-    "zaid alfayez"
+    "zaid alfayez",
+    "abeer almughrabi"
   ],
   "cse 4331": [
-    "ashraf aboulnaga",
-    "bhanu jain",
     "abhishek santra",
     "ramez elmasri",
-    "upendranatha chakravarthy"
+    "ashraf aboulnaga",
+    "upendranatha chakravarthy",
+    "bhanu jain"
   ],
   "coms 1301": [
     "donna pirkle",
     "abigail dase",
-    "april blount",
-    "carie kapellusch",
-    "rebekah adderley",
     "linda bishop",
-    "taniedra wooten young",
+    "carie kapellusch",
+    "varaidzo nyamandi",
+    "rebekah adderley",
     "molly cummins",
-    "varaidzo nyamandi"
+    "taniedra wooten young",
+    "april blount"
   ],
   "coms 2302": [
     "melinda long",
-    "megan fitzmaurice mahan",
     "diane waryas hughey",
-    "abigail dase",
-    "april blount",
-    "carie kapellusch",
+    "richard white",
+    "megan fitzmaurice mahan",
     "robert ortiz",
+    "abigail dase",
+    "linda bishop",
+    "carie kapellusch",
     "rebekah adderley",
     "jill james",
-    "linda bishop",
-    "richard white",
+    "april blount",
     "damla ricks"
   ],
   "mark 3321": [
-    "chien le",
-    "elten briggs",
-    "abigail torres rico",
-    "michael richarme",
-    "ritesh saini",
-    "shashi minchael",
-    "manhui jin",
     "hsin-yi liao",
-    "jorge martinez garcia",
-    "yiyi li",
-    "jeffrey wallman",
-    "anne gottfried",
-    "traci freling",
-    "lauren brewer",
-    "ray mcgaughey",
     "adwait khare",
+    "yiyi li",
+    "abigail torres rico",
+    "jorge martinez garcia",
+    "lauren brewer",
+    "jeffrey wallman",
+    "michael richarme",
+    "fred miao",
+    "anne gottfried",
     "jacqueline chung",
-    "fred miao"
+    "elten briggs",
+    "ray mcgaughey",
+    "manhui jin",
+    "ritesh saini",
+    "chien le",
+    "shashi minchael",
+    "traci freling"
   ],
   "univ-bu 1101": [
-    "faye cocchiara",
-    "olamide temitope olajuwon ige",
     "heather philip",
-    "dan chen",
-    "ronald liggett",
     "adwait khare",
-    "charles miller",
-    "chien le",
     "abigail torres rico",
-    "ankit kapur",
-    "kevin carr",
-    "fredrick rice",
-    "marla white",
-    "lauren brewer",
-    "wayne crawford",
-    "jeffrey mcgee",
-    "tatia jacobson jordan",
-    "jerry hubbard",
+    "ronald liggett",
     "roger wehr",
-    "todd gabel",
+    "marla white",
+    "jeffrey mcgee",
+    "olamide temitope olajuwon ige",
+    "david gray",
+    "lesley regalado",
+    "fredrick rice",
+    "jerry hubbard",
+    "hanh hong thi phan",
+    "ankit kapur",
     "esther jean",
     "yibing du",
-    "hanh hong thi phan",
-    "lesley regalado",
+    "charles miller",
+    "lauren brewer",
+    "wayne crawford",
+    "chien le",
+    "dan chen",
+    "kevin carr",
+    "tatia jacobson jordan",
+    "faye cocchiara",
+    "william venable",
     "steve isbell",
-    "david gray",
-    "william venable"
+    "todd gabel"
   ],
   "kine 3304": [
     "abu yilla"
@@ -12558,416 +11973,416 @@ export const data_course_prof = {
     "abu yilla"
   ],
   "nurs 4350": [
-    "rebecca rountree",
-    "gabriela whitener",
-    "wendy garza",
-    "phyllis pastwa",
-    "kristin sterling",
-    "melynda hutchings",
-    "roberta miller",
-    "jessica sennett",
-    "amy hiett",
-    "shakerra brown",
-    "joann grimes",
-    "loren blair",
-    "kristin milliorn",
-    "safiyah abdullah",
-    "sonya gaines",
-    "courtney johnson",
-    "gabriell grayson",
-    "rosemary bell",
-    "natalliette richards",
-    "raquita weeks-lee",
     "adejoke ogidan",
-    "jawel lemons",
-    "marianne doan",
-    "kristie gilliland",
-    "stefanie tanner",
-    "latonya johnson",
-    "james lee",
-    "patti finch",
-    "nicole garner",
-    "nora billodeaux",
     "trevor richards",
-    "vanessa gonzalez",
-    "friedrich rheinfrank",
-    "sandra gomez",
-    "karen bravo",
-    "amy ware",
-    "ami stone",
-    "debra mezo",
-    "lyndsie valenzuela",
-    "candida constantine",
-    "cynthia koomey",
-    "mary harris",
-    "alyssa best",
-    "kelley monroe",
-    "glenn wood",
-    "robin hunter",
     "mary hernandez",
-    "melanie srinual",
-    "patricia allard",
-    "noami cavett",
+    "safiyah abdullah",
+    "natalliette richards",
     "laurel pilkington",
-    "belinda anderson",
+    "latonya johnson",
+    "cynthia koomey",
+    "james lee",
+    "kristin milliorn",
+    "amy ware",
+    "rosemary bell",
+    "gabriell grayson",
+    "vanessa gonzalez",
     "candace vansant",
+    "marianne doan",
+    "sandra gomez",
+    "phyllis pastwa",
+    "kelley monroe",
+    "raquita weeks-lee",
+    "lyndsie valenzuela",
+    "nicole garner",
+    "friedrich rheinfrank",
     "kelle george",
-    "deborah smith",
-    "lindsay adkins",
-    "brian morr",
+    "candida constantine",
+    "patti finch",
+    "shakerra brown",
+    "mary harris",
     "marilyn soto",
-    "brandy wells"
+    "brian morr",
+    "rebecca rountree",
+    "courtney johnson",
+    "glenn wood",
+    "jawel lemons",
+    "gabriela whitener",
+    "jessica sennett",
+    "lindsay adkins",
+    "karen bravo",
+    "noami cavett",
+    "brandy wells",
+    "melanie srinual",
+    "melynda hutchings",
+    "debra mezo",
+    "sonya gaines",
+    "amy hiett",
+    "wendy garza",
+    "loren blair",
+    "alyssa best",
+    "nora billodeaux",
+    "joann grimes",
+    "patricia allard",
+    "deborah smith",
+    "roberta miller",
+    "robin hunter",
+    "kristin sterling",
+    "ami stone",
+    "belinda anderson",
+    "stefanie tanner",
+    "kristie gilliland"
   ],
   "socw 3301": [
-    "taren allen",
-    "jessica cassidy",
-    "srabastee de bhaumik",
-    "pamela randolph",
-    "nibedita shrestha",
-    "mansi patel",
-    "aditi prabhakar",
-    "yangjin park",
-    "don kelly",
-    "derinda stewart",
-    "kristin mapson",
-    "amanda arizola",
-    "stephanie bonilla",
-    "derelle walker",
-    "amy blakeney",
-    "regina praetorius",
-    "catherine labrenz",
-    "robyn smith-bull",
-    "donna schuman",
-    "gabrielle scott",
     "pamela hill",
+    "amanda arizola",
+    "derelle walker",
+    "srabastee de bhaumik",
+    "donna schuman",
+    "amy blakeney",
+    "aditi prabhakar",
+    "kelli rogers",
+    "taren allen",
+    "kristin mapson",
+    "catherine labrenz",
     "faheem ohri",
-    "kelli rogers"
+    "derinda stewart",
+    "robyn smith-bull",
+    "stephanie bonilla",
+    "yangjin park",
+    "mansi patel",
+    "don kelly",
+    "gabrielle scott",
+    "regina praetorius",
+    "nibedita shrestha",
+    "pamela randolph",
+    "jessica cassidy"
   ],
   "art 4392": [
-    "benjamin wagley",
-    "gregory cook",
-    "odunze oguguo",
-    "benjamin dolezal",
-    "avery mcguinness",
-    "kendra wiggins",
-    "matthew clark",
-    "michael mulvey",
-    "cheryl mitchell",
-    "farzaneh eftekhari",
-    "lucy bartholomee",
-    "kali mckinley",
-    "claire kennedy",
-    "benjamin terry",
-    "billi london-gray",
-    "stephen holland",
-    "timothy carvalho",
-    "carolyn iverson",
-    "scott hilton",
-    "carlos donjuan",
-    "humna raza",
-    "adrienne guillory",
-    "christine heimerman",
-    "james pinkston",
-    "kexin ding",
-    "salvatore terrasi",
-    "joshua wilson",
     "yana farbrook",
+    "farzaneh eftekhari",
+    "avery mcguinness",
+    "odunze oguguo",
+    "billi london-gray",
+    "adrienne guillory",
+    "kexin ding",
+    "claire kennedy",
     "kimberly elliott",
-    "jeremy scidmore",
+    "lucy bartholomee",
+    "carlos donjuan",
+    "carolyn iverson",
+    "salvatore terrasi",
+    "kendra wiggins",
+    "benjamin dolezal",
+    "timothy carvalho",
+    "gregory cook",
+    "matthew clark",
+    "benjamin terry",
+    "humna raza",
+    "cheryl mitchell",
+    "michael mulvey",
+    "joshua wilson",
+    "scott hilton",
+    "james pinkston",
+    "stephen holland",
+    "kali mckinley",
+    "amanda alexander",
     "stephen lapthisophon",
-    "amanda alexander"
+    "benjamin wagley",
+    "jeremy scidmore",
+    "christine heimerman"
   ],
   "ie 4305": [
     "aera leboulluec"
   ],
   "ie 3301": [
-    "erick jones",
-    "yiran yang",
+    "rosie kallie",
+    "ukesh chawal",
     "sheik imrhan",
-    "aera leboulluec",
     "xin liu",
     "victoria chen",
-    "shouyi wang",
-    "rosie kallie",
-    "khan md haque",
     "obiageli lawrentia ngwu",
-    "ukesh chawal",
     "yasaman ghasemi",
-    "sowmya rao"
+    "erick jones",
+    "shouyi wang",
+    "sowmya rao",
+    "yiran yang",
+    "aera leboulluec",
+    "khan md haque"
   ],
   "math 1402": [
-    "laura boddicker",
-    "michelle burt",
-    "patrick mccormick",
+    "jeremy glass",
     "rhonda shaw",
     "hollie dyer",
+    "venkata sai manisha varahagiri",
+    "sarah booker",
+    "patrick mccormick",
+    "deysi delgado",
+    "ahmed ali",
     "anthony thomas",
-    "emily jones",
     "shanna banda",
+    "emily jones",
+    "laura boddicker",
+    "mohammad ganjizadeh",
+    "juan silva",
+    "mahmoud jawad",
     "nasiha muna",
     "aida allen",
-    "venkata sai manisha varahagiri",
-    "ahmed ali",
-    "deysi delgado",
-    "sarah booker",
-    "jeremy glass",
-    "juan silva",
-    "esteban diaz",
-    "mohammad ganjizadeh",
-    "mahmoud jawad",
+    "matthew waymack",
     "carol kenyon",
-    "matthew waymack"
+    "esteban diaz",
+    "michelle burt"
   ],
   "math 1426": [
-    "daniel warren",
-    "erica bajo calderon",
     "yizeng li",
-    "patrick mccormick",
-    "edward wilson",
-    "karl backs",
-    "farid derisavifard",
-    "robert crumpler",
-    "janessa beach tassey",
-    "amairani schmidtkunz",
-    "faezeh soleimani",
-    "zachery viray",
-    "james alvarez",
+    "jeremy glass",
     "zachary chairez",
+    "talon johnson",
+    "hristo kojouharov",
+    "venkata sai manisha varahagiri",
+    "daniel warren",
+    "patrick mccormick",
+    "farid derisavifard",
+    "karl backs",
+    "ahmed ali",
+    "robert crumpler",
+    "amairani schmidtkunz",
+    "vishwa shah",
+    "jose lozano",
+    "jennifer kopetsky",
     "christina martinez",
+    "edward wilson",
+    "adam castillo",
     "alice lubbe",
     "rachid atmai",
-    "jennifer kopetsky",
-    "venkata sai manisha varahagiri",
-    "jose lozano",
-    "ahmed ali",
-    "kyle turner",
-    "jeremy glass",
-    "vishwa shah",
-    "talon johnson",
+    "mohsen gheibi",
     "mark krasij",
-    "hristo kojouharov",
-    "adam castillo",
-    "mohsen gheibi"
+    "erica bajo calderon",
+    "zachery viray",
+    "kyle turner",
+    "james alvarez",
+    "janessa beach tassey",
+    "faezeh soleimani"
   ],
   "math 3330": [
-    "ren-cang li",
     "yizeng li",
-    "karl backs",
-    "david jorgensen",
-    "blake norman",
-    "guojun liao",
-    "farid derisavifard",
     "shan sun-mitchell",
-    "dimitar grantcharov",
     "zachary chairez",
-    "saber ahmed",
-    "barbara shipman",
     "souvik roy",
     "gerard koffi",
+    "ren-cang li",
     "keaton hamm",
-    "ahmed ali",
-    "joshua dombrowsky",
-    "mei yang",
-    "mohammad ganjizadeh",
+    "guojun liao",
+    "farid derisavifard",
+    "karl backs",
     "shujie kang",
-    "richard chandler",
-    "michaela vancliff"
+    "ahmed ali",
+    "mei yang",
+    "joshua dombrowsky",
+    "saber ahmed",
+    "barbara shipman",
+    "blake norman",
+    "dimitar grantcharov",
+    "mohammad ganjizadeh",
+    "michaela vancliff",
+    "david jorgensen",
+    "richard chandler"
   ],
   "math 0311": [
-    "daniel warren",
-    "zhong ye",
-    "michelle burt",
-    "rhonda shaw",
-    "karl backs",
-    "hollie dyer",
-    "edith pineda",
-    "robert crumpler",
-    "emily jones",
-    "aida allen",
-    "venkata sai manisha varahagiri",
-    "ahmed ali",
-    "sarah booker",
     "jeremy glass",
+    "rhonda shaw",
+    "hollie dyer",
+    "venkata sai manisha varahagiri",
+    "mary burrus",
+    "sarah booker",
+    "daniel warren",
+    "karl backs",
+    "ahmed ali",
+    "robert crumpler",
+    "edith pineda",
     "mei yang",
-    "juan silva",
-    "esteban diaz",
+    "emily jones",
+    "zhong ye",
     "mohammad ganjizadeh",
-    "mary burrus"
+    "juan silva",
+    "aida allen",
+    "esteban diaz",
+    "michelle burt"
   ],
   "math 1301": [
-    "laura boddicker",
-    "daniel warren",
-    "zhong ye",
-    "michelle burt",
+    "jeremy glass",
+    "rashunda johnson",
     "rhonda shaw",
-    "niloofar ghorbani",
-    "karl backs",
-    "david jorgensen",
-    "jodi treszoks",
-    "jeffrey tschoepe",
-    "farid derisavifard",
-    "hollie dyer",
-    "edith pineda",
-    "robert crumpler",
-    "anthony thomas",
-    "janessa beach tassey",
     "kathryn grebel",
-    "tahani altaji",
+    "hollie dyer",
+    "venkata sai manisha varahagiri",
+    "sarah booker",
+    "daniel warren",
+    "paul leafgreen",
+    "farid derisavifard",
+    "karl backs",
+    "deysi delgado",
+    "ahmed ali",
+    "robert crumpler",
     "yolanda parker",
+    "edith pineda",
+    "mei yang",
+    "jacob lowe",
+    "jennifer kopetsky",
+    "tahani altaji",
+    "niloofar ghorbani",
+    "jeffrey tschoepe",
+    "jodi treszoks",
+    "anthony thomas",
+    "shreshtha chaturvedi",
+    "mohsen gheibi",
     "emily jones",
+    "laura boddicker",
+    "zhong ye",
+    "julio cesar enciso alva",
+    "juan silva",
     "nasiha muna",
     "aida allen",
-    "jennifer kopetsky",
-    "venkata sai manisha varahagiri",
-    "paul leafgreen",
-    "ahmed ali",
-    "deysi delgado",
-    "patricia ellington",
-    "amanda patrick",
-    "tyson bailey",
-    "sarah booker",
-    "shreshtha chaturvedi",
-    "ana mendez",
-    "jeremy glass",
-    "julio cesar enciso alva",
-    "mei yang",
-    "juan silva",
-    "mohsen gheibi",
-    "esteban diaz",
-    "jacob lowe",
-    "rashunda johnson",
+    "matthew waymack",
     "carol kenyon",
-    "matthew waymack"
+    "patricia ellington",
+    "tyson bailey",
+    "ana mendez",
+    "janessa beach tassey",
+    "esteban diaz",
+    "amanda patrick",
+    "david jorgensen",
+    "michelle burt"
   ],
   "math 1315": [
-    "efrain diaz",
-    "laura boddicker",
-    "zhong ye",
-    "gaik ambartsoumian",
-    "blake norman",
     "hollie dyer",
-    "zachery viray",
-    "tahani altaji",
-    "saul covarrubias",
-    "christina martinez",
-    "shanna banda",
-    "nasiha muna",
-    "jose antunez",
-    "sarah hawkins",
-    "aida allen",
-    "jennifer kopetsky",
     "venkata sai manisha varahagiri",
-    "rebecca bryant",
+    "jose antunez",
     "paul leafgreen",
     "deysi delgado",
-    "tyson bailey",
+    "jennifer kopetsky",
+    "tahani altaji",
+    "christina martinez",
+    "sarah hawkins",
+    "shanna banda",
+    "rebecca bryant",
+    "blake norman",
+    "laura boddicker",
+    "efrain diaz",
+    "zachery viray",
+    "zhong ye",
     "julio cesar enciso alva",
     "juan silva",
+    "nasiha muna",
+    "aida allen",
+    "tyson bailey",
+    "saul covarrubias",
+    "gaik ambartsoumian",
     "esteban diaz"
   ],
   "math 1421": [
-    "te'a riley",
-    "laura boddicker",
-    "patrick mccormick",
-    "edward wilson",
-    "karl backs",
-    "guojun liao",
-    "robert crumpler",
+    "gerard koffi",
     "charles nottage",
     "kathryn grebel",
-    "anthony mastriania",
-    "barbara shipman",
-    "tatheer ajani",
+    "guojun liao",
+    "patrick mccormick",
+    "karl backs",
     "kevin harris",
-    "shanna banda",
-    "rebecca bryant",
-    "aida allen",
-    "sarah hawkins",
-    "gerard koffi",
-    "juan silva",
+    "robert crumpler",
+    "anthony mastriania",
+    "tatheer ajani",
+    "barbara shipman",
+    "edward wilson",
     "adam castillo",
+    "sarah hawkins",
+    "shanna banda",
     "mohsen gheibi",
-    "mahmoud jawad"
+    "rebecca bryant",
+    "laura boddicker",
+    "te'a riley",
+    "juan silva",
+    "mahmoud jawad",
+    "aida allen"
   ],
   "fren 3316": [
     "aimee israel-pelletier"
   ],
   "cse 3310": [
-    "bahra khalili najafabadi",
-    "jimmie davis",
-    "nadra guizani",
     "mike siok",
     "rodrigo augusto silva dos santos",
-    "akshit singhal"
+    "jimmie davis",
+    "akshit singhal",
+    "bahra khalili najafabadi",
+    "nadra guizani"
   ],
   "mae 2323": [
-    "alan bowling",
+    "kendra wallis",
     "dragos dancila",
     "ashley guy",
-    "kendra wallis"
+    "alan bowling"
   ],
   "opma 3306": [
+    "roopa ramesh desai",
     "randall napier",
+    "santoso budiman",
+    "amir naderpour",
     "xianghua wu",
     "mohammed nour",
-    "edmund prater",
-    "roopa ramesh desai",
-    "abhilash vimal",
-    "santoso budiman",
-    "alper nakkas",
     "alan cannon",
-    "amir naderpour",
+    "abhilash vimal",
     "amrita thomas",
+    "edmund prater",
     "lei hua",
+    "alper nakkas",
     "jingjie su",
     "vidya ganji"
   ],
   "opma 3308": [
     "randall napier",
-    "saurabh ambulkar",
-    "alan cannon"
+    "alan cannon",
+    "saurabh ambulkar"
   ],
   "mana 4322": [
     "albert thurburn",
-    "courtney hart",
-    "owen parker",
+    "spencer fraseur",
     "reinhard janson",
-    "mark clark",
+    "martin monroe",
+    "courtney hart",
+    "margaret mcfadyen",
+    "owen parker",
     "liliana nordtvedt",
     "jeffrey mcgee",
-    "margaret mcfadyen",
-    "martin monroe",
-    "spencer fraseur",
-    "heloisa benevides pontes aragao"
+    "heloisa benevides pontes aragao",
+    "mark clark"
   ],
   "sut 3321": [
-    "albert white",
     "leslie cantu",
-    "melissa flores"
+    "melissa flores",
+    "albert white"
   ],
   "hist 3300": [
-    "wendell hunnicutt",
-    "kenyon zimmer",
-    "delaina price",
-    "alberto ortiz-diaz",
     "kimberly breuer",
-    "stephanie cole",
+    "david baillargeon",
+    "alberto ortiz-diaz",
     "james sandy",
+    "marie hartono",
     "david lafevor",
     "christopher morris",
-    "david baillargeon",
-    "marie hartono"
+    "wendell hunnicutt",
+    "kenyon zimmer",
+    "stephanie cole",
+    "delaina price"
   ],
   "hist 3395": [
-    "wendell hunnicutt",
+    "joseph guillory",
     "alberto ortiz-diaz",
-    "donna akers",
-    "brian whitmore",
-    "patryk babiracki",
     "james doty",
+    "brian whitmore",
+    "donna akers",
     "christopher morris",
+    "wendell hunnicutt",
     "barbara berthold",
-    "joseph guillory"
+    "patryk babiracki"
   ],
   "cse 3380": [
     "alex dillhoff",
@@ -12975,324 +12390,324 @@ export const data_course_prof = {
   ],
   "cse 1320": [
     "alexandra stefan",
-    "cesar torres",
-    "donna french",
-    "jason losh",
-    "bhanu jain",
-    "alex dillhoff",
-    "marika apostolova",
+    "sajib datta",
     "fadiah qudah",
-    "debashri roy",
-    "sajib datta"
+    "cesar torres",
+    "jason losh",
+    "donna french",
+    "bhanu jain",
+    "marika apostolova",
+    "alex dillhoff",
+    "debashri roy"
   ],
   "cse 4310": [
-    "vassilis athitsos",
     "alex dillhoff",
+    "vassilis athitsos",
     "christopher mcmurrough"
   ],
   "engl 1302": [
-    "dianne pearman",
-    "kim amyett",
-    "colin hogan",
-    "jessica le",
-    "paul lee",
-    "rufel ramos",
-    "james perrin",
-    "jonathan sanford",
     "olivia arroyo",
-    "andrew koch",
-    "kristen spaeth",
-    "cindy malone",
-    "catherine corder",
-    "cassandra yatron",
-    "nancy england",
-    "jo ward",
-    "pamela rose",
-    "clayton dillard",
     "niles haich",
-    "kassandra buck",
-    "katherine abelanet",
-    "alyssa compton",
-    "ricardo gonzalez",
-    "rechelle christie",
-    "emran dorrazehi",
-    "joanna johnson",
-    "kayla kassakatis",
-    "bethany dies",
-    "diana miller",
-    "christopher atkins",
-    "alex harvey",
-    "joul smith",
-    "lindsey surratt",
-    "danny rodriguez",
-    "linda oni",
-    "sarah farrell",
-    "faith dickerson",
-    "heather wood",
-    "patricia jones",
-    "jason hogue",
-    "edwardo perez",
-    "ronnie stephens",
-    "erin murrah-mandril",
-    "sean hooks",
-    "vincent sosko",
-    "darius frasure",
-    "michael raines",
-    "susan midwood",
-    "yaroslav malyuta",
-    "kamille stone-stanton",
-    "rachael mariboho",
+    "kim amyett",
     "ji nang kim",
-    "marschaneil brown",
+    "christopher atkins",
+    "erin murrah-mandril",
+    "catherine corder",
+    "jessica le",
+    "jason hogue",
+    "jo ward",
+    "joul smith",
+    "ashley johnson",
+    "sean woodard",
+    "cassandra yatron",
+    "jennifer conner",
+    "sarah farrell",
+    "darius frasure",
+    "diana miller",
+    "alyssa compton",
+    "vincent sosko",
+    "bethany dies",
+    "samuel fatzinger",
     "trevor fuller",
+    "michael raines",
+    "jered mabaquiao",
+    "kaci o'donnell",
+    "pamela rose",
+    "edwardo perez",
+    "carolyn giles",
+    "james perrin",
+    "paul lee",
+    "nicholas nicklin",
+    "rechelle christie",
+    "alex harvey",
+    "heather wood",
+    "lauren phelps",
+    "ricardo gonzalez",
+    "marschaneil brown",
+    "linda oni",
+    "ronnie stephens",
+    "sean hooks",
+    "andrew koch",
+    "kamille stone-stanton",
+    "matthew tettleton",
+    "barbara hanson",
+    "dianne pearman",
+    "kayla kassakatis",
+    "daniel kasper",
+    "carol-ann vila-young",
+    "denise frusciante",
+    "yubraj aryal",
+    "amanda marsh",
+    "bethany shaffer",
+    "lindsey surratt",
+    "emran dorrazehi",
+    "kristen spaeth",
+    "dashiva francois",
+    "mary wilson",
+    "dana brewer",
+    "sarah shelton",
+    "susan midwood",
+    "jonathan sanford",
+    "patricia jones",
+    "cindy malone",
     "timothy morris",
     "amanda monteleone",
-    "denise frusciante",
-    "shellie mccullough",
-    "kaci o'donnell",
-    "ashley johnson",
-    "jennifer conner",
-    "sean woodard",
-    "harry ho",
     "rachel key",
-    "mary wilson",
-    "jered mabaquiao",
-    "carol-ann vila-young",
-    "sarah shelton",
-    "dana brewer",
-    "amanda marsh",
+    "colin hogan",
     "jennifer curtis",
-    "nicholas nicklin",
-    "carolyn giles",
-    "bethany shaffer",
-    "matthew tettleton",
-    "dashiva francois",
     "joshua canipe",
-    "yubraj aryal",
-    "samuel fatzinger",
+    "danny rodriguez",
+    "harry ho",
     "jeffrey marchand",
-    "daniel kasper",
-    "barbara hanson",
-    "lauren phelps"
+    "nancy england",
+    "yaroslav malyuta",
+    "kassandra buck",
+    "katherine abelanet",
+    "faith dickerson",
+    "joanna johnson",
+    "rachael mariboho",
+    "rufel ramos",
+    "clayton dillard",
+    "shellie mccullough"
   ],
   "ee 4349": [
+    "gregory turner",
     "david wetz",
-    "alexander johnston",
     "george kondraske",
-    "gregory turner"
+    "alexander johnston"
   ],
   "phys 3455": [
     "alexander weiss"
   ],
   "cse 1310": [
+    "marnim galib",
     "shawn gieser",
-    "janice tiernan",
+    "chance eary",
     "alexandra stefan",
+    "christopher conly",
+    "fadiah qudah",
     "donna french",
     "bhanu jain",
-    "nadra guizani",
-    "alex dillhoff",
-    "fadiah qudah",
-    "marnim galib",
-    "christopher conly",
     "md salik parwez",
-    "chance eary"
+    "alex dillhoff",
+    "nadra guizani",
+    "janice tiernan"
   ],
   "ce 1353": [
     "amit pokharel",
     "niloofar parsaeifard",
+    "ali jozaghi",
+    "panagiotis danoglidis",
+    "zhe yin",
+    "kawalpreet kaur",
     "farah naz",
     "juana perez",
-    "ali jozaghi",
-    "madhuri arjun",
-    "kawalpreet kaur",
-    "zhe yin",
-    "panagiotis danoglidis"
+    "madhuri arjun"
   ],
   "ce 3142": [
-    "mahsa samadi darafshani",
-    "robel geressu",
     "qazi ashique e mowla",
-    "michelle hummel",
-    "shah md imran kabir",
-    "farhad hassani",
     "babak alizadeh",
+    "mahsa samadi darafshani",
     "ali jozaghi",
-    "habib ahmari"
+    "farhad hassani",
+    "habib ahmari",
+    "michelle hummel",
+    "robel geressu",
+    "shah md imran kabir"
   ],
   "math 1308": [
-    "hrishabh khakurel",
-    "kristin seale",
-    "zhong ye",
-    "michelle burt",
-    "steven alferink",
-    "jodi treszoks",
-    "anthony thomas",
+    "rashunda johnson",
     "erika glaser",
     "charles nottage",
+    "sarah booker",
+    "steven alferink",
+    "presley gore",
+    "kristin seale",
+    "paul leafgreen",
     "yolanda parker",
+    "ahmed ali",
     "christina martinez",
+    "natalie johnson",
+    "jodi treszoks",
+    "anthony thomas",
+    "hrishabh khakurel",
     "alice lubbe",
     "shanna banda",
-    "aida allen",
-    "paul leafgreen",
-    "ahmed ali",
     "wisdom aselisewine",
-    "natalie johnson",
-    "sarah booker",
-    "presley gore",
+    "zhong ye",
     "mahmoud jawad",
-    "rashunda johnson",
-    "carol kenyon"
+    "aida allen",
+    "carol kenyon",
+    "michelle burt"
   ],
   "math 2425": [
+    "ian lim",
+    "zachary chairez",
+    "venkata sai manisha varahagiri",
     "daniel warren",
     "patrick mccormick",
-    "edward wilson",
-    "blake norman",
-    "khoa nguyen",
-    "zachery viray",
-    "zachary chairez",
-    "christina martinez",
-    "alice lubbe",
-    "theresa jorgensen",
-    "rachid atmai",
-    "venkata sai manisha varahagiri",
-    "ian lim",
-    "jose lozano",
-    "ahmed ali",
-    "kyle turner",
-    "rebekah aduddell",
     "ruth gornet",
-    "esteban diaz",
+    "theresa jorgensen",
+    "ahmed ali",
+    "jose lozano",
+    "christina martinez",
+    "tyler anway",
+    "edward wilson",
+    "alice lubbe",
+    "rachid atmai",
+    "khoa nguyen",
     "mohsen gheibi",
+    "rebekah aduddell",
+    "blake norman",
+    "zachery viray",
     "mahmoud jawad",
-    "tyler anway"
+    "kyle turner",
+    "esteban diaz"
   ],
   "woms 2310": [
-    "wendell hunnicutt",
-    "donna akers",
+    "lauren phelps",
     "alicia garza",
-    "lauren phelps"
+    "wendell hunnicutt",
+    "donna akers"
   ],
   "span 3308": [
     "alicia rueda-acedo"
   ],
   "span 4341": [
-    "alicia rueda-acedo",
-    "fernando melero-garcia"
+    "fernando melero-garcia",
+    "alicia rueda-acedo"
   ],
   "fren 1441": [
-    "najia alameddin",
+    "alicia soueid",
     "cecile villarreal",
     "cynthia laborde",
-    "courtney griffitts",
-    "omar valdez rocha",
-    "alicia soueid",
+    "najia alameddin",
     "mory eddy coulibaly",
-    "brooke cunningham-koss"
+    "courtney griffitts",
+    "brooke cunningham-koss",
+    "omar valdez rocha"
   ],
   "fren 2310": [
-    "courtney griffitts",
     "aimee israel-pelletier",
-    "alicia soueid"
+    "alicia soueid",
+    "courtney griffitts"
   ],
   "fren 2314": [
     "aimee israel-pelletier",
     "alicia soueid"
   ],
   "mana 4326": [
-    "faye cocchiara",
-    "lesley regalado",
-    "myrtle bell",
-    "wendelyn risher",
     "alison birch",
-    "kenyatta dawson"
+    "faye cocchiara",
+    "wendelyn risher",
+    "kenyatta dawson",
+    "lesley regalado",
+    "myrtle bell"
   ],
   "kine 2302": [
     "alison white"
   ],
   "kine 3388": [
-    "priscila tamplain",
-    "alison white"
+    "alison white",
+    "priscila tamplain"
   ],
   "kine 4321": [
     "alison white"
   ],
   "chem 1182": [
-    "alison wicker",
-    "william cleaver"
+    "william cleaver",
+    "alison wicker"
   ],
   "chem 2284": [
-    "alison wicker",
-    "william cleaver"
+    "william cleaver",
+    "alison wicker"
   ],
   "biol 3310": [
-    "bethany goerdel",
-    "corey roelke",
-    "luke frishkoff",
-    "jill devito",
-    "marsha scott",
     "heather charles",
     "allan clark",
-    "piya ghose"
+    "piya ghose",
+    "jill devito",
+    "marsha scott",
+    "luke frishkoff",
+    "corey roelke",
+    "bethany goerdel"
   ],
   "socw 3306": [
-    "jessica cassidy",
-    "aditi prabhakar",
-    "lashaunn bold",
-    "dianna jones",
-    "de'an roper",
-    "joyce white",
-    "stephanie bonilla",
-    "irma mireles",
-    "destiney kinsey",
-    "jessica sanchez",
-    "theresa davis",
-    "leslie cantu",
-    "allison tomlinson",
-    "sandra potter",
-    "marilin jakubowske",
-    "jeremeka mcbride",
     "destiny davis",
+    "jessica sanchez",
+    "aditi prabhakar",
+    "jessica cassidy",
+    "lashaunn bold",
+    "kelli rogers",
+    "leslie cantu",
+    "marilin jakubowske",
+    "allison tomlinson",
+    "stephanie bonilla",
+    "jeremeka mcbride",
     "kenshara cravens",
+    "sandra potter",
+    "destiney kinsey",
+    "dianna jones",
+    "theresa davis",
     "da'joya barnes",
-    "kelli rogers"
+    "de'an roper",
+    "irma mireles",
+    "joyce white"
   ],
   "engl 2338": [
-    "dianne pearman",
+    "estee beck",
+    "jonathan sanford",
+    "olivia arroyo",
+    "timothy ponce",
+    "niles haich",
+    "amanda monteleone",
+    "pamela rose",
+    "denise frusciante",
     "amy hodges",
+    "bethany shaffer",
+    "peggy kulesz",
+    "lindsey surratt",
+    "jason hogue",
+    "nicholas nicklin",
+    "rechelle christie",
+    "ashley johnson",
+    "joul smith",
+    "sean woodard",
+    "jeffrey marchand",
     "johansen quijano",
-    "susan midwood",
+    "lauren phelps",
+    "sarah farrell",
+    "julie jones",
+    "andrew koch",
     "katherine abelanet",
     "alyssa compton",
-    "rechelle christie",
-    "joanna johnson",
-    "julie jones",
-    "jonathan sanford",
-    "trevor fuller",
-    "joul smith",
-    "lindsey surratt",
-    "dana brewer",
-    "olivia arroyo",
-    "andrew koch",
-    "amanda monteleone",
-    "sarah farrell",
-    "nicholas nicklin",
-    "peggy kulesz",
-    "bethany shaffer",
-    "denise frusciante",
-    "jason hogue",
-    "samuel fatzinger",
-    "timothy ponce",
     "vincent sosko",
-    "jeffrey marchand",
-    "pamela rose",
-    "niles haich",
-    "ashley johnson",
-    "lauren phelps",
-    "estee beck",
-    "sean woodard"
+    "dana brewer",
+    "joanna johnson",
+    "samuel fatzinger",
+    "trevor fuller",
+    "dianne pearman",
+    "susan midwood"
   ],
   "nurs 2232": [
     "ahmad hamdan",
@@ -13309,18 +12724,18 @@ export const data_course_prof = {
     "lucy bartholomee"
   ],
   "arch 4557": [
-    "charles macbride",
-    "donald gatzke",
-    "michael malone",
-    "thomas rusher",
     "julia lindgren",
-    "amanda aman",
+    "bang dang",
+    "joshua nason",
+    "mehdi farahbakhsh",
     "brad mccorkle",
     "ricardo munoz",
-    "bang dang",
-    "john maruszczak",
-    "mehdi farahbakhsh",
-    "joshua nason"
+    "thomas rusher",
+    "michael malone",
+    "donald gatzke",
+    "charles macbride",
+    "amanda aman",
+    "john maruszczak"
   ],
   "dnce 1135": [
     "amanda jackson",
@@ -13328,8 +12743,8 @@ export const data_course_prof = {
   ],
   "dnce 2139": [
     "amanda jackson",
-    "claudia pacheco orcasitas",
     "meredith knight treminio",
+    "claudia pacheco orcasitas",
     "laurie taylor"
   ],
   "advt 2337": [
@@ -13339,8 +12754,8 @@ export const data_course_prof = {
     "amanda jordan"
   ],
   "advt 4301": [
-    "roger gans",
     "amanda jordan",
+    "roger gans",
     "tom ingram"
   ],
   "prel 3320": [
@@ -13348,36 +12763,36 @@ export const data_course_prof = {
     "mark tremayne"
   ],
   "engl 2303": [
-    "bethany shaffer",
-    "luanne frank",
-    "cedrick may",
-    "joshua canipe",
-    "ashley johnson",
-    "monica marchi",
-    "sarah shelton",
+    "sean woodard",
     "yubraj aryal",
-    "lauren phelps",
-    "alyssa compton",
-    "amanda monteleone",
-    "timothy ponce",
+    "cedrick may",
     "kaci o'donnell",
+    "timothy ponce",
+    "alyssa compton",
     "joanna johnson",
-    "daniel kasper",
+    "sarah shelton",
+    "lauren phelps",
+    "amanda monteleone",
+    "bethany shaffer",
+    "joshua canipe",
+    "monica marchi",
     "rachael mariboho",
-    "sean woodard"
+    "luanne frank",
+    "daniel kasper",
+    "ashley johnson"
   ],
   "plan 1301": [
+    "amber raley",
     "landon baldwin",
     "mireille mutesi",
-    "amber raley",
-    "hanan boukhaima",
-    "nazmun akter pia"
+    "nazmun akter pia",
+    "hanan boukhaima"
   ],
   "crcj 4301": [
     "omobolanle fenny",
-    "rashaan deshay",
     "amber white",
     "lewis wasserman",
+    "rashaan deshay",
     "sergio de leon"
   ],
   "hist 4391": [
@@ -13385,21 +12800,21 @@ export const data_course_prof = {
     "amber white"
   ],
   "sped 4302": [
-    "bree jimenez",
+    "janie claywell",
     "schuyler beecher",
     "ambra green",
-    "janie claywell"
+    "bree jimenez"
   ],
   "data 4380": [
-    "masoud rostami",
-    "amir farbin"
+    "amir farbin",
+    "masoud rostami"
   ],
   "data 3402": [
     "amir farbin"
   ],
   "data 1301": [
-    "masoud rostami",
     "amir shahmoradi",
+    "masoud rostami",
     "ce bian"
   ],
   "mae 2381": [
@@ -13408,105 +12823,105 @@ export const data_course_prof = {
     "amirhesam amerinatanzi"
   ],
   "span 3305": [
+    "a elliott",
+    "catherine ortiz",
     "rosa tellez",
     "elizabeth deifell",
-    "monica de la fuente iglesias",
-    "sonia mahoney",
-    "jinny choi",
     "christopher conway",
-    "amy austin",
-    "catherine ortiz",
-    "a elliott"
+    "sonia mahoney",
+    "monica de la fuente iglesias",
+    "jinny choi",
+    "amy austin"
   ],
   "span 3311": [
     "amy austin"
   ],
   "engl 3375": [
+    "laura kopchick",
     "nathanael oreilly",
-    "trevor fuller",
-    "amy bernhard",
     "olivia arroyo",
-    "laura kopchick"
+    "trevor fuller",
+    "amy bernhard"
   ],
   "engl 4349": [
     "amy bernhard"
   ],
   "socw 2302": [
-    "traneika turner-wentt",
-    "mary highfill",
+    "sherece shavel",
+    "pamela hill",
     "daisy jones",
     "james keaton",
-    "mark frazier",
-    "pamela hill",
     "nibedita shrestha",
-    "tara harris",
-    "wanda bolton-davis",
-    "george jauss",
-    "sherece shavel",
-    "da'joya barnes",
-    "kelli rogers",
+    "mark frazier",
     "christine spadola",
+    "wanda bolton-davis",
+    "da'joya barnes",
+    "george jauss",
+    "mary highfill",
+    "amy blakeney",
+    "traneika turner-wentt",
+    "tara harris",
     "lashaunn bold",
-    "amy blakeney"
+    "kelli rogers"
   ],
   "socw 3303": [
+    "brittanie atteberry ash",
+    "antwan williams",
+    "katherine afflerbach",
+    "pamela hill",
     "latoya smith-jones",
     "dianna jones",
-    "katherine afflerbach",
-    "mary highfill",
-    "allison tomlinson",
-    "stephanie bonilla",
-    "mark frazier",
     "joseph cooper",
-    "brittanie atteberry ash",
-    "amy blakeney",
-    "pamela hill",
+    "mark frazier",
+    "allison tomlinson",
+    "faheem ohri",
     "genevieve graaf",
     "karen magruder",
-    "faheem ohri",
+    "amy blakeney",
+    "mary highfill",
     "katherine kitchens",
-    "antwan williams"
+    "stephanie bonilla"
   ],
   "socw 3307": [
-    "taren allen",
-    "jaclyn kirsch",
-    "diane mitschke",
-    "nibedita shrestha",
-    "pamela randolph",
-    "dianna jones",
-    "mia kirby",
-    "stephanie bonilla",
-    "ann hunt",
-    "darlene hunter",
-    "brittanie atteberry ash",
+    "pamela hill",
     "tiara okoruwa",
     "desiree burns",
     "amy blakeney",
-    "vijayan pillai",
     "kendra tevis",
-    "sophia fantus",
-    "gabrielle scott",
-    "yolonda dubose",
-    "pamela hill",
-    "christian vazquez",
     "kelli rogers",
-    "antwan williams"
+    "taren allen",
+    "christian vazquez",
+    "stephanie bonilla",
+    "mia kirby",
+    "yolonda dubose",
+    "diane mitschke",
+    "jaclyn kirsch",
+    "darlene hunter",
+    "brittanie atteberry ash",
+    "antwan williams",
+    "dianna jones",
+    "gabrielle scott",
+    "nibedita shrestha",
+    "pamela randolph",
+    "sophia fantus",
+    "vijayan pillai",
+    "ann hunt"
   ],
   "musi 1326": [
-    "graham hunt",
-    "levi walls",
-    "sean morrison",
-    "klaudia cop-akin",
+    "jordan moore",
     "amy hatch",
+    "klaudia cop-akin",
+    "graham hunt",
+    "sean morrison",
     "joseph turner",
-    "jordan moore"
+    "levi walls"
   ],
   "musi 2326": [
-    "sean morrison",
-    "amy hatch",
-    "joseph turner",
     "jordan moore",
-    "elyse kahler"
+    "amy hatch",
+    "sean morrison",
+    "elyse kahler",
+    "joseph turner"
   ],
   "anth 3341": [
     "amy speier"
@@ -13515,39 +12930,39 @@ export const data_course_prof = {
     "amy speier"
   ],
   "phys 1443": [
-    "fajer jaafari",
-    "ali koymen",
-    "barry spurlock",
-    "scott yarbrough",
-    "muhammad huda",
     "qiming zhang",
-    "varghese anto chirayath",
-    "hussein akafzade",
-    "frederick wilder",
-    "suman satyal",
-    "kaushik de",
+    "ali koymen",
     "nil pandey",
+    "varghese anto chirayath",
+    "muhammad huda",
+    "scott yarbrough",
+    "barry spurlock",
+    "hussein akafzade",
+    "kaushik de",
+    "suman satyal",
     "andrew brandt",
     "hori pada sarker",
-    "jaehoon yu"
+    "jaehoon yu",
+    "frederick wilder",
+    "fajer jaafari"
   ],
   "comm 3310": [
     "andrew clark",
     "kim jones"
   ],
   "geol 1302": [
-    "majie fan",
-    "puloma chakrabarty",
     "andrew hunt",
-    "cornelia winguth"
+    "majie fan",
+    "cornelia winguth",
+    "puloma chakrabarty"
   ],
   "geol 4308": [
     "andrew hunt"
   ],
   "geog 2302": [
     "andrew milson",
-    "peter nkhoma",
-    "rachel haber"
+    "rachel haber",
+    "peter nkhoma"
   ],
   "geog 3310": [
     "andrew milson"
@@ -13556,89 +12971,89 @@ export const data_course_prof = {
     "andrew ortiz"
   ],
   "phys 1441": [
-    "fajer jaafari",
     "jeotikanta mohapatra",
-    "barry spurlock",
-    "scott yarbrough",
+    "madhab pokhrel",
     "sunil sahi",
+    "scott yarbrough",
+    "barry spurlock",
     "hussein akafzade",
     "suman satyal",
-    "madhab pokhrel",
-    "mingwu jin",
     "andrew white",
-    "hori pada sarker"
+    "mingwu jin",
+    "hori pada sarker",
+    "fajer jaafari"
   ],
   "math 2326": [
-    "rachid atmai",
-    "daniel warren",
-    "ren-cang li",
-    "yizeng li",
-    "edward wilson",
-    "benito chen charpentier",
-    "blake norman",
-    "ahmed ali",
-    "andrzej korzeniowski",
-    "esteban diaz",
-    "anthony mastriania",
-    "jian hao",
-    "saber ahmed",
     "mohammad ganjizadeh",
+    "yizeng li",
+    "shujie kang",
+    "ahmed ali",
+    "benito chen charpentier",
     "yue liu",
-    "shujie kang"
+    "rachid atmai",
+    "anthony mastriania",
+    "saber ahmed",
+    "blake norman",
+    "esteban diaz",
+    "ren-cang li",
+    "daniel warren",
+    "andrzej korzeniowski",
+    "edward wilson",
+    "jian hao"
   ],
   "math 4312": [
     "andrzej korzeniowski"
   ],
   "span 1441": [
+    "catherine ortiz",
+    "joy saunders",
     "rosa tellez",
-    "isabel zaera",
-    "elizabeth deifell",
     "jazmin chinea",
     "jesus carrasco",
-    "elsa coronado salinas",
     "leonel longoria montiel",
-    "joy saunders",
-    "sindy gonzalez",
-    "angela garner",
     "solymar torres-garcia",
+    "isabel zaera",
+    "elizabeth deifell",
     "david hervas",
-    "catherine ortiz"
+    "angela garner",
+    "sindy gonzalez",
+    "elsa coronado salinas"
   ],
   "span 2313": [
+    "catherine ortiz",
+    "joy saunders",
     "rosa tellez",
     "jazmin chinea",
-    "joy saunders",
-    "elsa coronado salinas",
-    "angela garner",
     "solymar torres-garcia",
-    "catherine ortiz"
+    "angela garner",
+    "elsa coronado salinas"
   ],
   "span 2314": [
-    "rosa tellez",
-    "isabel zaera",
-    "jazmin chinea",
     "joy saunders",
-    "angela garner",
+    "catherine ortiz",
+    "rosa tellez",
+    "jazmin chinea",
+    "isabel zaera",
     "david hervas",
-    "catherine ortiz"
+    "angela garner"
   ],
   "art 1307": [
-    "hallee turner",
-    "benjamin wagley",
     "carolyn iverson",
-    "frederick miller",
-    "emma breslauer",
-    "joel murray",
-    "gerald leavell",
-    "simeen ishaque",
+    "kendra wiggins",
     "humna raza",
     "marcela reyes",
-    "angela kallus",
-    "alison starr",
-    "hedieh moradi",
-    "kendra wiggins",
+    "gerald leavell",
+    "simeen ishaque",
     "billi london-gray",
-    "benjamin loftis"
+    "joel murray",
+    "frederick miller",
+    "angela kallus",
+    "benjamin wagley",
+    "hallee turner",
+    "benjamin loftis",
+    "alison starr",
+    "emma breslauer",
+    "hedieh moradi"
   ],
   "art 2308": [
     "carolyn iverson",
@@ -13658,8 +13073,8 @@ export const data_course_prof = {
   "fina 4319": [
     "nima vafai",
     "anh tuan nguyen",
-    "ankit kapur",
-    "yibing du"
+    "yibing du",
+    "ankit kapur"
   ],
   "fina 4320": [
     "anh tuan nguyen",
@@ -13669,209 +13084,209 @@ export const data_course_prof = {
     "ani khachatryan"
   ],
   "mae 3304": [
-    "animesh chakravarthy",
     "baxter mullins",
+    "animesh chakravarthy",
     "julio benavides"
   ],
   "kine 4355": [
-    "brandie green",
-    "anita corbitt"
+    "anita corbitt",
+    "brandie green"
   ],
   "insy 2303": [
-    "ankit deo",
-    "mohammad karimi sani",
-    "xiaqing he",
-    "kaiyue liu",
     "siddhi ramanand nair",
     "tianzi zheng",
-    "sreehas gopinathan",
-    "anil singh",
+    "xiaqing he",
+    "karen scott",
+    "jiang hu",
     "scott johnson",
     "mohammad murad",
-    "jiang hu",
-    "karen scott"
+    "anil singh",
+    "mohammad karimi sani",
+    "sreehas gopinathan",
+    "kaiyue liu",
+    "ankit deo"
   ],
   "fina 3313": [
-    "noura khadidja kone",
-    "ankita damani",
-    "john adams",
-    "ramya aroul",
-    "hanh hong thi phan",
-    "thomas thompson",
-    "mahnaz paydarzarnaghi",
     "andi li",
-    "anh tuan nguyen",
-    "ankit kapur",
     "richard berard",
+    "mahnaz paydarzarnaghi",
+    "hanh hong thi phan",
+    "noura khadidja kone",
+    "thomas thompson",
+    "anh tuan nguyen",
+    "ankita damani",
+    "ramya aroul",
     "yilun lu",
-    "dhruba banjade",
+    "ankit kapur",
     "trang thai",
+    "john adams",
+    "dhruba banjade",
     "yibing du"
   ],
   "mae 3314": [
-    "sunand santhanagopalan",
     "ankur jain",
+    "ali farzbod",
     "sai krishna pinnamaneni",
     "hyejin moon",
-    "ali farzbod",
+    "sunand santhanagopalan",
     "albert tong"
   ],
   "ee 2347": [
-    "kambiz alavi",
+    "ann coleman",
     "saibun tjuatja",
-    "ann coleman"
+    "kambiz alavi"
   ],
   "thea 4317": [
-    "joel ferrell",
     "jonathan eyer",
+    "joel ferrell",
     "ann healy"
   ],
   "socw 3305": [
-    "jeremeka mcbride",
     "katherine afflerbach",
-    "angela hall",
-    "pamela johnson",
-    "stephanie bonilla",
-    "ann hunt",
-    "mark frazier",
-    "haydee hall",
-    "tara harris",
-    "bonita dockery",
-    "donald schuman",
-    "ashley palmer",
     "bethany brown",
+    "donald schuman",
+    "mark frazier",
+    "angela hall",
+    "bonita dockery",
+    "haydee hall",
     "jessica sanchez",
     "sarah herrera",
+    "pamela johnson",
+    "ann hunt",
     "aditi prabhakar",
+    "amy blakeney",
+    "ashley palmer",
+    "tara harris",
     "lashaunn bold",
-    "amy blakeney"
+    "stephanie bonilla",
+    "jeremeka mcbride"
   ],
   "socw 4371": [
     "latoya smith-jones",
-    "de'an roper",
     "jessica williams",
+    "de'an roper",
     "ann hunt",
     "mansi patel",
     "anne bain"
   ],
   "educ 3301": [
     "anne daly",
-    "joyce myers",
-    "david sparks",
     "wideline seraphin",
     "shenequa miller",
+    "david sparks",
+    "joyce myers",
     "martha meeks loyd"
   ],
   "mark 3322": [
     "gregory wicklman",
-    "shashi minchael",
-    "anne gottfried",
     "lawrence chonko",
-    "fred miao"
+    "anne gottfried",
+    "fred miao",
+    "shashi minchael"
   ],
   "mark 4325": [
+    "anne gottfried",
     "olamide temitope olajuwon ige",
-    "xiaodong nie",
-    "shashi minchael",
-    "jingjing he",
     "yi zheng",
-    "anne gottfried"
+    "jingjing he",
+    "xiaodong nie",
+    "shashi minchael"
   ],
   "asl 1441": [
-    "cruz lane",
-    "ryan sims",
-    "annette scolaro",
     "lisalee egbert",
     "amber shorter",
-    "travis belmontes-merrell",
-    "cynthia nagy"
+    "ryan sims",
+    "cynthia nagy",
+    "annette scolaro",
+    "cruz lane",
+    "travis belmontes-merrell"
   ],
   "asl 1442": [
-    "cruz lane",
-    "ryan sims",
-    "annette scolaro",
     "edwin mitchell",
-    "amber shorter",
     "travis belmontes-merrell",
-    "cynthia nagy"
+    "ryan sims",
+    "cynthia nagy",
+    "annette scolaro",
+    "cruz lane",
+    "amber shorter"
   ],
   "asl 2314": [
-    "cruz lane",
+    "edwin mitchell",
     "ryan sims",
     "annette scolaro",
-    "edwin mitchell",
+    "cruz lane",
     "travis belmontes-merrell"
   ],
   "econ 3303": [
-    "antonia gkergki",
     "brandon vanderford",
-    "jane himarios",
-    "william crowder",
-    "donald blackburn",
+    "antonia gkergki",
     "linda wilson",
+    "william crowder",
     "chi-young choi",
-    "todd gabel",
-    "rafal czajkowski"
+    "rafal czajkowski",
+    "donald blackburn",
+    "jane himarios",
+    "todd gabel"
   ],
   "econ 3317": [
-    "antonia gkergki",
-    "christy spivey"
+    "christy spivey",
+    "antonia gkergki"
   ],
   "coms 2304": [
     "april blount"
   ],
   "arch 3324": [
+    "mahmoud bayat",
     "arash saleh",
-    "maziar mahdavi",
-    "mahmoud bayat"
+    "maziar mahdavi"
   ],
   "ce 1105": [
-    "melanie sattler",
     "arash saleh",
-    "maziar mahdavi",
+    "nelson gomez-torres",
     "zhe yin",
-    "nelson gomez-torres"
+    "maziar mahdavi",
+    "melanie sattler"
   ],
   "aren 1205": [
-    "nikhil singh yaduvanshi",
-    "arash saleh",
-    "maziar mahdavi",
+    "june young park",
     "tamer eljufout",
-    "juan balderrama",
-    "june young park"
+    "arash saleh",
+    "nikhil singh yaduvanshi",
+    "maziar mahdavi",
+    "juan balderrama"
   ],
   "plan 4320": [
-    "amruta sakalker",
     "ariadna reyes-sanchez",
-    "luis macias barrientos"
+    "luis macias barrientos",
+    "amruta sakalker"
   ],
   "mana 3318": [
-    "faye cocchiara",
-    "shona smith",
-    "beverly george",
-    "matthew hirst",
-    "charles newson",
-    "patricia parham",
-    "fredrick rice",
-    "nicolina taylor",
-    "wendelyn risher",
-    "terrance wilensky",
-    "david arena",
-    "ifeyimika ogunyomi",
     "oyinkansola oreoluwa sodiya",
-    "lori ramirez",
     "feirong yuan",
+    "david arena",
+    "shona smith",
+    "anna-lisa leefers",
+    "nicolina taylor",
+    "thomas brill",
     "michael beeson",
     "jerry hubbard",
+    "fredrick rice",
     "esther jean",
-    "thomas brill",
-    "anna-lisa leefers",
-    "ariane froidevaux"
+    "ariane froidevaux",
+    "wendelyn risher",
+    "ifeyimika ogunyomi",
+    "charles newson",
+    "matthew hirst",
+    "lori ramirez",
+    "faye cocchiara",
+    "terrance wilensky",
+    "patricia parham",
+    "beverly george"
   ],
   "geol 1340": [
     "jiayi wang",
-    "arne winguth",
-    "joshua pulcinella"
+    "joshua pulcinella",
+    "arne winguth"
   ],
   "geol 4405": [
     "arne winguth"
@@ -13887,46 +13302,46 @@ export const data_course_prof = {
     "niloofar parsaeifard"
   ],
   "engl 2319": [
-    "jason hogue",
-    "ashley johnson",
-    "lindsey surratt",
-    "sarah shelton",
+    "kayla kassakatis",
     "hope mccarthy",
     "dana brewer",
-    "rechelle christie",
+    "sarah shelton",
+    "rachael mariboho",
+    "jason hogue",
+    "lindsey surratt",
     "sarah farrell",
-    "kayla kassakatis",
-    "rachael mariboho"
+    "rechelle christie",
+    "ashley johnson"
   ],
   "anth 2339": [
     "katrina nuncio",
-    "naomi cleghorn",
     "ashley lemke",
-    "robyn dodge",
-    "martin gallagher"
+    "martin gallagher",
+    "naomi cleghorn",
+    "robyn dodge"
   ],
   "anth 3358": [
     "ashley lemke"
   ],
   "socw 3309": [
-    "robyn smith-bull",
-    "meverlyn maisonave",
-    "aditi prabhakar",
-    "christie eckler",
-    "pamela johnson",
-    "stephanie bonilla",
-    "ann hunt",
-    "destiny davis",
-    "haydee hall",
     "lashaunn bold",
-    "janet finch",
-    "ashley palmer",
-    "james langford",
+    "christie eckler",
+    "destiny davis",
     "tracy orwig",
-    "toykesha howard",
-    "sarah herrera",
     "shamsun nahar",
-    "james keaton"
+    "james langford",
+    "haydee hall",
+    "sarah herrera",
+    "pamela johnson",
+    "aditi prabhakar",
+    "ann hunt",
+    "meverlyn maisonave",
+    "ashley palmer",
+    "robyn smith-bull",
+    "toykesha howard",
+    "james keaton",
+    "stephanie bonilla",
+    "janet finch"
   ],
   "arch 3357": [
     "ricardo munoz",
@@ -13935,85 +13350,85 @@ export const data_course_prof = {
     "narges sadeghigolshan"
   ],
   "arch 4357": [
-    "narges sadeghigolshan",
-    "fuad kareem",
-    "sakshi sanjay sharma",
-    "donnie reece",
     "atefe makhmalbaf",
-    "ricardo munoz"
+    "donnie reece",
+    "sakshi sanjay sharma",
+    "ricardo munoz",
+    "narges sadeghigolshan",
+    "fuad kareem"
   ],
   "bstat 2305": [
-    "yi liu",
-    "xianghua wu",
     "md helal",
-    "mohammed nour",
-    "amir naderpour",
-    "samaneh samiee",
-    "atieno amadi",
-    "tzu-wen lin",
+    "yi liu",
     "grace esimai",
+    "tzu-wen lin",
+    "amir naderpour",
+    "xianghua wu",
+    "mohammed nour",
+    "atieno amadi",
     "gajanan ganji",
-    "jaehoon kim",
-    "ray-e chang"
+    "samaneh samiee",
+    "ray-e chang",
+    "jaehoon kim"
   ],
   "insy 3304": [
-    "radha mahapatra",
-    "zhuojun gu",
-    "koshy vaidyan joseph",
-    "jingguo wang",
-    "atieno amadi",
     "ganapathiraman raman",
     "karen scott",
     "subhra patra",
+    "zhuojun gu",
+    "jingguo wang",
+    "koshy vaidyan joseph",
+    "atieno amadi",
+    "radha mahapatra",
     "sajib datta"
   ],
   "insy 3330": [
-    "karen scott",
+    "mahyar sharif vaghefi",
     "atieno amadi",
-    "mahyar sharif vaghefi"
+    "karen scott"
   ],
   "arch 3364": [
+    "dennis chiessa",
     "mitali mandlekar",
-    "austin allen",
-    "dennis chiessa"
+    "austin allen"
   ],
   "hist 2312": [
     "wendell hunnicutt",
     "austin loignon",
-    "patryk babiracki",
-    "erhard van deventer"
+    "erhard van deventer",
+    "patryk babiracki"
   ],
   "hist 1301": [
-    "paul ruiz-requena",
-    "kristan foust",
-    "michael stout",
-    "austin loignon",
-    "jonathan steplyk",
-    "jennifer hudson",
+    "nathaniel goodwin",
+    "angela austin",
+    "wendell hunnicutt",
     "david narrett",
+    "jonathan steplyk",
+    "madeleine miller",
+    "christopher morris",
+    "kevin moskowitz",
+    "james sandy",
+    "margaret keller garnett",
+    "eric bolsterli",
+    "jennifer hudson",
+    "lydia towns",
+    "kevin smant",
     "delaina price",
     "karen beasley",
-    "kevin moskowitz",
-    "kimberly breuer",
-    "charles grand",
-    "angela austin",
-    "andrew milson",
     "daniel degges",
-    "corye beene",
-    "halen watkins",
-    "christopher morris",
-    "madeleine miller",
-    "joseph guillory",
-    "wendell hunnicutt",
-    "eric bolsterli",
     "brandon blakeslee",
+    "joseph guillory",
+    "kimberly breuer",
+    "william hansard",
+    "andrew milson",
+    "michael stout",
+    "kristan foust",
+    "halen watkins",
+    "charles grand",
+    "austin loignon",
     "stephanie cole",
-    "margaret keller garnett",
-    "james sandy",
-    "kevin smant",
-    "nathaniel goodwin",
-    "lydia towns",
-    "william hansard"
+    "paul ruiz-requena",
+    "corye beene"
   ],
   "pols 3305": [
     "bai linh hoang"
@@ -14022,155 +13437,155 @@ export const data_course_prof = {
     "bai linh hoang"
   ],
   "pols 2311": [
-    "olivia agudelo",
-    "jacob pouttu",
-    "larry carter",
-    "thomas marshall",
-    "brent boyea",
-    "daniel sledge",
-    "marcus hendershot",
-    "kayla canelo sandoval",
-    "michael williams",
-    "gregg gleichert",
-    "kimberly caraway",
-    "gabriela okundaye",
-    "jack philips",
-    "michael morris",
-    "jose ayala-rodriguez",
+    "robert gomez",
     "bai linh hoang",
-    "robert gomez"
+    "thomas marshall",
+    "gabriela okundaye",
+    "jose ayala-rodriguez",
+    "jack philips",
+    "kimberly caraway",
+    "daniel sledge",
+    "gregg gleichert",
+    "larry carter",
+    "michael williams",
+    "olivia agudelo",
+    "michael morris",
+    "brent boyea",
+    "marcus hendershot",
+    "jacob pouttu",
+    "kayla canelo sandoval"
   ],
   "nurs-ul 3365": [
-    "phyllis pastwa",
     "tara martin",
-    "bailey davis",
-    "kelle george"
+    "kelle george",
+    "phyllis pastwa",
+    "bailey davis"
   ],
   "germ 1441": [
+    "ketevan karukhnishvili",
     "hildegard lombardo",
-    "barbara berthold",
-    "ketevan karukhnishvili"
+    "barbara berthold"
   ],
   "germ 1442": [
-    "barbara berthold",
-    "ketevan karukhnishvili"
+    "ketevan karukhnishvili",
+    "barbara berthold"
   ],
   "germ 3318": [
     "barbara berthold"
   ],
   "global 2301": [
+    "reem shishakly",
     "sabine harvey",
     "jesus carrasco",
+    "solymar torres-garcia",
     "ketevan karukhnishvili",
     "cynthia laborde",
-    "alicia garza",
-    "courtney griffitts",
-    "lonny harrison",
-    "solymar torres-garcia",
-    "omar valdez rocha",
     "david hervas",
+    "alicia garza",
     "barbara berthold",
-    "reem shishakly"
+    "courtney griffitts",
+    "omar valdez rocha",
+    "lonny harrison"
   ],
   "engl 3347": [
     "barbara chiarello",
     "kenton rambsy"
   ],
   "engl 1301": [
-    "kim amyett",
-    "jessica le",
-    "colin hogan",
-    "paul lee",
-    "james perrin",
-    "olivia arroyo",
-    "andrew koch",
-    "kristen spaeth",
-    "cindy malone",
-    "catherine corder",
-    "heather philpot",
-    "cassandra yatron",
-    "nancy england",
-    "justin lerberg",
-    "sharon strock",
-    "jo ward",
-    "pamela rose",
-    "clayton dillard",
-    "richard mejia",
-    "kelly franklin",
-    "john tomes",
-    "kassandra buck",
-    "katherine abelanet",
-    "alyssa compton",
-    "ricardo gonzalez",
-    "emran dorrazehi",
-    "alessia cavazos",
-    "kayla kassakatis",
-    "ann sloan",
-    "diana miller",
-    "christopher atkins",
-    "eun jung brown",
-    "joul smith",
-    "lindsey surratt",
-    "sophie spruce",
-    "linda oni",
-    "sarah farrell",
-    "faith dickerson",
-    "patricia jones",
-    "jason hogue",
-    "edwardo perez",
     "sara martin",
+    "olivia arroyo",
+    "kim amyett",
+    "ji nang kim",
+    "christopher atkins",
+    "catherine corder",
+    "jessica le",
+    "jason hogue",
+    "jo ward",
+    "joul smith",
+    "ashley johnson",
+    "sean woodard",
+    "patricia martin",
+    "cassandra yatron",
+    "jennifer conner",
+    "sarah farrell",
+    "darius frasure",
+    "julie jones",
+    "diana miller",
+    "vincent sosko",
+    "alyssa compton",
+    "sarah-marie horning",
+    "samuel fatzinger",
+    "michael raines",
+    "trevor fuller",
+    "jered mabaquiao",
+    "kaci o'donnell",
+    "pamela rose",
+    "richard mejia",
+    "edwardo perez",
+    "justin jones",
+    "sydney gillentine",
+    "carolyn giles",
+    "james perrin",
+    "paul lee",
+    "nicholas nicklin",
+    "heather philpot",
+    "sharon strock",
+    "john tomes",
+    "ricardo gonzalez",
+    "lauren phelps",
+    "marschaneil brown",
+    "linda oni",
     "ronnie stephens",
     "sean hooks",
-    "vincent sosko",
-    "jennifer miller",
-    "amar sherma",
-    "darius frasure",
-    "michael raines",
-    "patricia martin",
-    "patricia ziemke",
-    "susan midwood",
-    "yaroslav malyuta",
-    "justin jones",
+    "andrew koch",
     "kamille stone-stanton",
-    "julie jones",
-    "gyde martin",
-    "marschaneil brown",
-    "ji nang kim",
-    "trevor fuller",
-    "sydney gillentine",
-    "carrie kolodziej",
-    "erik warbrouck",
-    "denise frusciante",
-    "shellie mccullough",
-    "kaci o'donnell",
-    "ashley johnson",
-    "gregory shows",
-    "hannah bowick",
-    "jennifer conner",
-    "sean woodard",
-    "harry ho",
-    "carol-ann vila-young",
-    "jered mabaquiao",
-    "mary wilson",
-    "adrian thompson",
-    "sarah shelton",
-    "amanda marsh",
-    "jennifer curtis",
-    "nicholas nicklin",
-    "carolyn giles",
     "matthew tettleton",
-    "joshua canipe",
-    "yubraj aryal",
-    "samuel fatzinger",
-    "jeffrey marchand",
-    "daniel kasper",
     "barbara hanson",
-    "lauren phelps",
-    "sarah-marie horning"
+    "hannah bowick",
+    "justin lerberg",
+    "kayla kassakatis",
+    "alessia cavazos",
+    "erik warbrouck",
+    "daniel kasper",
+    "carol-ann vila-young",
+    "denise frusciante",
+    "gregory shows",
+    "yubraj aryal",
+    "amanda marsh",
+    "amar sherma",
+    "lindsey surratt",
+    "gyde martin",
+    "carrie kolodziej",
+    "adrian thompson",
+    "emran dorrazehi",
+    "kristen spaeth",
+    "mary wilson",
+    "patricia ziemke",
+    "sarah shelton",
+    "susan midwood",
+    "patricia jones",
+    "kelly franklin",
+    "cindy malone",
+    "sophie spruce",
+    "colin hogan",
+    "jennifer curtis",
+    "ann sloan",
+    "joshua canipe",
+    "harry ho",
+    "jeffrey marchand",
+    "nancy england",
+    "jennifer miller",
+    "yaroslav malyuta",
+    "kassandra buck",
+    "katherine abelanet",
+    "faith dickerson",
+    "eun jung brown",
+    "clayton dillard",
+    "shellie mccullough"
   ],
   "intd 4493": [
-    "barbara marini",
-    "arden stephenson"
+    "arden stephenson",
+    "barbara marini"
   ],
   "intd 4557": [
     "barbara marini"
@@ -14179,91 +13594,91 @@ export const data_course_prof = {
     "barbara shipman"
   ],
   "phys 1442": [
-    "fajer jaafari",
-    "barry spurlock",
-    "scott yarbrough",
-    "sunil sahi",
-    "shafaq moten",
-    "hussein akafzade",
-    "varghese anto chirayath",
-    "lesley vestal",
-    "wei chen",
     "madhab pokhrel",
+    "sunil sahi",
+    "wei chen",
+    "scott yarbrough",
+    "ping liu",
+    "varghese anto chirayath",
+    "barry spurlock",
+    "hussein akafzade",
+    "suman satyal",
     "mingwu jin",
     "hori pada sarker",
-    "suman satyal",
-    "ping liu"
+    "lesley vestal",
+    "shafaq moten",
+    "fajer jaafari"
   ],
   "phys 1444": [
-    "joseph ngai",
     "jeotikanta mohapatra",
     "ali koymen",
-    "barry spurlock",
     "varghese anto chirayath",
+    "barry spurlock",
     "hussein akafzade",
-    "jonathan asaadi",
-    "christian-andrew bagby-wright",
-    "amir farbin",
     "kaushik de",
-    "alexander weiss",
-    "mingwu jin",
     "suman satyal",
-    "jaehoon yu"
+    "amir farbin",
+    "mingwu jin",
+    "jonathan asaadi",
+    "joseph ngai",
+    "alexander weiss",
+    "jaehoon yu",
+    "christian-andrew bagby-wright"
   ],
   "art 4358": [
     "barton weiss"
   ],
   "art 4100": [
-    "benito lozano",
     "fletcher coleman",
-    "lucy bartholomee",
-    "joanne rinker-dozier",
+    "benito lozano",
     "amber bailey perez",
-    "matthew clark"
+    "lucy bartholomee",
+    "matthew clark",
+    "joanne rinker-dozier"
   ],
   "art 4300": [
     "patricia newton",
     "benito lozano"
   ],
   "art 3354": [
-    "karley adrion",
-    "nijal munankarmi",
-    "timothy carvalho",
-    "zenas ikeda",
-    "benjamin dolezal",
-    "loryn o'donnell",
-    "you kyoung temchenko",
     "yanina blanco morales",
-    "glady chow"
+    "karley adrion",
+    "glady chow",
+    "benjamin dolezal",
+    "you kyoung temchenko",
+    "nijal munankarmi",
+    "zenas ikeda",
+    "timothy carvalho",
+    "loryn o'donnell"
   ],
   "art 2371": [
-    "hallee turner",
-    "sedrick huckaby",
-    "benito lozano",
-    "erika jaeggli",
     "yana farbrook",
+    "benito lozano",
     "michael blair",
+    "sedrick huckaby",
+    "hallee turner",
+    "erika jaeggli",
     "benjamin terry"
   ],
   "art 3371": [
-    "benjamin terry",
-    "yana farbrook",
+    "claire kennedy",
     "benito lozano",
-    "claire kennedy"
+    "benjamin terry",
+    "yana farbrook"
   ],
   "art 3362": [
-    "mason lahue",
-    "benjamin wagley"
+    "benjamin wagley",
+    "mason lahue"
   ],
   "art 4361": [
-    "mason lahue",
-    "benjamin wagley"
+    "benjamin wagley",
+    "mason lahue"
   ],
   "intd 3357": [
-    "donna firouzbakht",
-    "ricardo munoz",
     "bernabe longoria",
-    "narges sadeghigolshan"
+    "narges sadeghigolshan",
+    "donna firouzbakht",
+    "ricardo munoz"
   ],
   "mae 4350": [
     "bernd chudoba"
@@ -14302,41 +13717,41 @@ export const data_course_prof = {
     "leeann burke"
   ],
   "engl 2309": [
+    "yubraj aryal",
+    "kayla kassakatis",
+    "andrew koch",
+    "amy tigner",
+    "erin murrah-mandril",
+    "sarah shelton",
     "bethany shaffer",
+    "amanda monteleone",
+    "rachael mariboho",
     "ji nang kim",
     "luanne frank",
-    "joul smith",
-    "sarah shelton",
-    "yubraj aryal",
-    "erin murrah-mandril",
-    "andrew koch",
-    "amanda monteleone",
     "sarah farrell",
-    "kayla kassakatis",
-    "rachael mariboho",
-    "amy tigner"
+    "joul smith"
   ],
   "art 2360": [
-    "scott hilton",
     "christina childress",
-    "tuba koymen",
     "betsy williamson",
-    "calen barnum",
     "holly gray",
-    "valerie van over"
+    "valerie van over",
+    "tuba koymen",
+    "calen barnum",
+    "scott hilton"
   ],
   "mana 2302": [
-    "janice carrell",
     "beverly george",
+    "janice carrell",
     "correy retzloff"
   ],
   "cse 3330": [
-    "bhanu jain",
-    "nadra guizani",
     "medhat saleh",
     "ramez elmasri",
     "kyungseo park",
-    "ravi badrachalam"
+    "ravi badrachalam",
+    "bhanu jain",
+    "nadra guizani"
   ],
   "cm 4359": [
     "bijan shapoorian"
@@ -14355,28 +13770,28 @@ export const data_course_prof = {
     "bijan youssefzadeh"
   ],
   "arch 3554": [
-    "bill boswell",
-    "jason wheeler",
-    "oswald jenewein",
-    "pia sarpaneva",
-    "jason cantrell",
-    "michael malone",
-    "narjes abbasabadi",
-    "hyesun jeong",
-    "crystal portillo",
-    "eduardo castaneda",
-    "victor vielma",
-    "lorena toffer",
-    "ricardo munoz",
-    "carlos alba",
-    "heath macdonald",
-    "dustin wheat",
     "sandra espinoza",
+    "pia sarpaneva",
+    "heath macdonald",
     "tyler shafer",
-    "katherine kosut",
-    "steven quevedo",
     "michel borg",
+    "crystal portillo",
+    "katherine kosut",
+    "dustin wheat",
+    "victor vielma",
+    "jason cantrell",
+    "eduardo castaneda",
+    "carlos alba",
+    "lorena toffer",
+    "hyesun jeong",
+    "oswald jenewein",
+    "narjes abbasabadi",
     "sharon odum",
+    "michael malone",
+    "jason wheeler",
+    "steven quevedo",
+    "ricardo munoz",
+    "bill boswell",
     "david nepveux"
   ],
   "cse 4357": [
@@ -14386,44 +13801,44 @@ export const data_course_prof = {
     "bill carroll"
   ],
   "art 1300": [
-    "matthew clark",
     "shadiah jawad",
-    "kristine obrien",
     "cheryl mitchell",
-    "leah mccurdy",
     "marcela reyes",
-    "patricia newton",
     "maria esswein",
+    "billi london-gray",
+    "matthew clark",
     "melinda mcvay",
-    "billi london-gray"
+    "leah mccurdy",
+    "patricia newton",
+    "kristine obrien"
   ],
   "art 2304": [
     "farnoosh sharbafi",
-    "maria esswein",
-    "carly otto",
+    "billi london-gray",
+    "adrienne guillory",
+    "kimberly elliott",
+    "emma breslauer",
+    "salvatore terrasi",
+    "emily brown",
+    "morgan chivers",
     "rachel herod",
     "mason lahue",
-    "xuan zhang",
-    "emma breslauer",
-    "loryn o'donnell",
-    "morgan chivers",
-    "billi london-gray",
-    "daniel garcia",
-    "shadiah jawad",
-    "adrienne guillory",
-    "emily brown",
-    "shaban al-refai",
-    "valerie van over",
     "karley adrion",
     "lori maclean",
-    "salvatore terrasi",
-    "kimberly elliott"
+    "carly otto",
+    "maria esswein",
+    "shaban al-refai",
+    "xuan zhang",
+    "loryn o'donnell",
+    "daniel garcia",
+    "shadiah jawad",
+    "valerie van over"
   ],
   "thea 3352": [
-    "samuel blackwell",
-    "laura berrios",
     "andrew gaupp",
-    "blair coppola"
+    "blair coppola",
+    "samuel blackwell",
+    "laura berrios"
   ],
   "kore 3345": [
     "blake carpenter"
@@ -14443,25 +13858,25 @@ export const data_course_prof = {
     "bonnie laster"
   ],
   "psyc 3318": [
-    "susan eddlemon villalobos",
-    "abigail heller",
     "mitchell meltzer",
+    "abigail heller",
+    "susan eddlemon villalobos",
     "bonnie laster"
   ],
   "psyc 3334": [
-    "crystal cooper cortes",
+    "maxine geltmeier",
+    "daniel levine",
+    "amandeep dhaliwal",
     "mitchell meltzer",
-    "bonnie laster",
     "elizabeth wiemers wilcox",
     "susan eddlemon villalobos",
-    "daniel levine",
+    "bonnie laster",
     "george siemens",
-    "amandeep dhaliwal",
-    "maxine geltmeier"
+    "crystal cooper cortes"
   ],
   "ee 4315": [
-    "yijing xie",
     "bosen lian",
+    "yijing xie",
     "mushuang liu"
   ],
   "kine 1100": [
@@ -14477,14 +13892,14 @@ export const data_course_prof = {
     "brad heddins"
   ],
   "bcmn 3360": [
-    "lance liguez",
-    "brad loper"
+    "brad loper",
+    "lance liguez"
   ],
   "comm 2311": [
-    "marti harvey",
     "patsy gordon",
+    "brad loper",
     "geoffrey campbell",
-    "brad loper"
+    "marti harvey"
   ],
   "jour 2340": [
     "brad loper"
@@ -14496,10 +13911,10 @@ export const data_course_prof = {
     "brandi andrade"
   ],
   "heed 3330": [
-    "brandie green",
-    "lisa sheppard-goodlett",
     "denise hernandez",
-    "rebecca garner"
+    "rebecca garner",
+    "lisa sheppard-goodlett",
+    "brandie green"
   ],
   "kine 3350": [
     "brandie green"
@@ -14509,10 +13924,10 @@ export const data_course_prof = {
   ],
   "econ 4311": [
     "brandon vanderford",
-    "roger meiners",
+    "michael ward",
     "richard berard",
-    "william seeger",
-    "michael ward"
+    "roger meiners",
+    "william seeger"
   ],
   "econ 3222": [
     "brandon vanderford"
@@ -14526,25 +13941,25 @@ export const data_course_prof = {
   ],
   "list 4343": [
     "anne daly",
-    "sonja ezell",
-    "brenda jacks",
     "brenda harris",
+    "sonja ezell",
     "holly hungerford-kresser",
-    "robin jocius"
+    "robin jocius",
+    "brenda jacks"
   ],
   "nurs 4341": [
-    "kelly welch",
     "alyssa peterson",
-    "rebecca rountree",
-    "brenda hoolapa"
+    "brenda hoolapa",
+    "kelly welch",
+    "rebecca rountree"
   ],
   "pols 4372": [
     "brent sasley"
   ],
   "as 1122": [
     "allen sparkman",
-    "brian chambon",
-    "joshua young"
+    "joshua young",
+    "brian chambon"
   ],
   "cse 4303": [
     "farhad kamangar",
@@ -14557,8 +13972,8 @@ export const data_course_prof = {
     "brian dennis"
   ],
   "comm 3303": [
-    "roby mceuen",
     "george weems",
+    "roby mceuen",
     "brian horton"
   ],
   "ctec 3320": [
@@ -14571,19 +13986,19 @@ export const data_course_prof = {
     "brian huff"
   ],
   "ie 2308": [
-    "yuan zhou",
     "andrew wheatcroft",
     "xin liu",
-    "shuchisnigdha deb",
-    "nadia martinez cepeda",
-    "brian huff",
-    "maysaa hamdan",
     "narjes sadeghiamirshahidi",
-    "subhash singhal",
-    "jaime cantu",
     "mohammad jahanbakht",
     "bonnie boardman",
-    "sowmya rao"
+    "subhash singhal",
+    "jaime cantu",
+    "nadia martinez cepeda",
+    "maysaa hamdan",
+    "brian huff",
+    "yuan zhou",
+    "sowmya rao",
+    "shuchisnigdha deb"
   ],
   "mae 4379": [
     "brian huff"
@@ -14595,49 +14010,49 @@ export const data_course_prof = {
     "brian mulholland"
   ],
   "global 3301": [
-    "brian whitmore",
-    "yubraj aryal"
+    "yubraj aryal",
+    "brian whitmore"
   ],
   "jour 4326": [
-    "brian whitmore",
-    "kim jones"
+    "kim jones",
+    "brian whitmore"
   ],
   "pols 4361": [
     "brian whitmore"
   ],
   "musi 0010": [
-    "craig leffer",
+    "john solomons",
+    "michael drake",
+    "jennifer ciobanu",
+    "timothy angel",
+    "thomas burchill",
+    "christine derose",
+    "laura cameron",
+    "jing tam",
+    "elizabeth elsner",
+    "dennis bubert",
+    "jacob muzquiz",
+    "steven eldridge",
+    "mike nguyen",
     "christopher curcuruto",
     "ronald montgomery",
-    "gerald wood",
-    "peter rioux",
-    "jessica ferring glenn",
-    "kwan kyun joo",
-    "julie liston johnson",
-    "jacob muzquiz",
-    "teresa sanchez",
-    "soo kim",
-    "hannah chiasson",
-    "dennis bubert",
-    "david grogan",
-    "elizabeth elsner",
-    "jazmyn barajas-trujillo",
-    "michael drake",
-    "britni cheyenne cruz",
-    "thomas burchill",
-    "steven eldridge",
-    "jack unzicker",
-    "john solomons",
-    "laura cameron",
-    "cathy forbes",
-    "timothy angel",
-    "mike nguyen",
-    "christine derose",
-    "jennifer ciobanu",
-    "jocelyn hansen",
     "edward jones",
-    "jing tam",
-    "rickey bogard"
+    "rickey bogard",
+    "jazmyn barajas-trujillo",
+    "peter rioux",
+    "david grogan",
+    "jack unzicker",
+    "craig leffer",
+    "teresa sanchez",
+    "jessica ferring glenn",
+    "gerald wood",
+    "julie liston johnson",
+    "jocelyn hansen",
+    "hannah chiasson",
+    "cathy forbes",
+    "soo kim",
+    "britni cheyenne cruz",
+    "kwan kyun joo"
   ],
   "musi 0110": [
     "britni cheyenne cruz"
@@ -14646,115 +14061,115 @@ export const data_course_prof = {
     "britni cheyenne cruz"
   ],
   "phil 2300": [
-    "brittany shupe",
-    "kenneth williford",
     "sally parker ryan",
-    "charles hermes",
-    "luke roelofs",
-    "miriam byrd",
     "daniel giberman",
-    "charles nussbaum"
+    "luke roelofs",
+    "brittany shupe",
+    "charles nussbaum",
+    "charles hermes",
+    "kenneth williford",
+    "miriam byrd"
   ],
   "phil 3319": [
-    "brittany shupe",
-    "keith burgess-jackson"
+    "keith burgess-jackson",
+    "brittany shupe"
   ],
   "art 4360": [
     "bryan florentin"
   ],
   "psyc 1315": [
-    "shane snyder",
+    "tiffany aguirre",
+    "perry fuchs",
+    "derek mangino sirvent",
+    "morgan rios",
+    "sakinat izuagbe",
+    "amandeep dhaliwal",
+    "sampoorna nandi",
+    "bryanne argenbright",
     "ashley hall",
     "mitchell meltzer",
-    "nicholas smith",
-    "derek mangino sirvent",
     "rachel baldridge",
-    "sampoorna nandi",
     "susan eddlemon villalobos",
+    "john adams",
     "scott coleman",
-    "perry fuchs",
-    "tiffany aguirre",
-    "morgan rios",
-    "amandeep dhaliwal",
-    "bryanne argenbright",
-    "sakinat izuagbe",
-    "john adams"
+    "nicholas smith",
+    "shane snyder"
   ],
   "mae 1106": [
-    "paul hagseth",
-    "kapil aryal",
     "dragos dancila",
     "budhyant venepalli",
+    "kapil aryal",
+    "paul hagseth",
     "julio benavides"
   ],
   "musi 1181": [
-    "dazheng zhu",
     "mina kramer",
     "astrid morales torres",
-    "candace bawcombe"
+    "candace bawcombe",
+    "dazheng zhu"
   ],
   "musi 2180": [
-    "dazheng zhu",
     "astrid morales torres",
-    "candace bawcombe"
+    "candace bawcombe",
+    "dazheng zhu"
   ],
   "musi 2181": [
-    "dazheng zhu",
     "astrid morales torres",
-    "candace bawcombe"
+    "candace bawcombe",
+    "dazheng zhu"
   ],
   "musi 4205": [
     "astrid morales torres",
     "candace bawcombe"
   ],
   "nurs 3309": [
+    "candida constantine",
+    "tricia clayton",
     "jacquelyn cato",
     "pamela white",
-    "lucas farris",
-    "tricia clayton",
-    "candida constantine",
-    "sandra westmoreland"
+    "sandra westmoreland",
+    "lucas farris"
   ],
   "coms 2305": [
-    "carie kapellusch",
-    "donna pirkle"
+    "donna pirkle",
+    "carie kapellusch"
   ],
   "coms 4315": [
-    "molly cummins",
+    "charla markham shaw",
     "carie kapellusch",
-    "charla markham shaw"
+    "molly cummins"
   ],
   "beep 4385": [
-    "jose mendez monge",
+    "carla amaro-jimenez",
     "zulma mojica monroy",
     "paul polanco",
-    "carla amaro-jimenez"
+    "jose mendez monge"
   ],
   "ctec 3350": [
     "carlos cucalon"
   ],
   "art 3347": [
-    "hallee turner",
     "carolyn iverson",
-    "carlos donjuan",
+    "stephen lapthisophon",
     "angela kallus",
-    "stephen lapthisophon"
+    "hallee turner",
+    "carlos donjuan"
   ],
   "musi 1300": [
-    "hannah chiasson",
-    "carol jessup",
     "jordan moore",
-    "joe moore",
-    "aleyna brown",
     "sergio espinosa",
+    "aleyna brown",
+    "joe moore",
+    "hannah chiasson",
     "britni cheyenne cruz",
     "elyse kahler",
+    "carol jessup",
     "melissa bosma"
   ],
   "art 3343": [
     "carolyn iverson",
-    "laura post",
-    "david diaz"
+    "david diaz",
+    "laura post"
   ],
   "art 4345": [
     "carolyn iverson",
@@ -14762,67 +14177,67 @@ export const data_course_prof = {
     "david diaz"
   ],
   "anth 2322": [
-    "amy speier",
-    "ritu khanduri",
-    "josephine ryan",
     "carrie perkins",
-    "luis plascencia",
-    "isabel montemayor",
+    "josephine ryan",
     "jennifer wellman",
+    "isabel montemayor",
+    "ritu khanduri",
+    "luis plascencia",
+    "amy speier",
     "julie adkins"
   ],
   "arch 1342": [
-    "ikram eloualid",
-    "nancy greene",
-    "mason camp",
-    "jason wheeler",
     "pia sarpaneva",
-    "jason cantrell",
-    "lavell johnson",
-    "belen butragueno diaz-guerra",
-    "anastasiya chybireva-fender",
-    "samantha oliphint",
-    "yasaman shahbazi",
-    "carroll wright",
-    "shadin nimery",
-    "dustin wheat",
-    "fuad kareem",
-    "carrie zaboroski",
     "david rulon",
+    "sadia rattani",
+    "belen butragueno diaz-guerra",
+    "fuad kareem",
+    "dustin wheat",
+    "jason cantrell",
+    "samantha oliphint",
+    "mason camp",
+    "anastasiya chybireva-fender",
+    "shadin nimery",
+    "lavell johnson",
+    "jason wheeler",
+    "carrie zaboroski",
+    "carroll wright",
     "steven quevedo",
-    "sadia rattani"
+    "yasaman shahbazi",
+    "nancy greene",
+    "ikram eloualid"
   ],
   "mae 4344": [
-    "catherine kilmain",
     "kent lawrence",
-    "bret hauser"
+    "bret hauser",
+    "catherine kilmain"
   ],
   "mae 3315": [
-    "catherine kilmain",
+    "ashfaq adnan",
     "fuad hasan",
-    "ashfaq adnan"
+    "catherine kilmain"
   ],
   "mae 3242": [
     "shiyao lin",
+    "yawen wang",
+    "amirhesam amerinatanzi",
     "catherine kilmain",
     "paul park",
-    "yawen wang",
-    "narges shayesteh moghaddam",
-    "amirhesam amerinatanzi"
+    "narges shayesteh moghaddam"
   ],
   "span 1442": [
+    "catherine ortiz",
+    "joy saunders",
     "rosa tellez",
-    "isabel zaera",
     "jazmin chinea",
     "jesus carrasco",
-    "elsa coronado salinas",
     "leonel longoria montiel",
-    "alicia garza",
-    "joy saunders",
     "solymar torres-garcia",
+    "isabel zaera",
     "david hervas",
-    "catherine ortiz",
-    "elida monteverde"
+    "alicia garza",
+    "elida monteverde",
+    "elsa coronado salinas"
   ],
   "nurs 3100": [
     "cecilia flores"
@@ -14831,8 +14246,8 @@ export const data_course_prof = {
     "cecilia flores"
   ],
   "engl 3374": [
-    "kaci o'donnell",
     "sarah shelton",
+    "kaci o'donnell",
     "cedrick may"
   ],
   "cse 3392": [
@@ -14849,21 +14264,21 @@ export const data_course_prof = {
     "chance eary"
   ],
   "cse 2312": [
-    "xiaojun shang",
-    "dianqi han",
+    "chance eary",
     "jason losh",
-    "stoddard rosenkrantz",
     "darin brezeale",
+    "xiaojun shang",
     "md salik parwez",
-    "chance eary"
+    "dianqi han",
+    "stoddard rosenkrantz"
   ],
   "acct 3303": [
     "matthew sargent",
     "cheryl prachyl",
     "long thai bui",
-    "sandra henderson",
     "chandrani chatterjee",
-    "xin zhou"
+    "xin zhou",
+    "sandra henderson"
   ],
   "phil 2311": [
     "jeremy byrd",
@@ -14874,15 +14289,15 @@ export const data_course_prof = {
     "charles hermes"
   ],
   "intd 3322": [
+    "kara dueweke",
     "somang yang",
     "charles macbride",
-    "kara dueweke",
     "thomas read"
   ],
   "blaw 3310": [
     "lee schwemer",
-    "charles miller",
     "stanley seat",
+    "charles miller",
     "john dowdy"
   ],
   "blaw 4310": [
@@ -14897,9 +14312,9 @@ export const data_course_prof = {
     "charles nussbaum"
   ],
   "geog 2303": [
-    "peter nkhoma",
+    "rachel haber",
     "charles travis",
-    "rachel haber"
+    "peter nkhoma"
   ],
   "geog 4340": [
     "charles travis"
@@ -14920,44 +14335,44 @@ export const data_course_prof = {
     "cheryl mitchell"
   ],
   "acct 2301": [
-    "cheryl prachyl",
-    "matthew sargent",
-    "charles stanley",
-    "tsung hsuan yang",
-    "david rosser",
-    "rohit agarwal",
-    "richard mark",
-    "roberto gonzales",
-    "long thai bui",
     "wei chen",
-    "mahmud rahman",
-    "terra mcghee",
+    "matthew sargent",
+    "cheryl prachyl",
+    "long thai bui",
     "shamsuddin bharwani",
+    "charles stanley",
+    "david rosser",
+    "roberto gonzales",
+    "tsung hsuan yang",
     "xiaozhe gu",
-    "xin zhou"
+    "xin zhou",
+    "terra mcghee",
+    "rohit agarwal",
+    "mahmud rahman",
+    "richard mark"
   ],
   "mark 4393": [
     "chien le"
   ],
   "bcom 3360": [
-    "chien le",
-    "heather philip",
     "gregory wicklman",
-    "michael buckman",
-    "kevin carr",
+    "karen raskopf",
+    "heather philip",
     "linda anderson",
+    "kevin carr",
     "tatia jacobson jordan",
     "william venable",
     "daniel usera",
-    "karen raskopf"
+    "michael buckman",
+    "chien le"
   ],
   "mark 4311": [
-    "chien le",
-    "joseph hanson",
-    "jorge martinez garcia",
     "yiyi li",
+    "douglas grisaffe",
+    "jorge martinez garcia",
+    "joseph hanson",
     "edward rincon",
-    "douglas grisaffe"
+    "chien le"
   ],
   "anth 3310": [
     "christian zlolniski"
@@ -14966,42 +14381,42 @@ export const data_course_prof = {
     "christian zlolniski"
   ],
   "art 1306": [
-    "hector ramirez",
-    "brandi simpson",
-    "christine heimerman",
     "lisa clayton",
-    "maria esswein",
+    "amy stephens",
     "michael scogin",
-    "jeremy scidmore",
     "fernando johnson",
+    "brandi simpson",
+    "maria esswein",
+    "jeremy scidmore",
+    "hector ramirez",
     "katerina verguelis",
-    "amy stephens"
+    "christine heimerman"
   ],
   "cse 3311": [
     "subharag sarkar",
+    "rodrigo augusto silva dos santos",
     "soumik mohian",
     "christoph csallner",
-    "stoddard rosenkrantz",
+    "akshit singhal",
     "david kung",
-    "rodrigo augusto silva dos santos",
-    "akshit singhal"
+    "stoddard rosenkrantz"
   ],
   "econ 4318": [
     "christopher candreva"
   ],
   "pols 3317": [
-    "christopher chambers-ju",
-    "xavier vidal"
+    "xavier vidal",
+    "christopher chambers-ju"
   ],
   "cse 4316": [
-    "shawn gieser",
+    "christopher conly",
     "christopher mcmurrough",
-    "christopher conly"
+    "shawn gieser"
   ],
   "cse 4317": [
-    "shawn gieser",
+    "christopher conly",
     "christopher mcmurrough",
-    "christopher conly"
+    "shawn gieser"
   ],
   "span 3312": [
     "christopher conway",
@@ -15022,9 +14437,9 @@ export const data_course_prof = {
     "christopher evans"
   ],
   "musi 2112": [
+    "christopher evans",
     "john wayman",
-    "diane lange",
-    "christopher evans"
+    "diane lange"
   ],
   "musi 3200": [
     "christopher evans"
@@ -15035,28 +14450,28 @@ export const data_course_prof = {
   ],
   "thea 0181": [
     "scott osborne",
-    "leah mazur",
-    "garret storms",
-    "natalie gaupp",
     "victoria nooe",
     "william dry",
-    "william eickenloff",
-    "jordan kirby",
+    "leah mazur",
     "christopher land",
-    "margaret crowley",
-    "darius booker",
-    "felicia bertch",
     "laurie land",
-    "kenneth ellis",
-    "gregory mcbride",
-    "phillip schroeder",
+    "garret storms",
     "alexander vorse",
-    "sarah kunce"
+    "margaret crowley",
+    "felicia bertch",
+    "gregory mcbride",
+    "jordan kirby",
+    "sarah kunce",
+    "natalie gaupp",
+    "darius booker",
+    "kenneth ellis",
+    "william eickenloff",
+    "phillip schroeder"
   ],
   "musi 0116": [
-    "michael morrison",
+    "christopher mcguire",
     "timothy ishii",
-    "christopher mcguire"
+    "michael morrison"
   ],
   "geog 3336": [
     "christopher morris"
@@ -15070,8 +14485,8 @@ export const data_course_prof = {
   ],
   "musi 2104": [
     "christopher nadeau",
-    "joe moore",
-    "steven eldridge"
+    "steven eldridge",
+    "joe moore"
   ],
   "econ 3301": [
     "christy spivey"
@@ -15087,82 +14502,82 @@ export const data_course_prof = {
     "chyng-yang jang"
   ],
   "ctec 4350": [
-    "chyng-yang jang",
-    "brian horton"
+    "brian horton",
+    "chyng-yang jang"
   ],
   "dnce 1131": [
     "claudia pacheco orcasitas"
   ],
   "dnce 1300": [
     "meredith knight treminio",
+    "whitney talbot",
     "danielle willis",
     "ginny wheeler",
-    "claudia pacheco orcasitas",
-    "whitney talbot"
+    "claudia pacheco orcasitas"
   ],
   "musi 0128": [
     "clifton evans"
   ],
   "psyc 3314": [
-    "amandeep dhaliwal",
     "william ickes",
-    "colette jacquot"
+    "colette jacquot",
+    "amandeep dhaliwal"
   ],
   "engl 2329": [
     "kathryn warren",
-    "bethany shaffer",
-    "matthew tettleton",
-    "trevor fuller",
     "clayton dillard",
     "jonathan sanford",
-    "sarah shelton",
-    "kassandra buck",
-    "amy bernhard",
-    "dana brewer",
-    "colin hogan",
-    "erin murrah-mandril",
     "andrew koch",
-    "michael brittain",
-    "sarah farrell",
-    "peggy kulesz",
+    "trevor fuller",
+    "matthew tettleton",
     "vincent sosko",
-    "rachael mariboho"
+    "erin murrah-mandril",
+    "dana brewer",
+    "michael brittain",
+    "sarah shelton",
+    "bethany shaffer",
+    "peggy kulesz",
+    "rachael mariboho",
+    "colin hogan",
+    "amy bernhard",
+    "kassandra buck",
+    "sarah farrell"
   ],
   "engl 3384": [
     "timothy morris",
-    "colin hogan",
-    "gyde martin"
+    "gyde martin",
+    "colin hogan"
   ],
   "nurs 4455": [
-    "cynthia koomey",
-    "gladys maryol",
     "melynda hutchings",
+    "gladys maryol",
     "connie lowry",
+    "cynthia koomey",
     "meagan rogers",
     "susan norman"
   ],
   "nurs 4465": [
-    "shayla green",
     "melissa lagrone",
+    "connie lowry",
     "melynda hutchings",
-    "connie lowry"
+    "shayla green"
   ],
   "nursu 4465": [
-    "shayla green",
     "melissa lagrone",
-    "connie lowry"
+    "connie lowry",
+    "shayla green"
   ],
   "musi 1141": [
     "connor lidell"
   ],
   "biol 1442": [
-    "sen xu",
+    "daniela palmer",
+    "jill devito",
+    "jeffery demuth",
     "corey roelke",
     "paul chippindale",
-    "jeffery demuth",
-    "jill devito",
-    "eric smith",
-    "daniela palmer"
+    "sen xu",
+    "eric smith"
   ],
   "biol 3302": [
     "corey roelke",
@@ -15179,12 +14594,12 @@ export const data_course_prof = {
   ],
   "geol 1301": [
     "puloma chakrabarty",
-    "cornelia winguth",
     "andrew hunt",
-    "lu zhu",
     "qinhong hu",
+    "cornelia winguth",
+    "megan korchinski",
     "neda ghazipour",
-    "megan korchinski"
+    "lu zhu"
   ],
   "geol 1330": [
     "cornelia winguth"
@@ -15193,124 +14608,124 @@ export const data_course_prof = {
     "cornelia winguth"
   ],
   "mana 3319": [
+    "correy retzloff",
+    "reinhard janson",
+    "thomas graca",
     "faye cocchiara",
     "joohan lee",
     "thomas brill",
-    "reinhard janson",
-    "correy retzloff",
     "janice carrell",
-    "david gray",
-    "jeanne michalski",
     "marla white",
-    "thomas graca"
+    "david gray",
+    "jeanne michalski"
   ],
   "fren 1442": [
-    "najia alameddin",
     "cynthia laborde",
+    "najia alameddin",
     "courtney griffitts",
-    "omar valdez rocha",
-    "brooke cunningham-koss"
+    "brooke cunningham-koss",
+    "omar valdez rocha"
   ],
   "fren 2313": [
-    "cynthia laborde",
-    "courtney griffitts",
     "alicia soueid",
-    "najia alameddin"
+    "najia alameddin",
+    "courtney griffitts",
+    "cynthia laborde"
   ],
   "edad 4390": [
     "courtney matthews"
   ],
   "exsa 0170": [
     "yash bajpai",
-    "venkata dechiraju",
+    "william christensen",
     "courtney weston",
-    "william christensen"
+    "venkata dechiraju"
   ],
   "exsa 0172": [
     "yash bajpai",
-    "venkata dechiraju",
+    "william christensen",
     "courtney weston",
-    "william christensen"
+    "venkata dechiraju"
   ],
   "hist 3347": [
     "cristina salinas",
     "kenyon zimmer"
   ],
   "mas 2300": [
-    "cristina salinas",
-    "christian zlolniski",
     "jose ayala-rodriguez",
     "erin murrah-mandril",
-    "luis plascencia"
+    "christian zlolniski",
+    "luis plascencia",
+    "cristina salinas"
   ],
   "arch 2552": [
-    "ozge inal",
-    "juan carlos olivar gomez",
-    "mason camp",
-    "luis aguirre",
-    "oswald jenewein",
-    "pia sarpaneva",
-    "crystal portillo",
-    "thomas rusher",
-    "amanda aman",
-    "lavell johnson",
-    "john maruszczak",
-    "krishnan mistry",
-    "lorena toffer",
-    "charles macbride",
-    "heath macdonald",
     "megan martinez",
-    "timothy ballard",
-    "dustin wheat",
+    "heath macdonald",
     "sandra espinoza",
     "tyler shafer",
-    "katherine kosut",
+    "luis aguirre",
+    "pia sarpaneva",
+    "george gintole",
     "michel borg",
-    "george gintole"
+    "crystal portillo",
+    "katherine kosut",
+    "ozge inal",
+    "dustin wheat",
+    "amanda aman",
+    "timothy ballard",
+    "lorena toffer",
+    "mason camp",
+    "oswald jenewein",
+    "juan carlos olivar gomez",
+    "krishnan mistry",
+    "charles macbride",
+    "lavell johnson",
+    "thomas rusher",
+    "john maruszczak"
   ],
   "nurs 3366": [
     "deborah hughes",
-    "donna davis",
-    "paula wyman",
     "kimberly mortus",
-    "crystal ramirez"
+    "crystal ramirez",
+    "donna davis",
+    "paula wyman"
   ],
   "nurs-ul 3366": [
-    "reyhan rzayeva",
     "deborah hughes",
-    "donna davis",
-    "paula wyman",
-    "saeed niyati",
     "kimberly mortus",
-    "crystal ramirez"
+    "crystal ramirez",
+    "saeed niyati",
+    "reyhan rzayeva",
+    "donna davis",
+    "paula wyman"
   ],
   "chem 1465": [
-    "krishnan rajeshwar",
     "robin macaluso",
+    "william cleaver",
     "cynthia griffith",
-    "william cleaver"
+    "krishnan rajeshwar"
   ],
   "ling 4354": [
-    "na-li kim",
     "cynthia kilpatrick",
+    "na-li kim",
     "peggy semingson"
   ],
   "ling 3309": [
     "cynthia kilpatrick"
   ],
   "nurs 3335": [
+    "ann birka",
     "cynthia koomey",
     "shawn tindell",
-    "ann birka",
     "marianne doan"
   ],
   "nursu 3335": [
     "cynthia koomey"
   ],
   "nurs 4325": [
-    "thomas dombrowsky",
     "cynthia koomey",
     "regina urban",
+    "thomas dombrowsky",
     "cynthia rodriguez wewerka"
   ],
   "fren 4335": [
@@ -15322,10 +14737,10 @@ export const data_course_prof = {
     "jeong ki"
   ],
   "mae 3313": [
-    "zhen xue han",
-    "daejong kim",
     "andrew mizener",
-    "pawarat bootpakdeetam"
+    "zhen xue han",
+    "pawarat bootpakdeetam",
+    "daejong kim"
   ],
   "insu 4330": [
     "dale sharpe jenkins"
@@ -15334,19 +14749,19 @@ export const data_course_prof = {
     "damla ricks"
   ],
   "mana 3320": [
-    "shona smith",
     "dan chen",
-    "wayne crawford",
+    "ariane froidevaux",
     "lars johnson",
-    "marla white",
-    "david gray",
-    "jeanne michalski",
     "marvin brittingham",
-    "ifeyimika ogunyomi",
     "thomas graca",
-    "hanbo shim",
+    "shona smith",
+    "marla white",
+    "ifeyimika ogunyomi",
+    "wayne crawford",
+    "david gray",
     "esther jean",
-    "ariane froidevaux"
+    "hanbo shim",
+    "jeanne michalski"
   ],
   "art 4352": [
     "daniel garcia",
@@ -15361,160 +14776,160 @@ export const data_course_prof = {
     "daniel giberman"
   ],
   "psyc 3320": [
-    "rebecca escoto",
     "scott coleman",
-    "daniel levine"
+    "daniel levine",
+    "rebecca escoto"
   ],
   "ling 2301": [
-    "dema smadi",
+    "suwon yoon",
     "daniel scarpace",
     "joseph sabbagh",
-    "suwon yoon",
-    "meng yang",
-    "naoko witzel",
-    "william kirton",
-    "carly sommerlot",
     "laurel stvan",
-    "kaelie mcknight"
+    "kaelie mcknight",
+    "carly sommerlot",
+    "william kirton",
+    "dema smadi",
+    "naoko witzel",
+    "meng yang"
   ],
   "ling 2371": [
-    "darcey browning",
-    "gabriela sanchez",
     "daniel scarpace",
+    "emily warren",
     "peggy semingson",
-    "meng yang",
+    "gabriela sanchez",
     "samantha cornelius",
     "carly sommerlot",
-    "lisa jeon",
-    "emily warren"
+    "darcey browning",
+    "meng yang",
+    "lisa jeon"
   ],
   "ling 4327": [
     "daniel scarpace"
   ],
   "pols 2312": [
-    "olivia agudelo",
-    "jacob pouttu",
-    "larry carter",
-    "brent boyea",
+    "robert gomez",
+    "thomas little",
     "daniel sledge",
-    "marcus hendershot",
-    "michael williams",
-    "gregg gleichert",
-    "stephen wilkes",
-    "kimberly caraway",
     "jose ayala-rodriguez",
     "gabriela okundaye",
     "jack philips",
-    "michael morris",
-    "thomas little",
+    "kimberly caraway",
+    "gregg gleichert",
+    "larry carter",
     "erica terrell",
-    "robert gomez"
+    "stephen wilkes",
+    "olivia agudelo",
+    "michael morris",
+    "michael williams",
+    "brent boyea",
+    "marcus hendershot",
+    "jacob pouttu"
   ],
   "math 3314": [
-    "li wang",
     "barbara shipman",
-    "daniel warren"
+    "daniel warren",
+    "li wang"
   ],
   "math 4314": [
     "daniel warren",
     "anthony mastriania"
   ],
   "socw 3308": [
-    "latoya smith-jones",
-    "julie gray",
-    "vivian miller",
     "aditi prabhakar",
-    "de'an roper",
-    "stephanie bonilla",
-    "darlene hunter",
-    "aaron hagedorn",
-    "bethany wood",
-    "sherece shavel",
-    "dorothy kalanzi",
-    "danielle harrell",
-    "alan kunz lomelin",
-    "zhirui chen",
     "dorothea ivey",
-    "gabrielle scott",
-    "lacey jenkins",
-    "toni gallegos",
-    "christian vazquez",
+    "aaron hagedorn",
     "kelli rogers",
-    "marcela nava"
+    "sherece shavel",
+    "alan kunz lomelin",
+    "latoya smith-jones",
+    "christian vazquez",
+    "stephanie bonilla",
+    "zhirui chen",
+    "lacey jenkins",
+    "marcela nava",
+    "vivian miller",
+    "danielle harrell",
+    "dorothy kalanzi",
+    "julie gray",
+    "darlene hunter",
+    "bethany wood",
+    "gabrielle scott",
+    "de'an roper",
+    "toni gallegos"
   ],
   "univ 1101": [
-    "denisse avila alejo",
-    "lauren krznarich",
-    "danielle klein",
-    "nicole nguyen"
-  ],
-  "univ 1131": [
-    "lauren krznarich",
-    "holly williams",
-    "denisse avila alejo",
-    "jennifer sutton",
     "nicole nguyen",
     "danielle klein",
-    "bryan maldonado meza"
+    "lauren krznarich",
+    "denisse avila alejo"
   ],
-  "univ 3335": [
-    "denisse avila alejo",
+  "univ 1131": [
+    "nicole nguyen",
+    "holly williams",
     "lauren krznarich",
     "danielle klein",
-    "nicole nguyen"
+    "bryan maldonado meza",
+    "denisse avila alejo",
+    "jennifer sutton"
+  ],
+  "univ 3335": [
+    "nicole nguyen",
+    "danielle klein",
+    "lauren krznarich",
+    "denisse avila alejo"
   ],
   "dnce 1136": [
     "meredith knight treminio",
     "laurie taylor",
-    "danielle willis",
     "whitney talbot",
+    "danielle willis",
     "sarah kunce"
   ],
   "thea 1342": [
-    "seraphina glass",
-    "natalie gaupp",
-    "justin miller",
-    "kristine obrien",
-    "john trainor",
     "megan haratine",
-    "darius booker",
-    "joe chapa",
+    "justin miller",
+    "laurel whitsett",
+    "john trainor",
     "felicia bertch",
     "jeremy hays",
-    "gregory mcbride",
-    "laurel whitsett",
-    "phillip schroeder",
     "dennis maher",
-    "elizabeth hawkins"
+    "gregory mcbride",
+    "kristine obrien",
+    "joe chapa",
+    "seraphina glass",
+    "natalie gaupp",
+    "elizabeth hawkins",
+    "darius booker",
+    "phillip schroeder"
   ],
   "thea 2352": [
-    "laurel whitsett",
+    "darius booker",
     "andrew gaupp",
     "megan haratine",
-    "darius booker"
+    "laurel whitsett"
   ],
   "socw 3312": [
+    "amanda hassan",
     "megan rose westmore",
-    "darlene hunter",
-    "amanda hassan"
+    "darlene hunter"
   ],
   "art 4353": [
     "darryl lauster",
     "amy stephens"
   ],
   "soci 1310": [
-    "lauren dent",
     "david arditi",
+    "mary hanson-evans",
     "jessica williams",
-    "mary hanson-evans"
+    "lauren dent"
   ],
   "hist 2322": [
-    "erhard van deventer",
-    "kristan foust",
-    "michael stout",
     "david baillargeon",
     "lydia towns",
-    "marie hartono"
+    "michael stout",
+    "marie hartono",
+    "kristan foust",
+    "erhard van deventer"
   ],
   "hist 3364": [
     "david baillargeon"
@@ -15523,77 +14938,77 @@ export const data_course_prof = {
     "david dunham"
   ],
   "univ-en 1131": [
-    "veysel erel",
-    "paul davidson",
-    "ashley guy",
-    "christopher williams",
-    "nahum torres",
+    "shawn gieser",
+    "kevin kinnear",
+    "katherine van dellen",
+    "robert magnusson",
+    "jason losh",
+    "jaime cantu",
+    "amber zuehl",
     "john miller",
+    "jun liao",
+    "kelly patterson",
+    "digant dave",
     "rosie kallie",
-    "james warden",
-    "chris boyer",
-    "melissa tacconi",
+    "john harkins",
     "lalithadevi chavali vijayalakshimi",
+    "james warden",
+    "david ewing",
+    "james lunsford",
+    "randall goode",
+    "veysel erel",
+    "richard roberts",
+    "paul componation",
+    "zhenjia gao",
+    "melissa tacconi",
     "william keighley",
     "erika la plante",
-    "jason losh",
-    "haiying huang",
-    "praneetha addada",
-    "david ewing",
-    "digant dave",
-    "zhenjia gao",
-    "howard vo",
-    "luis soto-garcia",
-    "shawn gieser",
-    "robert magnusson",
+    "paul davidson",
     "yi hong",
-    "martha mora",
-    "justyn jaworski",
-    "randall goode",
-    "travis roell",
-    "liping tang",
+    "christopher williams",
     "jack henderson",
-    "paul componation",
-    "jaime cantu",
-    "katherine van dellen",
-    "james lunsford",
+    "travis roell",
+    "ashley guy",
+    "liping tang",
+    "haiying huang",
+    "justyn jaworski",
     "nicholas gans",
-    "richard roberts",
-    "kevin kinnear",
-    "jun liao",
-    "amber zuehl",
-    "john harkins",
-    "kelly patterson"
+    "nahum torres",
+    "chris boyer",
+    "howard vo",
+    "praneetha addada",
+    "martha mora",
+    "luis soto-garcia"
   ],
   "mae 1140": [
     "paul davidson",
-    "jacob lamotte-dawaghreh",
-    "abdraouf abusoua",
     "david ewing",
-    "joshua mochache",
+    "jacob lamotte-dawaghreh",
     "pawarat bootpakdeetam",
+    "abdraouf abusoua",
+    "joshua mochache",
     "julio benavides"
   ],
   "arch 4362": [
-    "jerald kunkel",
-    "david goodson"
+    "david goodson",
+    "jerald kunkel"
   ],
   "mae 3360": [
-    "david hullender",
-    "catherine kilmain",
-    "bala mudunuri",
     "vatsal asitkumar joshi",
-    "albert tong",
-    "kendra wallis"
+    "kendra wallis",
+    "david hullender",
+    "bala mudunuri",
+    "catherine kilmain",
+    "albert tong"
   ],
   "mae 3319": [
-    "robert woods",
-    "david hullender"
+    "david hullender",
+    "robert woods"
   ],
   "kine 3415": [
     "robert brothers",
-    "david keller",
-    "judy wilson"
+    "judy wilson",
+    "david keller"
   ],
   "cse 4361": [
     "david kung"
@@ -15609,41 +15024,41 @@ export const data_course_prof = {
     "david narrett"
   ],
   "hist 4395": [
-    "delaina price",
-    "patryk babiracki",
-    "stephanie cole",
     "david narrett",
     "david baillargeon",
-    "david lafevor",
-    "james sandy",
     "sam haynes",
-    "kenyon zimmer"
+    "james sandy",
+    "david lafevor",
+    "kenyon zimmer",
+    "stephanie cole",
+    "delaina price",
+    "patryk babiracki"
   ],
   "econ 3310": [
+    "todd gabel",
     "tara brown",
-    "david quigley",
-    "todd gabel"
+    "david quigley"
   ],
   "econ 3318": [
     "christopher candreva",
-    "david quigley",
-    "robert pettis"
+    "robert pettis",
+    "david quigley"
   ],
   "econ 4305": [
     "david quigley"
   ],
   "fina 3315": [
     "john adams",
-    "hanh hong thi phan",
-    "thomas thompson",
     "yi-ju chien",
     "sima jannati",
+    "hanh hong thi phan",
     "mahnaz paydarzarnaghi",
-    "david rakowski",
-    "ankit kapur",
-    "salil sarkar",
+    "thomas thompson",
     "fnu pratima",
     "trang thai",
+    "ankit kapur",
+    "david rakowski",
+    "salil sarkar",
     "yibing du"
   ],
   "fina 4311": [
@@ -15656,90 +15071,90 @@ export const data_course_prof = {
     "david shaw"
   ],
   "mana 1301": [
-    "charles newson",
-    "mark clark",
-    "david shurtleff",
     "jerry hubbard",
-    "marvin brittingham"
+    "marvin brittingham",
+    "charles newson",
+    "david shurtleff",
+    "mark clark"
   ],
   "ee 2240": [
-    "david wetz",
-    "evan hathaway",
-    "chris boyer",
-    "yichen zhang",
+    "kendra wallis",
     "george kondraske",
-    "kendra wallis"
+    "evan hathaway",
+    "david wetz",
+    "yichen zhang",
+    "chris boyer"
   ],
   "musi 1180": [
-    "dazheng zhu",
     "mina kramer",
     "astrid morales torres",
-    "candace bawcombe"
+    "candace bawcombe",
+    "dazheng zhu"
   ],
   "socw 3315": [
-    "de'an roper",
-    "rachel swope",
-    "sherry cabaniss",
-    "chava rousch-carlisle",
-    "sheila gold",
     "donald schuman",
-    "lashaunn bold"
+    "sherry cabaniss",
+    "sheila gold",
+    "de'an roper",
+    "chava rousch-carlisle",
+    "lashaunn bold",
+    "rachel swope"
   ],
   "nurs 3315": [
-    "rebecca rountree",
     "gretchen burke",
     "pamela white",
-    "kimberly heien",
+    "rebecca rountree",
     "deana furr",
+    "kimberly heien",
     "ann birka"
   ],
   "nursu 3315": [
-    "deana furr",
-    "rebecca rountree"
+    "rebecca rountree",
+    "deana furr"
   ],
   "be 3301": [
     "debabrata saha"
   ],
   "list 4373": [
-    "deborah williams",
     "doreen plony",
-    "sandra adams",
-    "peggy semingson"
+    "deborah williams",
+    "peggy semingson",
+    "sandra adams"
   ],
   "art 1301": [
     "shadiah jawad",
-    "britten larue",
+    "estelle fonteneau",
     "cheryl mitchell",
     "debra dewitte",
+    "britten larue",
     "holly gray",
     "melinda mcvay",
-    "kathleen janvier",
-    "estelle fonteneau"
+    "kathleen janvier"
   ],
   "hist 3323": [
-    "delaina price",
-    "joseph guillory"
+    "joseph guillory",
+    "delaina price"
   ],
   "nurs 3261": [
     "adejoke ogidan",
-    "sandra laird",
-    "laura hixon",
-    "denise cauble",
     "fatoumata jallow",
+    "laura hixon",
+    "sandra laird",
+    "denise cauble",
     "thomas dombrowsky",
     "jennifer may"
   ],
   "nurs 3325": [
     "adejoke ogidan",
-    "patricia plumer",
-    "janet mclean",
-    "denise cauble",
-    "fatoumata jallow",
-    "shawn tindell",
-    "ann birka",
-    "jennifer may",
     "tamara andrews",
-    "marianne doan"
+    "fatoumata jallow",
+    "janet mclean",
+    "patricia plumer",
+    "ann birka",
+    "denise cauble",
+    "shawn tindell",
+    "marianne doan",
+    "jennifer may"
   ],
   "thea 3302": [
     "dennis maher",
@@ -15750,11 +15165,11 @@ export const data_course_prof = {
     "dereje agonafer"
   ],
   "crcj 4387": [
-    "derick miller",
-    "kyrus branch",
-    "rashaan deshay",
-    "jaya davis",
     "keith owens",
+    "kyrus branch",
+    "jaya davis",
+    "derick miller",
+    "rashaan deshay",
     "kelly belcher",
     "latasha williams"
   ],
@@ -15772,8 +15187,8 @@ export const data_course_prof = {
     "diane lange"
   ],
   "musi 4211": [
-    "karen draves",
-    "diane lange"
+    "diane lange",
+    "karen draves"
   ],
   "be 3317": [
     "khosrow behbehani",
@@ -15792,25 +15207,25 @@ export const data_course_prof = {
     "michaela vancliff"
   ],
   "nurs 3632": [
-    "kenya freeny",
-    "reyhan rzayeva",
-    "caren brown",
     "michael holmes",
+    "caren brown",
+    "reyhan rzayeva",
     "lauren grant",
+    "christine roberts",
+    "dinah houston",
     "sara washington",
     "paula wyman",
-    "christine roberts",
-    "dinah houston"
+    "kenya freeny"
   ],
   "acct 4318": [
-    "matthew sargent",
     "donald mcconnell",
-    "roberto gonzales"
+    "roberto gonzales",
+    "matthew sargent"
   ],
   "dnce 1132": [
+    "amanda jackson",
     "donald shorter",
     "meredith knight treminio",
-    "amanda jackson",
     "laurie taylor",
     "claudia pacheco orcasitas"
   ],
@@ -15833,40 +15248,40 @@ export const data_course_prof = {
     "olivia jeffries"
   ],
   "beep 4306": [
-    "dora salazar",
-    "zulma mojica monroy",
-    "myrna reyna",
     "patricia saenz",
-    "hildelisa diaz"
+    "hildelisa diaz",
+    "dora salazar",
+    "myrna reyna",
+    "zulma mojica monroy"
   ],
   "beep 4687": [
-    "dora salazar",
     "patricia saenz",
+    "dora salazar",
     "rosa santiago"
   ],
   "educ 4319": [
     "dora salazar",
-    "brenda jacks",
-    "gabriel luna",
-    "hailey veron",
     "ayesha ramos",
     "shenequa miller",
     "yolanda ramirez",
-    "paul polanco"
+    "gabriel luna",
+    "paul polanco",
+    "hailey veron",
+    "brenda jacks"
   ],
   "soci 1311": [
-    "kelly bergstrand",
     "jason shelton",
-    "jessica williams",
     "krystal beamon",
-    "lilian chavez",
+    "jessica williams",
+    "mary hanson-evans",
+    "kelly bergstrand",
     "dorothy kalanzi",
-    "mary hanson-evans"
+    "lilian chavez"
   ],
   "soci 3336": [
-    "lilian chavez",
+    "mary hanson-evans",
     "dorothy kalanzi",
-    "mary hanson-evans"
+    "lilian chavez"
   ],
   "soci 4320": [
     "dorothy kalanzi"
@@ -15876,10 +15291,10 @@ export const data_course_prof = {
     "douglas garner"
   ],
   "arch 4315": [
-    "bijan youssefzadeh",
+    "douglas klahr",
     "marisa gomez",
     "kathryn holliday",
-    "douglas klahr"
+    "bijan youssefzadeh"
   ],
   "musi 0102": [
     "douglas stotter"
@@ -15888,10 +15303,10 @@ export const data_course_prof = {
     "dragos dancila"
   ],
   "mae 3306": [
-    "dennis finley",
     "bernd chudoba",
-    "ian maynard",
-    "dudley smith"
+    "dudley smith",
+    "dennis finley",
+    "ian maynard"
   ],
   "mae 4363": [
     "dudley smith"
@@ -15900,76 +15315,76 @@ export const data_course_prof = {
     "dustin harp"
   ],
   "biol 2460": [
+    "whitney tholen",
     "caitlin maynard",
-    "dylan parks",
-    "whitney tholen"
+    "dylan parks"
   ],
   "biol 3311": [
     "michael roner",
     "dylan parks"
   ],
   "biol 4388": [
-    "walter schargel",
+    "nicholas pollock",
     "heather arterburn",
     "melissa walsh",
-    "xavier aranda",
+    "walter schargel",
     "timothy henry",
-    "dylan parks",
-    "nicholas pollock"
+    "xavier aranda",
+    "dylan parks"
   ],
   "math 1316": [
-    "erica bajo calderon",
-    "edward wilson",
-    "eduardo torres manzanarez",
-    "farid derisavifard",
-    "jodi treszoks",
-    "edith pineda",
-    "janessa beach tassey",
-    "luke flattery",
-    "charles nottage",
-    "alice lubbe",
     "yifei yu",
-    "sarah hawkins",
-    "venkata sai manisha varahagiri",
-    "jose lozano",
-    "paul leafgreen",
-    "ahmed ali",
-    "tyson bailey",
     "jeremy glass",
+    "charles nottage",
+    "luke flattery",
+    "venkata sai manisha varahagiri",
     "benie justine n gozan",
+    "paul leafgreen",
+    "nancy wolff",
+    "farid derisavifard",
+    "ahmed ali",
+    "edith pineda",
+    "jose lozano",
+    "edward wilson",
+    "jodi treszoks",
+    "sarah hawkins",
+    "alice lubbe",
+    "mohsen gheibi",
+    "erica bajo calderon",
     "julio cesar enciso alva",
     "juan silva",
-    "mohsen gheibi",
-    "nancy wolff"
+    "tyson bailey",
+    "janessa beach tassey",
+    "eduardo torres manzanarez"
   ],
   "arch 3361": [
     "edward nelson"
   ],
   "fina 4315": [
-    "qing hao",
     "andi li",
-    "richard berard",
     "edwin altomare",
+    "richard berard",
+    "qing hao",
     "yibing du"
   ],
   "fina 4324": [
-    "noura khadidja kone",
     "sriram villupuram",
-    "fnu pratima",
+    "noura khadidja kone",
     "edwin altomare",
+    "fnu pratima",
     "trang thai",
     "arati kale",
     "yibing du"
   ],
   "cse 4321": [
-    "yu lei",
-    "allison sullivan",
     "eknauth persaud",
-    "brian dalio"
+    "yu lei",
+    "brian dalio",
+    "allison sullivan"
   ],
   "educ 4345": [
-    "elizabeth fleener",
-    "christopher kribs"
+    "christopher kribs",
+    "elizabeth fleener"
   ],
   "musi 0121": [
     "christopher evans",
@@ -15979,65 +15394,65 @@ export const data_course_prof = {
     "elyse kahler"
   ],
   "educ 4647": [
-    "russell bartholomee",
-    "brenda jacks",
-    "vicki keller",
-    "kary johnson",
-    "sarah teubner",
     "patricia saenz",
-    "lucy bartholomee",
-    "angela davis henry",
-    "patrick antinone",
     "margaret brown",
+    "vicki keller",
+    "sarah teubner",
     "emily waneck",
-    "robin jocius",
     "jeffrey king",
-    "carol wilborn"
+    "carol wilborn",
+    "angela davis henry",
+    "kary johnson",
+    "russell bartholomee",
+    "lucy bartholomee",
+    "patrick antinone",
+    "robin jocius",
+    "brenda jacks"
   ],
   "art 4397": [
+    "james pinkston",
+    "barton weiss",
+    "daniel garcia",
+    "benjamin wagley",
     "rachel herod",
     "mason lahue",
-    "benjamin wagley",
-    "emma breslauer",
     "patricia newton",
-    "barton weiss",
-    "james pinkston",
-    "daniel garcia"
+    "emma breslauer"
   ],
   "hist 2321": [
-    "erhard van deventer",
-    "kristan foust",
-    "michael stout",
     "kimberly breuer",
     "ashley umphenour",
-    "lydia towns"
+    "michael stout",
+    "lydia towns",
+    "kristan foust",
+    "erhard van deventer"
   ],
   "univ-la 1101": [
-    "kristine obrien",
-    "thelma cabrera",
+    "cynthia kilpatrick",
+    "laurel whitsett",
+    "margaret keller garnett",
     "eric bolsterli",
     "kimberly caraway",
-    "samantha cornelius",
-    "amy austin",
-    "margaret keller garnett",
-    "laurel whitsett",
     "billi london-gray",
-    "cynthia kilpatrick"
+    "samantha cornelius",
+    "kristine obrien",
+    "thelma cabrera",
+    "amy austin"
   ],
   "comm 3315": [
-    "karishma chatterjee",
     "grace brannon",
-    "erika pribanic-smith",
-    "brian horton"
+    "karishma chatterjee",
+    "brian horton",
+    "erika pribanic-smith"
   ],
   "jour 4341": [
     "erika pribanic-smith"
   ],
   "psyc 3310": [
-    "susan eddlemon villalobos",
+    "john adams",
     "colette jacquot",
-    "erin austin",
-    "john adams"
+    "susan eddlemon villalobos",
+    "erin austin"
   ],
   "psyc 3300": [
     "amandeep dhaliwal",
@@ -16045,196 +15460,196 @@ export const data_course_prof = {
   ],
   "kine 3353": [
     "erin carlson",
-    "lisa sheppard-goodlett",
-    "godfred boateng"
+    "godfred boateng",
+    "lisa sheppard-goodlett"
   ],
   "univ-sc 1131": [
-    "melissa walsh",
-    "manfred cuntz",
-    "laura mydlarz",
-    "alison wicker",
-    "un-jung kim",
-    "malgosia wilk-blaszczak",
     "piya ghose",
-    "dylan parks",
-    "nicholas pollock",
-    "walter schargel",
-    "rachel baldridge",
-    "jeffery demuth",
-    "alison ravenscraft",
-    "nathan brown",
-    "nicolette hass",
-    "alexander weiss",
-    "barbara shipman",
-    "esther betran",
-    "joseph boll",
-    "robin macaluso",
-    "theresa jorgensen",
-    "corey roelke",
-    "michael roner",
-    "erin philp",
-    "cara boutte",
-    "whitney tholen",
-    "luke frishkoff",
-    "laura wolf",
-    "jill devito",
-    "timothy henry",
-    "allan clark",
-    "john adams",
-    "woo-suk chang",
-    "matthew fujita",
+    "malgosia wilk-blaszczak",
+    "laura mydlarz",
     "heather arterburn",
-    "stephanie henry",
-    "sophia passy",
-    "kayunta johnson-winters",
+    "walter schargel",
+    "timothy henry",
+    "dylan parks",
+    "cara boutte",
+    "nicholas pollock",
+    "laura wolf",
+    "theresa jorgensen",
+    "alison ravenscraft",
+    "matthew fujita",
     "majie fan",
-    "janet buckner",
+    "melissa walsh",
+    "mark pellegrino",
+    "barbara shipman",
+    "nicolette hass",
+    "whitney tholen",
+    "michael roner",
+    "esther betran",
+    "jill devito",
+    "nathan brown",
+    "luke frishkoff",
+    "woo-suk chang",
+    "sophia passy",
+    "rachel baldridge",
+    "erin philp",
     "theodora koromila",
-    "mark pellegrino"
+    "stephanie henry",
+    "un-jung kim",
+    "allan clark",
+    "janet buckner",
+    "jeffery demuth",
+    "robin macaluso",
+    "kayunta johnson-winters",
+    "corey roelke",
+    "joseph boll",
+    "manfred cuntz",
+    "alison wicker",
+    "john adams",
+    "alexander weiss"
   ],
   "math 1302": [
-    "laura boddicker",
-    "efrain diaz",
-    "daniel warren",
-    "kristin seale",
-    "zhong ye",
-    "michelle burt",
     "rhonda shaw",
-    "jeffrey tschoepe",
-    "kevin barlow",
     "hollie dyer",
+    "sarah booker",
+    "kristin seale",
+    "daniel warren",
+    "paul leafgreen",
+    "deysi delgado",
+    "ahmed ali",
     "edith pineda",
+    "jose lozano",
+    "andrew kercher",
+    "jeffrey tschoepe",
     "jeremy valdez",
     "shanna banda",
-    "aida allen",
-    "andrew kercher",
-    "jose lozano",
-    "paul leafgreen",
-    "ahmed ali",
-    "deysi delgado",
-    "sarah booker",
-    "kyle turner",
+    "laura boddicker",
+    "efrain diaz",
+    "zhong ye",
     "juan silva",
-    "esteban diaz",
     "mahmoud jawad",
-    "carol kenyon"
+    "kyle turner",
+    "kevin barlow",
+    "aida allen",
+    "carol kenyon",
+    "esteban diaz",
+    "michelle burt"
   ],
   "math 3301": [
-    "mark krasij",
-    "james alvarez",
-    "esteban diaz",
     "kyle turner",
-    "theresa jorgensen"
+    "theresa jorgensen",
+    "james alvarez",
+    "mark krasij",
+    "esteban diaz"
   ],
   "math 3307": [
-    "esteban diaz",
-    "david jorgensen"
+    "david jorgensen",
+    "esteban diaz"
   ],
   "crcj 2340": [
     "brook rollins",
-    "keith owens",
     "estevan gomez",
+    "keith owens",
     "jay tillerson"
   ],
   "crcj 2350": [
-    "keith owens",
     "estevan gomez",
-    "christi gullion"
+    "christi gullion",
+    "keith owens"
   ],
   "crcj 3370": [
-    "roxanne zascavage",
-    "xavier aranda",
     "estevan gomez",
+    "patricia eddings",
+    "xavier aranda",
     "kelly belcher",
-    "patricia eddings"
+    "roxanne zascavage"
   ],
   "crcj 4380": [
-    "brook rollins",
     "kent kerley",
-    "seungmug lee",
+    "brook rollins",
+    "john rodriguez",
     "estevan gomez",
-    "john rodriguez"
+    "seungmug lee"
   ],
   "biol 3315": [
-    "sen xu",
-    "walter schargel",
     "matthew fujita",
+    "walter schargel",
     "lauren bohenek",
-    "esther betran",
+    "sen xu",
+    "todd castoe",
     "theodora koromila",
     "alicia rogers",
-    "todd castoe"
+    "esther betran"
   ],
   "engl 0100": [
+    "justin lerberg",
+    "patricia jones",
+    "ji nang kim",
+    "sarah cho",
+    "christopher atkins",
+    "carol-ann vila-young",
+    "carolyn giles",
     "natasha shelley",
+    "amanda marsh",
+    "nicholas nicklin",
+    "paula wiggins",
+    "harry ho",
+    "john rose",
+    "jennifer conner",
+    "na-li kim",
     "yaroslav malyuta",
     "katherine abelanet",
-    "harry ho",
-    "carol-ann vila-young",
     "diana miller",
-    "sarah cho",
-    "ji nang kim",
-    "christopher atkins",
-    "eun jung brown",
-    "na-li kim",
-    "amanda marsh",
     "faith dickerson",
-    "nicholas nicklin",
-    "carolyn giles",
-    "patricia jones",
-    "justin lerberg",
     "vincent sosko",
-    "paula wiggins",
-    "john rose",
+    "eun jung brown",
     "barbara hanson",
-    "michael raines",
-    "jennifer conner"
+    "michael raines"
   ],
   "engl 0301": [
+    "justin lerberg",
+    "patricia jones",
+    "cindy malone",
+    "ji nang kim",
+    "sarah cho",
+    "jason hogue",
+    "jo ward",
+    "nicholas nicklin",
+    "joul smith",
+    "paula wiggins",
+    "harry ho",
+    "jeffrey marchand",
+    "john rose",
+    "jennifer conner",
+    "na-li kim",
     "patricia ziemke",
     "katherine abelanet",
-    "harry ho",
-    "sarah cho",
-    "ji nang kim",
-    "eun jung brown",
-    "joul smith",
-    "na-li kim",
-    "cindy malone",
-    "nicholas nicklin",
-    "patricia jones",
-    "jason hogue",
-    "justin lerberg",
-    "jo ward",
     "vincent sosko",
+    "eun jung brown",
     "samuel fatzinger",
-    "jeffrey marchand",
-    "paula wiggins",
-    "john rose",
-    "michael raines",
-    "jennifer conner"
+    "michael raines"
   ],
   "cse 1325": [
     "shawn gieser",
+    "marnim galib",
+    "fadiah qudah",
     "donna french",
     "george rice",
-    "alex dillhoff",
     "marika apostolova",
-    "fadiah qudah",
-    "marnim galib"
+    "alex dillhoff"
   ],
   "astr 1346": [
-    "fajer jaafari",
-    "james davis",
-    "manfred cuntz",
     "sangwook park",
-    "nilakshi veerabathina"
+    "manfred cuntz",
+    "james davis",
+    "nilakshi veerabathina",
+    "fajer jaafari"
   ],
   "phys 1351": [
     "fajer jaafari"
   ],
   "scie 3304": [
-    "fajer jaafari",
-    "nilakshi veerabathina"
+    "nilakshi veerabathina",
+    "fajer jaafari"
   ],
   "ds 4329": [
     "faye cocchiara"
@@ -16243,152 +15658,152 @@ export const data_course_prof = {
     "faye cocchiara"
   ],
   "thea 1307": [
-    "felicia bertch",
-    "julienne greer",
     "laurel whitsett",
     "andrew gaupp",
-    "tiffany hobbs",
-    "elizabeth hawkins"
+    "julienne greer",
+    "felicia bertch",
+    "elizabeth hawkins",
+    "tiffany hobbs"
   ],
   "thea 4301": [
-    "felicia bertch",
-    "elizabeth hawkins"
+    "elizabeth hawkins",
+    "felicia bertch"
   ],
   "thea 3340": [
-    "felicia bertch",
-    "megan haratine"
+    "megan haratine",
+    "felicia bertch"
   ],
   "mae 2360": [
-    "ashley guy",
-    "franck tchafa",
     "vatsal asitkumar joshi",
-    "shuo wang",
+    "franck tchafa",
     "feraydune kashefi",
+    "seiichi nomura",
+    "shuo wang",
     "cheng luo",
-    "seiichi nomura"
+    "ashley guy"
   ],
   "art 3341": [
-    "hector ramirez",
-    "jeremy scidmore",
     "fernando johnson",
+    "jeremy scidmore",
+    "hector ramirez",
     "katerina verguelis",
     "amy stephens"
   ],
   "span 4339": [
-    "fernando melero-garcia",
-    "a elliott"
+    "a elliott",
+    "fernando melero-garcia"
   ],
   "span 4342": [
+    "holly behl",
     "fernando melero-garcia",
-    "vicente jose iranzo banuls",
-    "holly behl"
+    "vicente jose iranzo banuls"
   ],
   "art 4307": [
     "fletcher coleman"
   ],
   "art 4396": [
-    "beth wright",
     "fletcher coleman",
-    "leah mccurdy",
     "mary vaccaro",
+    "beth wright",
     "trenton barnes",
+    "leah mccurdy",
     "lisa graham"
   ],
   "chem 2322": [
-    "rashidat ayinla olagunju",
-    "jason halbert",
-    "subhrangsu mandal",
-    "xue xu",
-    "christian madu",
-    "frank foss",
-    "jimmy rogers",
+    "carl lovely",
     "junha jeon",
-    "mark eley",
-    "carl lovely"
+    "xue xu",
+    "subhrangsu mandal",
+    "frank foss",
+    "jason halbert",
+    "christian madu",
+    "rashidat ayinla olagunju",
+    "jimmy rogers",
+    "mark eley"
   ],
   "aast 2300": [
+    "joseph guillory",
     "mia kirby",
-    "frederick engram",
-    "joseph guillory"
+    "frederick engram"
   ],
   "aast 3350": [
-    "frederick engram",
-    "joseph guillory"
+    "joseph guillory",
+    "frederick engram"
   ],
   "crcj 3380": [
-    "keith owens",
+    "frederick engram",
     "robert bing",
-    "frederick engram"
+    "keith owens"
   ],
   "crcj 4333": [
-    "rashaan deshay",
-    "jaya davis",
     "zerita hall",
-    "frederick engram"
+    "jaya davis",
+    "frederick engram",
+    "rashaan deshay"
   ],
   "chem 4346": [
     "frederick macdonnell",
     "frank foss"
   ],
   "art 1305": [
-    "hallee turner",
-    "rachel herod",
-    "shuang gou",
-    "hector ramirez",
-    "usama khalid",
-    "frederick miller",
     "salvatore terrasi",
     "audrey travis",
-    "simeen ishaque",
     "marcela reyes",
+    "simeen ishaque",
+    "hector ramirez",
     "kacey slone",
-    "laura post",
     "billi london-gray",
+    "hallee turner",
+    "rachel herod",
+    "frederick miller",
+    "usama khalid",
+    "laura post",
+    "shuang gou",
     "shana martin"
   ],
   "mana 3325": [
-    "pyayt oo",
-    "albert thurburn",
     "fredrick rice",
+    "albert thurburn",
     "jeffrey mcgee",
+    "pyayt oo",
     "stephanie escudero"
   ],
   "musi 0174": [
-    "dazheng zhu",
+    "astrid morales torres",
     "gabriel sanchez",
-    "astrid morales torres"
+    "dazheng zhu"
   ],
   "math 3319": [
+    "mohammad ganjizadeh",
+    "yizeng li",
+    "yifei yu",
+    "ahmed ali",
+    "theresa jorgensen",
+    "souvik roy",
+    "christopher kribs",
+    "saber ahmed",
     "joshua dombrowsky",
     "charles nottage",
-    "chaoqun liu",
-    "yifei yu",
-    "yizeng li",
-    "christopher kribs",
     "nethali fernando",
-    "gaik ambartsoumian",
-    "ahmed ali",
-    "andrzej korzeniowski",
-    "saber ahmed",
     "jianzhong su",
-    "mohammad ganjizadeh",
-    "souvik roy",
+    "gaik ambartsoumian",
+    "chaoqun liu",
     "alicia machuca",
     "pedro maia",
-    "theresa jorgensen"
+    "andrzej korzeniowski"
   ],
   "insy 3305": [
-    "riyaz sikora",
-    "santoso budiman",
-    "koshy vaidyan joseph",
-    "anil singh",
-    "atieno amadi",
     "ganapathiraman raman",
-    "manjeri raja"
+    "manjeri raja",
+    "santoso budiman",
+    "anil singh",
+    "koshy vaidyan joseph",
+    "atieno amadi",
+    "riyaz sikora"
   ],
   "cm 1331": [
-    "mehran azizian",
     "gautam eapi",
+    "mehran azizian",
     "saeed reza ramezanpour nargesi"
   ],
   "comm 1300": [
@@ -16405,41 +15820,41 @@ export const data_course_prof = {
     "george gintole"
   ],
   "advt 3304": [
-    "roger gans",
-    "george weems"
+    "george weems",
+    "roger gans"
   ],
   "be 4382": [
+    "georgios alexandrakis",
     "juhyun lee",
-    "xinlong wang",
-    "georgios alexandrakis"
+    "xinlong wang"
   ],
   "hist 3346": [
-    "gerald saxon",
-    "halen watkins"
+    "halen watkins",
+    "gerald saxon"
   ],
   "musi 0120": [
     "gerald wood"
   ],
   "kine 2330": [
+    "gina giammanco",
     "cynthia trowbridge",
-    "roy rudewick",
-    "gina giammanco"
+    "roy rudewick"
   ],
   "cse 4314": [
     "giridhar amaravadi",
     "ronald cross"
   ],
   "cse 4322": [
-    "mike siok",
     "giridhar amaravadi",
+    "mike siok",
     "bahra khalili najafabadi"
   ],
   "art 2354": [
-    "karley adrion",
-    "benjamin dolezal",
     "salvatore terrasi",
-    "emily brown",
     "glady chow",
+    "benjamin dolezal",
+    "emily brown",
+    "karley adrion",
     "veronica vaughan"
   ],
   "art 3355": [
@@ -16447,13 +15862,13 @@ export const data_course_prof = {
     "veronica vaughan"
   ],
   "heed 4320": [
+    "rebecca crow",
+    "lindsi smith",
     "kristine cope",
     "stephanie spohr",
-    "rebecca garner",
-    "godfred boateng",
-    "rebecca crow",
     "yeonwoo kim",
-    "lindsi smith"
+    "rebecca garner",
+    "godfred boateng"
   ],
   "coms 3309": [
     "grace brannon",
@@ -16464,62 +15879,62 @@ export const data_course_prof = {
     "mengqi zhan"
   ],
   "bstat 3321": [
-    "pradip som",
-    "xianghua wu",
-    "anil singh",
-    "qiang ruan",
-    "neshat beheshti",
-    "vidya ganji",
-    "mary whiteside",
-    "jingjie su",
-    "amir naderpour",
-    "atieno amadi",
-    "tzu-wen lin",
-    "kay yut chen",
-    "roopa ramesh desai",
-    "alan cannon",
-    "jiaxiu he",
-    "revenor baker",
     "yi liu",
+    "tzu-wen lin",
+    "pradip som",
+    "amir naderpour",
     "md helal",
+    "grace esimai",
+    "xianghua wu",
+    "mary whiteside",
+    "qiang ruan",
+    "jingjie su",
+    "vidya ganji",
+    "roopa ramesh desai",
     "mohammed nour",
-    "grace esimai"
+    "atieno amadi",
+    "jiaxiu he",
+    "kay yut chen",
+    "neshat beheshti",
+    "anil singh",
+    "alan cannon",
+    "revenor baker"
   ],
   "biol 4343": [
     "gregory hale"
   ],
   "ee 1201": [
-    "rasool kenarangui",
-    "gregory turner"
+    "gregory turner",
+    "rasool kenarangui"
   ],
   "ee 1106": [
     "gregory turner"
   ],
   "ee 1311": [
-    "shahriar shahabuddin",
-    "gregory turner"
+    "gregory turner",
+    "shahriar shahabuddin"
   ],
   "ee 4340": [
-    "david wetz",
-    "gregory turner"
+    "gregory turner",
+    "david wetz"
   ],
   "math 3335": [
-    "guojun liao",
-    "barbara shipman",
     "jianzhong su",
+    "barbara shipman",
+    "guojun liao",
     "ren-cang li"
   ],
   "engl 3333": [
-    "gyde martin",
     "kathryn warren",
-    "desiree henderson",
-    "cedrick may",
-    "timothy morris",
-    "neill matheson",
-    "rachael mariboho",
-    "michael brittain",
     "kaci o'donnell",
-    "peggy kulesz"
+    "cedrick may",
+    "michael brittain",
+    "timothy morris",
+    "peggy kulesz",
+    "rachael mariboho",
+    "neill matheson",
+    "desiree henderson",
+    "gyde martin"
   ],
   "ce 4330": [
     "habib ahmari"
@@ -16528,15 +15943,15 @@ export const data_course_prof = {
     "haleh hadavand"
   ],
   "hist 3345": [
+    "sam haynes",
     "staci swiney",
     "gerald saxon",
     "halen watkins",
-    "sam haynes",
     "william hansard"
   ],
   "art 3348": [
-    "hallee turner",
     "carlos donjuan",
+    "hallee turner",
     "kendra wiggins"
   ],
   "be 3343": [
@@ -16547,8 +15962,8 @@ export const data_course_prof = {
     "hannah chiasson"
   ],
   "musi 4111": [
-    "teresa sanchez",
     "jacob muzquiz",
+    "teresa sanchez",
     "hannah chiasson"
   ],
   "be 3367": [
@@ -16575,109 +15990,109 @@ export const data_course_prof = {
     "harold fitzgerald"
   ],
   "chem 2321": [
-    "rashidat ayinla olagunju",
-    "jason halbert",
-    "frank foss",
-    "jimmy rogers",
-    "junha jeon",
-    "mark eley",
-    "joseph buonomo",
-    "gregory hale",
     "carl lovely",
-    "he dong"
+    "junha jeon",
+    "he dong",
+    "frank foss",
+    "jason halbert",
+    "rashidat ayinla olagunju",
+    "gregory hale",
+    "jimmy rogers",
+    "mark eley",
+    "joseph buonomo"
   ],
   "chem 2182": [
-    "subhrangsu mandal",
     "carl lovely",
     "junha jeon",
-    "jimmy rogers",
+    "he dong",
     "kayunta johnson-winters",
-    "joseph buonomo",
-    "jongyun heo",
+    "subhrangsu mandal",
     "gregory hale",
-    "he dong"
+    "jimmy rogers",
+    "joseph buonomo",
+    "jongyun heo"
   ],
   "biol 2458": [
+    "heather charles",
+    "nicholas pollock",
     "heather arterburn",
     "melissa walsh",
     "timothy henry",
     "xavier aranda",
-    "kathleen ahles",
-    "heather charles",
-    "nicholas pollock"
+    "kathleen ahles"
   ],
   "biol 3427": [
     "heather arterburn"
   ],
   "biol 2457": [
+    "heather charles",
+    "nicholas pollock",
+    "malgosia wilk-blaszczak",
     "walter schargel",
     "timothy henry",
     "xavier aranda",
-    "kathleen ahles",
-    "heather charles",
-    "malgosia wilk-blaszczak",
-    "nicholas pollock"
+    "kathleen ahles"
   ],
   "biol 3301": [
-    "mark pellegrino",
     "heather charles",
+    "mark pellegrino",
     "malgosia wilk-blaszczak"
   ],
   "soci 3372": [
-    "heather jacobson",
-    "alma garza"
+    "alma garza",
+    "heather jacobson"
   ],
   "mark 3324": [
-    "heather philip",
-    "william venable",
-    "shashi minchael",
-    "sarah su lin lee",
     "hsin-yi liao",
-    "yi zheng",
+    "heather philip",
+    "sarah su lin lee",
+    "adwait khare",
+    "william venable",
     "michael richarme",
+    "yi zheng",
     "ray mcgaughey",
-    "adwait khare"
+    "shashi minchael"
   ],
   "mark 3370": [
-    "heather philip",
-    "jingjing he",
     "hsin-yi liao",
+    "heather philip",
     "tatia jacobson jordan",
     "lauren brewer",
-    "jacqueline chung"
+    "jacqueline chung",
+    "jingjing he"
   ],
   "ie 3315": [
+    "rosie kallie",
+    "herbert corley",
     "erick jones",
     "jay rosenberger",
-    "herbert corley",
-    "khan md haque",
-    "rosie kallie"
+    "khan md haque"
   ],
   "acct 3311": [
     "cheryl prachyl",
+    "roberto gonzales",
     "ramgopal venkataraman",
-    "kelly gebhart",
     "rohit agarwal",
     "hila fogel-yaari",
-    "roberto gonzales"
+    "kelly gebhart"
   ],
   "math 0312": [
-    "laura boddicker",
-    "aida allen",
-    "daniel warren",
-    "jennifer kopetsky",
     "zhong ye",
-    "michelle burt",
-    "rhonda shaw",
-    "mahmoud jawad",
-    "tahani altaji",
-    "paul leafgreen",
-    "juan silva",
     "deysi delgado",
-    "hollie dyer",
-    "jeremy valdez",
+    "juan silva",
+    "kyle turner",
+    "daniel warren",
+    "mahmoud jawad",
+    "aida allen",
     "edith pineda",
-    "kyle turner"
+    "jennifer kopetsky",
+    "rhonda shaw",
+    "tahani altaji",
+    "laura boddicker",
+    "hollie dyer",
+    "paul leafgreen",
+    "jeremy valdez",
+    "michelle burt"
   ],
   "ee 3346": [
     "howard russell"
@@ -16694,20 +16109,20 @@ export const data_course_prof = {
     "alice lubbe"
   ],
   "psyc 4281": [
-    "amber schroeder",
-    "hunter ball"
+    "hunter ball",
+    "amber schroeder"
   ],
   "psyc 4431": [
+    "matthew robison",
     "elizabeth wiemers wilcox",
     "daniel levine",
-    "matthew robison",
     "hunter ball"
   ],
   "mae 3310": [
     "sunand santhanagopalan",
-    "ankur jain",
     "miguel amaya",
-    "hyejin moon"
+    "hyejin moon",
+    "ankur jain"
   ],
   "ce 3131": [
     "hyeok choi"
@@ -16716,42 +16131,42 @@ export const data_course_prof = {
     "hyeong shin"
   ],
   "kore 1441": [
-    "hyuna choi",
-    "yeon mi choi"
+    "yeon mi choi",
+    "hyuna choi"
   ],
   "kore 1442": [
-    "hyuna choi",
-    "yeon mi choi"
+    "yeon mi choi",
+    "hyuna choi"
   ],
   "kore 2313": [
+    "yeon mi choi",
     "hyuna choi",
-    "sok ju kim",
-    "yeon mi choi"
+    "sok ju kim"
   ],
   "kore 2314": [
-    "hyuna choi",
-    "yeon mi choi"
+    "yeon mi choi",
+    "hyuna choi"
   ],
   "span 4315": [
-    "solymar torres-garcia",
-    "ignacio ruiz-perez"
+    "ignacio ruiz-perez",
+    "solymar torres-garcia"
   ],
   "cse 4351": [
     "ishfaq ahmad"
   ],
   "ling 3311": [
     "ivy hauser",
+    "jeffrey witzel",
     "daniel scarpace",
-    "joseph sabbagh",
-    "jeffrey witzel"
+    "joseph sabbagh"
   ],
   "ling 4301": [
     "ivy hauser"
   ],
   "modl 2301": [
-    "iya price",
+    "rosa tellez",
     "szu-yen liang",
-    "rosa tellez"
+    "iya price"
   ],
   "russ 2313": [
     "iya price"
@@ -16760,8 +16175,8 @@ export const data_course_prof = {
     "iya price"
   ],
   "reae 3325": [
-    "steve isbell",
     "james hansz",
+    "steve isbell",
     "jack poe",
     "sriram villupuram"
   ],
@@ -16770,10 +16185,10 @@ export const data_course_prof = {
     "sriram villupuram"
   ],
   "phys 1181": [
+    "nil pandey",
     "varghese anto chirayath",
     "hussein akafzade",
     "sajib barman",
-    "nil pandey",
     "jaehoon yu"
   ],
   "phys 1182": [
@@ -16784,9 +16199,9 @@ export const data_course_prof = {
     "jaehoon yu"
   ],
   "engr 1101": [
-    "janice tiernan",
     "jaime cantu",
-    "kelly patterson"
+    "kelly patterson",
+    "janice tiernan"
   ],
   "ie 4340": [
     "jaime cantu",
@@ -16808,102 +16223,102 @@ export const data_course_prof = {
     "james hansz"
   ],
   "crcj 3350": [
-    "james kelsay",
-    "kaitlyn pederson",
-    "michael teneyck",
     "kent kerley",
-    "sarah el sayed",
+    "seokjin jeong",
     "seungmug lee",
-    "seokjin jeong"
+    "james kelsay",
+    "michael teneyck",
+    "kaitlyn pederson",
+    "sarah el sayed"
   ],
   "intd 3361": [
     "james marstiller",
     "arden stephenson"
   ],
   "intd 4366": [
+    "james marstiller",
     "lisa fitzpatrick",
-    "barbara marini",
-    "james marstiller"
+    "barbara marini"
   ],
   "musi 3394": [
-    "dan schulz",
-    "joe moore",
     "aleyna brown",
+    "joe moore",
     "james meyer",
+    "dan schulz",
     "samuel garner"
   ],
   "art 2358": [
-    "mason lahue",
-    "shelly brandon",
-    "jorge garza",
-    "marcel rodriguez",
-    "balmiki pokhrel",
-    "changhee chun",
-    "patricia newton",
     "james pinkston",
-    "daniel garcia",
+    "jorge garza",
+    "changhee chun",
+    "hien dinh",
+    "shelly brandon",
     "zachariah cousineau",
-    "hien dinh"
+    "mason lahue",
+    "patricia newton",
+    "daniel garcia",
+    "marcel rodriguez",
+    "balmiki pokhrel"
   ],
   "art 3358": [
-    "james pinkston",
-    "daniel garcia",
     "barton weiss",
-    "hien dinh"
+    "james pinkston",
+    "hien dinh",
+    "daniel garcia"
   ],
   "art 3384": [
-    "jorge garza",
     "james pinkston",
+    "jorge garza",
     "daniel garcia",
     "marcel rodriguez"
   ],
   "hist 4362": [
-    "james sandy",
-    "michael stout"
+    "michael stout",
+    "james sandy"
   ],
   "engl 4370": [
     "james warren"
   ],
   "econ 2305": [
-    "antonia gkergki",
     "brandon vanderford",
-    "jane himarios",
-    "thilini nagasinghe kulawardhana",
-    "steven manley",
+    "ronald liggett",
+    "antonia gkergki",
     "roger wehr",
-    "ronald liggett"
+    "steven manley",
+    "jane himarios",
+    "thilini nagasinghe kulawardhana"
   ],
   "nurs 3333": [
-    "janelle hennes",
-    "crystal rahman"
+    "crystal rahman",
+    "janelle hennes"
   ],
   "math 1330": [
-    "emily jones",
+    "janessa beach tassey",
     "kyle turner",
-    "janessa beach tassey"
+    "emily jones"
   ],
   "math 1331": [
-    "paul leafgreen",
-    "emily jones",
     "deysi delgado",
+    "emily jones",
+    "janessa beach tassey",
     "esteban diaz",
-    "janessa beach tassey"
+    "paul leafgreen"
   ],
   "art 3363": [
-    "nicholas wood",
-    "janice melito"
+    "janice melito",
+    "nicholas wood"
   ],
   "psyc 4381": [
-    "lauri jensen-campbell",
     "jared kenworthy",
-    "amber schroeder",
-    "william ickes"
+    "william ickes",
+    "lauri jensen-campbell",
+    "amber schroeder"
   ],
   "psyc 4412": [
-    "belinda williams",
     "jared kenworthy",
+    "john adams",
     "rachel baldridge",
-    "john adams"
+    "belinda williams"
   ],
   "biol 3356": [
     "jason baker"
@@ -16922,18 +16337,18 @@ export const data_course_prof = {
     "krystal beamon"
   ],
   "thea 3300": [
-    "ann healy",
-    "jay duffer"
+    "jay duffer",
+    "ann healy"
   ],
   "crcj 3338": [
     "zerita hall",
-    "jeremy burrell",
     "jaya davis",
-    "frederick engram"
+    "frederick engram",
+    "jeremy burrell"
   ],
   "woms 3300": [
-    "heather jacobson",
     "jaya davis",
+    "heather jacobson",
     "josephine ryan"
   ],
   "span 3309": [
@@ -16946,15 +16361,15 @@ export const data_course_prof = {
     "jean fernandes"
   ],
   "nurs 4685": [
-    "jeanean boyd",
     "gretchen burke",
-    "tamara eades",
+    "jeanean boyd",
+    "fatoumata jallow",
     "pamela white",
-    "fatoumata jallow"
+    "tamara eades"
   ],
   "nursu 4685": [
-    "jeanean boyd",
-    "fatoumata jallow"
+    "fatoumata jallow",
+    "jeanean boyd"
   ],
   "mana 4342": [
     "jeanne michalski"
@@ -16963,88 +16378,88 @@ export const data_course_prof = {
     "jeffery demuth"
   ],
   "musi 4213": [
-    "jeffrey king",
-    "russell sanders"
+    "russell sanders",
+    "jeffrey king"
   ],
   "nurs 3381": [
     "susan justice",
     "jeffrey robbins"
   ],
   "mark 4322": [
-    "olamide temitope olajuwon ige",
-    "narayanan janakiraman",
     "gregory wicklman",
+    "william venable",
+    "jeffrey wallman",
+    "olamide temitope olajuwon ige",
+    "yi zheng",
     "ritesh saini",
     "shashi minchael",
-    "jeffrey wallman",
-    "yi zheng",
-    "william venable"
+    "narayanan janakiraman"
   ],
   "musi 0115": [
     "christopher curcuruto",
     "jennifer ciobanu"
   ],
   "prel 2338": [
-    "jennifer lanter",
     "jennifer little",
     "christina roach",
+    "jennifer lanter",
     "shelley wigley"
   ],
   "prel 3339": [
-    "mindia whittier",
-    "jennifer lanter",
     "jennifer little",
-    "christina roach"
+    "mindia whittier",
+    "christina roach",
+    "jennifer lanter"
   ],
   "mae 3311": [
-    "daejong kim",
+    "jeong ki",
     "dereje agonafer",
-    "ali farzbod",
     "kathy hays-stang",
-    "jeong ki"
+    "ali farzbod",
+    "daejong kim"
   ],
   "math 1303": [
-    "jeremy glass",
-    "rebecca bryant",
-    "faezeh soleimani",
-    "daniel warren",
     "zhong ye",
-    "rhonda shaw",
-    "pushpa shrestha",
-    "mark krasij",
-    "tahani altaji",
-    "saul covarrubias",
-    "jacob lowe",
     "mohammad ganjizadeh",
     "kevin harris",
-    "edith pineda",
+    "jeremy glass",
     "robert crumpler",
+    "jacob lowe",
+    "edith pineda",
+    "shanna banda",
+    "pushpa shrestha",
+    "rhonda shaw",
+    "tahani altaji",
+    "saul covarrubias",
     "christina martinez",
+    "rebecca bryant",
     "janessa beach tassey",
-    "shanna banda"
+    "mark krasij",
+    "daniel warren",
+    "faezeh soleimani"
   ],
   "math 1327": [
+    "kevin harris",
     "jeremy glass",
     "sarah hawkins",
     "esteban diaz",
-    "farid derisavifard",
-    "kevin harris"
+    "farid derisavifard"
   ],
   "mils 0180": [
-    "jeremy hubacek",
     "johnny vasquez",
+    "gregory leclair",
     "joseph taylor",
+    "kelley keating",
+    "james ross",
+    "bonnie belobrajdic",
+    "darrell aiken",
     "marlon sanders",
     "jeremy bland",
-    "james ross",
-    "gregory leclair",
-    "jenna lawrence",
-    "darrell aiken",
-    "hunter callahan",
     "rachel wood",
-    "paul kim",
-    "bonnie belobrajdic",
-    "kelley keating"
+    "hunter callahan",
+    "jeremy hubacek",
+    "jenna lawrence",
+    "paul kim"
   ],
   "lshp 4313": [
     "jerry hubbard",
@@ -17054,53 +16469,53 @@ export const data_course_prof = {
     "jerry hubbard"
   ],
   "ce 3305": [
+    "jessica eisma",
     "nusrat chowdhury",
     "shanru tian",
-    "jessica eisma",
-    "gautam eapi",
-    "habib ahmari"
+    "habib ahmari",
+    "gautam eapi"
   ],
   "socw 3300": [
-    "mark frazier",
-    "george jauss",
     "cleondria marable",
-    "aditi prabhakar",
-    "james keaton",
-    "angela hall",
-    "ann hunt",
     "tiara okoruwa",
-    "jessica sanchez",
-    "toykesha howard",
-    "anne bain",
-    "amy blakeney",
-    "mary highfill",
-    "regina praetorius",
-    "michelle dionne jones",
-    "chandra thompson-donahue",
-    "sophia fantus",
     "ly-huong barrett",
-    "jessica williams",
+    "jessica sanchez",
+    "aditi prabhakar",
+    "amy blakeney",
+    "anne bain",
+    "toykesha howard",
+    "james keaton",
+    "kelli rogers",
+    "george jauss",
     "rebecca mauldin",
-    "kelli rogers"
+    "mark frazier",
+    "jessica williams",
+    "chandra thompson-donahue",
+    "michelle dionne jones",
+    "angela hall",
+    "regina praetorius",
+    "sophia fantus",
+    "ann hunt",
+    "mary highfill"
   ],
   "socw 4314": [
-    "taren allen",
+    "karla arenas-itotia",
     "lauren o'leary",
-    "rachel voth schrag",
+    "taren allen",
     "courtney butts",
     "tiara okoruwa",
-    "karla arenas-itotia",
-    "jessica sanchez"
+    "jessica sanchez",
+    "rachel voth schrag"
   ],
   "woms 2315": [
     "jessica sanchez"
   ],
   "cse 4380": [
-    "mohit singhal",
-    "shirin nilizadeh",
     "trevor bakker",
-    "faysal hossain shezan",
+    "mohit singhal",
     "habeeb olufowobi",
+    "shirin nilizadeh",
+    "faysal hossain shezan",
     "jiang ming"
   ],
   "plan 4357": [
@@ -17108,28 +16523,28 @@ export const data_course_prof = {
   ],
   "insy 4325": [
     "jie zhang",
-    "karen scott",
     "atieno amadi",
+    "karen scott",
     "koshy vaidyan joseph"
   ],
   "biol 1334": [
     "allison martin",
-    "jill devito",
-    "melissa walsh"
+    "melissa walsh",
+    "jill devito"
   ],
   "biol 3324": [
     "jill devito"
   ],
   "biol 3457": [
     "matthew walsh",
-    "jill devito",
     "melissa walsh",
-    "shane dubay"
+    "shane dubay",
+    "jill devito"
   ],
   "envr 1301": [
     "walter schargel",
-    "jill devito",
-    "joshua pulcinella"
+    "joshua pulcinella",
+    "jill devito"
   ],
   "chem 1342": [
     "william cleaver",
@@ -17137,18 +16552,18 @@ export const data_course_prof = {
   ],
   "chem 1441": [
     "joshua crowell",
-    "cynthia griffith",
     "saiful chowdhury",
-    "jimmy rogers",
     "seiichiro tanizaki",
-    "peter kroll",
-    "mark eley",
-    "alison wicker",
-    "william cleaver",
-    "gregory hale",
-    "jongyun heo",
+    "cynthia griffith",
+    "robin macaluso",
     "nagham alatrash",
-    "robin macaluso"
+    "gregory hale",
+    "jimmy rogers",
+    "alison wicker",
+    "mark eley",
+    "jongyun heo",
+    "william cleaver",
+    "peter kroll"
   ],
   "chem 3315": [
     "jimmy rogers"
@@ -17169,11 +16584,11 @@ export const data_course_prof = {
     "jocelyn hansen"
   ],
   "kine 1300": [
+    "robert brothers",
     "daniel trott",
     "jody greaney",
-    "brad heddins",
     "david keller",
-    "robert brothers"
+    "brad heddins"
   ],
   "thea 3346": [
     "joe chapa"
@@ -17210,36 +16625,36 @@ export const data_course_prof = {
     "john wayman"
   ],
   "musi 1105": [
-    "kimberly watson",
     "jolene webster",
-    "julie liston johnson"
+    "julie liston johnson",
+    "kimberly watson"
   ],
   "cse 3313": [
     "jon mitchell"
   ],
   "ee 3240": [
-    "robert magnusson",
-    "evan hathaway",
-    "weidong zhou",
     "george kondraske",
+    "weidong zhou",
+    "evan hathaway",
+    "robert magnusson",
     "jonathan bredow"
   ],
   "dnce 3335": [
-    "jonathan eyer",
-    "donald shorter"
+    "donald shorter",
+    "jonathan eyer"
   ],
   "thea 4191": [
     "jonathan eyer"
   ],
   "thea 4391": [
+    "megan haratine",
     "donald shorter",
     "christopher land",
-    "megan haratine",
-    "joe chapa",
-    "felicia bertch",
-    "julienne greer",
     "jonathan eyer",
-    "andrew gaupp"
+    "andrew gaupp",
+    "julienne greer",
+    "felicia bertch",
+    "joe chapa"
   ],
   "hist 3314": [
     "jonathan steplyk"
@@ -17252,8 +16667,8 @@ export const data_course_prof = {
     "jongyun heo"
   ],
   "eled 4311": [
-    "joo hi lee",
     "rocio sarmiento-ayala",
+    "joo hi lee",
     "sondra cano"
   ],
   "udes 2303": [
@@ -17264,78 +16679,78 @@ export const data_course_prof = {
     "amy speier"
   ],
   "mark 4335": [
-    "jorge martinez garcia",
-    "abigail torres rico"
+    "abigail torres rico",
+    "jorge martinez garcia"
   ],
   "biol 4317": [
-    "joseph boll",
-    "whitney tholen"
+    "whitney tholen",
+    "joseph boll"
   ],
   "ling 3340": [
     "joseph sabbagh"
   ],
   "musi 1186": [
-    "jacob farr",
-    "levi walls",
-    "sean morrison",
     "klaudia cop-akin",
+    "sean morrison",
     "hannah chiasson",
+    "elyse kahler",
     "joseph turner",
     "eric wood",
-    "elyse kahler"
+    "jacob farr",
+    "levi walls"
   ],
   "musi 2186": [
     "klaudia cop-akin",
-    "levi walls",
     "joseph turner",
+    "levi walls",
     "sean morrison"
   ],
   "anth 3333": [
     "josephine ryan"
   ],
   "chem 1400": [
-    "alison wicker",
+    "udaya sree dakarapu",
     "joshua crowell",
     "william cleaver",
-    "udaya sree dakarapu"
+    "alison wicker"
   ],
   "arch 4365": [
     "joshua nason"
   ],
   "plan 3301": [
-    "luis macias barrientos",
-    "joshua newton",
-    "nazanin ghaffari",
     "ivonne audirac-zazueta",
-    "nazmun akter pia"
+    "joshua newton",
+    "nazmun akter pia",
+    "nazanin ghaffari",
+    "luis macias barrientos"
   ],
   "as 1181": [
-    "cass smith",
-    "brian chambon",
+    "joseph wolfer",
     "joshua young",
-    "joseph wolfer"
+    "brian chambon",
+    "cass smith"
   ],
   "heed 4311": [
     "laura phipps",
     "joy jackson"
   ],
   "kine 4352": [
-    "yue liao",
+    "tiffany kindratt",
     "joy jackson",
-    "tiffany kindratt"
+    "yue liao"
   ],
   "educ 2302": [
     "joyce myers"
   ],
   "eled 4687": [
-    "sonja ezell",
-    "janet davidson",
+    "patricia saenz",
+    "yolanda ramirez",
     "joyce myers",
     "vivian beltran",
-    "patricia saenz",
+    "janet davidson",
+    "sonja ezell",
     "jane cooper",
     "corliss bunkley",
-    "yolanda ramirez",
     "martha meeks loyd"
   ],
   "aren 4348": [
@@ -17345,15 +16760,15 @@ export const data_course_prof = {
     "juan balderrama"
   ],
   "ce 4383": [
-    "andrew kruzic",
+    "juan balderrama",
     "tamer eljufout",
     "shaher rababeh",
-    "juan balderrama"
+    "andrew kruzic"
   ],
   "nurs 4331": [
     "rebecca mathews",
-    "juanita nickols",
-    "jennifer roye"
+    "jennifer roye",
+    "juanita nickols"
   ],
   "kine 4317": [
     "judy wilson"
@@ -17362,13 +16777,13 @@ export const data_course_prof = {
     "judy wilson"
   ],
   "be 3320": [
-    "salman sohrabi",
     "juhyun lee",
-    "xinlong wang"
+    "xinlong wang",
+    "salman sohrabi"
   ],
   "bcmn 2358": [
-    "julian rodriguez becerra",
-    "ladonna aiken"
+    "ladonna aiken",
+    "julian rodriguez becerra"
   ],
   "bcmn 3350": [
     "julian rodriguez becerra"
@@ -17378,8 +16793,8 @@ export const data_course_prof = {
   ],
   "nurs 3347": [
     "yan xiao",
-    "julie snow",
-    "leslie jennings"
+    "leslie jennings",
+    "julie snow"
   ],
   "nursu 3347": [
     "yan xiao",
@@ -17392,22 +16807,22 @@ export const data_course_prof = {
     "jun liao"
   ],
   "chem 2181": [
+    "carl lovely",
+    "junha jeon",
+    "he dong",
+    "patrick ho",
     "subhrangsu mandal",
     "frank foss",
-    "jimmy rogers",
-    "patrick ho",
-    "junha jeon",
-    "joseph buonomo",
     "gregory hale",
-    "carl lovely",
-    "he dong",
-    "byung ran so"
+    "byung ran so",
+    "jimmy rogers",
+    "joseph buonomo"
   ],
   "art 2342": [
     "brandi simpson",
-    "jean fernandes",
-    "aubrey barnett",
     "justin ginsberg",
+    "aubrey barnett",
+    "jean fernandes",
     "katerina verguelis",
     "amy stephens"
   ],
@@ -17420,8 +16835,8 @@ export const data_course_prof = {
     "lenaiya kydd"
   ],
   "be 3415": [
-    "justyn jaworski",
-    "butaek lim"
+    "butaek lim",
+    "justyn jaworski"
   ],
   "ie 4350": [
     "k rogers"
@@ -17430,48 +16845,48 @@ export const data_course_prof = {
     "kaci o'donnell"
   ],
   "engl 4391": [
+    "penelope ingram",
     "catherine corder",
-    "kaci o'donnell",
-    "penelope ingram"
+    "kaci o'donnell"
   ],
   "ee 2303": [
     "kambiz alavi",
     "howard russell"
   ],
   "ee 2341": [
-    "shahriar shahabuddin",
+    "dukhyun kim",
     "kambiz alavi",
-    "dukhyun kim"
+    "shahriar shahabuddin"
   ],
   "ee 2320": [
-    "wendell davis",
-    "chenyun pan",
     "rasool kenarangui",
+    "wendell davis",
     "kambiz alavi",
+    "jonathan bredow",
     "yuze sun",
-    "jonathan bredow"
+    "chenyun pan"
   ],
   "ee 2440": [
-    "wendell davis",
-    "chenyun pan",
     "rasool kenarangui",
+    "wendell davis",
     "kambiz alavi",
+    "jonathan bredow",
     "yuze sun",
-    "jonathan bredow"
+    "chenyun pan"
   ],
   "mae 4310": [
-    "baxter mullins",
-    "kamesh subbarao",
     "david hullender",
+    "panayiotis shiakolas",
     "animesh chakravarthy",
-    "abdraouf abusoua",
+    "baxter mullins",
     "shuo wang",
-    "panayiotis shiakolas"
+    "abdraouf abusoua",
+    "kamesh subbarao"
   ],
   "nurs 4323": [
     "maura bernasconi",
-    "kelle george",
-    "karen bravo"
+    "karen bravo",
+    "kelle george"
   ],
   "musi 2300": [
     "karen draves"
@@ -17487,13 +16902,13 @@ export const data_course_prof = {
     "karen magruder"
   ],
   "socw 4335": [
-    "diana pryor",
-    "derelle walker",
     "pamela hill",
-    "chava rousch-carlisle",
-    "aaron hagedorn",
-    "zerita hall",
+    "derelle walker",
     "karen magruder",
+    "chava rousch-carlisle",
+    "zerita hall",
+    "diana pryor",
+    "aaron hagedorn",
     "kathy siepker"
   ],
   "scie 4107": [
@@ -17505,8 +16920,8 @@ export const data_course_prof = {
     "marsha scott"
   ],
   "insy 4315": [
-    "karen scott",
-    "jie zhang"
+    "jie zhang",
+    "karen scott"
   ],
   "comm 4335": [
     "karishma chatterjee"
@@ -17515,39 +16930,39 @@ export const data_course_prof = {
     "karishma chatterjee"
   ],
   "socw 3314": [
-    "stephanie bonilla",
-    "marilin jakubowske",
-    "regina praetorius",
     "karla arenas-itotia",
-    "jessica sanchez"
+    "regina praetorius",
+    "marilin jakubowske",
+    "jessica sanchez",
+    "stephanie bonilla"
   ],
   "art 2355": [
-    "karley adrion",
-    "pauline hudel smith",
     "glady chow",
+    "traci harper",
     "loryn o'donnell",
-    "traci harper"
+    "karley adrion",
+    "pauline hudel smith"
   ],
   "cm 4351": [
-    "razieh tavakoli",
+    "zaid momani",
     "ahmad mahmoud ahmad jibreen",
     "karthikeyan loganathan",
-    "zaid momani",
+    "madhuri arjun",
     "sooin kim",
-    "madhuri arjun"
+    "razieh tavakoli"
   ],
   "cm 3313": [
     "razieh tavakoli",
-    "karthikeyan loganathan",
-    "vinayak kaushal"
+    "vinayak kaushal",
+    "karthikeyan loganathan"
   ],
   "cm 1311": [
     "razieh tavakoli",
-    "karthikeyan loganathan",
-    "saeed reza ramezanpour nargesi",
     "zaid momani",
-    "madhuri arjun",
-    "panagiotis danoglidis"
+    "saeed reza ramezanpour nargesi",
+    "karthikeyan loganathan",
+    "panagiotis danoglidis",
+    "madhuri arjun"
   ],
   "cm 4315": [
     "razieh tavakoli",
@@ -17560,62 +16975,62 @@ export const data_course_prof = {
     "kathleen tice"
   ],
   "arch 2304": [
+    "douglas klahr",
     "marisa gomez",
-    "kathryn holliday",
-    "douglas klahr"
+    "kathryn holliday"
   ],
   "arch 4309": [
     "kathryn holliday"
   ],
   "engl 3350": [
     "kathryn warren",
-    "sarah shelton",
-    "neill matheson",
-    "penelope ingram",
     "kaci o'donnell",
-    "rachael mariboho"
+    "penelope ingram",
+    "sarah shelton",
+    "rachael mariboho",
+    "neill matheson"
   ],
   "engl 4346": [
-    "gyde martin",
+    "peggy kulesz",
     "kathryn warren",
-    "peggy kulesz"
+    "gyde martin"
   ],
   "socw 2361": [
-    "megan rose westmore",
-    "mark frazier",
-    "janet finch",
-    "james langford",
-    "lashaunn bold",
-    "kathy siepker",
-    "james keaton",
-    "traecia nichols",
-    "zachary tarbet",
-    "stephanie bonilla",
-    "darlene hunter",
-    "ann hunt",
+    "pamela hill",
     "tiara okoruwa",
-    "regina praetorius",
     "ly-huong barrett",
     "meverlyn maisonave",
-    "lacey jenkins",
-    "pamela hill",
+    "megan rose westmore",
+    "james keaton",
+    "lashaunn bold",
+    "zachary tarbet",
     "shamila sivakumaran",
+    "stephanie bonilla",
+    "lacey jenkins",
     "kenshara cravens",
+    "mark frazier",
+    "james langford",
+    "kathy siepker",
+    "darlene hunter",
     "jandel crutchfield",
-    "erin findley"
+    "regina praetorius",
+    "traecia nichols",
+    "ann hunt",
+    "erin findley",
+    "janet finch"
   ],
   "anth 1306": [
+    "katrina nuncio",
     "luis plascencia",
-    "shelley smith",
-    "katrina nuncio"
+    "shelley smith"
   ],
   "chem 4311": [
-    "subhrangsu mandal",
     "joshua crowell",
-    "avisankar chini",
     "kayunta johnson-winters",
-    "jongyun heo",
-    "byung ran so"
+    "subhrangsu mandal",
+    "byung ran so",
+    "avisankar chini",
+    "jongyun heo"
   ],
   "data 3401": [
     "erol ozkan",
@@ -17627,31 +17042,31 @@ export const data_course_prof = {
     "keith burgess-jackson"
   ],
   "phil 3320": [
-    "shaun house",
-    "keith burgess-jackson"
+    "keith burgess-jackson",
+    "shaun house"
   ],
   "crcj 2335": [
+    "keith owens",
     "brook rollins",
-    "christi gullion",
     "edward sas",
     "seungmug lee",
     "zerita hall",
-    "keith owens"
+    "christi gullion"
   ],
   "nurs 2200": [
-    "terri jenkins",
-    "quainshonda suber",
-    "kristin sterling",
     "melynda hutchings",
+    "terri jenkins",
     "kelle george",
+    "kristin sterling",
+    "quainshonda suber",
     "sharon wilson"
   ],
   "nurs 2300": [
     "terri jenkins",
-    "quainshonda suber",
-    "kristin sterling",
+    "leslie jennings",
     "kelle george",
-    "leslie jennings"
+    "kristin sterling",
+    "quainshonda suber"
   ],
   "mils 4342": [
     "gregory leclair",
@@ -17659,20 +17074,20 @@ export const data_course_prof = {
   ],
   "cse 3302": [
     "kelly french",
-    "brian dalio",
-    "kenny zhu"
+    "kenny zhu",
+    "brian dalio"
   ],
   "ce 2221": [
     "ashraf daradkeh",
-    "himan hojat jalali",
     "kelly patterson",
-    "niloofar parsaeifard"
+    "niloofar parsaeifard",
+    "himan hojat jalali"
   ],
   "phil 1304": [
-    "brittany shupe",
     "sally parker ryan",
-    "charles hermes",
     "shaun house",
+    "brittany shupe",
+    "charles hermes",
     "kenneth williford"
   ],
   "phil 4388": [
@@ -17680,71 +17095,71 @@ export const data_course_prof = {
     "kenneth williford"
   ],
   "crcj 4315": [
-    "derick miller",
-    "kent kerley"
+    "kent kerley",
+    "derick miller"
   ],
   "hist 4325": [
     "kenton rambsy"
   ],
   "chem 4461": [
-    "kevin schug",
-    "saiful chowdhury"
+    "saiful chowdhury",
+    "kevin schug"
   ],
   "be 4355": [
-    "jun liao",
-    "khosrow behbehani",
+    "stephen van noy",
     "georgios alexandrakis",
-    "stephen van noy"
+    "khosrow behbehani",
+    "jun liao"
   ],
   "jour 2330": [
     "kim jones"
   ],
   "jour 4346": [
     "kim jones",
+    "erika pribanic-smith",
     "dustin harp",
-    "geoffrey campbell",
-    "erika pribanic-smith"
+    "geoffrey campbell"
   ],
   "hist 3369": [
     "kimberly breuer"
   ],
   "hist 1332": [
-    "eric spenk",
     "kevin moskowitz",
-    "kimberly breuer"
+    "kimberly breuer",
+    "eric spenk"
   ],
   "hist 3391": [
-    "janet kassabian",
     "christopher taylor",
-    "kimberly newcomer-fitzpatrick"
+    "kimberly newcomer-fitzpatrick",
+    "janet kassabian"
   ],
   "socw 4350": [
-    "jennifer sterling",
-    "kiva harper",
+    "sherece shavel",
     "karen magruder",
-    "sherece shavel"
+    "kiva harper",
+    "jennifer sterling"
   ],
   "musi 1324": [
     "klaudia cop-akin"
   ],
   "insy 4305": [
+    "sajib datta",
     "vikram bhadauria",
     "manjeri raja",
-    "koshy vaidyan joseph",
-    "sajib datta"
+    "koshy vaidyan joseph"
   ],
   "insy 4306": [
+    "sajib datta",
     "manjeri raja",
-    "koshy vaidyan joseph",
-    "sajib datta"
+    "koshy vaidyan joseph"
   ],
   "hist 3352": [
     "kristan foust"
   ],
   "thea 1304": [
-    "kristine obrien",
-    "jordan kirby",
     "christopher land",
+    "jordan kirby",
+    "kristine obrien",
     "kenneth ellis",
     "phillip schroeder"
   ],
@@ -17756,12 +17171,12 @@ export const data_course_prof = {
     "krystal beamon"
   ],
   "cm 2311": [
-    "zahra kohankar kouchesfehani",
-    "kyeong rok ryu"
+    "kyeong rok ryu",
+    "zahra kohankar kouchesfehani"
   ],
   "cm 4317": [
-    "kyeong rok ryu",
     "vinayak kaushal",
+    "kyeong rok ryu",
     "ahmad kamal bani hani"
   ],
   "be 4372": [
@@ -17769,17 +17184,17 @@ export const data_course_prof = {
     "tam nguyen"
   ],
   "aren 3301": [
-    "arash saleh",
-    "jinzhu yu",
     "kyung hyun",
     "sina famili",
+    "arash saleh",
+    "jinzhu yu",
     "nelson gomez-torres"
   ],
   "ce 3301": [
-    "arash saleh",
-    "jinzhu yu",
     "kyung hyun",
     "sina famili",
+    "arash saleh",
+    "jinzhu yu",
     "nelson gomez-torres"
   ],
   "bcmn 2370": [
@@ -17804,9 +17219,9 @@ export const data_course_prof = {
     "larry nelson"
   ],
   "nurs 3320": [
-    "bailey davis",
     "paula wyman",
-    "laura hixon"
+    "laura hixon",
+    "bailey davis"
   ],
   "engl 4330": [
     "laura kopchick",
@@ -17826,10 +17241,10 @@ export const data_course_prof = {
   ],
   "sut 3319": [
     "elisha tones",
-    "rachel swope",
+    "donald schuman",
     "sherry cabaniss",
     "laura terry",
-    "donald schuman"
+    "rachel swope"
   ],
   "ce 4320": [
     "laureano hoyos"
@@ -17839,8 +17254,8 @@ export const data_course_prof = {
   ],
   "modl 3301": [
     "lisalee egbert",
-    "laurel whitsett",
-    "vicente jose iranzo banuls"
+    "vicente jose iranzo banuls",
+    "laurel whitsett"
   ],
   "thea 3355": [
     "laurel whitsett"
@@ -17880,37 +17295,37 @@ export const data_course_prof = {
     "leeann burke"
   ],
   "univ-nu 1131": [
-    "stephanie rush",
-    "kristin sterling",
-    "thanayi lambert",
-    "katherine kreis",
-    "jeanette blankenship",
-    "quainshonda suber",
-    "rhonda hudson",
-    "lacy foster",
-    "thomas dombrowsky",
-    "leslie jennings",
-    "rosemary bell",
-    "shayla buckler",
-    "rael eckenroed",
-    "karen bravo",
-    "katie roth",
-    "leigh wheeler",
-    "tara martin",
-    "danielle klein",
-    "amy rossing",
     "cynthia koomey",
-    "kelle george",
+    "rosemary bell",
+    "katie roth",
+    "rhonda hudson",
+    "katherine kreis",
     "susan norman",
-    "kimberly mortus"
+    "thomas dombrowsky",
+    "lacy foster",
+    "jeanette blankenship",
+    "tara martin",
+    "kelle george",
+    "danielle klein",
+    "stephanie rush",
+    "karen bravo",
+    "kimberly mortus",
+    "leslie jennings",
+    "thanayi lambert",
+    "quainshonda suber",
+    "amy rossing",
+    "shayla buckler",
+    "kristin sterling",
+    "rael eckenroed",
+    "leigh wheeler"
   ],
   "acct 4302": [
     "cheryl prachyl",
     "long thai bui",
-    "sandra henderson",
-    "nandu nagarajan",
     "li-chin ho",
-    "michael prachyl"
+    "michael prachyl",
+    "sandra henderson",
+    "nandu nagarajan"
   ],
   "acct 4304": [
     "nandu nagarajan",
@@ -17918,40 +17333,40 @@ export const data_course_prof = {
     "michael prachyl"
   ],
   "chin 1442": [
-    "lijing ye",
     "fengchun zhao",
+    "lijing ye",
     "li-ya mar"
   ],
   "biol 3322": [
+    "maxine geltmeier",
+    "bryanne argenbright",
+    "linda perrotti",
+    "stephen doerfler",
+    "julieta trejo",
+    "xavier aranda",
     "zane grubaugh",
     "qing lin",
-    "julieta trejo",
-    "linda perrotti",
-    "xavier aranda",
-    "stephen doerfler",
-    "yuan peng",
-    "bryanne argenbright",
-    "maxine geltmeier"
+    "yuan peng"
   ],
   "psyc 3322": [
+    "maxine geltmeier",
+    "bryanne argenbright",
+    "linda perrotti",
+    "stephen doerfler",
+    "julieta trejo",
+    "xavier aranda",
     "zane grubaugh",
     "qing lin",
-    "julieta trejo",
-    "linda perrotti",
-    "xavier aranda",
-    "stephen doerfler",
-    "yuan peng",
-    "bryanne argenbright",
-    "maxine geltmeier"
+    "yuan peng"
   ],
   "kine 2350": [
+    "lindsi smith",
     "anita corbitt",
-    "rebecca garner",
     "kelly duron",
-    "peace ossom",
-    "lauren perez",
     "irene gallegos",
-    "lindsi smith"
+    "rebecca garner",
+    "lauren perez",
+    "peace ossom"
   ],
   "kine 4358": [
     "lindsi smith"
@@ -17963,13 +17378,13 @@ export const data_course_prof = {
     "lisa graham"
   ],
   "art 4355": [
-    "lisa graham",
+    "loryn o'donnell",
     "benjamin dolezal",
-    "loryn o'donnell"
+    "lisa graham"
   ],
   "mae 2315": [
-    "zhen xue han",
     "liwei zhang",
+    "zhen xue han",
     "baxter mullins"
   ],
   "russ 4302": [
@@ -17983,21 +17398,21 @@ export const data_course_prof = {
     "lori lewis"
   ],
   "art 4356": [
-    "timothy carvalho",
+    "loryn o'donnell",
     "benjamin dolezal",
-    "loryn o'donnell"
+    "timothy carvalho"
   ],
   "mae 3182": [
-    "vijay gopal",
-    "luca maddalena"
+    "luca maddalena",
+    "vijay gopal"
   ],
   "art 4365": [
     "lucy bartholomee",
     "joanne rinker-dozier"
   ],
   "beep 4319": [
-    "emilio rios-jimenez",
-    "luis rosado"
+    "luis rosado",
+    "emilio rios-jimenez"
   ],
   "engr 2100": [
     "lynn peterson"
@@ -18007,10 +17422,10 @@ export const data_course_prof = {
     "mei yang"
   ],
   "math 3316": [
-    "mahmoud jawad",
     "suvra pal",
-    "mei yang",
-    "dengdeng yu"
+    "mahmoud jawad",
+    "dengdeng yu",
+    "mei yang"
   ],
   "math 4313": [
     "mahmoud jawad",
@@ -18020,8 +17435,8 @@ export const data_course_prof = {
     "mahmut yasar"
   ],
   "ce 3210": [
-    "ronell eisma",
-    "majed al-ghafry"
+    "majed al-ghafry",
+    "ronell eisma"
   ],
   "geol 3442": [
     "majie fan"
@@ -18031,14 +17446,14 @@ export const data_course_prof = {
     "malgosia wilk-blaszczak"
   ],
   "biol 1345": [
-    "corey roelke",
-    "walter schargel",
-    "melissa walsh",
-    "paul chippindale",
-    "ida klang",
-    "caitlin maynard",
     "heather charles",
     "malgosia wilk-blaszczak",
+    "melissa walsh",
+    "caitlin maynard",
+    "ida klang",
+    "corey roelke",
+    "paul chippindale",
+    "walter schargel",
     "eric smith"
   ],
   "biol 3348": [
@@ -18051,48 +17466,48 @@ export const data_course_prof = {
     "malgosia wilk-blaszczak"
   ],
   "phys 4117": [
-    "manfred cuntz",
-    "ali koymen"
+    "ali koymen",
+    "manfred cuntz"
   ],
   "mae 4329": [
     "manjarik mrinal",
     "robert taylor"
   ],
   "insy 4312": [
-    "manjeri raja",
     "jingguo wang",
+    "manjeri raja",
     "koshy vaidyan joseph"
   ],
   "pols 3310": [
-    "kayla canelo sandoval",
-    "mark hand",
+    "marcus hendershot",
     "rebecca deen",
-    "marcus hendershot"
+    "mark hand",
+    "kayla canelo sandoval"
   ],
   "thea 1305": [
     "scott osborne",
-    "laurie land",
+    "margaret crowley",
     "christopher land",
-    "margaret crowley"
+    "laurie land"
   ],
   "thea 1315": [
-    "laurie land",
     "kristine obrien",
     "margaret crowley",
+    "laurie land",
     "megan haratine"
   ],
   "thea 2306": [
     "margaret crowley"
   ],
   "nurs 4462": [
-    "shayla green",
     "melissa lagrone",
     "jessica smith",
-    "marianne doan"
+    "marianne doan",
+    "shayla green"
   ],
   "scie 3305": [
-    "allison martin",
-    "marius pfeiffer"
+    "marius pfeiffer",
+    "allison martin"
   ],
   "math 4351": [
     "mark krasij"
@@ -18101,25 +17516,25 @@ export const data_course_prof = {
     "mark ricard"
   ],
   "bcmn 2347": [
-    "mark tremayne",
-    "lance liguez"
+    "lance liguez",
+    "mark tremayne"
   ],
   "bcmn 2360": [
     "ladonna aiken",
     "mark tremayne"
   ],
   "mils 1142": [
+    "johnny vasquez",
     "darrell aiken",
-    "marlon sanders",
-    "johnny vasquez"
+    "marlon sanders"
   ],
   "cse 4334": [
+    "marnim galib",
+    "deok gun park",
+    "rozsa zaruba",
     "fatma arslan",
     "chengkai li",
-    "deok gun park",
-    "upendranatha chakravarthy",
-    "marnim galib",
-    "rozsa zaruba"
+    "upendranatha chakravarthy"
   ],
   "scie 4331": [
     "karen matsler",
@@ -18129,18 +17544,18 @@ export const data_course_prof = {
     "marti harvey"
   ],
   "clas 1300": [
+    "michael mcshane",
     "martin gallagher",
-    "charles chiasson",
-    "michael mcshane"
+    "charles chiasson"
   ],
   "latn 1442": [
     "martin gallagher",
     "charles chiasson"
   ],
   "soci 2312": [
-    "lilian chavez",
-    "dorothy kalanzi",
     "mary hanson-evans",
+    "dorothy kalanzi",
+    "lilian chavez",
     "krystal beamon"
   ],
   "soci 3334": [
@@ -18153,136 +17568,136 @@ export const data_course_prof = {
     "mary mancini"
   ],
   "nurs 4581": [
-    "ahmad hamdan",
     "mary reid",
-    "kirsti landels",
+    "crystal ramirez",
     "carrie arena-marshall",
-    "crystal ramirez"
+    "ahmad hamdan",
+    "kirsti landels"
   ],
   "nurs 3365": [
-    "mary reid",
-    "sandra laird",
     "phyllis pastwa",
+    "mary reid",
     "bailey davis",
     "tara martin",
-    "rosemary bell"
+    "rosemary bell",
+    "sandra laird"
   ],
   "art 1309": [
-    "cheryl mitchell",
-    "mary vaccaro"
+    "mary vaccaro",
+    "cheryl mitchell"
   ],
   "art 3300": [
-    "mary vaccaro",
     "trenton barnes",
+    "mary vaccaro",
     "fletcher coleman"
   ],
   "art 3351": [
+    "homa parsaiyan",
     "steven james",
-    "mason lahue",
-    "homa parsaiyan"
+    "mason lahue"
   ],
   "art 4101": [
     "matthew clark"
   ],
   "biol 3317": [
-    "jeffery demuth",
-    "matthew fujita"
+    "matthew fujita",
+    "jeffery demuth"
   ],
   "acct 3309": [
-    "matthew sargent",
     "stanley seat",
+    "matthew sargent",
+    "shamsuddin bharwani",
     "kimberly bates",
-    "terra mcghee",
     "jivas chakravarthy",
-    "shamsuddin bharwani"
+    "terra mcghee"
   ],
   "biol 4379": [
-    "xavier aranda",
-    "matthew walsh",
     "sen xu",
-    "luke frishkoff"
+    "xavier aranda",
+    "luke frishkoff",
+    "matthew walsh"
   ],
   "nurs 3345": [
-    "maura bernasconi",
     "gretchen burke",
-    "tamara eades",
-    "david smith",
     "pamela white",
     "julie snow",
+    "maura bernasconi",
+    "tamara eades",
+    "david smith",
     "esther dorsey",
     "marianne doan"
   ],
   "nurs 3375": [
-    "maura bernasconi",
-    "tamara eades",
+    "leslie jennings",
+    "tamara peavy",
     "pamela white",
     "julie snow",
-    "tamara peavy",
-    "leslie jennings",
+    "maura bernasconi",
+    "tamara eades",
     "marianne doan"
   ],
   "nursu 3345": [
+    "pamela white",
     "maura bernasconi",
     "tamara eades",
     "david smith",
-    "pamela white",
     "marianne doan"
   ],
   "nursu 3375": [
+    "leslie jennings",
+    "pamela white",
     "maura bernasconi",
     "tamara eades",
-    "pamela white",
-    "leslie jennings",
     "marianne doan"
   ],
   "nurs 3321": [
-    "thomas dombrowsky",
-    "maxine adegbola"
+    "maxine adegbola",
+    "thomas dombrowsky"
   ],
   "aren 3343": [
+    "xinbao yu",
     "md hossain",
-    "laureano hoyos",
-    "xinbao yu"
+    "laureano hoyos"
   ],
   "ce 3343": [
+    "xinbao yu",
     "md hossain",
-    "laureano hoyos",
-    "xinbao yu"
+    "laureano hoyos"
   ],
   "aren 3143": [
-    "md hossain",
+    "gang lei",
     "faria fahim badhon",
-    "md azijul islam",
-    "gang lei"
+    "md hossain",
+    "md azijul islam"
   ],
   "ce 3143": [
     "tahsina islam",
-    "niloy gupta",
-    "md azijul islam",
-    "gang lei",
-    "tanvir imtiaz",
     "md shams razi shopnil",
     "md hossain",
-    "faria fahim badhon"
+    "niloy gupta",
+    "gang lei",
+    "tanvir imtiaz",
+    "faria fahim badhon",
+    "md azijul islam"
   ],
   "mae 2312": [
-    "dragos dancila",
     "ashfaq adnan",
+    "hari adluru",
+    "md rassel raihan",
     "franck tchafa",
+    "khandakar mahmud",
+    "nora ameri",
+    "richard mcmullen",
+    "dragos dancila",
     "bastiaan van der vossen",
     "catherine kilmain",
-    "md rassel raihan",
-    "richard mcmullen",
-    "nora ameri",
-    "wei-tsen lu",
-    "khandakar mahmud",
-    "narges shayesteh moghaddam",
     "cheng luo",
-    "hari adluru"
+    "wei-tsen lu",
+    "narges shayesteh moghaddam"
   ],
   "cse 2440": [
-    "md salik parwez",
-    "ronald cross"
+    "ronald cross",
+    "md salik parwez"
   ],
   "cse 4345": [
     "md salik parwez"
@@ -18292,11 +17707,11 @@ export const data_course_prof = {
     "md salik parwez"
   ],
   "nurs 4351": [
-    "raquita weeks-lee",
-    "kelly welch",
     "patricia allard",
+    "raquita weeks-lee",
     "meagan rogers",
-    "courtney johnson"
+    "courtney johnson",
+    "kelly welch"
   ],
   "pcom 2301": [
     "carmin harris",
@@ -18304,17 +17719,18 @@ export const data_course_prof = {
     "colton strawser"
   ],
   "thea 1303": [
-    "joe chapa",
-    "felicia bertch",
     "megan haratine",
+    "felicia bertch",
+    " ",
+    "joe chapa",
     "elizabeth hawkins"
   ],
   "geol 3446": [
     "megan korchinski"
   ],
   "musi 3301": [
-    "megan sarno",
-    "sean morrison"
+    "sean morrison",
+    "megan sarno"
   ],
   "bcmn 3355": [
     "melanie mason"
@@ -18334,24 +17750,24 @@ export const data_course_prof = {
     "melissa hulings"
   ],
   "biol 1333": [
-    "jill devito",
     "allison martin",
+    "melissa walsh",
     "heather arterburn",
-    "melissa walsh"
+    "jill devito"
   ],
   "biol 3101": [
+    "melissa walsh",
+    "heather arterburn",
+    "joseph landy",
     "woo-suk chang",
     "whitney tholen",
-    "heather arterburn",
-    "melissa walsh",
-    "joseph landy",
     "eric smith"
   ],
   "nursu 4455": [
     "cynthia koomey",
     "meagan rogers",
-    "susan norman",
-    "melynda hutchings"
+    "melynda hutchings",
+    "susan norman"
   ],
   "geol 4342": [
     "merlynd nestell"
@@ -18361,30 +17777,30 @@ export const data_course_prof = {
     "gaik ambartsoumian"
   ],
   "aast 3310": [
+    "joseph guillory",
     "mia kirby",
-    "frederick engram",
-    "joseph guillory"
+    "frederick engram"
   ],
   "socw 4310": [
     "mia kirby",
-    "diane mitschke",
+    "tiara okoruwa",
     "allison tomlinson",
     "stephanie bonilla",
     "donna davis",
-    "tiara okoruwa",
+    "diane mitschke",
+    "zerita hall",
     "michelle dionne jones",
-    "kendra tevis",
-    "zerita hall"
+    "kendra tevis"
   ],
   "mana 4325": [
-    "joohan lee",
-    "patricia parham",
-    "michael beeson",
-    "marla white",
-    "jeanne michalski",
     "wendelyn risher",
     "anna-lisa leefers",
-    "esther jean"
+    "patricia parham",
+    "joohan lee",
+    "marla white",
+    "esther jean",
+    "michael beeson",
+    "jeanne michalski"
   ],
   "mae 3324": [
     "sunand santhanagopalan",
@@ -18399,40 +17815,40 @@ export const data_course_prof = {
     "michael drake"
   ],
   "cm 3339": [
-    "michael fairchild",
-    "ahmad kamal bani hani"
+    "ahmad kamal bani hani",
+    "michael fairchild"
   ],
   "aren 3331": [
     "insung kang",
     "michael fairchild"
   ],
   "cm 3331": [
-    "michael fairchild",
-    "ahmad kamal bani hani"
+    "ahmad kamal bani hani",
+    "michael fairchild"
   ],
   "ce 4304": [
     "ahmad kamal bani hani",
+    "michael fairchild",
     "tamer eljufout",
     "vinayak kaushal",
-    "michael fairchild",
     "zhe yin"
   ],
   "cm 4304": [
     "ahmad kamal bani hani",
+    "michael fairchild",
     "tamer eljufout",
     "vinayak kaushal",
-    "michael fairchild",
     "zhe yin"
   ],
   "pols 4392": [
-    "brent sasley",
-    "daniel sledge",
-    "marcus hendershot",
     "xavier vidal",
-    "christopher chambers-ju",
-    "michael farris",
+    "daniel sledge",
     "gabriela okundaye",
-    "mark hand"
+    "brent sasley",
+    "michael farris",
+    "mark hand",
+    "christopher chambers-ju",
+    "marcus hendershot"
   ],
   "pols 4332": [
     "michael farris",
@@ -18449,44 +17865,44 @@ export const data_course_prof = {
     "michael morrison"
   ],
   "acct 2302": [
-    "tsung hsuan yang",
-    "kelly gebhart",
-    "rohit agarwal",
-    "triza nganga",
-    "stephanie rasmussen",
-    "mahmud rahman",
-    "suye wang",
-    "terra mcghee",
     "yuan ji",
-    "michael prachyl",
+    "stephanie rasmussen",
+    "suye wang",
     "xiaozhe gu",
-    "xin zhou"
+    "michael prachyl",
+    "tsung hsuan yang",
+    "triza nganga",
+    "xin zhou",
+    "terra mcghee",
+    "rohit agarwal",
+    "mahmud rahman",
+    "kelly gebhart"
   ],
   "biol 4312": [
-    "michael roner",
-    "heather charles"
+    "heather charles",
+    "michael roner"
   ],
   "hist 2311": [
     "wendell hunnicutt",
-    "austin loignon",
     "ashley umphenour",
-    "michael stout"
+    "michael stout",
+    "austin loignon"
   ],
   "crcj 3340": [
+    "sarah el sayed",
     "michael teneyck",
-    "seokjin jeong",
-    "sarah el sayed"
+    "seokjin jeong"
   ],
   "math 4321": [
     "dimitar grantcharov",
     "michaela vancliff"
   ],
   "ce 3342": [
-    "michelle hummel",
-    "kathleen smits",
-    "babak alizadeh",
     "jessica eisma",
-    "habib ahmari"
+    "babak alizadeh",
+    "kathleen smits",
+    "habib ahmari",
+    "michelle hummel"
   ],
   "mae 1107": [
     "miguel amaya"
@@ -18503,56 +17919,56 @@ export const data_course_prof = {
     "thomas christie"
   ],
   "cse 4344": [
-    "yonghe liu",
-    "ming li",
-    "habeeb olufowobi",
     "chance eary",
+    "habeeb olufowobi",
+    "ming li",
+    "yonghe liu",
     "md salik parwez",
     "sajib datta"
   ],
   "math 3315": [
+    "mohammad ganjizadeh",
+    "hongguang xi",
     "benito chen charpentier",
     "david jorgensen",
-    "hongguang xi",
-    "jian hao",
-    "mohammad ganjizadeh"
+    "jian hao"
   ],
   "cse 4323": [
     "mohammad islam"
   ],
   "ce 4332": [
-    "vinayak kaushal",
-    "mohammad najafi"
+    "mohammad najafi",
+    "vinayak kaushal"
   ],
   "coms 3316": [
+    "grace brannon",
     "karishma chatterjee",
-    "molly cummins",
-    "grace brannon"
+    "molly cummins"
   ],
   "span 3341": [
-    "monica de la fuente iglesias",
-    "vicente jose iranzo banuls"
+    "vicente jose iranzo banuls",
+    "monica de la fuente iglesias"
   ],
   "span 4335": [
-    "rosa tellez",
-    "monica de la fuente iglesias",
     "fernando melero-garcia",
-    "david hervas"
+    "david hervas",
+    "rosa tellez",
+    "monica de la fuente iglesias"
   ],
   "aren 3311": [
-    "mostafa ghandehari",
     "zhe yin",
+    "mostafa ghandehari",
     "nilo tsung"
   ],
   "ce 3311": [
-    "mostafa ghandehari",
     "zhe yin",
+    "mostafa ghandehari",
     "nilo tsung"
   ],
   "phys 4324": [
-    "cheng sheng",
     "daniel welling",
-    "muhammad huda"
+    "muhammad huda",
+    "cheng sheng"
   ],
   "cse 4309": [
     "vassilis athitsos",
@@ -18560,19 +17976,19 @@ export const data_course_prof = {
     "brian dalio"
   ],
   "chem 1442": [
-    "rashidat ayinla olagunju",
     "joshua crowell",
-    "cynthia griffith",
-    "jimmy rogers",
     "seiichiro tanizaki",
-    "william cleaver",
-    "gregory hale",
+    "cynthia griffith",
+    "frederick macdonnell",
     "nagham alatrash",
-    "frederick macdonnell"
+    "rashidat ayinla olagunju",
+    "gregory hale",
+    "jimmy rogers",
+    "william cleaver"
   ],
   "fren 3303": [
-    "omar valdez rocha",
-    "najia alameddin"
+    "najia alameddin",
+    "omar valdez rocha"
   ],
   "anth 3352": [
     "naomi cleghorn"
@@ -18582,89 +17998,89 @@ export const data_course_prof = {
   ],
   "arch 4395": [
     "sandra espinoza",
-    "charles macbride",
+    "dennis chiessa",
     "thomas read",
-    "narjes abbasabadi",
+    "julia lindgren",
+    "joshua nason",
+    "bradley bell",
+    "charles macbride",
     "jerald kunkel",
     "michelle hummel",
-    "julia lindgren",
-    "austin allen",
-    "bradley bell",
-    "dennis chiessa",
+    "narjes abbasabadi",
     "oswald jenewein",
-    "john maruszczak",
-    "joshua nason"
+    "austin allen",
+    "john maruszczak"
   ],
   "span 3315": [
     "rosa tellez",
-    "elizabeth deifell",
     "lourdes bueno",
     "natalia eunice trigo acuna",
-    "jinny choi",
-    "ignacio ruiz-perez",
-    "amy austin",
+    "geraldina cobos",
     "solymar torres-garcia",
+    "elizabeth deifell",
     "david hervas",
-    "geraldina cobos"
+    "ignacio ruiz-perez",
+    "jinny choi",
+    "amy austin"
   ],
   "thea 1343": [
-    "natalie gaupp",
     "megan haratine",
     "julienne greer",
     "seraphina glass",
-    "elizabeth hawkins"
-  ],
-  "thea 4304": [
-    "john trainor",
     "natalie gaupp",
     "elizabeth hawkins"
   ],
+  "thea 4304": [
+    "elizabeth hawkins",
+    "john trainor",
+    "natalie gaupp"
+  ],
   "geol 4330": [
-    "elsa pirouz",
+    "charles travis",
     "neda ghazipour",
-    "joshua pulcinella",
-    "charles travis"
+    "elsa pirouz",
+    "joshua pulcinella"
   ],
   "geol 4334": [
     "neda ghazipour"
   ],
   "engl 4399": [
-    "desiree henderson",
-    "cedrick may",
     "kenton rambsy",
-    "timothy morris",
-    "timothy richardson",
-    "neill matheson",
-    "erin murrah-mandril",
+    "cedrick may",
     "penelope ingram",
-    "peggy kulesz"
+    "timothy morris",
+    "peggy kulesz",
+    "desiree henderson",
+    "neill matheson",
+    "timothy richardson",
+    "erin murrah-mandril"
   ],
   "ce 2331": [
-    "saeed reza ramezanpour nargesi",
     "nelson gomez-torres",
-    "george agoki"
+    "george agoki",
+    "saeed reza ramezanpour nargesi"
   ],
   "aren 4352": [
-    "ernest crosby",
-    "nelson gomez-torres"
+    "nelson gomez-torres",
+    "ernest crosby"
   ],
   "ce 4352": [
-    "ernest crosby",
-    "nelson gomez-torres"
+    "nelson gomez-torres",
+    "ernest crosby"
   ],
   "ce 4312": [
     "nelson gomez-torres",
     "sina famili"
   ],
   "ce 3302": [
-    "stephen mattingly",
     "nelson gomez-torres",
-    "sina famili"
+    "sina famili",
+    "stephen mattingly"
   ],
   "data 3311": [
+    "nethali fernando",
     "mahmoud jawad",
-    "pedro maia",
-    "nethali fernando"
+    "pedro maia"
   ],
   "phys 4319": [
     "nevin weinberg"
@@ -18680,85 +18096,85 @@ export const data_course_prof = {
     "nichole horn"
   ],
   "psyc 3302": [
-    "julia whitaker",
     "nicolette hass",
-    "nicholas smith"
+    "nicholas smith",
+    "julia whitaker"
   ],
   "astr 1345": [
-    "fajer jaafari",
-    "james davis",
-    "manfred cuntz",
     "sangwook park",
     "suman satyal",
-    "nilakshi veerabathina"
+    "manfred cuntz",
+    "james davis",
+    "nilakshi veerabathina",
+    "fajer jaafari"
   ],
   "ce 4303": [
     "nilo tsung"
   ],
   "aren 2252": [
-    "saeed reza ramezanpour nargesi",
-    "niloofar parsaeifard"
+    "niloofar parsaeifard",
+    "saeed reza ramezanpour nargesi"
   ],
   "ce 3347": [
-    "raad azzawi",
-    "nur yazdani"
+    "nur yazdani",
+    "raad azzawi"
   ],
   "engl 1375": [
+    "laura kopchick",
+    "sean woodard",
     "nathanael oreilly",
-    "trevor fuller",
-    "joshua canipe",
-    "amy bernhard",
-    "timothy richardson",
     "olivia arroyo",
     "sean hooks",
-    "laura kopchick",
-    "sean woodard"
+    "joshua canipe",
+    "trevor fuller",
+    "amy bernhard",
+    "timothy richardson"
   ],
   "intd 2343": [
     "marjan moradi",
-    "olivia jeffries",
-    "somang yang"
+    "somang yang",
+    "olivia jeffries"
   ],
   "arch 4311": [
-    "hyesun jeong",
-    "austin allen",
-    "oswald jenewein",
     "ursula emery-mcclure",
-    "henry abosi",
     "mark lamster",
-    "joshua nason"
+    "henry abosi",
+    "joshua nason",
+    "hyesun jeong",
+    "oswald jenewein",
+    "austin allen"
   ],
   "socw 4370": [
-    "shauntel adams",
+    "pamela johnson",
     "jandel crutchfield",
-    "pamela johnson"
+    "shauntel adams"
   ],
   "sut 3318": [
+    "pamela randolph",
     "donald schuman",
     "sherry cabaniss",
-    "rachel swope",
-    "pamela randolph"
+    "rachel swope"
   ],
   "ce 2153": [
+    "ramya anandhan",
     "myrsini maglogianni",
-    "arpita bhatt",
     "panagiotis danoglidis",
-    "ramya anandhan"
+    "arpita bhatt"
   ],
   "ce 3361": [
     "maria konsta gdoutos",
-    "stefan romanoschi",
-    "panagiotis danoglidis"
+    "panagiotis danoglidis",
+    "stefan romanoschi"
   ],
   "mae 3183": [
+    "sudip hazra",
     "thomas allsup",
     "panayiotis shiakolas",
-    "parimal patel",
-    "sudip hazra"
+    "parimal patel"
   ],
   "nurs 3352": [
-    "gladys maryol",
-    "patricia allard"
+    "patricia allard",
+    "gladys maryol"
   ],
   "nursu 3352": [
     "patricia allard"
@@ -18788,63 +18204,63 @@ export const data_course_prof = {
   ],
   "nursu 3325": [
     "adejoke ogidan",
+    "tamara andrews",
+    "fatoumata jallow",
     "patricia plumer",
     "denise cauble",
-    "fatoumata jallow",
-    "tamara andrews",
     "marianne doan"
   ],
   "hist 3306": [
+    "michael stout",
     "sam haynes",
     "karen beasley",
-    "patryk babiracki",
-    "michael stout"
+    "patryk babiracki"
   ],
   "biol 1441": [
-    "walter schargel",
+    "allan clark",
+    "sharleen flowers",
     "melissa walsh",
+    "shawn christensen",
+    "lauren bohenek",
+    "walter schargel",
     "paul chippindale",
     "ida klang",
     "caitlin maynard",
-    "sharleen flowers",
     "sophia passy",
-    "lauren bohenek",
-    "shawn christensen",
-    "kathleen ahles",
-    "allan clark",
-    "mark pellegrino"
+    "mark pellegrino",
+    "kathleen ahles"
   ],
   "biol 3339": [
-    "janet buckner",
-    "paul chippindale"
+    "paul chippindale",
+    "janet buckner"
   ],
   "hist 1331": [
-    "paul conrad",
-    "merry jett",
-    "kevin moskowitz",
     "kimberly breuer",
-    "alexandra rains"
+    "alexandra rains",
+    "merry jett",
+    "paul conrad",
+    "kevin moskowitz"
   ],
   "mae 4321": [
-    "paul hagseth",
     "david fox",
     "donald wilson",
-    "dora musielak",
-    "dennis finley"
+    "dennis finley",
+    "paul hagseth",
+    "dora musielak"
   ],
   "mae 4322": [
-    "paul hagseth",
     "brian van lear",
-    "jaclyn mejia"
+    "jaclyn mejia",
+    "paul hagseth"
   ],
   "mils 2252": [
     "paul kim",
     "jeremy bland"
   ],
   "beep 4302": [
+    "luis rosado",
     "emilio rios-jimenez",
-    "paul polanco",
-    "luis rosado"
+    "paul polanco"
   ],
   "art 4357": [
     "timothy carvalho",
@@ -18852,21 +18268,21 @@ export const data_course_prof = {
   ],
   "art 4395": [
     "robert hower",
+    "glady chow",
     "mason lahue",
-    "pauline hudel smith",
-    "glady chow"
+    "pauline hudel smith"
   ],
   "kine 3351": [
-    "peace ossom",
-    "christina tuell",
     "irene gallegos",
+    "christina tuell",
+    "peace ossom",
     "anita corbitt"
   ],
   "ling 4395": [
-    "naoko witzel",
     "cynthia kilpatrick",
-    "peggy semingson",
-    "jeffrey witzel"
+    "jeffrey witzel",
+    "naoko witzel",
+    "peggy semingson"
   ],
   "ling 4353": [
     "emily williams",
@@ -18878,19 +18294,19 @@ export const data_course_prof = {
     "justin lerberg"
   ],
   "biol 3303": [
-    "perry fuchs",
+    "scott coleman",
     "zane grubaugh",
-    "scott coleman"
+    "perry fuchs"
   ],
   "heed 3303": [
-    "perry fuchs",
+    "scott coleman",
     "zane grubaugh",
-    "scott coleman"
+    "perry fuchs"
   ],
   "psyc 3303": [
-    "perry fuchs",
+    "scott coleman",
     "zane grubaugh",
-    "scott coleman"
+    "perry fuchs"
   ],
   "chem 3322": [
     "kwangho nam",
@@ -18905,23 +18321,23 @@ export const data_course_prof = {
     "xiangli gu"
   ],
   "insy 3300": [
-    "zhuojun gu",
-    "koshy vaidyan joseph",
-    "puspa mahapatra",
     "carolyn davis",
-    "ravi badrachalam",
-    "neshat beheshti"
+    "neshat beheshti",
+    "koshy vaidyan joseph",
+    "zhuojun gu",
+    "puspa mahapatra",
+    "ravi badrachalam"
   ],
   "plan 4310": [
     "ivonne audirac-zazueta",
-    "qian he",
-    "jenifer reiner"
+    "jenifer reiner",
+    "qian he"
   ],
   "bstat 3322": [
-    "qiang ruan",
+    "md helal",
     "mohammed nour",
-    "alan cannon",
-    "md helal"
+    "qiang ruan",
+    "alan cannon"
   ],
   "ee 4333": [
     "qilian liang"
@@ -18937,36 +18353,36 @@ export const data_course_prof = {
     "raad azzawi"
   ],
   "ce 4365": [
-    "raad azzawi",
-    "juan balderrama"
+    "juan balderrama",
+    "raad azzawi"
   ],
   "psyc 3315": [
+    "colette jacquot",
+    "kristen hull",
     "rachel baldridge",
     "susan eddlemon villalobos",
-    "kristen hull",
-    "rebecca escoto",
-    "colette jacquot"
+    "rebecca escoto"
   ],
   "mils 3342": [
-    "james ross",
+    "jeremy hubacek",
     "rachel wood",
-    "jeremy hubacek"
+    "james ross"
   ],
   "ee 3314": [
-    "jon mitchell",
-    "ralph gibbs"
+    "ralph gibbs",
+    "jon mitchell"
   ],
   "phys 3313": [
-    "benjamin jones",
+    "ramon lopez",
     "nevin weinberg",
-    "ramon lopez"
+    "benjamin jones"
   ],
   "ee 3316": [
-    "dukhyun kim",
-    "ramtin madani",
     "qilian liang",
-    "michael manry",
     "alexander johnston",
+    "ramtin madani",
+    "michael manry",
+    "dukhyun kim",
     "venkat devarajan"
   ],
   "opma 4302": [
@@ -18978,8 +18394,8 @@ export const data_course_prof = {
   ],
   "opma 4309": [
     "randall napier",
-    "saurabh ambulkar",
-    "edmund prater"
+    "edmund prater",
+    "saurabh ambulkar"
   ],
   "phys 4327": [
     "ali koymen",
@@ -19000,24 +18416,24 @@ export const data_course_prof = {
   ],
   "mae 4188": [
     "thomas allsup",
-    "robert woods",
-    "raul fernandez"
+    "raul fernandez",
+    "robert woods"
   ],
   "intd 3554": [
     "rebecca boles",
     "arden stephenson"
   ],
   "heed 2317": [
-    "rebecca escoto",
-    "colette jacquot"
+    "colette jacquot",
+    "rebecca escoto"
   ],
   "woms 2317": [
-    "rebecca escoto",
-    "colette jacquot"
+    "colette jacquot",
+    "rebecca escoto"
   ],
   "psyc 2317": [
-    "rebecca escoto",
-    "colette jacquot"
+    "colette jacquot",
+    "rebecca escoto"
   ],
   "kine 4357": [
     "rebecca garner"
@@ -19026,8 +18442,8 @@ export const data_course_prof = {
     "rebecca neilson"
   ],
   "ints 4391": [
-    "rebekah chojnacki",
-    "mary hanson-evans"
+    "mary hanson-evans",
+    "rebekah chojnacki"
   ],
   "engl 3353": [
     "rechelle christie"
@@ -19039,38 +18455,38 @@ export const data_course_prof = {
     "reem shishakly"
   ],
   "nursu 4325": [
-    "thomas dombrowsky",
-    "regina urban"
+    "regina urban",
+    "thomas dombrowsky"
   ],
   "scie 3301": [
-    "fajer jaafari",
     "rene mccormick",
+    "fajer jaafari",
     "gregory hale"
   ],
   "nurs 4199": [
     "rhonda hudson"
   ],
   "exsa 1247": [
-    "tyler garner",
-    "rhonda prisby"
+    "rhonda prisby",
+    "tyler garner"
   ],
   "plan 4305": [
-    "richard greene",
-    "james hobbs"
+    "james hobbs",
+    "richard greene"
   ],
   "geol 3340": [
-    "richard mcmullen",
-    "elsa pirouz",
     "neda ghazipour",
-    "megan korchinski"
+    "elsa pirouz",
+    "megan korchinski",
+    "richard mcmullen"
   ],
   "crcj 3300": [
-    "michael teneyck",
-    "robert bing",
-    "christi gullion",
     "omobolanle fenny",
     "john rodriguez",
-    "seokjin jeong"
+    "seokjin jeong",
+    "michael teneyck",
+    "robert bing",
+    "christi gullion"
   ],
   "soci 3348": [
     "robert kunovich"
@@ -19086,23 +18502,23 @@ export const data_course_prof = {
     "robert woods"
   ],
   "mae 4287": [
-    "robert woods",
-    "raul fernandez"
+    "raul fernandez",
+    "robert woods"
   ],
   "soci 3317": [
     "robert young"
   ],
   "soci 3462": [
-    "robert kunovich",
-    "robert young"
+    "robert young",
+    "robert kunovich"
   ],
   "list 4378": [
     "robin jocius"
   ],
   "chem 3317": [
-    "robin macaluso",
+    "frederick macdonnell",
     "sherri mcfarland",
-    "frederick macdonnell"
+    "robin macaluso"
   ],
   "advt 3306": [
     "roby mceuen"
@@ -19111,23 +18527,23 @@ export const data_course_prof = {
     "roby mceuen"
   ],
   "beep 4311": [
-    "rocio sarmiento-ayala",
     "diem vuong",
-    "christopher kribs"
+    "christopher kribs",
+    "rocio sarmiento-ayala"
   ],
   "econ 2306": [
-    "antonia gkergki",
     "brandon vanderford",
-    "jane himarios",
+    "antonia gkergki",
     "david quigley",
-    "robert pettis",
-    "roger meiners",
-    "christopher candreva",
-    "timothy wunder",
-    "ashish sedai",
-    "donald blackburn",
     "roger wehr",
-    "todd gabel"
+    "donald blackburn",
+    "robert pettis",
+    "timothy wunder",
+    "christopher candreva",
+    "roger meiners",
+    "ashish sedai",
+    "todd gabel",
+    "jane himarios"
   ],
   "econ 3328": [
     "roger wehr"
@@ -19139,45 +18555,45 @@ export const data_course_prof = {
     "ronald liggett"
   ],
   "univ-bu 1131": [
-    "antonia gkergki",
-    "jie zhang",
-    "olamide temitope olajuwon ige",
-    "faye cocchiara",
     "heather philip",
-    "shona smith",
-    "anh tuan nguyen",
-    "dan chen",
-    "timothy wunder",
-    "marvin brittingham",
     "ronald liggett",
+    "marvin brittingham",
     "adwait khare",
-    "kathy aslin",
+    "shona smith",
+    "roger wehr",
+    "thomas brill",
     "fnu pratima",
-    "karen scott",
+    "olamide temitope olajuwon ige",
+    "marla white",
+    "lesley regalado",
+    "terra mcghee",
+    "jerry hubbard",
+    "fredrick rice",
+    "kathy aslin",
+    "jacqueline chung",
+    "anh tuan nguyen",
+    "ankit kapur",
+    "timothy wunder",
+    "yibing du",
     "karen raskopf",
-    "ankita damani",
+    "ani khachatryan",
+    "antonia gkergki",
+    "matthew sargent",
+    "wayne crawford",
+    "jie zhang",
     "chien le",
     "narayanan janakiraman",
-    "ankit kapur",
-    "fredrick rice",
-    "nima vafai",
-    "marla white",
-    "terra mcghee",
-    "wayne crawford",
-    "tatia jacobson jordan",
-    "jerry hubbard",
-    "roger wehr",
+    "dan chen",
+    "karen scott",
     "martin monroe",
-    "trang thai",
-    "todd gabel",
-    "yibing du",
-    "ani khachatryan",
-    "matthew sargent",
-    "lesley regalado",
-    "steve isbell",
-    "thomas brill",
+    "tatia jacobson jordan",
     "william venable",
-    "jacqueline chung"
+    "faye cocchiara",
+    "nima vafai",
+    "ankita damani",
+    "trang thai",
+    "steve isbell",
+    "todd gabel"
   ],
   "musi 0271": [
     "ronald montgomery"
@@ -19186,26 +18602,26 @@ export const data_course_prof = {
     "ronald montgomery"
   ],
   "span 2310": [
-    "rosa tellez",
-    "natalia eunice trigo acuna"
+    "natalia eunice trigo acuna",
+    "rosa tellez"
   ],
   "span 2315": [
+    "catherine ortiz",
     "rosa tellez",
-    "sonia mahoney",
     "christopher conway",
-    "amy austin",
-    "catherine ortiz"
+    "sonia mahoney",
+    "amy austin"
   ],
   "span 3303": [
     "rosa tellez",
-    "alicia rueda-acedo",
+    "natalia eunice trigo acuna",
     "isabel zaera",
     "elizabeth deifell",
-    "natalia eunice trigo acuna"
+    "alicia rueda-acedo"
   ],
   "span 3314": [
-    "rosa tellez",
     "catherine ortiz",
+    "rosa tellez",
     "christopher conway"
   ],
   "ie 1110": [
@@ -19213,54 +18629,54 @@ export const data_course_prof = {
     "bonnie boardman"
   ],
   "univ-sc 1101": [
-    "chadwick fuchs",
-    "roxanna latifi-santos"
+    "roxanna latifi-santos",
+    "chadwick fuchs"
   ],
   "bana 3308": [
     "ruochen liao"
   ],
   "math 3300": [
-    "ruth gornet",
-    "karl backs",
+    "david jorgensen",
     "daniel warren",
-    "david jorgensen"
+    "karl backs",
+    "ruth gornet"
   ],
   "mae 3405": [
+    "ryan callahan",
+    "animesh chakravarthy",
     "baxter mullins",
     "kamesh subbarao",
-    "animesh chakravarthy",
-    "ryan callahan",
     "julio benavides"
   ],
   "germ 2313": [
-    "sabine harvey",
+    "ketevan karukhnishvili",
     "barbara berthold",
-    "ketevan karukhnishvili"
+    "sabine harvey"
   ],
   "germ 2314": [
-    "sabine harvey",
+    "ketevan karukhnishvili",
     "barbara berthold",
-    "ketevan karukhnishvili"
+    "sabine harvey"
   ],
   "germ 4314": [
     "sabine harvey"
   ],
   "intd 1342": [
-    "nancy greene",
     "james marstiller",
+    "sadia rattani",
     "arden stephenson",
     "yasaman shahbazi",
-    "sadia rattani"
+    "nancy greene"
   ],
   "ee 3407": [
-    "kambiz alavi",
-    "saibun tjuatja"
+    "saibun tjuatja",
+    "kambiz alavi"
   ],
   "chem 2335": [
-    "alison wicker",
-    "tiffany liden",
     "purnendu dasgupta",
-    "saiful chowdhury"
+    "saiful chowdhury",
+    "tiffany liden",
+    "alison wicker"
   ],
   "chem 2285": [
     "purnendu dasgupta",
@@ -19270,8 +18686,8 @@ export const data_course_prof = {
     "sally parker ryan"
   ],
   "art 4348": [
-    "kimberly elliott",
     "salvatore terrasi",
+    "kimberly elliott",
     "gregory cook"
   ],
   "hist 3312": [
@@ -19281,12 +18697,12 @@ export const data_course_prof = {
     "sam haynes"
   ],
   "musi 0131": [
-    "william townsley",
-    "samuel garner"
+    "samuel garner",
+    "william townsley"
   ],
   "musi 3320": [
-    "aleyna brown",
-    "samuel garner"
+    "samuel garner",
+    "aleyna brown"
   ],
   "chin 3311": [
     "samuel smith"
@@ -19298,10 +18714,10 @@ export const data_course_prof = {
     "samuel smith"
   ],
   "art 3356": [
-    "zenas ikeda",
-    "kimberly elliott",
     "gregory cook",
-    "sandy harris"
+    "kimberly elliott",
+    "sandy harris",
+    "zenas ikeda"
   ],
   "phys 2315": [
     "sangwook park"
@@ -19321,8 +18737,8 @@ export const data_course_prof = {
     "sara skiles-dutoit"
   ],
   "crcj 3385": [
-    "james kelsay",
     "jaya davis",
+    "james kelsay",
     "sarah el sayed"
   ],
   "ds 4395": [
@@ -19332,8 +18748,8 @@ export const data_course_prof = {
     "sarah rose"
   ],
   "engl 4375": [
-    "sarah shelton",
-    "timothy ponce"
+    "timothy ponce",
+    "sarah shelton"
   ],
   "biol 4327": [
     "scott coleman"
@@ -19354,35 +18770,35 @@ export const data_course_prof = {
     "scott hilton"
   ],
   "insy 3303": [
-    "scott johnson",
-    "jingguo wang",
     "koshy vaidyan joseph",
+    "jingguo wang",
+    "scott johnson",
     "subhra patra"
   ],
   "hist 2377": [
     "scott palmer"
   ],
   "phys 3183": [
-    "scott yarbrough",
     "matthew chrysler",
+    "scott yarbrough",
     "nabin chapagain"
   ],
   "art 4371": [
-    "benjamin terry",
+    "sedrick huckaby",
     "yana farbrook",
-    "sedrick huckaby"
+    "benjamin terry"
   ],
   "chem 1451": [
     "seiichiro tanizaki"
   ],
   "thea 2309": [
-    "john trainor",
-    "darius booker",
     "detra payne",
     "julienne greer",
+    "john trainor",
     "gregory mcbride",
     "seraphina glass",
-    "elizabeth hawkins"
+    "elizabeth hawkins",
+    "darius booker"
   ],
   "thea 3320": [
     "seraphina glass"
@@ -19392,44 +18808,44 @@ export const data_course_prof = {
     "sergio espinosa"
   ],
   "crcj 4352": [
-    "brook rollins",
     "seungmug lee",
-    "estevan gomez"
+    "estevan gomez",
+    "brook rollins"
   ],
   "art 4374": [
+    "farzaneh eftekhari",
     "nijal munankarmi",
     "benjamin dolezal",
-    "farzaneh eftekhari",
     "shaban al-refai"
   ],
   "arch 3336": [
-    "arash saleh",
-    "ali reza sayah",
     "mahmoud bayat",
-    "shaher rababeh"
+    "shaher rababeh",
+    "arash saleh",
+    "ali reza sayah"
   ],
   "aren 2315": [
     "juan balderrama",
-    "michael zaretsky",
     "shaher rababeh",
-    "niloofar parsaeifard"
+    "niloofar parsaeifard",
+    "michael zaretsky"
   ],
   "aren 4383": [
-    "shaher rababeh",
-    "juan balderrama"
+    "juan balderrama",
+    "shaher rababeh"
   ],
   "arch 3551": [
-    "lorena toffer",
+    "heath macdonald",
     "shaher rababeh",
     "katherine kosut",
-    "michael zaretsky",
-    "heath macdonald"
+    "lorena toffer",
+    "michael zaretsky"
   ],
   "socw 4952": [
+    "sharon martin",
     "patrice green",
-    "shauntel adams",
     "haydee hall",
-    "sharon martin"
+    "shauntel adams"
   ],
   "phil 3324": [
     "shaun house"
@@ -19443,13 +18859,13 @@ export const data_course_prof = {
     "shauntel adams"
   ],
   "socw 4951": [
-    "shauntel adams",
-    "sharon martin"
+    "sharon martin",
+    "shauntel adams"
   ],
   "ie 4344": [
-    "shuchisnigdha deb",
+    "md mahmudur rahman",
     "sheik imrhan",
-    "md mahmudur rahman"
+    "shuchisnigdha deb"
   ],
   "anth 2307": [
     "naomi cleghorn",
@@ -19457,13 +18873,13 @@ export const data_course_prof = {
   ],
   "comm 4391": [
     "brian horton",
-    "shelley wigley",
-    "julian rodriguez becerra"
+    "julian rodriguez becerra",
+    "shelley wigley"
   ],
   "prel 4316": [
-    "shelley wigley",
     "jennifer little",
-    "thomas christie"
+    "thomas christie",
+    "shelley wigley"
   ],
   "art 3388": [
     "shelly brandon"
@@ -19472,10 +18888,10 @@ export const data_course_prof = {
     "shouyi wang"
   ],
   "math 3318": [
-    "edward wilson",
     "shujie kang",
+    "yue liu",
     "yizeng li",
-    "yue liu"
+    "edward wilson"
   ],
   "kore 3304": [
     "sok ju kim"
@@ -19487,24 +18903,24 @@ export const data_course_prof = {
     "sok ju kim"
   ],
   "span 3316": [
-    "fernando melero-garcia",
     "sonia mahoney",
+    "fernando melero-garcia",
     "rosa tellez",
     "jinny choi"
   ],
   "educ 4318": [
+    "paulette brody",
+    "belinda rudinger",
+    "john romig",
+    "hugh kellam",
+    "valarie yurkunas",
     "sonja ezell",
     "cynite ola",
-    "john romig",
-    "hailey veron",
-    "belinda rudinger",
-    "paulette brody",
-    "hugh kellam",
-    "valarie yurkunas"
+    "hailey veron"
   ],
   "educ 4340": [
-    "jodi tommerdahl",
     "sonja ezell",
+    "jodi tommerdahl",
     "martha meeks loyd"
   ],
   "ce 3334": [
@@ -19513,32 +18929,32 @@ export const data_course_prof = {
     "srinivas prabakar"
   ],
   "acct 4325": [
-    "stanley seat",
-    "yuan ji"
+    "yuan ji",
+    "stanley seat"
   ],
   "socw 3320": [
-    "jaclyn kirsch",
-    "diane mitschke",
-    "stephanie bonilla",
+    "marcela nava",
     "joseph cooper",
     "ricka mammah",
-    "esmeralda rubalcava hernandez",
-    "marcela nava"
+    "diane mitschke",
+    "jaclyn kirsch",
+    "stephanie bonilla",
+    "esmeralda rubalcava hernandez"
   ],
   "hist 4302": [
     "stephanie cole"
   ],
   "heed 3305": [
+    "stephanie spohr",
     "rebecca crow",
-    "amanda english",
-    "stephanie spohr"
+    "amanda english"
   ],
   "kine 3355": [
     "stephanie spohr"
   ],
   "woms 3305": [
-    "rebecca crow",
-    "stephanie spohr"
+    "stephanie spohr",
+    "rebecca crow"
   ],
   "art 4364": [
     "stephen holland"
@@ -19559,8 +18975,8 @@ export const data_course_prof = {
     "stephen van noy"
   ],
   "fina 2330": [
-    "steve isbell",
-    "emmanuel morales-camargo"
+    "emmanuel morales-camargo",
+    "steve isbell"
   ],
   "fina 4393": [
     "steve isbell"
@@ -19576,29 +18992,29 @@ export const data_course_prof = {
     "steven gellman"
   ],
   "art 4375": [
-    "steven james",
     "kimberly elliott",
-    "andrew klein"
+    "andrew klein",
+    "steven james"
   ],
   "arch 4344": [
     "steven quevedo"
   ],
   "chem 4312": [
-    "subhrangsu mandal",
     "joshua crowell",
     "kayunta johnson-winters",
-    "jongyun heo",
-    "byung ran so"
+    "subhrangsu mandal",
+    "byung ran so",
+    "jongyun heo"
   ],
   "mae 4382": [
     "sunand santhanagopalan"
   ],
   "mae 3309": [
-    "sunand santhanagopalan",
     "miguel amaya",
-    "ali farzbod",
     "kathy hays-stang",
-    "feraydune kashefi"
+    "ali farzbod",
+    "feraydune kashefi",
+    "sunand santhanagopalan"
   ],
   "mae 3344": [
     "sunand santhanagopalan"
@@ -19607,19 +19023,19 @@ export const data_course_prof = {
     "suwon yoon"
   ],
   "ce 3341": [
+    "suyun ham",
     "panagiotis danoglidis",
-    "raad azzawi",
-    "suyun ham"
+    "raad azzawi"
   ],
   "mana 4345": [
     "suzanne smith"
   ],
   "chin 1441": [
-    "lijing ye",
-    "szu-yen liang",
-    "meng yang",
     "fengchun zhao",
-    "li-ya mar"
+    "lijing ye",
+    "li-ya mar",
+    "meng yang",
+    "szu-yen liang"
   ],
   "chin 2314": [
     "lijing ye",
@@ -19633,9 +19049,9 @@ export const data_course_prof = {
   ],
   "larc 4300": [
     "tariq mahadin",
+    "matthew nicolette",
     "david hopman",
     "jeffery graham",
-    "matthew nicolette",
     "taner ozdil"
   ],
   "econ 4320": [
@@ -19646,23 +19062,23 @@ export const data_course_prof = {
   ],
   "mark 4310": [
     "tatia jacobson jordan",
-    "chien le",
-    "heather philip"
+    "heather philip",
+    "chien le"
   ],
   "acct 4393": [
     "terra mcghee"
   ],
   "acct 3312": [
-    "thomas hall",
-    "cheryl prachyl",
     "terrance skantz",
-    "kimberly bates"
+    "kimberly bates",
+    "cheryl prachyl",
+    "thomas hall"
   ],
   "musi 3125": [
-    "thomas burchill",
-    "michael morrison",
+    "peter clagett",
     "timothy ishii",
-    "peter clagett"
+    "michael morrison",
+    "thomas burchill"
   ],
   "prel 4391": [
     "mindia whittier",
@@ -19692,12 +19108,12 @@ export const data_course_prof = {
   ],
   "fina 3317": [
     "noura khadidja kone",
-    "ankita damani",
     "thomas thompson",
-    "richard berard",
     "nima vafai",
-    "dhruba banjade",
+    "ankita damani",
     "trang thai",
+    "richard berard",
+    "dhruba banjade",
     "yibing du"
   ],
   "fina 4328": [
@@ -19719,9 +19135,9 @@ export const data_course_prof = {
     "timothy ponce"
   ],
   "econ 4306": [
-    "timothy wunder",
     "christy spivey",
-    "ashish sedai"
+    "ashish sedai",
+    "timothy wunder"
   ],
   "advt 3305": [
     "tom ingram"
@@ -19734,14 +19150,14 @@ export const data_course_prof = {
     "tyler garner"
   ],
   "heed 4312": [
-    "amber carrington gouge",
-    "tyler garner",
     "stephanie spohr",
+    "tyler garner",
+    "amber carrington gouge",
     "rebecca garner"
   ],
   "kine 3300": [
-    "cynthia trowbridge",
     "tyler garner",
+    "cynthia trowbridge",
     "michael gann"
   ],
   "kine 3302": [
@@ -19756,23 +19172,23 @@ export const data_course_prof = {
     "un-jung kim"
   ],
   "cse 4308": [
-    "miao yin",
-    "william beksi",
+    "vamsikrishna gopikrishna",
     "subharag sarkar",
-    "vamsikrishna gopikrishna"
+    "miao yin",
+    "william beksi"
   ],
   "phys 1302": [
     "varghese anto chirayath",
-    "suman satyal",
-    "shafaq moten"
+    "shafaq moten",
+    "suman satyal"
   ],
   "cse 4392": [
-    "fatma arslan",
-    "mohammad islam",
     "david levine",
-    "kenny zhu",
-    "vassilis athitsos",
+    "fatma arslan",
     "habeeb olufowobi",
+    "kenny zhu",
+    "mohammad islam",
+    "vassilis athitsos",
     "brian dalio"
   ],
   "ee 3330": [
@@ -19786,9 +19202,9 @@ export const data_course_prof = {
     "vinayak kaushal"
   ],
   "cm 2313": [
+    "panagiotis danoglidis",
     "vinayak kaushal",
-    "saeed reza ramezanpour nargesi",
-    "panagiotis danoglidis"
+    "saeed reza ramezanpour nargesi"
   ],
   "cm 2315": [
     "vinayak kaushal"
@@ -19799,36 +19215,36 @@ export const data_course_prof = {
     "ahmad kamal bani hani"
   ],
   "bcmn 3340": [
-    "julian rodriguez becerra",
     "vinicio sinta morales",
-    "mark tremayne"
+    "mark tremayne",
+    "julian rodriguez becerra"
   ],
   "bcmn 4350": [
-    "vinicio sinta morales",
-    "andrew clark"
+    "andrew clark",
+    "vinicio sinta morales"
   ],
   "aren 2313": [
     "vistasp karbhari",
     "juan balderrama"
   ],
   "ce 2313": [
-    "raad azzawi",
     "vistasp karbhari",
-    "juan balderrama"
+    "juan balderrama",
+    "raad azzawi"
   ],
   "biol 2300": [
     "walter schargel"
   ],
   "aren 2311": [
-    "warda ashraf",
     "tamer eljufout",
-    "panagiotis danoglidis"
+    "panagiotis danoglidis",
+    "warda ashraf"
   ],
   "ce 2311": [
-    "raad azzawi",
     "nyoka florius",
-    "tamer eljufout",
     "niloofar parsaeifard",
+    "raad azzawi",
+    "tamer eljufout",
     "warda ashraf",
     "maria konsta gdoutos",
     "panagiotis danoglidis"
@@ -19837,30 +19253,30 @@ export const data_course_prof = {
     "wei chen"
   ],
   "mana 4328": [
-    "benjamin muro",
     "wendelyn risher",
+    "benjamin muro",
     "lesley regalado"
   ],
   "ce 4326": [
-    "zheng fang",
     "dongfeng li",
+    "babak alizadeh",
+    "zheng fang",
     "yu zhang",
-    "wenzhao li",
-    "babak alizadeh"
+    "wenzhao li"
   ],
   "dnce 1137": [
-    "meredith knight treminio",
     "alexandra benavidez",
-    "whitney talbot"
+    "whitney talbot",
+    "meredith knight treminio"
   ],
   "dnce 1139": [
-    "meredith knight treminio",
     "whitney talbot",
-    "ashleigh christian"
+    "ashleigh christian",
+    "meredith knight treminio"
   ],
   "dnce 3235": [
-    "meredith knight treminio",
     "whitney talbot",
+    "meredith knight treminio",
     "sarah kunce"
   ],
   "biol 2444": [
@@ -19874,9 +19290,9 @@ export const data_course_prof = {
     "whitney tholen"
   ],
   "econ 3312": [
-    "antonia gkergki",
     "ashish sedai",
     "william crowder",
+    "antonia gkergki",
     "chi-young choi"
   ],
   "cse 3323": [
@@ -19907,21 +19323,21 @@ export const data_course_prof = {
     "md azijul islam"
   ],
   "art 2353": [
-    "xuan zhang",
     "farzaneh eftekhari",
+    "salvatore terrasi",
     "adrienne guillory",
-    "loryn o'donnell",
-    "salvatore terrasi"
+    "xuan zhang",
+    "loryn o'donnell"
   ],
   "be 3344": [
-    "baohong yuan",
-    "yang liu"
+    "yang liu",
+    "baohong yuan"
   ],
   "mae 4314": [
-    "alan bowling",
+    "yawen wang",
     "bo wang",
     "kent lawrence",
-    "yawen wang"
+    "alan bowling"
   ],
   "be 4333": [
     "yi hong"
@@ -19940,28 +19356,28 @@ export const data_course_prof = {
     "yuan zhou"
   ],
   "kine 4354": [
-    "rebecca garner",
     "denise hernandez",
-    "kyrah brown",
     "yue liao",
-    "lindsi smith"
+    "kyrah brown",
+    "lindsi smith",
+    "rebecca garner"
   ],
   "art 4366": [
+    "zenas ikeda",
     "sandy harris",
-    "kimberly elliott",
-    "zenas ikeda"
+    "kimberly elliott"
   ],
   "crcj 2334": [
+    "keith owens",
     "brook rollins",
-    "rashaan deshay",
     "estevan gomez",
-    "zerita hall",
+    "rashaan deshay",
     "fangzhou wang",
-    "keith owens"
+    "zerita hall"
   ],
   "crcj 4332": [
-    "kaitlyn pederson",
-    "zerita hall"
+    "zerita hall",
+    "kaitlyn pederson"
   ],
   "ee 2302": [
     "zeynep celik"
@@ -19976,32 +19392,32 @@ export const data_course_prof = {
     "zhuojun gu"
   ],
   "kine 3352": [
+    "erin carlson",
     "anita corbitt",
     "stephanie spohr",
     "lisa sheppard-goodlett",
-    "erin carlson",
     "ziyad ben taleb"
   ],
   "socw 4452": [
-    "jeremeka mcbride",
-    "taren allen",
     "shauntel adams",
+    "taren allen",
+    "da'joya barnes",
     "sharon martin",
-    "da'joya barnes"
+    "jeremeka mcbride"
   ],
   "socw 4552": [
-    "jeremeka mcbride",
-    "taren allen",
     "shauntel adams",
+    "taren allen",
+    "da'joya barnes",
     "sharon martin",
-    "da'joya barnes"
+    "jeremeka mcbride"
   ],
   "nurs 5140": [
-    "heather skrivanek",
-    "deborah stewart",
-    "maryann ugoh",
     "oluwatosin adebiyi",
-    "kimberly thompson"
+    "kimberly thompson",
+    "maryann ugoh",
+    "heather skrivanek",
+    "deborah stewart"
   ],
   "anth 3330": [
     "julie adkins"
@@ -20017,9 +19433,9 @@ export const data_course_prof = {
     "dereje agonafer"
   ],
   "mils 1141": [
+    "johnny vasquez",
     "darrell aiken",
-    "marlon sanders",
-    "johnny vasquez"
+    "marlon sanders"
   ],
   "math 5327": [
     "tuncay aktosun"
@@ -20031,155 +19447,155 @@ export const data_course_prof = {
     "kambiz alavi"
   ],
   "arch 3553": [
-    "ozge inal",
-    "bang dang",
-    "jason cantrell",
-    "bijan youssefzadeh",
-    "michael malone",
-    "narjes abbasabadi",
-    "crystal portillo",
-    "eduardo castaneda",
-    "amanda aman",
-    "lavell johnson",
-    "victor vielma",
-    "liliana morales",
-    "carlos alba",
-    "dustin wheat",
-    "kevin sloan",
-    "katherine kosut",
-    "steven quevedo",
-    "austin allen",
-    "sharon odum",
     "george gintole",
-    "daniel day"
+    "katherine kosut",
+    "crystal portillo",
+    "ozge inal",
+    "daniel day",
+    "dustin wheat",
+    "amanda aman",
+    "victor vielma",
+    "jason cantrell",
+    "eduardo castaneda",
+    "carlos alba",
+    "bijan youssefzadeh",
+    "narjes abbasabadi",
+    "bang dang",
+    "sharon odum",
+    "michael malone",
+    "austin allen",
+    "lavell johnson",
+    "liliana morales",
+    "steven quevedo",
+    "kevin sloan"
   ],
   "be 3101": [
-    "cheng-jen chuong",
-    "georgios alexandrakis"
+    "georgios alexandrakis",
+    "cheng-jen chuong"
   ],
   "be 5101": [
+    "georgios alexandrakis",
     "hanli liu",
-    "cheng-jen chuong",
-    "georgios alexandrakis"
+    "cheng-jen chuong"
   ],
   "be 5382": [
-    "juhyun lee",
-    "georgios alexandrakis"
+    "georgios alexandrakis",
+    "juhyun lee"
   ],
   "be 6101": [
+    "georgios alexandrakis",
     "juhyun lee",
-    "cheng-jen chuong",
-    "georgios alexandrakis"
+    "cheng-jen chuong"
   ],
   "arch 4353": [
+    "kathryn holliday",
     "diane allen",
-    "austin allen",
-    "kathryn holliday"
+    "austin allen"
   ],
   "larc 5312": [
+    "kathryn holliday",
     "diane allen",
-    "austin allen",
-    "kathryn holliday"
+    "austin allen"
   ],
   "socw 4451": [
-    "jeremeka mcbride",
-    "taren allen",
     "shauntel adams",
+    "taren allen",
+    "melissa flores",
     "sharon martin",
-    "melissa flores"
+    "jeremeka mcbride"
   ],
   "socw 4551": [
-    "jeremeka mcbride",
-    "taren allen",
     "shauntel adams",
+    "taren allen",
+    "melissa flores",
     "sharon martin",
-    "melissa flores"
+    "jeremeka mcbride"
   ],
   "cm 5300": [
-    "abeer almughrabi",
     "vinayak kaushal",
+    "abeer almughrabi",
     "nilo tsung"
   ],
   "fina 4318": [
     "edwin altomare"
   ],
   "arch 3343": [
-    "ikram eloualid",
-    "sheu whye loh",
-    "johanna faust",
-    "crystal portillo",
-    "joshua hallett",
-    "thomas rusher",
-    "amanda aman",
     "jason wheeler",
-    "donna firouzbakht",
-    "nimet anwar",
-    "oswald jenewein",
-    "victor vielma",
     "ursula emery-mcclure",
-    "mehdi farahbakhsh"
+    "sheu whye loh",
+    "crystal portillo",
+    "donna firouzbakht",
+    "joshua hallett",
+    "mehdi farahbakhsh",
+    "johanna faust",
+    "thomas rusher",
+    "nimet anwar",
+    "victor vielma",
+    "ikram eloualid",
+    "oswald jenewein",
+    "amanda aman"
   ],
   "arch 4556": [
-    "ikram eloualid",
-    "elizabeth macwillie",
     "jamie wallace",
-    "thomas rusher",
+    "elizabeth macwillie",
     "julia lindgren",
-    "amanda aman",
-    "brad mccorkle",
-    "oswald jenewein",
-    "john maruszczak",
+    "joshua nason",
     "mehdi farahbakhsh",
-    "joshua nason"
+    "brad mccorkle",
+    "thomas rusher",
+    "ikram eloualid",
+    "oswald jenewein",
+    "amanda aman",
+    "john maruszczak"
   ],
   "cse 3314": [
-    "brian dalio",
     "giridhar amaravadi",
+    "brian dalio",
     "ronald cross"
   ],
   "beep 4384": [
-    "zulma mojica monroy",
-    "rosa santiago",
-    "myrna reyna",
     "patricia saenz",
-    "carla amaro-jimenez"
+    "carla amaro-jimenez",
+    "myrna reyna",
+    "zulma mojica monroy",
+    "rosa santiago"
   ],
   "mae 4328": [
-    "narges shayesteh moghaddam",
-    "nora ameri"
+    "nora ameri",
+    "narges shayesteh moghaddam"
   ],
   "me 5328": [
-    "narges shayesteh moghaddam",
-    "nora ameri"
+    "nora ameri",
+    "narges shayesteh moghaddam"
   ],
   "udes 2441": [
     "letora anderson",
     "shadin nimery"
   ],
   "plan 5310": [
-    "ardeshir anjomani",
-    "ariadna reyes-sanchez"
+    "ariadna reyes-sanchez",
+    "ardeshir anjomani"
   ],
   "plan 6310": [
-    "ardeshir anjomani",
-    "ariadna reyes-sanchez"
+    "ariadna reyes-sanchez",
+    "ardeshir anjomani"
   ],
   "kine 5121": [
     "adam annaccone"
   ],
   "kine 5128": [
-    "meredith decker",
-    "adam annaccone"
+    "adam annaccone",
+    "meredith decker"
   ],
   "kine 5235": [
     "adam annaccone"
   ],
   "kine 5390": [
-    "lisa sheppard-goodlett",
     "adam annaccone",
     "erin carlson",
+    "yungfei kao",
     "feinuo sun",
-    "yungfei kao"
+    "lisa sheppard-goodlett"
   ],
   "biol 4352": [
     "xavier aranda"
@@ -20195,50 +19611,50 @@ export const data_course_prof = {
   ],
   "phys 4326": [
     "ali koymen",
-    "jonathan asaadi",
-    "raquel castillo fernandez"
+    "raquel castillo fernandez",
+    "jonathan asaadi"
   ],
   "ce 5300": [
+    "arpita bhatt",
     "mohammad adnan rajib bhuiyan",
-    "juan balderrama",
-    "warda ashraf",
-    "jinzhu yu",
     "shih-ho chao",
     "michael mcnerney",
-    "arpita bhatt"
+    "jinzhu yu",
+    "warda ashraf",
+    "juan balderrama"
   ],
   "univ-la 1131": [
-    "kristine obrien",
-    "samantha cornelius",
-    "shelley wigley",
-    "mary hanson-evans",
-    "brian horton",
-    "hannah chiasson",
-    "kimberly caraway",
-    "amy austin",
-    "mindia whittier",
-    "billi london-gray",
-    "peggy semingson",
-    "zerita hall",
-    "amber owens",
-    "wendell hunnicutt",
-    "mike nguyen",
-    "eric bolsterli",
     "marcela reyes",
-    "gregory mcbride",
+    "billi london-gray",
+    "wendell hunnicutt",
     "laurel whitsett",
-    "patricia mann"
+    "peggy semingson",
+    "mary hanson-evans",
+    "samantha cornelius",
+    "mike nguyen",
+    "kristine obrien",
+    "brian horton",
+    "shelley wigley",
+    "eric bolsterli",
+    "kimberly caraway",
+    "amber owens",
+    "gregory mcbride",
+    "mindia whittier",
+    "patricia mann",
+    "amy austin",
+    "hannah chiasson",
+    "zerita hall"
   ],
   "span 4310": [
     "amy austin"
   ],
   "ce 4347": [
-    "raad azzawi",
-    "nur yazdani"
+    "nur yazdani",
+    "raad azzawi"
   ],
   "aren 4347": [
-    "raad azzawi",
-    "nur yazdani"
+    "nur yazdani",
+    "raad azzawi"
   ],
   "hcad 5380": [
     "hossein badri"
@@ -20253,54 +19669,54 @@ export const data_course_prof = {
     "rachel baldridge"
   ],
   "arch 2551": [
-    "juan carlos olivar gomez",
-    "mason camp",
-    "bill boswell",
-    "luis aguirre",
-    "jason cantrell",
-    "thomas rusher",
-    "brad mccorkle",
-    "krishnan mistry",
-    "lorena toffer",
-    "ryan tehrani",
-    "donna firouzbakht",
-    "heath macdonald",
     "megan martinez",
-    "timothy ballard",
-    "dustin wheat",
+    "heath macdonald",
     "sandra espinoza",
     "tyler shafer",
+    "luis aguirre",
     "katherine kosut",
-    "steven quevedo"
+    "brad mccorkle",
+    "dustin wheat",
+    "jason cantrell",
+    "timothy ballard",
+    "lorena toffer",
+    "mason camp",
+    "juan carlos olivar gomez",
+    "krishnan mistry",
+    "donna firouzbakht",
+    "steven quevedo",
+    "thomas rusher",
+    "bill boswell",
+    "ryan tehrani"
   ],
   "hcad 5399": [
     "georgetta baptist"
   ],
   "cse 5305": [
-    "david levine",
+    "donna french",
     "linda barasch",
-    "donna french"
+    "david levine"
   ],
   "plan 4395": [
     "melinda barlow",
     "hannah lebovits"
   ],
   "socw 5385": [
-    "maresia davis",
-    "melissa pollock",
     "hector ramos de leon",
-    "zerita hall",
-    "da'joya barnes",
     "sharon jones",
-    "traecia nichols"
+    "maresia davis",
+    "traecia nichols",
+    "da'joya barnes",
+    "melissa pollock",
+    "zerita hall"
   ],
   "socw 5585": [
-    "maresia davis",
-    "melissa pollock",
     "hector ramos de leon",
-    "da'joya barnes",
     "sharon jones",
-    "traecia nichols"
+    "maresia davis",
+    "traecia nichols",
+    "da'joya barnes",
+    "melissa pollock"
   ],
   "art 3323": [
     "amanda alexander",
@@ -20308,37 +19724,37 @@ export const data_course_prof = {
   ],
   "univ-hn 1131": [
     "emily spaulding",
-    "rebekah chojnacki",
-    "bobbie brown",
+    "lauren jones",
     "brianna baum",
-    "lauren jones"
+    "rebekah chojnacki",
+    "bobbie brown"
   ],
   "arch 3323": [
-    "arash saleh",
+    "narjes abbasabadi",
     "mahmoud bayat",
     "shaher rababeh",
-    "narjes abbasabadi"
+    "arash saleh"
   ],
   "arch 5323": [
-    "arash saleh",
-    "mahmoud bayat"
+    "mahmoud bayat",
+    "arash saleh"
   ],
   "arch 5327": [
-    "arash saleh",
-    "shaher rababeh",
     "mahmoud bayat",
-    "jerald kunkel"
+    "shaher rababeh",
+    "jerald kunkel",
+    "arash saleh"
   ],
   "math 1332": [
+    "kyle turner",
     "janessa beach tassey",
-    "addison silva",
-    "mark krasij",
     "esteban diaz",
-    "kyle turner"
+    "mark krasij",
+    "addison silva"
   ],
   "math 2330": [
-    "esteban diaz",
     "janessa beach tassey",
+    "esteban diaz",
     "theresa jorgensen"
   ],
   "soci 4341": [
@@ -20362,11 +19778,11 @@ export const data_course_prof = {
     "ziyad ben taleb"
   ],
   "edad 1130": [
-    "kelly o'keefe",
-    "jennifer saperstein",
-    "stephen berg",
     "sara frick",
+    "kelly o'keefe",
     "mari duncan",
+    "stephen berg",
+    "jennifer saperstein",
     "delcenia collins"
   ],
   "soci 3347": [
@@ -20401,17 +19817,17 @@ export const data_course_prof = {
     "arpita bhatt"
   ],
   "edad 5352": [
-    "jennifer rippner",
     "meredith billings",
-    "katharine adams"
+    "katharine adams",
+    "jennifer rippner"
   ],
   "mana 4330": [
-    "terrance wilensky",
-    "alison birch"
+    "alison birch",
+    "terrance wilensky"
   ],
   "emba 5101": [
-    "cynthia st john",
-    "alison birch"
+    "alison birch",
+    "cynthia st john"
   ],
   "mils 2251": [
     "jenna lawrence",
@@ -20419,25 +19835,25 @@ export const data_course_prof = {
     "jeremy bland"
   ],
   "univ-sw 1131": [
-    "jessica williams",
-    "pamela johnson",
     "zachary tarbet",
-    "stephanie bonilla",
+    "ly-huong barrett",
+    "jessica williams",
     "pamela randolph",
     "jessica sanchez",
-    "ly-huong barrett",
-    "james keaton"
+    "pamela johnson",
+    "james keaton",
+    "stephanie bonilla"
   ],
   "socw 1231": [
-    "jessica sanchez",
-    "jessica williams",
-    "pamela johnson",
-    "zachary tarbet",
-    "stephanie bonilla",
-    "pamela randolph",
     "daisy jones",
+    "zachary tarbet",
     "ly-huong barrett",
-    "james keaton"
+    "pamela randolph",
+    "jessica williams",
+    "jessica sanchez",
+    "pamela johnson",
+    "james keaton",
+    "stephanie bonilla"
   ],
   "arch 4313": [
     "michel borg"
@@ -20446,24 +19862,24 @@ export const data_course_prof = {
     "michel borg"
   ],
   "biol 3306": [
-    "cara boutte",
-    "whitney tholen"
+    "whitney tholen",
+    "cara boutte"
   ],
   "biol 4441": [
     "woo-suk chang",
     "kimberly bowles"
   ],
   "mae 3185": [
-    "alan bowling",
-    "vatsal asitkumar joshi"
+    "vatsal asitkumar joshi",
+    "alan bowling"
   ],
   "pols 4331": [
     "brent boyea"
   ],
   "crcj 4325": [
-    "kyrus branch",
+    "john rodriguez",
     "keith owens",
-    "john rodriguez"
+    "kyrus branch"
   ],
   "art 3386": [
     "shelly brandon"
@@ -20472,19 +19888,19 @@ export const data_course_prof = {
     "grace brannon"
   ],
   "comm 4393": [
-    "ritu khanduri",
     "grace brannon",
-    "samantha cornelius",
     "shelley wigley",
-    "karishma chatterjee",
-    "molly cummins"
+    "ritu khanduri",
+    "samantha cornelius",
+    "molly cummins",
+    "karishma chatterjee"
   ],
   "hist 4352": [
     "kimberly breuer"
   ],
   "mark 5370": [
-    "lauren brewer",
-    "tatia jacobson jordan"
+    "tatia jacobson jordan",
+    "lauren brewer"
   ],
   "engl 3387": [
     "michael brittain"
@@ -20495,9 +19911,9 @@ export const data_course_prof = {
     "harold fitzgerald"
   ],
   "musi 4327": [
+    "samuel garner",
     "aleyna brown",
-    "william townsley",
-    "samuel garner"
+    "william townsley"
   ],
   "musi 2103": [
     "margaret brown"
@@ -20507,14 +19923,14 @@ export const data_course_prof = {
     "megan korchinski"
   ],
   "sped 3301": [
-    "jonathan broyles",
-    "ambra green",
     "cynite ola",
-    "belinda rudinger"
+    "belinda rudinger",
+    "ambra green",
+    "jonathan broyles"
   ],
   "bcom 4380": [
-    "michael buckman",
-    "kevin carr"
+    "kevin carr",
+    "michael buckman"
   ],
   "insy 4307": [
     "santoso budiman"
@@ -20523,50 +19939,50 @@ export const data_course_prof = {
     "santoso budiman"
   ],
   "chem 5351": [
-    "joseph buonomo",
-    "he dong"
+    "he dong",
+    "joseph buonomo"
   ],
   "chem 6011": [
-    "joseph buonomo",
-    "robin macaluso",
     "byung ran so",
-    "carl lovely"
+    "joseph buonomo",
+    "carl lovely",
+    "robin macaluso"
   ],
   "musi 0113": [
-    "thomas burchill",
-    "christine derose"
+    "christine derose",
+    "thomas burchill"
   ],
   "musi 3126": [
-    "thomas burchill",
+    "peter clagett",
     "christine derose",
-    "peter clagett"
+    "thomas burchill"
   ],
   "eled 4312": [
-    "jiyoon yoon",
     "katherine hoover",
-    "leeann burke",
+    "melissa hulings",
+    "jiyoon yoon",
     "federico garza",
-    "melissa hulings"
+    "leeann burke"
   ],
   "arch 1341": [
-    "nancy greene",
-    "marc mccollom",
-    "fuad kareem",
-    "tania madah tarighat pasand",
-    "carrie zaboroski",
-    "ozge inal",
-    "mason camp",
-    "corrie thompson",
-    "julia lindgren",
-    "ryan tehrani",
     "lavell johnson",
-    "belen butragueno diaz-guerra",
-    "angela kallus",
-    "luis aguirre",
     "anastasiya chybireva-fender",
-    "timothy ballard",
+    "carrie zaboroski",
+    "luis aguirre",
+    "julia lindgren",
+    "tania madah tarighat pasand",
+    "ozge inal",
+    "angela kallus",
+    "corrie thompson",
+    "belen butragueno diaz-guerra",
+    "fuad kareem",
     "yasaman shahbazi",
-    "dustin wheat"
+    "ryan tehrani",
+    "timothy ballard",
+    "nancy greene",
+    "mason camp",
+    "dustin wheat",
+    "marc mccollom"
   ],
   "phil 3315": [
     "miriam byrd"
@@ -20575,13 +19991,13 @@ export const data_course_prof = {
     "hunter callahan"
   ],
   "edad 6301": [
-    "barbara tobolowsky",
+    "yi zhang",
     "elsa camargo",
-    "yi zhang"
+    "barbara tobolowsky"
   ],
   "bsad 6317": [
-    "mahmut yasar",
-    "christopher candreva"
+    "christopher candreva",
+    "mahmut yasar"
   ],
   "mse 5321": [
     "ye cao",
@@ -20589,8 +20005,8 @@ export const data_course_prof = {
   ],
   "kine 5384": [
     "erin carlson",
-    "lisa sheppard-goodlett",
-    "melissa oden"
+    "melissa oden",
+    "lisa sheppard-goodlett"
   ],
   "cse 3341": [
     "bill carroll"
@@ -20605,11 +20021,11 @@ export const data_course_prof = {
     "christopher chambers-ju"
   ],
   "sced 5352": [
-    "betty george",
+    "chris deeter",
     "robin anderson",
     "melissa hulings",
     "rebecca chance",
-    "chris deeter"
+    "betty george"
   ],
   "ce 5314": [
     "shih-ho chao"
@@ -20629,8 +20045,8 @@ export const data_course_prof = {
     "gautam eapi"
   ],
   "musi 1246": [
-    "hannah chiasson",
-    "britni cheyenne cruz"
+    "britni cheyenne cruz",
+    "hannah chiasson"
   ],
   "be 1105": [
     "michael cho"
@@ -20651,25 +20067,25 @@ export const data_course_prof = {
     "daisha cipher"
   ],
   "mana 4341": [
-    "courtney hart",
-    "james lavelle",
     "mark clark",
-    "joohan lee"
+    "courtney hart",
+    "joohan lee",
+    "james lavelle"
   ],
   "art 4382": [
     "matthew clark"
   ],
   "chem 1181": [
-    "alison wicker",
-    "william cleaver"
+    "william cleaver",
+    "alison wicker"
   ],
   "chem 1341": [
     "william cleaver",
     "jimmy rogers"
   ],
   "chem 2283": [
-    "alison wicker",
-    "william cleaver"
+    "william cleaver",
+    "alison wicker"
   ],
   "psyc 3304": [
     "scott coleman"
@@ -20681,33 +20097,33 @@ export const data_course_prof = {
     "scott coleman"
   ],
   "musi 1185": [
-    "levi walls",
-    "sean morrison",
-    "klaudia cop-akin",
     "amy hatch",
+    "klaudia cop-akin",
+    "julie liston johnson",
     "hannah chiasson",
+    "sean morrison",
     "joseph turner",
-    "julie liston johnson"
+    "levi walls"
   ],
   "musi 1301": [
     "klaudia cop-akin",
     "hannah chiasson"
   ],
   "musi 1325": [
-    "levi walls",
-    "sean morrison",
-    "klaudia cop-akin",
+    "jordan moore",
     "amy hatch",
+    "klaudia cop-akin",
     "hannah chiasson",
-    "jordan moore"
+    "sean morrison",
+    "levi walls"
   ],
   "musi 2325": [
-    "graham hunt",
-    "klaudia cop-akin",
-    "amy hatch",
-    "joseph turner",
     "jordan moore",
-    "elyse kahler"
+    "amy hatch",
+    "klaudia cop-akin",
+    "graham hunt",
+    "elyse kahler",
+    "joseph turner"
   ],
   "ie 4315": [
     "herbert corley"
@@ -20716,8 +20132,8 @@ export const data_course_prof = {
     "david coursey"
   ],
   "larc 5301": [
-    "gregory craig",
-    "letora anderson"
+    "letora anderson",
+    "gregory craig"
   ],
   "anth 3308": [
     "christian crowder"
@@ -20749,8 +20165,8 @@ export const data_course_prof = {
   ],
   "ee 5379": [
     "wei-jen lee",
-    "liwei zhou",
-    "ali davoudi"
+    "ali davoudi",
+    "liwei zhou"
   ],
   "ie 5335": [
     "shuchisnigdha deb"
@@ -20781,9 +20197,9 @@ export const data_course_prof = {
     "jeffery demuth"
   ],
   "phys 3321": [
-    "varghese anto chirayath",
     "yue deng",
-    "daniel welling"
+    "daniel welling",
+    "varghese anto chirayath"
   ],
   "engr 4302": [
     "robert magnusson",
@@ -20808,8 +20224,8 @@ export const data_course_prof = {
     "anthony zahn"
   ],
   "anth 3360": [
-    "robyn dodge",
-    "ashley lemke"
+    "ashley lemke",
+    "robyn dodge"
   ],
   "arch 1101": [
     "cheryl donaldson"
@@ -20833,13 +20249,13 @@ export const data_course_prof = {
     "yibing du"
   ],
   "plan 5316": [
-    "robert molash",
-    "john dugan"
+    "john dugan",
+    "robert molash"
   ],
   "plan 5380": [
-    "guoqiang shen",
+    "john dugan",
     "qisheng pan",
-    "john dugan"
+    "guoqiang shen"
   ],
   "musi 1103": [
     "david dunham"
@@ -20848,22 +20264,22 @@ export const data_course_prof = {
     "david dunham"
   ],
   "socw 5381": [
-    "lorie white",
-    "melissa pollock",
+    "natalie mangham",
     "hector ramos de leon",
     "andrea jameson",
-    "natalie mangham",
-    "tara harris",
-    "michelle young",
     "holly durham",
-    "zerita hall",
+    "lorie white",
+    "melissa pollock",
+    "michelle young",
     "shelly mota",
+    "zerita hall",
+    "tara harris",
     "toykesha howard"
   ],
   "nursg 5382": [
     "jackline opollo",
-    "tamara eades",
-    "kimberly hatchel"
+    "kimberly hatchel",
+    "tamara eades"
   ],
   "crcj 4341": [
     "patricia eddings"
@@ -20872,8 +20288,8 @@ export const data_course_prof = {
     "patricia eddings"
   ],
   "psyc 3301": [
-    "susan eddlemon villalobos",
-    "william ickes"
+    "william ickes",
+    "susan eddlemon villalobos"
   ],
   "crcj 4344": [
     "sarah el sayed"
@@ -20884,8 +20300,8 @@ export const data_course_prof = {
     "sarah el sayed"
   ],
   "ce 3253": [
-    "melanie sattler",
     "hajar kazemi naeini",
+    "melanie sattler",
     "tamer eljufout"
   ],
   "span 5303": [
@@ -20910,14 +20326,14 @@ export const data_course_prof = {
     "christopher evans"
   ],
   "eled 4314": [
-    "joyce myers",
+    "martha meeks loyd",
     "sonja ezell",
-    "martha meeks loyd"
+    "joyce myers"
   ],
   "as 2121": [
     "james fagan",
-    "cass smith",
-    "joshua young"
+    "joshua young",
+    "cass smith"
   ],
   "envr 4199": [
     "majie fan",
@@ -20931,36 +20347,36 @@ export const data_course_prof = {
     "amir farbin"
   ],
   "data 4381": [
-    "masoud rostami",
-    "amir farbin"
+    "amir farbin",
+    "masoud rostami"
   ],
   "engl 5300": [
     "penelope ingram",
-    "jacqueline fay",
-    "timothy richardson"
+    "timothy richardson",
+    "jacqueline fay"
   ],
   "cse 6332": [
+    "leonidas fegaras",
     "md hasanuzzaman noor",
-    "david levine",
-    "leonidas fegaras"
+    "david levine"
   ],
   "mae 4301": [
-    "narges shayesteh moghaddam",
+    "yawen wang",
     "bernd chudoba",
     "raul fernandez",
-    "yawen wang"
+    "narges shayesteh moghaddam"
   ],
   "ie 5351": [
     "susan ferreira"
   ],
   "socw 5332": [
     "noelle fields",
-    "chava rousch-carlisle",
-    "kelle white"
+    "kelle white",
+    "chava rousch-carlisle"
   ],
   "intd 3321": [
-    "donna firouzbakht",
-    "ursula emery-mcclure"
+    "ursula emery-mcclure",
+    "donna firouzbakht"
   ],
   "art 4359": [
     "scott hilton",
@@ -21008,8 +20424,8 @@ export const data_course_prof = {
   ],
   "arch 5593": [
     "bijan youssefzadeh",
-    "bang dang",
-    "donald gatzke"
+    "donald gatzke",
+    "bang dang"
   ],
   "thea 4303": [
     "natalie gaupp"
@@ -21021,36 +20437,36 @@ export const data_course_prof = {
     "steven gellman"
   ],
   "plan 5304": [
-    "richard gertson",
     "james parajon",
-    "guoqiang shen"
+    "guoqiang shen",
+    "richard gertson"
   ],
   "kine 5122": [
     "gina giammanco"
   ],
   "socw 5367": [
-    "mia kirby",
-    "allison tomlinson",
-    "chava rousch-carlisle",
-    "sheila gold",
-    "irma mireles",
-    "jolynne batchelor",
-    "chandra thompson-donahue",
     "leah wilson",
-    "theresa davis",
+    "adrienne johnson",
+    "jolynne batchelor",
+    "mia kirby",
     "ly-huong barrett",
-    "lashaunn bold",
-    "adrienne johnson"
+    "allison tomlinson",
+    "sheila gold",
+    "theresa davis",
+    "irma mireles",
+    "chava rousch-carlisle",
+    "chandra thompson-donahue",
+    "lashaunn bold"
   ],
   "arch 1301": [
+    "iran mejia",
     "marisa gomez",
-    "kevin sloan",
-    "iran mejia"
+    "kevin sloan"
   ],
   "arch 5301": [
+    "iran mejia",
     "marisa gomez",
-    "kevin sloan",
-    "iran mejia"
+    "kevin sloan"
   ],
   "arch 5315": [
     "marisa gomez"
@@ -21069,8 +20485,8 @@ export const data_course_prof = {
     "michaela vancliff"
   ],
   "hcad 5340": [
-    "david gray",
-    "colleen risk"
+    "colleen risk",
+    "david gray"
   ],
   "sped 3302": [
     "ambra green"
@@ -21086,40 +20502,40 @@ export const data_course_prof = {
     "douglas grisaffe"
   ],
   "crcj 3320": [
-    "fangzhou wang",
-    "seungmug lee",
     "david brissette",
-    "christi gullion"
+    "seungmug lee",
+    "christi gullion",
+    "fangzhou wang"
   ],
   "crcj 5309": [
-    "seokjin jeong",
+    "christi gullion",
     "sarah el sayed",
-    "christi gullion"
+    "seokjin jeong"
   ],
   "acct 5312": [
     "cheryl prachyl",
     "thomas hall"
   ],
   "socw 5581": [
-    "lorie white",
-    "taren allen",
-    "kelle white",
-    "melissa pollock",
-    "hector ramos de leon",
     "natalie mangham",
+    "hector ramos de leon",
     "shauntel adams",
-    "michelle young",
-    "holly durham",
-    "zerita hall",
+    "taren allen",
     "kenshara cravens",
-    "shelly mota",
+    "holly durham",
     "da'joya barnes",
+    "michelle young",
+    "melissa pollock",
+    "lorie white",
+    "shelly mota",
+    "kelle white",
+    "zerita hall",
     "toykesha howard"
   ],
   "aren 3341": [
+    "suyun ham",
     "samantha sabatino",
-    "raad azzawi",
-    "suyun ham"
+    "raad azzawi"
   ],
   "ie 6302": [
     "karthik ayodhiramanujan",
@@ -21145,8 +20561,8 @@ export const data_course_prof = {
   ],
   "mse 3300": [
     "ye cao",
-    "yaowu hao",
-    "erika la plante"
+    "erika la plante",
+    "yaowu hao"
   ],
   "mse 5333": [
     "yaowu hao"
@@ -21159,20 +20575,20 @@ export const data_course_prof = {
     "lonny harrison"
   ],
   "hist 5364": [
-    "cristina salinas",
     "david baillargeon",
+    "marie hartono",
     "kenyon zimmer",
     "john garrigus",
-    "marie hartono"
+    "cristina salinas"
   ],
   "psyc 5325": [
-    "logan watts",
-    "nicolette hass"
+    "nicolette hass",
+    "logan watts"
   ],
   "musi 2185": [
+    "joseph turner",
     "amy hatch",
-    "levi walls",
-    "joseph turner"
+    "levi walls"
   ],
   "ling 5300": [
     "ivy hauser"
@@ -21182,39 +20598,39 @@ export const data_course_prof = {
     "laurel stvan"
   ],
   "thea 3317": [
+    "elizabeth hawkins",
     "jonathan eyer",
     "jeremy hays",
-    "ann healy",
-    "elizabeth hawkins"
+    "ann healy"
   ],
   "hist 4327": [
-    "catherine corder",
-    "katherrine healey"
+    "katherrine healey",
+    "catherine corder"
   ],
   "kine 4589": [
     "brad heddins"
   ],
   "pols 3303": [
-    "larry carter",
-    "marcus hendershot"
+    "marcus hendershot",
+    "larry carter"
   ],
   "acct 3316": [
     "sandra henderson"
   ],
   "acct 5329": [
-    "sandra henderson",
-    "cheryl prachyl"
+    "cheryl prachyl",
+    "sandra henderson"
   ],
   "phil 3318": [
     "charles hermes"
   ],
   "nursg 5130": [
-    "angela miller",
-    "lindsay hermsdorfer",
     "amy winslow",
+    "angela miller",
     "robbi nichols",
     "brandi pitcox",
     "leticia cole",
+    "lindsay hermsdorfer",
     "suji john"
   ],
   "aast 3320": [
@@ -21240,8 +20656,8 @@ export const data_course_prof = {
     "david hopman"
   ],
   "larc 5397": [
-    "david hopman",
-    "amy archambeau"
+    "amy archambeau",
+    "david hopman"
   ],
   "pols 4328": [
     "nichole horn"
@@ -21265,8 +20681,8 @@ export const data_course_prof = {
     "manfred huber"
   ],
   "phys 5311": [
-    "zdzislaw musielak",
     "yujie chi",
+    "zdzislaw musielak",
     "muhammad huda"
   ],
   "ie 4325": [
@@ -21301,37 +20717,37 @@ export const data_course_prof = {
     "timothy richardson"
   ],
   "span 3340": [
-    "alicia rueda-acedo",
-    "monica de la fuente iglesias",
+    "vicente jose iranzo banuls",
     "fernando melero-garcia",
-    "vicente jose iranzo banuls"
+    "alicia rueda-acedo",
+    "monica de la fuente iglesias"
   ],
   "span 4343": [
-    "alicia rueda-acedo",
+    "vicente jose iranzo banuls",
     "fernando melero-garcia",
-    "vicente jose iranzo banuls"
+    "alicia rueda-acedo"
   ],
   "musi 5107": [
     "timothy ishii"
   ],
   "ce 4323": [
-    "md azijul islam",
-    "niloofar parsaeifard"
+    "niloofar parsaeifard",
+    "md azijul islam"
   ],
   "ce 5375": [
     "tanvir imtiaz",
-    "md azijul islam",
-    "niloofar parsaeifard"
+    "niloofar parsaeifard",
+    "md azijul islam"
   ],
   "fren 3304": [
-    "cynthia laborde",
     "aimee israel-pelletier",
+    "cynthia laborde",
     "najia alameddin"
   ],
   "phys 1300": [
-    "fajer jaafari",
     "alexander weiss",
-    "suman satyal"
+    "suman satyal",
+    "fajer jaafari"
   ],
   "educ 4342": [
     "hugh kellam",
@@ -21349,18 +20765,18 @@ export const data_course_prof = {
     "mahmoud jawad"
   ],
   "asds 5301": [
-    "mahmoud jawad",
-    "afshan boodhwani"
+    "afshan boodhwani",
+    "mahmoud jawad"
   ],
   "asds 5303": [
-    "mahmoud jawad",
     "afshan boodhwani",
+    "mahmoud jawad",
     "qiang zheng"
   ],
   "intd 3338": [
     "james marstiller",
-    "olivia jeffries",
-    "donovan lord"
+    "donovan lord",
+    "olivia jeffries"
   ],
   "intd 4365": [
     "joshua wilson",
@@ -21385,44 +20801,44 @@ export const data_course_prof = {
   ],
   "mana 5341": [
     "danyelle ackall",
-    "susan hanold",
-    "lars johnson"
+    "lars johnson",
+    "susan hanold"
   ],
   "ee 4240": [
+    "gregory turner",
     "david wetz",
-    "alexander johnston",
-    "gregory turner"
+    "alexander johnston"
   ],
   "ee 4328": [
-    "zeynep celik",
-    "alexander johnston",
-    "liwei zhou",
     "rasool kenarangui",
+    "liwei zhou",
+    "zeynep celik",
+    "jonathan bredow",
+    "alexander johnston",
     "wei-jen lee",
-    "traci freling",
-    "jonathan bredow"
+    "traci freling"
   ],
   "phys 5326": [
-    "jonathan asaadi",
-    "benjamin jones"
+    "benjamin jones",
+    "jonathan asaadi"
   ],
   "sut 3303": [
     "dianna jones"
   ],
   "socw 5327": [
-    "dianna jones",
-    "mary highfill",
-    "gabrielle scott",
     "christie eckler",
-    "irma mireles",
+    "gabrielle scott",
+    "dianna jones",
     "da'joya barnes",
+    "irma mireles",
+    "mary highfill",
     "kelli rogers"
   ],
   "nurs 5150": [
-    "jennifer may",
+    "melissa salmons",
     "cynthia rodriguez wewerka",
-    "julie jung",
-    "melissa salmons"
+    "jennifer may",
+    "julie jung"
   ],
   "ee 5310": [
     "sungyong jung"
@@ -21455,13 +20871,13 @@ export const data_course_prof = {
     "karen kenaston-french"
   ],
   "educ 4343": [
-    "taylor kessner",
-    "mary curtis"
+    "mary curtis",
+    "taylor kessner"
   ],
   "anth 3300": [
-    "christian zlolniski",
+    "ritu khanduri",
     "amy speier",
-    "ritu khanduri"
+    "christian zlolniski"
   ],
   "emba 5310": [
     "susanna khavul"
@@ -21470,9 +20886,9 @@ export const data_course_prof = {
     "choong-un kim"
   ],
   "papp 5329": [
-    "rod hissong",
     "jiseul kim",
-    "evan mistur"
+    "evan mistur",
+    "rod hissong"
   ],
   "papp 6306": [
     "jiseul kim"
@@ -21491,15 +20907,15 @@ export const data_course_prof = {
     "yungfei kao"
   ],
   "arch 2303": [
-    "marisa gomez",
-    "douglas klahr"
+    "douglas klahr",
+    "marisa gomez"
   ],
   "arch 4322": [
     "douglas klahr"
   ],
   "arch 5303": [
-    "marisa gomez",
-    "douglas klahr"
+    "douglas klahr",
+    "marisa gomez"
   ],
   "acct 5342": [
     "jan klaus",
@@ -21541,10 +20957,10 @@ export const data_course_prof = {
     "caroline krejci"
   ],
   "math 5307": [
-    "yue liu",
     "barbara shipman",
-    "benito chen charpentier",
-    "christopher kribs"
+    "christopher kribs",
+    "yue liu",
+    "benito chen charpentier"
   ],
   "dnce 3307": [
     "amanda jackson",
@@ -21563,8 +20979,8 @@ export const data_course_prof = {
     "shernette kydd"
   ],
   "maed 5351": [
-    "candace lafferty",
-    "yolanda parker"
+    "yolanda parker",
+    "candace lafferty"
   ],
   "art 4384": [
     "mason lahue"
@@ -21573,8 +20989,8 @@ export const data_course_prof = {
     "christopher land"
   ],
   "thea 3318": [
-    "christopher land",
-    "kenneth ellis"
+    "kenneth ellis",
+    "christopher land"
   ],
   "thea 2310": [
     "leah mazur",
@@ -21584,8 +21000,8 @@ export const data_course_prof = {
     "laurie land"
   ],
   "musi 3211": [
-    "karen draves",
-    "diane lange"
+    "diane lange",
+    "karen draves"
   ],
   "musi 5352": [
     "diane lange"
@@ -21595,14 +21011,14 @@ export const data_course_prof = {
     "darryl lauster"
   ],
   "edad 5383": [
-    "carrie ausbrooks",
     "amy anderson",
+    "carrie ausbrooks",
     "joel leader"
   ],
   "maed 5352": [
     "joo hi lee",
-    "candace lafferty",
-    "rebecca chance"
+    "rebecca chance",
+    "candace lafferty"
   ],
   "dasc 5191": [
     "paul componation",
@@ -21621,8 +21037,8 @@ export const data_course_prof = {
   ],
   "ce 5349": [
     "dongfeng li",
-    "zheng fang",
-    "yu zhang"
+    "yu zhang",
+    "zheng fang"
   ],
   "plan 5318": [
     "jianling li"
@@ -21634,8 +21050,8 @@ export const data_course_prof = {
     "pengfei li"
   ],
   "math 6310": [
-    "keaton hamm",
-    "ren-cang li"
+    "ren-cang li",
+    "keaton hamm"
   ],
   "chin 2313": [
     "szu-yen liang"
@@ -21650,18 +21066,18 @@ export const data_course_prof = {
     "szu-yen liang"
   ],
   "be 4350": [
-    "jun liao",
-    "khosrow behbehani",
+    "stephen van noy",
     "georgios alexandrakis",
-    "stephen van noy"
+    "khosrow behbehani",
+    "jun liao"
   ],
   "kine 5381": [
-    "ann davis",
-    "yue liao"
+    "yue liao",
+    "ann davis"
   ],
   "musi 2140": [
-    "connor lidell",
-    "jocelyn hansen"
+    "jocelyn hansen",
+    "connor lidell"
   ],
   "musi 4270": [
     "connor lidell"
@@ -21686,17 +21102,17 @@ export const data_course_prof = {
   ],
   "bstat 5301": [
     "yi liu",
+    "md helal",
     "pradip som",
     "xianghua wu",
-    "md helal",
     "alan cannon",
     "qiang ruan"
   ],
   "insy 5376": [
+    "yi-chun wang",
     "hongwei wang",
-    "yuewen liu",
     "sridhar nerur",
-    "yi-chun wang"
+    "yuewen liu"
   ],
   "nurs 3322": [
     "yan xiao",
@@ -21713,8 +21129,8 @@ export const data_course_prof = {
     "jason losh"
   ],
   "cse 4356": [
-    "jason losh",
-    "bill carroll"
+    "bill carroll",
+    "jason losh"
   ],
   "ee 5315": [
     "jason losh"
@@ -21737,8 +21153,8 @@ export const data_course_prof = {
     "kendra wiggins"
   ],
   "ae 5342": [
-    "frank lu",
-    "liwei zhang"
+    "liwei zhang",
+    "frank lu"
   ],
   "ie 6306": [
     "james lummus"
@@ -21753,8 +21169,8 @@ export const data_course_prof = {
     "heath macdonald"
   ],
   "chem 4318": [
-    "robin macaluso",
-    "frederick macdonnell"
+    "frederick macdonnell",
+    "robin macaluso"
   ],
   "ee 6353": [
     "ramtin madani"
@@ -21771,20 +21187,20 @@ export const data_course_prof = {
     "karen magruder"
   ],
   "span 2300": [
-    "rosa tellez",
-    "sonia mahoney"
+    "sonia mahoney",
+    "rosa tellez"
   ],
   "mae 4315": [
-    "andrew makeev",
-    "paul davidson"
+    "paul davidson",
+    "andrew makeev"
   ],
   "ae 5315": [
-    "andrew makeev",
-    "paul davidson"
+    "paul davidson",
+    "andrew makeev"
   ],
   "me 5315": [
-    "andrew makeev",
-    "paul davidson"
+    "paul davidson",
+    "andrew makeev"
   ],
   "arch 5332": [
     "atefe makhmalbaf"
@@ -21793,9 +21209,9 @@ export const data_course_prof = {
     "subhrangsu mandal"
   ],
   "chem 5331": [
-    "kayunta johnson-winters",
     "byung ran so",
-    "subhrangsu mandal"
+    "subhrangsu mandal",
+    "kayunta johnson-winters"
   ],
   "chem 6012": [
     "subhrangsu mandal"
@@ -21810,9 +21226,9 @@ export const data_course_prof = {
     "michael manry"
   ],
   "intd 3323": [
+    "rebecca boles",
     "jill klores",
-    "barbara marini",
-    "rebecca boles"
+    "barbara marini"
   ],
   "intd 4556": [
     "barbara marini"
@@ -21828,9 +21244,9 @@ export const data_course_prof = {
     "gyde martin"
   ],
   "psyc 6349": [
+    "michelle martin-raugh",
     "lauri jensen-campbell",
-    "wilma ford",
-    "michelle martin-raugh"
+    "wilma ford"
   ],
   "arch 4349": [
     "john maruszczak"
@@ -21865,8 +21281,8 @@ export const data_course_prof = {
     "donald mcconnell"
   ],
   "nurs 5112": [
-    "brandon respress",
     "heather skrivanek",
+    "brandon respress",
     "jacqueline michael"
   ],
   "mana 5322": [
@@ -21885,12 +21301,12 @@ export const data_course_prof = {
     "cheryl mitchell"
   ],
   "ee 5314": [
-    "jason losh",
-    "jon mitchell"
+    "jon mitchell",
+    "jason losh"
   ],
   "ce 5346": [
-    "habib ahmari",
-    "semu moges"
+    "semu moges",
+    "habib ahmari"
   ],
   "hist 5345": [
     "evelyn montgomery"
@@ -21902,43 +21318,43 @@ export const data_course_prof = {
     "michael morrison"
   ],
   "musi 3300": [
-    "megan sarno",
-    "sean morrison"
+    "sean morrison",
+    "megan sarno"
   ],
   "musi 5354": [
     "sean morrison"
   ],
   "phys 1301": [
-    "fajer jaafari",
-    "shafaq moten"
+    "shafaq moten",
+    "fajer jaafari"
   ],
   "musi 4391": [
-    "brian mulholland",
-    "soo kim"
+    "soo kim",
+    "brian mulholland"
   ],
   "arch 5357": [
-    "fuad kareem",
-    "narges sadeghigolshan",
-    "donnie reece",
     "atefe makhmalbaf",
-    "ricardo munoz"
+    "donnie reece",
+    "ricardo munoz",
+    "narges sadeghigolshan",
+    "fuad kareem"
   ],
   "musi 0118": [
     "christopher nadeau",
     "joe moore"
   ],
   "acct 5317": [
-    "sandra henderson",
     "nandu nagarajan",
-    "li-chin ho"
+    "li-chin ho",
+    "sandra henderson"
   ],
   "cm 4332": [
     "mohammad najafi"
   ],
   "ce 6397": [
-    "md hossain",
+    "mohammad najafi",
     "nur yazdani",
-    "mohammad najafi"
+    "md hossain"
   ],
   "chem 3181": [
     "kwangho nam",
@@ -21962,12 +21378,12 @@ export const data_course_prof = {
     "joshua nason"
   ],
   "socw 5344": [
+    "marcela nava",
     "steven moore",
-    "jaclyn kirsch",
+    "aditi prabhakar",
     "chava rousch-carlisle",
     "tracy orwig",
-    "aditi prabhakar",
-    "marcela nava"
+    "jaclyn kirsch"
   ],
   "kine 3313": [
     "larry nelson"
@@ -21993,12 +21409,12 @@ export const data_course_prof = {
   ],
   "ae 5331": [
     "cheng luo",
-    "albert tong",
-    "seiichi nomura"
+    "seiichi nomura",
+    "albert tong"
   ],
   "me 5331": [
-    "albert tong",
-    "seiichi nomura"
+    "seiichi nomura",
+    "albert tong"
   ],
   "thea 1310": [
     "victoria nooe"
@@ -22007,9 +21423,9 @@ export const data_course_prof = {
     "victoria nooe"
   ],
   "engl 4337": [
-    "kaci o'donnell",
     "lonny harrison",
-    "rachael mariboho"
+    "rachael mariboho",
+    "kaci o'donnell"
   ],
   "engl 4348": [
     "nathanael oreilly"
@@ -22026,21 +21442,21 @@ export const data_course_prof = {
   ],
   "socw 4344": [
     "steven moore",
+    "jessica sanchez",
     "yolonda dubose",
     "chava rousch-carlisle",
-    "tracy orwig",
-    "jessica sanchez"
+    "tracy orwig"
   ],
   "socw 5342": [
     "traneika turner-wentt",
-    "aditi prabhakar",
     "tracy orwig",
+    "aditi prabhakar",
     "jordan dugger"
   ],
   "crcj 4390": [
-    "keith owens",
+    "kent kerley",
     "john rodriguez",
-    "kent kerley"
+    "keith owens"
   ],
   "larc 5665": [
     "taner ozdil"
@@ -22082,13 +21498,13 @@ export const data_course_prof = {
     "krishnan mistry"
   ],
   "envr 3454": [
-    "elsa pirouz",
     "neda ghazipour",
+    "elsa pirouz",
     "hyeong shin"
   ],
   "geol 4331": [
-    "elsa pirouz",
-    "neda ghazipour"
+    "neda ghazipour",
+    "elsa pirouz"
   ],
   "geol 5320": [
     "elsa pirouz"
@@ -22103,32 +21519,32 @@ export const data_course_prof = {
     "jack poe"
   ],
   "reae 5334": [
-    "james hansz",
-    "jack poe"
+    "jack poe",
+    "james hansz"
   ],
   "socw 4455": [
-    "christie eckler",
-    "shauntel adams",
     "melissa pollock",
-    "hector ramos de leon"
+    "hector ramos de leon",
+    "christie eckler",
+    "shauntel adams"
   ],
   "socw 4456": [
-    "christie eckler",
-    "shauntel adams",
     "melissa pollock",
-    "hector ramos de leon"
+    "hector ramos de leon",
+    "christie eckler",
+    "shauntel adams"
   ],
   "socw 4555": [
-    "christie eckler",
-    "shauntel adams",
     "melissa pollock",
-    "hector ramos de leon"
+    "hector ramos de leon",
+    "christie eckler",
+    "shauntel adams"
   ],
   "socw 4556": [
-    "christie eckler",
-    "shauntel adams",
     "melissa pollock",
-    "hector ramos de leon"
+    "hector ramos de leon",
+    "christie eckler",
+    "shauntel adams"
   ],
   "engl 4376": [
     "timothy ponce"
@@ -22168,12 +21584,12 @@ export const data_course_prof = {
     "joshua pulcinella"
   ],
   "ie 4310": [
-    "shuchisnigdha deb",
-    "md mahmudur rahman"
+    "md mahmudur rahman",
+    "shuchisnigdha deb"
   ],
   "ie 5314": [
-    "shuchisnigdha deb",
-    "md mahmudur rahman"
+    "md mahmudur rahman",
+    "shuchisnigdha deb"
   ],
   "fina 6301": [
     "david rakowski"
@@ -22201,17 +21617,17 @@ export const data_course_prof = {
     "mark reeder"
   ],
   "lshp 2302": [
-    "correy retzloff",
-    "jeffrey fisher"
+    "jeffrey fisher",
+    "correy retzloff"
   ],
   "kine 5328": [
     "mark ricard"
   ],
   "engl 1350": [
-    "olivia arroyo",
+    "sean woodard",
     "daniel kasper",
-    "timothy richardson",
-    "sean woodard"
+    "olivia arroyo",
+    "timothy richardson"
   ],
   "engl 3380": [
     "timothy richardson"
@@ -22221,9 +21637,9 @@ export const data_course_prof = {
     "joanne rinker-dozier"
   ],
   "sped 4307": [
-    "marilyn roberts",
     "schuyler beecher",
-    "jonathan broyles"
+    "jonathan broyles",
+    "marilyn roberts"
   ],
   "educ 5366": [
     "daniel robinson"
@@ -22232,11 +21648,11 @@ export const data_course_prof = {
     "julian rodriguez becerra"
   ],
   "edad 5322": [
+    "jennifer watters",
+    "throy campbell",
     "michelle leverette",
     "terry-ann rodriguez",
-    "maria trache",
-    "jennifer watters",
-    "throy campbell"
+    "maria trache"
   ],
   "biol 3318": [
     "corey roelke"
@@ -22248,20 +21664,20 @@ export const data_course_prof = {
     "ericka roland"
   ],
   "edad 6392": [
-    "yi zhang",
-    "carrie ausbrooks",
-    "relius johnson",
     "diane patrick",
-    "barbara tobolowsky",
+    "ericka roland",
+    "carrie ausbrooks",
     "catherine robert",
-    "ericka roland"
+    "relius johnson",
+    "yi zhang",
+    "barbara tobolowsky"
   ],
   "ce 5341": [
     "stefan romanoschi"
   ],
   "sped 4601": [
-    "john romig",
-    "raeonne elliott"
+    "raeonne elliott",
+    "john romig"
   ],
   "biol 3312": [
     "michael roner"
@@ -22270,8 +21686,8 @@ export const data_course_prof = {
     "michael roner"
   ],
   "divr 2315": [
-    "jessica sanchez",
     "de'an roper",
+    "jessica sanchez",
     "luis romero"
   ],
   "gwss 2315": [
@@ -22279,20 +21695,20 @@ export const data_course_prof = {
     "luis romero"
   ],
   "beep 3381": [
+    "patricia saenz",
     "dora salazar",
     "emilio rios-jimenez",
-    "patricia saenz",
     "luis rosado",
     "paul polanco"
   ],
   "beep 4314": [
-    "jose mendez monge",
-    "luis rosado"
+    "luis rosado",
+    "jose mendez monge"
   ],
   "mils 3341": [
-    "james ross",
+    "jeremy hubacek",
     "rachel wood",
-    "jeremy hubacek"
+    "james ross"
   ],
   "acct 5318": [
     "donald mcconnell",
@@ -22300,17 +21716,17 @@ export const data_course_prof = {
   ],
   "socw 4366": [
     "courtney butts",
+    "pamela randolph",
     "beverly black",
-    "chava rousch-carlisle",
-    "pamela randolph"
+    "chava rousch-carlisle"
   ],
   "socw 5366": [
-    "beverly black",
-    "courtney butts",
-    "chava rousch-carlisle",
-    "morgan pettyjohn",
     "jordan dugger",
-    "jessica sanchez"
+    "courtney butts",
+    "jessica sanchez",
+    "morgan pettyjohn",
+    "chava rousch-carlisle",
+    "beverly black"
   ],
   "span 3313": [
     "fernando melero-garcia",
@@ -22323,19 +21739,19 @@ export const data_course_prof = {
     "joseph sabbagh"
   ],
   "beep 4305": [
-    "luis rosado",
     "patricia saenz",
+    "luis rosado",
     "hildelisa diaz"
   ],
   "beep 4382": [
     "patricia saenz"
   ],
   "ce 5343": [
-    "ahmad mahmoud ahmad jibreen",
     "nilo tsung",
-    "md nazmus sakib",
+    "ahmad mahmoud ahmad jibreen",
+    "atefe makhmalbaf",
     "karthikeyan loganathan",
-    "atefe makhmalbaf"
+    "md nazmus sakib"
   ],
   "hist 3321": [
     "cristina salinas"
@@ -22349,9 +21765,9 @@ export const data_course_prof = {
     "russell sanders"
   ],
   "acct 5315": [
-    "sandra henderson",
+    "cheryl prachyl",
     "matthew sargent",
-    "cheryl prachyl"
+    "sandra henderson"
   ],
   "pols 3302": [
     "brent sasley"
@@ -22360,14 +21776,14 @@ export const data_course_prof = {
     "brent sasley"
   ],
   "edad 5356": [
-    "elsa camargo",
-    "ericka roland",
     "maria delgado",
-    "sahar sattarzadeh"
+    "sahar sattarzadeh",
+    "ericka roland",
+    "elsa camargo"
   ],
   "edad 6343": [
-    "catherine robert",
-    "sahar sattarzadeh"
+    "sahar sattarzadeh",
+    "catherine robert"
   ],
   "ling 3330": [
     "ivy hauser",
@@ -22377,22 +21793,22 @@ export const data_course_prof = {
     "walter schargel"
   ],
   "ee 5191": [
-    "wendell davis",
-    "ioannis schizas",
     "rasool kenarangui",
-    "sungyong jung"
+    "wendell davis",
+    "sungyong jung",
+    "ioannis schizas"
   ],
   "nurs 6301": [
-    "barbara schneider",
-    "donelle barnes"
+    "donelle barnes",
+    "barbara schneider"
   ],
   "arch 4325": [
-    "scott oldner",
-    "courtney schoedel"
+    "courtney schoedel",
+    "scott oldner"
   ],
   "arch 5325": [
-    "scott oldner",
-    "courtney schoedel"
+    "courtney schoedel",
+    "scott oldner"
   ],
   "art 3344": [
     "jeremy scidmore",
@@ -22413,11 +21829,11 @@ export const data_course_prof = {
   ],
   "engl 3371": [
     "kathryn warren",
-    "trevor fuller",
-    "timothy morris",
-    "sarah shelton",
-    "peggy kulesz",
     "vincent sosko",
+    "sarah shelton",
+    "timothy morris",
+    "peggy kulesz",
+    "trevor fuller",
     "kevin porter"
   ],
   "kine 5385": [
@@ -22427,20 +21843,20 @@ export const data_course_prof = {
   ],
   "mana 5329": [
     "george benson",
-    "wayne crawford",
-    "hanbo shim"
+    "hanbo shim",
+    "wayne crawford"
   ],
   "math 4322": [
     "barbara shipman",
     "gaik ambartsoumian"
   ],
   "arab 1441": [
-    "najia alameddin",
-    "reem shishakly"
+    "reem shishakly",
+    "najia alameddin"
   ],
   "arab 1442": [
-    "najia alameddin",
-    "reem shishakly"
+    "reem shishakly",
+    "najia alameddin"
   ],
   "arab 2310": [
     "reem shishakly"
@@ -22449,19 +21865,19 @@ export const data_course_prof = {
     "reem shishakly"
   ],
   "asl 2313": [
-    "ryan sims",
-    "annette scolaro",
     "lisalee egbert",
     "edwin mitchell",
-    "travis belmontes-merrell",
-    "cynthia nagy"
+    "ryan sims",
+    "cynthia nagy",
+    "annette scolaro",
+    "travis belmontes-merrell"
   ],
   "ie 4308": [
     "subhash singhal"
   ],
   "ie 5303": [
-    "subhash singhal",
-    "ukesh chawal"
+    "ukesh chawal",
+    "subhash singhal"
   ],
   "socw 6373": [
     "anne bain",
@@ -22483,27 +21899,27 @@ export const data_course_prof = {
     "shelley smith"
   ],
   "modl 5310": [
-    "christopher conway",
-    "antoinette sol"
+    "antoinette sol",
+    "christopher conway"
   ],
   "fren 3300": [
-    "omar valdez rocha",
-    "alicia soueid"
+    "alicia soueid",
+    "omar valdez rocha"
   ],
   "ee 2301": [
     "robert spangler"
   ],
   "as 1121": [
-    "allen sparkman",
     "bryan davis",
+    "allen sparkman",
     "brian chambon"
   ],
   "gwss 3305": [
     "stephanie spohr"
   ],
   "emba 5304": [
-    "ramgopal venkataraman",
-    "bin srinidhi"
+    "bin srinidhi",
+    "ramgopal venkataraman"
   ],
   "emba 5106": [
     "cynthia st john"
@@ -22513,32 +21929,32 @@ export const data_course_prof = {
   ],
   "intd 3553": [
     "rebecca boles",
-    "arden stephenson",
-    "somang yang"
+    "somang yang",
+    "arden stephenson"
   ],
   "intd 4332": [
     "david messersmith",
     "arden stephenson"
   ],
   "kine 5221": [
-    "cynthia trowbridge",
     "laura kunkel",
-    "valerie stevenson"
+    "valerie stevenson",
+    "cynthia trowbridge"
   ],
   "hist 4366": [
     "michael stout"
   ],
   "ling 4347": [
-    "laurel stvan",
-    "suwon yoon"
+    "suwon yoon",
+    "laurel stvan"
   ],
   "ling 6390": [
     "naoko witzel",
     "laurel stvan"
   ],
   "ae 5302": [
-    "christopher elliott",
-    "kamesh subbarao"
+    "kamesh subbarao",
+    "christopher elliott"
   ],
   "math 5312": [
     "shan sun-mitchell"
@@ -22547,9 +21963,9 @@ export const data_course_prof = {
     "liping tang"
   ],
   "udes 1301": [
+    "elizabeth heise",
     "meghna tare",
-    "austin allen",
-    "elizabeth heise"
+    "austin allen"
   ],
   "dnce 3232": [
     "amanda jackson",
@@ -22601,20 +22017,20 @@ export const data_course_prof = {
     "jody greaney"
   ],
   "ce 5387": [
-    "mostafa ghandehari",
     "bahram abediniangerabi",
+    "mostafa ghandehari",
     "nilo tsung"
   ],
   "cm 5387": [
-    "mostafa ghandehari",
     "bahram abediniangerabi",
+    "mostafa ghandehari",
     "nilo tsung"
   ],
   "univ-la 1000": [
-    "timothy angel",
-    "jack unzicker",
+    "sean morrison",
     "elyse kahler",
-    "sean morrison"
+    "jack unzicker",
+    "timothy angel"
   ],
   "bsad 6392": [
     "tatia jacobson jordan",
@@ -22627,13 +22043,13 @@ export const data_course_prof = {
     "michaela vancliff"
   ],
   "anth 1200": [
-    "ladorna mcgee",
-    "lauren vanpool"
+    "lauren vanpool",
+    "ladorna mcgee"
   ],
   "soci 1200": [
-    "ladorna mcgee",
+    "katrina nuncio",
     "lauren vanpool",
-    "katrina nuncio"
+    "ladorna mcgee"
   ],
   "ee 4380": [
     "michael vasilyev"
@@ -22645,8 +22061,8 @@ export const data_course_prof = {
     "michael vasilyev"
   ],
   "acct 5311": [
-    "ramgopal venkataraman",
     "hila fogel-yaari",
+    "ramgopal venkataraman",
     "cheryl prachyl"
   ],
   "art 3342": [
@@ -22662,13 +22078,13 @@ export const data_course_prof = {
     "benjamin wagley"
   ],
   "emba 5308": [
-    "jeffrey wallman",
-    "lawrence chonko"
+    "lawrence chonko",
+    "jeffrey wallman"
   ],
   "musi 3303": [
     "elyse kahler",
-    "levi walls",
-    "joseph turner"
+    "joseph turner",
+    "levi walls"
   ],
   "ee 5307": [
     "mushuang liu",
@@ -22687,9 +22103,9 @@ export const data_course_prof = {
     "james warren"
   ],
   "socw 6393": [
+    "michelle washburn",
     "keith anderson",
-    "katherine sanchez",
-    "michelle washburn"
+    "katherine sanchez"
   ],
   "nurs 5434": [
     "tamara washington"
@@ -22704,13 +22120,13 @@ export const data_course_prof = {
     "jolene webster"
   ],
   "phys 3315": [
-    "nevin weinberg",
     "nilakshi veerabathina",
+    "nevin weinberg",
     "sangwook park"
   ],
   "socw 3321": [
-    "albert white",
-    "melissa flores"
+    "melissa flores",
+    "albert white"
   ],
   "kine 4193": [
     "alison white"
@@ -22723,18 +22139,18 @@ export const data_course_prof = {
     "amber white"
   ],
   "socw 5324": [
-    "joyce white",
-    "rachel swope",
-    "marie salimbeni",
     "destiney kinsey",
-    "pamela malone"
+    "pamela malone",
+    "marie salimbeni",
+    "joyce white",
+    "rachel swope"
   ],
   "socw 5325": [
-    "joyce white",
     "dianna jones",
     "mansi patel",
-    "gretchen ward",
-    "toykesha howard"
+    "toykesha howard",
+    "joyce white",
+    "gretchen ward"
   ],
   "pols 4365": [
     "brian whitmore"
@@ -22744,13 +22160,13 @@ export const data_course_prof = {
     "laurel whitsett"
   ],
   "thea 3308": [
+    "darius booker",
     "detra payne",
-    "laurel whitsett",
-    "darius booker"
+    "laurel whitsett"
   ],
   "papp 5334": [
-    "marty wieder",
-    "fred yelverton"
+    "fred yelverton",
+    "marty wieder"
   ],
   "comm 5310": [
     "shelley wigley"
@@ -22760,8 +22176,8 @@ export const data_course_prof = {
     "frederick wilder"
   ],
   "arch 4314": [
-    "marie oehlerking-read",
     "murray miller",
+    "marie oehlerking-read",
     "lorelei willett"
   ],
   "arch 5314": [
@@ -22774,10 +22190,10 @@ export const data_course_prof = {
     "jonne wilmore"
   ],
   "nurs 5374": [
-    "brandi pitcox",
     "sommer mims",
+    "jonne wilmore",
     "mary gardner",
-    "jonne wilmore"
+    "brandi pitcox"
   ],
   "nurs-hi 3359": [
     "gabriela wilson"
@@ -22805,22 +22221,22 @@ export const data_course_prof = {
     "szu-yen liang"
   ],
   "intd 4368": [
-    "boback firoozbakht",
-    "donovan lord",
     "james marstiller",
-    "somang yang"
+    "somang yang",
+    "donovan lord",
+    "boback firoozbakht"
   ],
   "educ 3333": [
     "jiyoon yoon"
   ],
   "sced 5351": [
+    "betty george",
     "jiyoon yoon",
-    "chris deeter",
-    "betty george"
+    "chris deeter"
   ],
   "ce 5372": [
-    "xinbao yu",
-    "omid habibzadeh bigdarvish"
+    "omid habibzadeh bigdarvish",
+    "xinbao yu"
   ],
   "be 4326": [
     "baohong yuan"
@@ -22863,8 +22279,8 @@ export const data_course_prof = {
     "adam annaccone"
   ],
   "ce 5306": [
-    "ali reza sayah",
-    "juan balderrama"
+    "juan balderrama",
+    "ali reza sayah"
   ],
   "be 5326": [
     "baohong yuan"
@@ -22873,9 +22289,9 @@ export const data_course_prof = {
     "barbara berthold"
   ],
   "phys 5308": [
+    "benjamin jones",
     "jonathan asaadi",
-    "raquel castillo fernandez",
-    "benjamin jones"
+    "raquel castillo fernandez"
   ],
   "soci 5315": [
     "beth shelton"
@@ -22884,9 +22300,9 @@ export const data_course_prof = {
     "brent boyea"
   ],
   "cse 5392": [
-    "cesar torres",
     "remi chou",
-    "brian dalio"
+    "brian dalio",
+    "cesar torres"
   ],
   "be 5337": [
     "cheng-jen chuong"
@@ -22919,15 +22335,15 @@ export const data_course_prof = {
     "david jorgensen"
   ],
   "hist 5361": [
-    "kenyon zimmer",
-    "david lafevor"
+    "david lafevor",
+    "kenyon zimmer"
   ],
   "nurs 6333": [
     "deborah behan"
   ],
   "nursc 5433": [
-    "deborah lewis",
-    "lynda jarrell"
+    "lynda jarrell",
+    "deborah lewis"
   ],
   "kine 5374": [
     "denise hernandez"
@@ -22942,8 +22358,8 @@ export const data_course_prof = {
     "douglas grisaffe"
   ],
   "nurs 5447": [
-    "patricia thomas",
-    "emily fox"
+    "emily fox",
+    "patricia thomas"
   ],
   "plan 6346": [
     "emily nwakpuda"
@@ -22971,12 +22387,12 @@ export const data_course_prof = {
     "hanli liu"
   ],
   "plan 6347": [
-    "hannah lebovits",
-    "karabi bezboruah"
+    "karabi bezboruah",
+    "hannah lebovits"
   ],
   "socw 6367": [
-    "hui huang",
     "catherine labrenz",
+    "hui huang",
     "john connolly"
   ],
   "ee 5362": [
@@ -23001,8 +22417,8 @@ export const data_course_prof = {
     "jeffrey witzel"
   ],
   "nurs 6308": [
-    "jessica smith",
-    "jing wang"
+    "jing wang",
+    "jessica smith"
   ],
   "fina 5392": [
     "jianping zhang"
@@ -23023,8 +22439,8 @@ export const data_course_prof = {
     "john repsis"
   ],
   "sped 5305": [
-    "john romig",
-    "tracie zakas"
+    "tracie zakas",
+    "john romig"
   ],
   "ling 5334": [
     "joseph sabbagh"
@@ -23048,8 +22464,8 @@ export const data_course_prof = {
     "kayunta johnson-winters"
   ],
   "crcj 5370": [
-    "keith owens",
-    "john rodriguez"
+    "john rodriguez",
+    "keith owens"
   ],
   "soci 5321": [
     "kelly bergstrand"
@@ -23065,15 +22481,15 @@ export const data_course_prof = {
     "kyung suk yum"
   ],
   "kine 5353": [
-    "meredith decker",
-    "laura kunkel"
+    "laura kunkel",
+    "meredith decker"
   ],
   "ce 5363": [
     "laureano hoyos"
   ],
   "ling 5347": [
-    "laurel stvan",
-    "suwon yoon"
+    "suwon yoon",
+    "laurel stvan"
   ],
   "mark 5329": [
     "lawrence chonko"
@@ -23085,8 +22501,8 @@ export const data_course_prof = {
     "melinda barlow"
   ],
   "larc 5663": [
-    "david hopman",
-    "michael averitt"
+    "michael averitt",
+    "david hopman"
   ],
   "kine 5170": [
     "michael nelson"
@@ -23106,31 +22522,31 @@ export const data_course_prof = {
     "wai ian tam"
   ],
   "engl 6370": [
-    "jacqueline fay",
-    "neill matheson"
+    "neill matheson",
+    "jacqueline fay"
   ],
   "ce 5384": [
     "nur yazdani"
   ],
   "mana 6328": [
-    "owen parker",
-    "abdul rasheed"
+    "abdul rasheed",
+    "owen parker"
   ],
   "hist 5339": [
-    "patryk babiracki",
-    "christopher morris"
+    "christopher morris",
+    "patryk babiracki"
   ],
   "ling 5304": [
-    "peggy semingson",
-    "jeffrey witzel"
+    "jeffrey witzel",
+    "peggy semingson"
   ],
   "evse 5317": [
     "ricardo sanchez murillo"
   ],
   "geol 5199": [
-    "un-jung kim",
-    "nathan brown",
     "yike shen",
+    "nathan brown",
+    "un-jung kim",
     "ricardo sanchez murillo"
   ],
   "plan 5352": [
@@ -23220,12 +22636,12 @@ export const data_course_prof = {
   ],
   "geog 4350": [
     "andrew milson",
-    "imre demhardt",
-    "christopher morris"
+    "christopher morris",
+    "imre demhardt"
   ],
   "arch 4332": [
-    "donna firouzbakht",
-    "atefe makhmalbaf"
+    "atefe makhmalbaf",
+    "donna firouzbakht"
   ],
   "modl 4305": [
     "barbara berthold"
@@ -23268,8 +22684,8 @@ export const data_course_prof = {
     "christopher land"
   ],
   "musi 0122": [
-    "christian valdes",
-    "christopher mcguire"
+    "christopher mcguire",
+    "christian valdes"
   ],
   "hist 3342": [
     "christopher morris"
@@ -23284,8 +22700,8 @@ export const data_course_prof = {
     "christy spivey"
   ],
   "musi 1140": [
-    "connor lidell",
-    "jocelyn hansen"
+    "jocelyn hansen",
+    "connor lidell"
   ],
   "hist 4333": [
     "cristina salinas"
@@ -23297,8 +22713,8 @@ export const data_course_prof = {
     "daniel sledge"
   ],
   "thea 3360": [
-    "detra payne",
-    "donald shorter"
+    "donald shorter",
+    "detra payne"
   ],
   "mse 4390": [
     "erika la plante"
@@ -23307,8 +22723,8 @@ export const data_course_prof = {
     "fajer jaafari"
   ],
   "edad 2330": [
-    "dawn stephens-jenkins",
     "fallan frank",
+    "dawn stephens-jenkins",
     "veronica guzman"
   ],
   "art 3321": [
@@ -23365,9 +22781,9 @@ export const data_course_prof = {
     "josephine ryan"
   ],
   "engl 4322": [
-    "kaci o'donnell",
+    "amy tigner",
     "jason hogue",
-    "amy tigner"
+    "kaci o'donnell"
   ],
   "pols 3330": [
     "kayla canelo sandoval"
@@ -23455,15 +22871,15 @@ export const data_course_prof = {
     "merlynd nestell"
   ],
   "engl 3385": [
-    "kaci o'donnell",
-    "michael brittain"
+    "michael brittain",
+    "kaci o'donnell"
   ],
   "musi 1101": [
     "michael morrison"
   ],
   "art 2357": [
-    "michael mulvey",
-    "r mcwilliams"
+    "r mcwilliams",
+    "michael mulvey"
   ],
   "phil 3301": [
     "miriam byrd"
@@ -23476,15 +22892,15 @@ export const data_course_prof = {
     "hussain ali"
   ],
   "span 4330": [
-    "monica de la fuente iglesias",
-    "jinny choi"
+    "jinny choi",
+    "monica de la fuente iglesias"
   ],
   "ling 3370": [
     "naoko witzel"
   ],
   "aren 4309": [
-    "nikhil singh yaduvanshi",
-    "june young park"
+    "june young park",
+    "nikhil singh yaduvanshi"
   ],
   "hist 3374": [
     "patryk babiracki"
@@ -23541,8 +22957,8 @@ export const data_course_prof = {
     "adam annaccone"
   ],
   "kine 5234": [
-    "meredith decker",
-    "adam annaccone"
+    "adam annaccone",
+    "meredith decker"
   ],
   "kine 5356": [
     "adam annaccone"
@@ -23558,15 +22974,15 @@ export const data_course_prof = {
     "amanda olsen"
   ],
   "edad 5384": [
+    "jesus martinez",
     "cynthia woody",
-    "jessica knox",
-    "joel leader",
     "amy anderson",
-    "jesus martinez"
+    "jessica knox",
+    "joel leader"
   ],
   "modl 5301": [
-    "amy austin",
-    "cynthia laborde"
+    "cynthia laborde",
+    "amy austin"
   ],
   "plan 5340": [
     "ardeshir anjomani"
@@ -23575,20 +22991,20 @@ export const data_course_prof = {
     "ariadna reyes-sanchez"
   ],
   "nursg 5338": [
-    "deanna cason",
     "audrey collins",
+    "deanna cason",
     "ashley pree"
   ],
   "nurs 5324": [
-    "immaculate okeyo",
-    "heather skrivanek",
-    "aaron langford",
     "cristina winters",
-    "solange boma",
-    "maryann ugoh",
     "oluwatosin adebiyi",
     "kimberly thompson",
-    "aimee dunnam"
+    "immaculate okeyo",
+    "solange boma",
+    "maryann ugoh",
+    "aimee dunnam",
+    "heather skrivanek",
+    "aaron langford"
   ],
   "ling 5395": [
     "cynthia kilpatrick"
@@ -23600,45 +23016,45 @@ export const data_course_prof = {
     "edmund prater"
   ],
   "nurs 5537": [
-    "patricia thomas",
-    "emily fox"
+    "emily fox",
+    "patricia thomas"
   ],
   "nurs 5348": [
     "erika diniz-borkar"
   ],
   "nursc 5640": [
-    "mary roberts",
-    "sayda major",
+    "jodie moore",
     "jennifer hoeft",
+    "sayda major",
     "esteban aguirre",
-    "jodie moore"
+    "mary roberts"
   ],
   "edad 5380": [
     "frederick engram",
-    "michelle leverette",
-    "terry-ann rodriguez",
     "alden jones",
-    "sahar sattarzadeh",
     "meesha jones",
-    "maricela helm"
+    "maricela helm",
+    "sahar sattarzadeh",
+    "michelle leverette",
+    "terry-ann rodriguez"
   ],
   "biol 5307": [
     "heather charles"
   ],
   "edad 6342": [
-    "casey brown",
-    "jennifer watters"
+    "jennifer watters",
+    "casey brown"
   ],
   "plan 5331": [
     "jianling li"
   ],
   "sped 5313": [
-    "john romig",
-    "ambra green"
+    "ambra green",
+    "john romig"
   ],
   "ee 5309": [
-    "jonathan bredow",
-    "dukhyun kim"
+    "dukhyun kim",
+    "jonathan bredow"
   ],
   "ee 5331": [
     "jonathan bredow"
@@ -23648,8 +23064,8 @@ export const data_course_prof = {
     "yolanda parker"
   ],
   "maed 5356": [
-    "joo hi lee",
     "robin anderson",
+    "joo hi lee",
     "yolanda parker"
   ],
   "hcad 5310": [
@@ -23658,18 +23074,18 @@ export const data_course_prof = {
     "joshua ross"
   ],
   "sced 5355": [
-    "jiyoon yoon",
-    "joyce myers",
     "katherine hoover",
-    "leeann burke",
-    "chris deeter"
+    "chris deeter",
+    "joyce myers",
+    "jiyoon yoon",
+    "leeann burke"
   ],
   "papp 5354": [
     "karabi bezboruah"
   ],
   "nursc 5432": [
-    "kashiris perryman",
-    "daniel o'neill"
+    "daniel o'neill",
+    "kashiris perryman"
   ],
   "kine 5341": [
     "laura kunkel"
@@ -23697,12 +23113,12 @@ export const data_course_prof = {
     "melissa oden"
   ],
   "kine 5120": [
-    "meredith decker",
-    "adam annaccone"
+    "adam annaccone",
+    "meredith decker"
   ],
   "kine 5229": [
-    "meredith decker",
-    "adam annaccone"
+    "adam annaccone",
+    "meredith decker"
   ],
   "hist 5390": [
     "wendell hunnicutt",
@@ -23740,8 +23156,8 @@ export const data_course_prof = {
     "ukesh chawal"
   ],
   "edad 6310": [
-    "meredith billings",
-    "yi zhang"
+    "yi zhang",
+    "meredith billings"
   ],
   "fina 5329": [
     "yibing du"
@@ -23758,8 +23174,8 @@ export const data_course_prof = {
     "ricardo sanchez murillo"
   ],
   "anth 4398": [
-    "robyn dodge",
-    "ashley lemke"
+    "ashley lemke",
+    "robyn dodge"
   ],
   "comm 3346": [
     "emily brooks",
@@ -23767,9 +23183,9 @@ export const data_course_prof = {
   ],
   "cm 4357": [
     "bijan shapoorian",
+    "niloofar parsaeifard",
     "madhuri arjun",
-    "arpita bhatt",
-    "niloofar parsaeifard"
+    "arpita bhatt"
   ],
   "arch 4341": [
     "dustin wheat"
@@ -23782,9 +23198,9 @@ export const data_course_prof = {
   ],
   "envr 3387": [
     "andrew hunt",
+    "hyeong shin",
     "arne winguth",
-    "ricardo sanchez murillo",
-    "hyeong shin"
+    "ricardo sanchez murillo"
   ],
   "woms 3385": [
     "jaya davis"
@@ -23793,8 +23209,8 @@ export const data_course_prof = {
     "jennifer roye"
   ],
   "engl 4321": [
-    "kaci o'donnell",
-    "jacqueline fay"
+    "jacqueline fay",
+    "kaci o'donnell"
   ],
   "kine 3312": [
     "larry nelson"
@@ -23812,8 +23228,8 @@ export const data_course_prof = {
     "patryk babiracki"
   ],
   "art 4695": [
-    "pauline hudel smith",
-    "glady chow"
+    "glady chow",
+    "pauline hudel smith"
   ],
   "pols 4316": [
     "rebecca deen"
@@ -23828,13 +23244,13 @@ export const data_course_prof = {
     "alejandro rodriguez"
   ],
   "nurs 6390": [
+    "amber arnold",
+    "michelle hampton",
+    "jaci mester",
     "cynthia casey",
     "sandra laird",
-    "jaci mester",
-    "amber arnold",
-    "sara moore",
-    "michelle hampton",
     "deborah behan",
+    "sara moore",
     "tandy mellard"
   ],
   "nurs 5322": [
@@ -23853,8 +23269,8 @@ export const data_course_prof = {
     "joo hi lee"
   ],
   "chem 5358": [
-    "junha jeon",
-    "he dong"
+    "he dong",
+    "junha jeon"
   ],
   "nurs 5323": [
     "kimberly thompson"
@@ -23879,13 +23295,13 @@ export const data_course_prof = {
     "patricia parham"
   ],
   "nursc 5660": [
+    "cindy joffrion moss",
     "phyllis wood",
-    "audrey collins",
-    "cindy joffrion moss"
+    "audrey collins"
   ],
   "phys 5319": [
-    "amir shahmoradi",
-    "qiming zhang"
+    "qiming zhang",
+    "amir shahmoradi"
   ],
   "ce 5695": [
     "seyedali abolmaali"
@@ -23898,17 +23314,17 @@ export const data_course_prof = {
     "dara mccluskey"
   ],
   "acct 5372": [
-    "william seeger",
-    "matthew herring"
+    "matthew herring",
+    "william seeger"
   ],
   "ce 6311": [
     "xinbao yu"
   ],
   "engr 1250": [
     "rosie kallie",
+    "kendra wallis",
     "aseem athavale",
-    "ashley guy",
-    "kendra wallis"
+    "ashley guy"
   ],
   "nurs 4100": [
     "cecilia flores"
@@ -23931,13 +23347,13 @@ export const data_course_prof = {
     "darlene hunter"
   ],
   "univ 1000": [
-    "denisse avila alejo",
+    "nicole nguyen",
     "lauren krznarich",
-    "nicole nguyen"
+    "denisse avila alejo"
   ],
   "socw 3318": [
-    "albert white",
-    "donald schuman"
+    "donald schuman",
+    "albert white"
   ],
   "ee 4334": [
     "dukhyun kim"
@@ -23973,8 +23389,8 @@ export const data_course_prof = {
   "global 3302": [
     "sabine harvey",
     "szu-yen liang",
-    "peggy semingson",
-    "yubraj aryal"
+    "yubraj aryal",
+    "peggy semingson"
   ],
   "edml 4300": [
     "sonja ezell",
@@ -23995,8 +23411,8 @@ export const data_course_prof = {
     "adam annaccone"
   ],
   "sped 5311": [
-    "john romig",
-    "jonathan broyles"
+    "jonathan broyles",
+    "john romig"
   ],
   "kine 5123": [
     "meredith decker"
@@ -24008,10 +23424,10 @@ export const data_course_prof = {
     "amandeep dhaliwal"
   ],
   "nurs 5190": [
-    "tamara eades",
-    "jacqueline michael",
     "ann eckhardt",
     "keri draganic",
+    "jacqueline michael",
+    "tamara eades",
     "emily fox"
   ],
   "socw 5360": [
@@ -24061,8 +23477,8 @@ export const data_course_prof = {
     "fred miao"
   ],
   "papp 5321": [
-    "thomas hart",
     "joseph portugal",
+    "thomas hart",
     "walter smolinski"
   ],
   "fina 5334": [
@@ -24075,8 +23491,8 @@ export const data_course_prof = {
     "edward rincon"
   ],
   "bcmn 4393": [
-    "julian rodriguez becerra",
-    "mark tremayne"
+    "mark tremayne",
+    "julian rodriguez becerra"
   ],
   "anth 3366": [
     "josephine ryan"
@@ -24089,8 +23505,8 @@ export const data_course_prof = {
     "philisa stanford"
   ],
   "hist 4330": [
-    "christopher taylor",
-    "lewis wasserman"
+    "lewis wasserman",
+    "christopher taylor"
   ],
   "biol 3353": [
     "whitney tholen"
@@ -24110,8 +23526,8 @@ export const data_course_prof = {
     "kali mckinley"
   ],
   "ee 5323": [
-    "ahmet koru",
-    "frank lewis"
+    "frank lewis",
+    "ahmet koru"
   ],
   "papp 6315": [
     "alejandro rodriguez"
@@ -24139,8 +23555,8 @@ export const data_course_prof = {
   ],
   "span 5313": [
     "alicia rueda-acedo",
-    "christopher conway",
-    "ignacio ruiz-perez"
+    "ignacio ruiz-perez",
+    "christopher conway"
   ],
   "pols 5369": [
     "daniel sledge"
@@ -24152,8 +23568,8 @@ export const data_course_prof = {
     "dengdeng yu"
   ],
   "larc 5294": [
-    "diane allen",
-    "taner ozdil"
+    "taner ozdil",
+    "diane allen"
   ],
   "musi 5364": [
     "diane lange"
@@ -24175,8 +23591,8 @@ export const data_course_prof = {
     "gerald saxon"
   ],
   "ce 5353": [
-    "habib ahmari",
-    "semu moges"
+    "semu moges",
+    "habib ahmari"
   ],
   "ae 5314": [
     "haiying huang"
@@ -24215,8 +23631,8 @@ export const data_course_prof = {
     "john wayman"
   ],
   "plan 5332": [
-    "joseph portugal",
-    "james parajon"
+    "james parajon",
+    "joseph portugal"
   ],
   "ling 5346": [
     "joseph sabbagh"
@@ -24252,8 +23668,8 @@ export const data_course_prof = {
     "merlynd nestell"
   ],
   "me 5390": [
-    "narges shayesteh moghaddam",
-    "michael bozlar"
+    "michael bozlar",
+    "narges shayesteh moghaddam"
   ],
   "ee 5352": [
     "michael manry"
@@ -24269,12 +23685,12 @@ export const data_course_prof = {
     "nilo tsung"
   ],
   "biol 5311": [
-    "janet buckner",
-    "paul chippindale"
+    "paul chippindale",
+    "janet buckner"
   ],
   "ling 5302": [
-    "peggy semingson",
-    "jeffrey witzel"
+    "jeffrey witzel",
+    "peggy semingson"
   ],
   "chem 5326": [
     "purnendu dasgupta"
@@ -24283,8 +23699,8 @@ export const data_course_prof = {
     "qilian liang"
   ],
   "socw 6395": [
-    "rachel voth schrag",
-    "john connolly"
+    "john connolly",
+    "rachel voth schrag"
   ],
   "insy 6306": [
     "radha mahapatra"
@@ -24306,8 +23722,8 @@ export const data_course_prof = {
     "seungmug lee"
   ],
   "ie 5338": [
-    "shuchisnigdha deb",
-    "md mahmudur rahman"
+    "md mahmudur rahman",
+    "shuchisnigdha deb"
   ],
   "span 5300": [
     "sonia mahoney"
@@ -24348,15 +23764,15 @@ export const data_course_prof = {
     "aaron smallwood"
   ],
   "biol 3359": [
-    "shawn christensen",
-    "allan clark"
+    "allan clark",
+    "shawn christensen"
   ],
   "soci 3340": [
     "alma garza"
   ],
   "data 4382": [
-    "masoud rostami",
-    "amir farbin"
+    "amir farbin",
+    "masoud rostami"
   ],
   "engl 3376": [
     "amy hodges"
@@ -24394,8 +23810,8 @@ export const data_course_prof = {
     "barbara berthold"
   ],
   "germ 3316": [
-    "barbara berthold",
-    "ketevan karukhnishvili"
+    "ketevan karukhnishvili",
+    "barbara berthold"
   ],
   "art 4330": [
     "joshua wilson",
@@ -24415,12 +23831,12 @@ export const data_course_prof = {
     "brent sasley"
   ],
   "musi 1247": [
-    "hannah chiasson",
-    "britni cheyenne cruz"
+    "britni cheyenne cruz",
+    "hannah chiasson"
   ],
   "phil 3341": [
-    "brittany shupe",
-    "luke roelofs"
+    "luke roelofs",
+    "brittany shupe"
   ],
   "art 4308": [
     "cheryl mitchell"
@@ -24429,8 +23845,8 @@ export const data_course_prof = {
     "christian zlolniski"
   ],
   "musi 0126": [
-    "julie liston johnson",
-    "christopher evans"
+    "christopher evans",
+    "julie liston johnson"
   ],
   "hist 3338": [
     "christopher morris"
@@ -24486,8 +23902,8 @@ export const data_course_prof = {
     "loretta pequeno"
   ],
   "thea 2340": [
-    "felicia bertch",
-    "megan haratine"
+    "megan haratine",
+    "felicia bertch"
   ],
   "art 3304": [
     "fletcher coleman"
@@ -24505,8 +23921,8 @@ export const data_course_prof = {
     "iya price"
   ],
   "engl 4301": [
-    "jacqueline fay",
-    "catherine corder"
+    "catherine corder",
+    "jacqueline fay"
   ],
   "as 2122": [
     "james fagan",
@@ -24516,9 +23932,9 @@ export const data_course_prof = {
     "james sandy"
   ],
   "cse 4372": [
-    "jason losh",
+    "jia rao",
     "hui lu",
-    "jia rao"
+    "jason losh"
   ],
   "cse 4377": [
     "jason losh"
@@ -24536,8 +23952,8 @@ export const data_course_prof = {
     "jonathan eyer"
   ],
   "thea 3304": [
-    "jordan kirby",
     "kenneth ellis",
+    "jordan kirby",
     "phillip schroeder"
   ],
   "phys 4325": [
@@ -24558,8 +23974,8 @@ export const data_course_prof = {
     "june young park"
   ],
   "crcj 3390": [
-    "frederick engram",
-    "karen martin"
+    "karen martin",
+    "frederick engram"
   ],
   "anth 3356": [
     "katrina nuncio"
@@ -24625,8 +24041,8 @@ export const data_course_prof = {
     "martin gallagher"
   ],
   "data 3421": [
-    "masoud rostami",
-    "amir shahmoradi"
+    "amir shahmoradi",
+    "masoud rostami"
   ],
   "thea 2302": [
     "megan haratine"
@@ -24644,8 +24060,8 @@ export const data_course_prof = {
     "narayanan janakiraman"
   ],
   "geol 4333": [
-    "elsa pirouz",
     "neda ghazipour",
+    "elsa pirouz",
     "joshua pulcinella"
   ],
   "art 4377": [
@@ -24661,8 +24077,8 @@ export const data_course_prof = {
     "pyayt oo"
   ],
   "art 2331": [
-    "rachel herod",
-    "benjamin wagley"
+    "benjamin wagley",
+    "rachel herod"
   ],
   "ne 4302": [
     "rasool kenarangui"
@@ -24710,8 +24126,8 @@ export const data_course_prof = {
     "thomas graca"
   ],
   "envr 2314": [
-    "un-jung kim",
-    "andrew hunt"
+    "andrew hunt",
+    "un-jung kim"
   ],
   "thea 2311": [
     "victoria nooe"
@@ -24723,8 +24139,8 @@ export const data_course_prof = {
     "william townsley"
   ],
   "psyc 3305": [
-    "traci bricka",
-    "wilma ford"
+    "wilma ford",
+    "traci bricka"
   ],
   "mse 4320": [
     "yaowu hao"
@@ -24790,10 +24206,10 @@ export const data_course_prof = {
     "bobbie brown"
   ],
   "jour 4391": [
-    "kim jones",
     "brad loper",
-    "geoffrey campbell",
-    "erika pribanic-smith"
+    "kim jones",
+    "erika pribanic-smith",
+    "geoffrey campbell"
   ],
   "chin 3345": [
     "blake carpenter"
@@ -24806,8 +24222,8 @@ export const data_course_prof = {
     "malgosia wilk-blaszczak"
   ],
   "math 5320": [
-    "benito chen charpentier",
-    "pedro maia"
+    "pedro maia",
+    "benito chen charpentier"
   ],
   "ce 4353": [
     "hyeok choi"
@@ -24834,8 +24250,8 @@ export const data_course_prof = {
     "jesse davis"
   ],
   "kine 5290": [
-    "meredith decker",
-    "adam annaccone"
+    "adam annaccone",
+    "meredith decker"
   ],
   "kine 5325": [
     "meredith decker"
@@ -24899,8 +24315,8 @@ export const data_course_prof = {
     "brad heddins"
   ],
   "pols 5319": [
-    "daniel sledge",
-    "marcus hendershot"
+    "marcus hendershot",
+    "daniel sledge"
   ],
   "phil 4391": [
     "charles hermes"
@@ -24941,8 +24357,8 @@ export const data_course_prof = {
     "heather jacobson"
   ],
   "asds 6302": [
-    "mahmoud jawad",
-    "erol ozkan"
+    "erol ozkan",
+    "mahmoud jawad"
   ],
   "asds 6303": [
     "mahmoud jawad"
@@ -24954,9 +24370,9 @@ export const data_course_prof = {
     "bree jimenez"
   ],
   "ee 4149": [
+    "gregory turner",
     "david wetz",
-    "alexander johnston",
-    "gregory turner"
+    "alexander johnston"
   ],
   "engl 3364": [
     "daniel kasper"
@@ -24968,8 +24384,8 @@ export const data_course_prof = {
     "hugh kellam"
   ],
   "anth 4391": [
-    "christian zlolniski",
-    "ritu khanduri"
+    "ritu khanduri",
+    "christian zlolniski"
   ],
   "arch 4340": [
     "douglas klahr"
@@ -25044,8 +24460,8 @@ export const data_course_prof = {
     "dylan parks"
   ],
   "plan 6303": [
-    "ivonne audirac-zazueta",
-    "julene paul"
+    "julene paul",
+    "ivonne audirac-zazueta"
   ],
   "ildt 5360": [
     "luis perez cortes"
@@ -25070,9 +24486,9 @@ export const data_course_prof = {
     "de'an roper"
   ],
   "span 4313": [
-    "christopher conway",
     "david hervas",
-    "ignacio ruiz-perez"
+    "ignacio ruiz-perez",
+    "christopher conway"
   ],
   "hist 4312": [
     "james sandy"
@@ -25157,8 +24573,8 @@ export const data_course_prof = {
     "qiang zheng"
   ],
   "kine 6293": [
-    "daniel trott",
-    "jingsong zhou"
+    "jingsong zhou",
+    "daniel trott"
   ],
   "cse 5367": [
     "yingying zhu"
@@ -25173,8 +24589,8 @@ export const data_course_prof = {
     "juan balderrama"
   ],
   "acct 5366": [
-    "matthew sargent",
-    "jeffrey matthews"
+    "jeffrey matthews",
+    "matthew sargent"
   ],
   "crcj 5352": [
     "sarah el sayed"
@@ -25200,8 +24616,8 @@ export const data_course_prof = {
     "julie durand"
   ],
   "nurs 5211": [
-    "brandon respress",
-    "aimee dunnam"
+    "aimee dunnam",
+    "brandon respress"
   ],
   "ee 6375": [
     "ali davoudi"
@@ -25216,8 +24632,8 @@ export const data_course_prof = {
     "benito chen charpentier"
   ],
   "nursg 5333": [
-    "kashiris perryman",
-    "bethany mcclean"
+    "bethany mcclean",
+    "kashiris perryman"
   ],
   "nursc 5374": [
     "brandi pitcox"
@@ -25268,8 +24684,8 @@ export const data_course_prof = {
     "digant dave"
   ],
   "nursg 5310": [
-    "ahmad hamdan",
-    "donna bacchus"
+    "donna bacchus",
+    "ahmad hamdan"
   ],
   "mse 5330": [
     "efstathios meletis"
@@ -25290,10 +24706,10 @@ export const data_course_prof = {
     "jared kenworthy"
   ],
   "nurs 6321": [
-    "wasileh petro-nustas",
     "sara duvall",
-    "stephanie spohr",
     "jeannie randall",
+    "wasileh petro-nustas",
+    "stephanie spohr",
     "judy leflore"
   ],
   "chem 5335": [
@@ -25318,10 +24734,10 @@ export const data_course_prof = {
     "li wang"
   ],
   "acct 5302": [
-    "sandra henderson",
+    "stephanie rasmussen",
     "nandu nagarajan",
     "li-chin ho",
-    "stephanie rasmussen"
+    "sandra henderson"
   ],
   "mana 5333": [
     "margaret mcfadyen"
@@ -25397,9 +24813,9 @@ export const data_course_prof = {
   ],
   "ce 1252": [
     "amit pokharel",
-    "sunakshi hada",
     "babak alizadeh",
     "mohd mezanur rahman",
+    "sunakshi hada",
     "kawalpreet kaur"
   ],
   "modl 4340": [
@@ -25449,9 +24865,9 @@ export const data_course_prof = {
     "david ewing"
   ],
   "engr 1251": [
+    "kendra wallis",
     "david ewing",
-    "ashley guy",
-    "kendra wallis"
+    "ashley guy"
   ],
   "socw 3319": [
     "donald schuman"
@@ -25491,23 +24907,23 @@ export const data_course_prof = {
     "jocelyn hansen"
   ],
   "univ-ed 1000": [
-    "peggy semingson",
-    "david sparks",
+    "carla amaro-jimenez",
     "joo hi lee",
     "daniel robinson",
-    "carla amaro-jimenez",
+    "david sparks",
+    "peggy semingson",
     "robin jocius"
   ],
   "kine 4647": [
     "joshua sedillo"
   ],
   "nurs 4431": [
-    "juanita nickols",
-    "jennifer roye"
+    "jennifer roye",
+    "juanita nickols"
   ],
   "educ 4331": [
-    "katherine hoover",
-    "karen allmond"
+    "karen allmond",
+    "katherine hoover"
   ],
   "phil 4380": [
     "kenneth williford"
@@ -25522,8 +24938,8 @@ export const data_course_prof = {
     "leah mccurdy"
   ],
   "educ 4333": [
-    "leeann burke",
-    "anthony zahn"
+    "anthony zahn",
+    "leeann burke"
   ],
   "crcj 3337": [
     "lewis wasserman"
@@ -25564,9 +24980,9 @@ export const data_course_prof = {
     "patricia newton"
   ],
   "ce 2312": [
-    "raad azzawi",
+    "george agoki",
     "seyed missagh shamshiri guilvayi",
-    "george agoki"
+    "raad azzawi"
   ],
   "ee 3310": [
     "ralph gibbs"
@@ -25587,8 +25003,8 @@ export const data_course_prof = {
     "ritu khanduri"
   ],
   "ee 3140": [
-    "zeynep celik",
     "robert magnusson",
+    "zeynep celik",
     "jonathan bredow",
     "ioannis schizas"
   ],
@@ -25608,8 +25024,8 @@ export const data_course_prof = {
     "veronica vaughan"
   ],
   "dnce 1142": [
-    "meredith knight treminio",
-    "whitney talbot"
+    "whitney talbot",
+    "meredith knight treminio"
   ],
   "dnce 4391": [
     "whitney talbot"
@@ -25696,8 +25112,8 @@ export const data_course_prof = {
     "kamisetty rao"
   ],
   "nursg 5312": [
-    "kathy goad",
-    "cynthia garrett"
+    "cynthia garrett",
+    "kathy goad"
   ],
   "chem 5361": [
     "kwangho nam"
@@ -25822,8 +25238,8 @@ export const data_course_prof = {
     "donna cleary"
   ],
   "anth 3390": [
-    "samantha cornelius",
-    "elizabeth nelson"
+    "elizabeth nelson",
+    "samantha cornelius"
   ],
   "musi 3392": [
     "elyse kahler"
@@ -25960,7 +25376,7 @@ export const data_course_prof = {
     "yujie chi"
   ],
   "emba 5299": [
-    "no instructor attached to section no instructor attached to section"
+    " "
   ],
   "pols 5327": [
     "bai linh hoang"

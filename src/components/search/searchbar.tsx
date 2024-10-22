@@ -2,7 +2,7 @@
 
 import React, { useCallback, useEffect, useState, useMemo } from "react";
 import Image from "next/image";
-import Link from "next/link";
+import { useRouter } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
@@ -26,11 +26,21 @@ import { usePlaceholderAnimation } from "@/hooks/usePlaceholderAnimation";
 
 // const CourseSearchCard = React.lazy(() => import('@/components/search/course-search-card'));
 
-export default function Searchbar(): JSX.Element {
+interface SearchbarProps {
+  productToggle?: boolean;
+  placeholder?: string;
+  popover?: boolean;
+  searchButton?: boolean;
+  defaultValue?: string;
+}
+
+
+export default function Searchbar({ productToggle = true, placeholder, popover = false, searchButton = true, defaultValue }: SearchbarProps): JSX.Element {
   const [selectedTab, setSelectedTab] = useState<string>("grades");
   const [isPopoverOpen, setIsPopoverOpen] = useState<boolean>(false);
   const [isHovered, setIsHovered] = useState<boolean>(false);
-  const [searchInput, setSearchInput] = useState<string>("");
+  const [isFocused, setIsFocused] = useState<boolean>(false);
+  const [searchInput, setSearchInput] = useState<string>(defaultValue || "");
   const [searchParams, setSearchParams] = useState<SearchParams>();
   const [searchResults, setSearchResults] = useState<SearchParams[]>([]);
   const [isLoading, setIsLoading] = useState<boolean>(true);
@@ -38,6 +48,7 @@ export default function Searchbar(): JSX.Element {
   const placeholderText = usePlaceholderAnimation();
   const { toast } = useToast();
   const uni = universityConfig();
+  const router = useRouter();
 
   const debouncedSetSearchInput = useMemo(
     () =>
@@ -60,7 +71,7 @@ export default function Searchbar(): JSX.Element {
       queryParams.append("instructor", searchParams.instructor);
     if (searchParams?.courseNumber)
       queryParams.append("courseNumber", searchParams.courseNumber);
-    if (searchParams?.sectionNumber)
+    if (searchParams?.sectionNumber && searchParams.sectionNumber !== "-1")
       queryParams.append("sectionNumber", searchParams.sectionNumber);
     if (searchParams?.gpa)
       queryParams.append("gpa", searchParams.gpa.toString());
@@ -89,6 +100,9 @@ export default function Searchbar(): JSX.Element {
           });
         })
         .finally(() => setIsLoading(false));
+    } else {
+      setIsLoading(false);
+      setIsInitialSearch(false);
     }
   }, [searchParams, isInitialSearch, toast]);
 
@@ -105,14 +119,14 @@ export default function Searchbar(): JSX.Element {
         subjectId: undefined,
         courseNumber: undefined,
         sectionNumber: undefined,
-        career: "ugrd",
+        career: undefined,
         sort: "year",
         direction: "desc",
         limit: 50,
         gpa: 0,
       };
 
-      const filledFields = new Set<keyof SearchParams>(["career"]);
+      const filledFields = new Set<keyof SearchParams>();
       const fullInputMatch = input.match(
         /([a-z]{2,4}[-]{0,1}[a-z]{0,2})([-\.\s]*\d{1,4})(?:[-\.\s]+([a-z]{1,2}\d{1,2}|\d{1,3})(?!\d))?/gi
       );
@@ -147,10 +161,18 @@ export default function Searchbar(): JSX.Element {
           if (courseNumber && !APIParams.year.includes(courseNumber)) {
             result.courseNumber = courseNumber;
             filledFields.add("courseNumber");
+            
+            // NOTE: Removed for now, as it increases avg request volume by over 33% as it redirects queries without this parameter to a page with the parameter
+            // if (parseInt(courseNumber) >= 5000) {
+            //   result.career = "grad";
+            // } else {
+            //   result.career = "ugrd";
+            // }
           }
           if (
             sectionNumber &&
-            APIParams.sectionNumber.includes(sectionNumber)
+            APIParams.sectionNumber.includes(sectionNumber) &&
+            sectionNumber !== "-1"
           ) {
             result.sectionNumber = sectionNumber;
             filledFields.add("sectionNumber");
@@ -173,6 +195,8 @@ export default function Searchbar(): JSX.Element {
           if (
             [
               "undergrad",
+              "ugrd",
+              "undergraduate",
               "ug",
               "bs",
               "ba",
@@ -193,7 +217,7 @@ export default function Searchbar(): JSX.Element {
               "bachelors",
             ].includes(lowerToken)
           ) {
-            // ugrd is already default :)
+            result.career = "ugrd";
           } else if (
             [
               "grad",
@@ -280,11 +304,27 @@ export default function Searchbar(): JSX.Element {
     setSearchParams(processSearchInput(searchInput));
   }, [searchInput, processSearchInput]);
 
+  const handleSubmit = () => {
+    if (searchResults.length > 0) {
+      const firstResult = searchResults[0];
+      const queryParams = new URLSearchParams();
+      for (const key in APIParams) {
+        if (key !== 'gpa' && firstResult[key as keyof typeof firstResult] && APIParams[key as keyof typeof APIParams]) {
+          queryParams.append(key, firstResult[key as keyof typeof firstResult].toString());
+        }
+      }
+      const url = `/grades?${queryParams.toString()}`;
+      router.push(url);
+    }
+  };
+
+  const showDropdown = popover ? isFocused && searchInput : !!searchInput;
+
   return (
     <div
       className={`w-full max-w-[40rem] flex flex-col justify-center items-center mt-16 md:mt-0 ${
-        isHovered || searchInput ? "shadow-lg" : ""
-      } transition-shadow duration-200 rounded-lg`}
+        isHovered || showDropdown ? "shadow-lg" : ""
+      } transition-shadow duration-200 rounded-lg relative`}
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
     >
@@ -298,7 +338,7 @@ export default function Searchbar(): JSX.Element {
       <Tabs
         defaultValue="grades"
         className={`w-full flex justify-center items-center gap-1.5 p-1.5 border rounded-lg bg-secondary ${
-          searchInput ? "rounded-b-none" : ""
+          showDropdown ? "rounded-b-none" : ""
         }`}
         onValueChange={(val) => setSelectedTab(val)}
       >
@@ -313,6 +353,7 @@ export default function Searchbar(): JSX.Element {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               transition={{ type: "spring", stiffness: 400, damping: 17 }}
+              className={`${productToggle ? "" : "hidden"}`}
             >
               <Button
                 variant="outline"
@@ -339,7 +380,7 @@ export default function Searchbar(): JSX.Element {
               <TabsList className="grid w-full grid-cols-2">
                 <TabsTrigger value="grades">Grades</TabsTrigger>
                 <TabsTrigger value="reviews" disabled>
-                  {/*!TODO: remove disabled when this product is shipped :) */}
+                  {/* !TODO: remove disabled when this product is shipped :) */}
                   Reviews
                   <Badge className="px-2 ml-2">WIP</Badge>
                 </TabsTrigger>
@@ -405,12 +446,15 @@ export default function Searchbar(): JSX.Element {
             placeholder={
               isInitialSearch && isLoading
                 ? "Loading Grades..."
-                : placeholderText
+                : placeholder ? placeholder : placeholderText
             }
-            className="rounded-r-none focus-visible:ring-transparent"
+            defaultValue={defaultValue}
+            className={`focus-visible:ring-transparent ${searchButton ? "rounded-r-none" : ""}`}
             onChange={(e) => {
               debouncedSetSearchInput(e.target.value);
             }}
+            onFocus={() => setIsFocused(true)}
+            onBlur={() => setIsFocused(false)}
             disabled={isInitialSearch && isLoading}
           />
           {/* TODO old code to auto highlight text as you type :D worked well, but was too laggy on weak devices. Might revisit later */}
@@ -471,8 +515,9 @@ export default function Searchbar(): JSX.Element {
           </div> */}
           <Button
             size="icon"
-            className="rounded-l-none border border-border border-l-0"
+            className={`rounded-l-none border border-border border-l-0 ${searchButton ? "" : "hidden"}`}
             disabled={isInitialSearch && isLoading}
+            onClick={handleSubmit}
           >
             <Search size={16} />
           </Button>
@@ -488,24 +533,31 @@ export default function Searchbar(): JSX.Element {
             placeholder="Search Reviews" //!TODO: animate dynamically (animate through different examples)
             className="rounded-r-none focus-visible:ring-transparent"
             onChange={(e) => debouncedSetSearchInput(e.target.value)}
+            onFocus={() => setIsFocused(true)}
+            onBlur={() => setIsFocused(false)}
             disabled={isInitialSearch && isLoading}
           />
           <Button
             size="icon"
             className="rounded-l-none border border-border border-l-0"
             disabled={isInitialSearch && isLoading}
+            onClick={handleSubmit}
           >
             <Search size={16} />
           </Button>
         </TabsContent>
       </Tabs>
-      {searchInput && (
+      {showDropdown && (
         <div
-          className={`w-full max-w-[40rem] bg-secondary gap-1.5 p-1.5 border rounded-lg flex justify-center items-stretch max-h-[60vh] md:max-h-96 h-full ${
-            searchInput ? "rounded-t-none border-t-0" : ""
+          className={`w-full max-w-[40rem] bg-secondary gap-1.5 p-1.5 border rounded-lg flex justify-center items-stretch max-h-[60vh] md:max-h-96 overflow-y-auto ${
+            showDropdown ? "rounded-t-none border-t-0" : ""
+          } ${
+            popover ? "absolute top-full left-0 z-50 shadow-lg" : ""
+          } ${
+            !popover ? "h-full" : ""
           }`}
         >
-          <div className="w-28 flex-shrink-0 bg-card rounded-md border flex flex-col justify-start items-center gap-1 p-1">
+          <div className="w-28 flex-shrink-0 bg-card rounded-md border flex flex-col justify-start items-center gap-1 p-2">
             <span className="text-xs leading-4">Search Filters</span>
             <Separator className="w-full" />
             {(searchParams?.semester || searchParams?.year) && (
@@ -569,7 +621,7 @@ export default function Searchbar(): JSX.Element {
               </div>
             )}
           </div>
-          <div className="flex-grow bg-card rounded-md border flex flex-col justify-start items-center gap-1 p-1 max-h-[60vh] md:max-h-96 overflow-y-auto">
+          <div className="flex-grow bg-card rounded-md border flex flex-col justify-start items-center gap-1 p-2 overflow-y-auto">
             {isInitialSearch && isLoading ? (
               <span className="text-xs text-muted-foreground h-24 flex justify-center items-center">
                 Performing initial search...

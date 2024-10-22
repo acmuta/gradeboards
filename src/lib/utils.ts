@@ -19,9 +19,21 @@ export function titlecase(str: string): string {
 }
 
 export function gpaToStars(gpa: number): number {
-  return Math.round((gpa - 2) * 4) / 2;
+  return Math.max(Math.round((gpa - 1.975) * 4) / 2, 0);
 }
 
 export function nameToInitials(name: string): string {
   return name.split(' ').map(n => n[0]).join('').slice(0, 2);
+}
+
+export function classSize(size: number): string {
+  if (size >= 200) return "XXXL";
+  if (size >= 150) return "XXL";
+  if (size >= 100) return "XL";
+  if (size >= 60) return "Large";
+  if (size >= 30) return "Medium";
+  if (size >= 20) return "Small";
+  if (size >= 10) return "XS";
+  if (size >= 5) return "XXS";
+  return "XXXS";
 }

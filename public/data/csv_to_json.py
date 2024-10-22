@@ -99,26 +99,28 @@ def csv_to_combined_json(directory):
             print("Warning: Course Career or Academic Career not found")
           
           try: 
-            row["instructor1"] = "".join(row.pop("Primary Instructor First Name") + " " + row.pop("Primary Instructor Last Name")).lower()
+            row["instructor"] = "".join(row.pop("Primary Instructor First Name") + " " + row.pop("Primary Instructor Last Name")).lower()
           except KeyError:
             print("Warning: Primary Instructor not found")
           
-          try:
-            instructors = row.pop("Non Primary Instructors").split(", ")
-            for i in range(1, 5):
-              if i <= len(instructors):
-                row[f"instructor{i+1}"] = instructors[i-1].lower()
-              else:
-                row[f"instructor{i+1}"] = ""
-          except KeyError:
-            print("Warning: Non Primary Instructor(s) not found")
+          row.pop("Non Primary Instructors")
+
+          # try:
+            # instructors = row.pop("Non Primary Instructors").split(", ")
+          #   for i in range(1, 5):
+          #     if i <= len(instructors):
+          #       row[f"instructor{i+1}"] = instructors[i-1].lower()
+          #     else:
+          #       row[f"instructor{i+1}"] = ""
+          # except KeyError:
+          #   print("Warning: Non Primary Instructor(s) not found")
             
-          for i in range(1, 5):
-            instructor_row = row[f"instructor{i}"].lower().strip()
-            if instructor_row == "" or instructor_row == " " or (instructor_row.count("no") and instructor_row.count("instructor")):
-              for j in range(i, 4):
-                row[f"instructor{j}"] = row[f"instructor{j+1}"].lower()
-              row[f"instructor{6-i}"] = ""
+          # for i in range(1, 5):
+          #   instructor_row = row[f"instructor{i}"].lower().strip()
+          #   if instructor_row == "" or instructor_row == " " or (instructor_row.count("no") and instructor_row.count("instructor")):
+          #     for j in range(i, 4):
+          #       row[f"instructor{j}"] = row[f"instructor{j+1}"].lower()
+          #     row[f"instructor{6-i}"] = ""
             
           try:
             row.pop("\ufeffAcademic Year")
@@ -185,12 +187,14 @@ def csv_to_combined_json(directory):
           course_key = f"{row['subjectId']} {row['courseNumber']}"
           if course_key not in course_prof_mapping:
             course_prof_mapping[course_key] = set()
-          course_prof_mapping[course_key].add(row["instructor1"])
+          course_prof_mapping[course_key].add(row["instructor"])
 
-          for i in range(1, 6):
-              instructor = row.get(f"instructor{i}", "").strip()
-              if instructor:
-                  unique_instructors.add(instructor)
+          # for i in range(1, 6):
+          #     instructor = row.get(f"instructor{i}", "").strip()
+          #     if instructor:
+          #         unique_instructors.add(instructor)
+          
+          unique_instructors.add(row["instructor"])
               
           combined_data.append(row)
 

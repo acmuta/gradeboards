@@ -30,7 +30,7 @@ export default function Navbar() {
           <div className="flex items-center">
             <div className="hidden md:flex flex-col items-end mr-3">
               <span className="text-sm font-medium text-foreground">
-                Ryan Lahlou
+                Your Name
               </span>
               <Badge variant="secondary" className="text-[0.6rem]">
                 Student
@@ -39,9 +39,9 @@ export default function Navbar() {
             <Avatar>
               <AvatarImage
                 src="/placeholder.svg?height=128&width=128"
-                alt="Ryan Lahlou"
+                alt="Your Name"
               />
-              <AvatarFallback>RL</AvatarFallback>
+              <AvatarFallback>YN</AvatarFallback>
             </Avatar>
           </div>
         </div>
